@@ -1,0 +1,1 @@
+var bn=(function(jsonp){ if (typeof bn==='function')bn(jsonp); return bn=jsonp })({"44ybard66vv44zksje25o7dz":["bnewbold.net","bryan newbold"]}) // 2023-10-21T13:11:32.477Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

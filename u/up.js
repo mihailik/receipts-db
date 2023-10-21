@@ -1,0 +1,1 @@
+var up=(function(jsonp){ if (typeof up==='function')up(jsonp); return up=jsonp })({"2rjdcvh2znplhwwoijelhxxs":["updatecharts.com.br","UpdateCharts"]}) // 2023-10-21T13:15:51.103Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

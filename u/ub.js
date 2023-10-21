@@ -1,0 +1,1 @@
+var ub=(function(jsonp){ if (typeof ub==='function')ub(jsonp); return ub=jsonp })({"lmftezsq52hi53taz762s7pc":["ubanis.com","ubanis"]}) // 2023-10-21T13:15:51.105Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -1,0 +1,1 @@
+var kr=(function(jsonp){ if (typeof kr==='function')kr(jsonp); return kr=jsonp })({"utatnkj6hgya7xeom2j57m43":["krishna","Krishna "]}) // 2023-10-21T13:12:58.059Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

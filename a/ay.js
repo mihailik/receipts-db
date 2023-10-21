@@ -1,0 +1,1 @@
+var ay=(function(jsonp){ if (typeof ay==='function')ay(jsonp); return ay=jsonp })({"mozixxrfb2anajfxo7c2u6se":["aytunc","Aytunç YILDIZLI"]}) // 2023-10-21T13:11:32.491Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

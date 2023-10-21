@@ -1,0 +1,1 @@
+var mf=(function(jsonp){ if (typeof mf==='function')mf(jsonp); return mf=jsonp })({"aiy5iqm4mq6mb7lhjq7iiumo":["mfoster.io","Mark Foster"]}) // 2023-10-21T13:12:58.055Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

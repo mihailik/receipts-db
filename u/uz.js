@@ -1,0 +1,23 @@
+var uz=(function(jsonp){ if (typeof uz==='function')uz(jsonp); return uz=jsonp })({
+"2ddijfz6txy4qa4hmxx4g4co":["uzkost","ÚZKOST"],
+"4pb2ptkwx3ebiwrxbo64w6ud":["uzzu.co","uzzu"],
+"5bh5sxb36wa64lpshswptw6s":["uzuramame","うずらまめ"],
+"66uat5pymuxd77dz3ccquiua":["uzunihsanefendi","Uzun İhsan Efendi"],
+"6rft3hj73pbgbzfy4o2xxbve":["uzzy","Uzzy"],
+"6vmnipel325rprqksvsmijtk":["uzumkizi","Ebru"],
+"7wfplwuksbvpjcumq3um5tyq":["uzisuzuki","S. Suzuki"],
+"bkzovqfuww4advbqbktovp7w":["uzuhemayuri","うずへまゆり🇯🇵"],
+"dpr7azp246h3nw2qf4uzudnv":["uzumij","うずみ"],
+"hmk6useg2fdaqaydqeo3psap":["uzumakikwk","natinha 💫"],
+"iurngq3n2gxgs2eiewcmszni":["uzponz","💥🍳"],
+"mcn6upb2peamivxe6zibfmpl":["uzasjemojafurka","Uzasjemojafurka"],
+"nnqojmvklnll7ytqglmpekfi":["uzumakisya","うずまき舎"],
+"nqfq2jjecvxwjmf345xdtvyw":["uziking","UZIKING"],
+"nsnwmkdnoxtk2qdtt3yvj6n6":"uz1kiss",
+"o4724bbolssv2xoptw57ztht":["uzumaki","lua"],
+"tt5msbziq7isodsr3r3hatk4":["uzulla","uzulla"],
+"wkqfpeug2aznhtg5ofvioz4w":["uzralf","N/A"],
+"xutqr764pplqzkl2ebowwmeh":"uzworm",
+"ycfxurwcbnlqlzy4d2bdvpl5":["uzmab","DesiLady"],
+"ydhpdqzmhzsye4fooypf2gib":["uzamakij","UzamakiJ"]
+}) // 2023-10-21T12:20:07.945Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

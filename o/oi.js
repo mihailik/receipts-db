@@ -1,0 +1,1 @@
+var oi=(function(jsonp){ if (typeof oi==='function')oi(jsonp); return oi=jsonp })({"vndnrhelwmbi3akmertsnmt4":["oitsotis","Otis Skipper"]}) // 2023-10-21T13:11:32.477Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -1,0 +1,22 @@
+var yr=(function(jsonp){ if (typeof yr==='function')yr(jsonp); return yr=jsonp })({
+"4mh4n3obsndyxngupxwtcohv":["yrougy","Yves Rougy"],
+"7on2ed7wkagd6mrmsjhh4po3":["yrfinepetingduck","DumbLittleHazel🍼"],
+"ai6amxzu6gldmsuasky6nyqa":"yrgoldteeth",
+"aq4f4q6x7hmcn6oiu3wspw43":["yrfatfriend","Aubrey Gordon (she/her)"],
+"cmsm33h2eboyt3lba3ntckjf":["yrwyddfarecords","Yr Wyddfa Records "],
+"dei7f7zh74xr3hoghei6ke3d":["yrpalchris","chris"],
+"hob45fe4u7uhgkgw6fspccax":["yroi3","よろいさん"],
+"i6lfh3uuwwqpquknurjqermj":["yrorp","yrorp"],
+"j7g33odogmvfupwniypn374v":["yrlee83.nightsky.social","이위너"],
+"l6vutn664piqaj4ctlu7l2p2":"yrabril",
+"mrzqtbraqj2syg26d4udgwmp":["yriys","ирій"],
+"qvzjjj6n2us4acikqipuyhao":["yrdess","холоднозубка"],
+"vbsy5v2tgwpqhsjvd3jnsku5":["yrouttasight","Yr Friend Camille"],
+"vpmbak6rtbysgm5gomdcrdod":["yrcnr","Colin"],
+"vwdphlz6en4u5nx4wifsfqpa":["yrpretendfriend","Jules "],
+"wbsrumaonfm7phi574lfpq2z":"yrafs",
+"wmqiy22u5ov74tekdzojhgt3":"yrfrenbren",
+"wqow324c64ooldystdy43v6z":["yrreug.ch","☼Yrreug☼ 🇨🇭🐕"],
+"wtqwemcv5fjxwzdr32tk7mf2":["yrieithydd","Dr Ieithydd (Carys)"],
+"yh4r7kbivd434rbxz66fqxxh":"yrauntielola"
+}) // 2023-10-21T12:20:08.042Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

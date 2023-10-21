@@ -1,0 +1,1 @@
+var by=(function(jsonp){ if (typeof by==='function')by(jsonp); return by=jsonp })({"y3pyiphaf5isxmhbcddchd2u":["bydealeo","Andréa Leonardo "]}) // 2023-10-21T13:15:51.104Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

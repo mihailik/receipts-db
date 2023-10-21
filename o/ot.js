@@ -1,0 +1,1 @@
+var ot=(function(jsonp){ if (typeof ot==='function')ot(jsonp); return ot=jsonp })({"gp4lkbp3e3zgq5hdndkleblv":"otaviouga","3x2yyg4s6c6n26caev222yv3":["ota","S. Ota"]}) // 2023-10-21T13:15:51.107Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

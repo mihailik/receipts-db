@@ -1,0 +1,1 @@
+var ws=(function(jsonp){ if (typeof ws==='function')ws(jsonp); return ws=jsonp })({"tuwnagz3shdsuqbf3uk4oyal":["wsellers","William Sellers"],"uruz7ktmr4ljejxhkaezhrag":["wsig.me","Will Sigmon"]}) // 2023-10-21T13:15:51.107Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

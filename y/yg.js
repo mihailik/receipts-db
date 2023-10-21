@@ -1,0 +1,23 @@
+var yg=(function(jsonp){ if (typeof yg==='function')yg(jsonp); return yg=jsonp })({
+"2k3ljgpaehyq6wjnf2ffraoz":["ygtksp","White Dove"],
+"2tyrczclr4l3oparpyok2tz2":["yggdrasilsys","Yggdrasil"],
+"46kwaxg7h2sxhe53nb45o7op":"ygrenzinger",
+"5d6ry55oc6eosvqqciuehlzi":["ygolfetti","jovem da shopee"],
+"6l2wnq35zv5uxnlcmr7tmgyr":["ygor","Ygor"],
+"7p7h5ecwelyk5a4yxwu4g7tn":"ygx",
+"a2vw7ib6lwejqau57i2pgwfy":["ygguklab","Ca ⚥"],
+"apywj5bj4igsfkztu7wxbfmo":["ygawa","おがわ 4.9-RELEASE"],
+"gdqekeem2wbh224y4rsquhaj":"ygritte",
+"k5adu6oxltezbnijx5lgbcnz":["ygokmne","ゆげお"],
+"mkkvzj3q3pegqam2n7yuxbwy":["ygrene","Ygrene"],
+"muv3f6tmlvtyx2hd2dpdejwo":["yggdreigontcg","Atrocity "],
+"ncgdqd5yes4oo6btot7gzcgc":["ygt","Yiğit Doğan"],
+"ne32ydzjcuop5tt6h4nelbtq":["ygorganization.com","Dan"],
+"pchfsmhog3pzi56zd6cw7kux":"ygorof",
+"ph4gsnpqa7dm34aiwmdfco3o":["yglena","레나"],
+"tn57lddl4v2zqpi5yaasby4a":["ygoti","Ygoti"],
+"x4s2kugmosjttvwlwfmhszme":["ygrn","sigma female"],
+"x7yr4p23wpk6gjxo5yxijc6f":["ygmin","Y_Min "],
+"xibka76nohifsmbqnefshvet":["yggdrassal","Yggdrassal (Commissions Open)"],
+"xtxtpeicxyntt5xejxsa2qn4":"yggm"
+}) // 2023-10-21T12:20:07.977Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

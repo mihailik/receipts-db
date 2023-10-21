@@ -1,0 +1,21 @@
+var fj=(function(jsonp){ if (typeof fj==='function')fj(jsonp); return fj=jsonp })({
+"4ve4ucelzcmevumfynab7ak7":["fjordinorge","Fjordi"],
+"6m7eocdol4biletak6e76wlq":"fjmt",
+"7dlvql3zfvzddsba7d5o4bv3":["fjellet","IngerMarieShe"],
+"ab67cycpqar4ndhfy555ysa4":["fjfrancoelec","FJ Franco"],
+"anrab4irpu6pasbwbbzvo7wp":"fjunior",
+"bcpsliokhqncockvarphyfyc":["fjarnskaggl","fjarnskaggl 🔞"],
+"eua2eg23sexglhsx4a3nzks2":"fjaite",
+"eumi2yfp3q2cqga4kjg5eqea":["fj1","FJ!!"],
+"fz4o2znexkzlkwxmnkvjrcaw":"fjhaddley",
+"idc7yvmaxjjhkibyxcz6esyp":"fjaskgf",
+"lvglyu7zbigx3xoovg65qrad":["fjerome","Jerome"],
+"n46uxuqyosk6frda24dzyans":["fjiro","次郎さん"],
+"oqsq3dedxajwouripkvombbr":["fjyetto","FJYETTO"],
+"rudr6xfibirvxn4bwjo3ymgn":["fjbiondi","Fabrizio Biondi"],
+"s7dk6apx3ywblzhlqcf3vrca":["fjmurau","Nils Markwardt"],
+"waswmzwoz5fzswf7kqsjawiv":["fjeld","Axel Fjeld "],
+"yown5vfwbcivjuez4ipuqant":["fjmag1979","Felix ㋐guirre él/he/him/his"],
+"z5sov6c6jgkhliiy2evrmwcb":["fjtn","藤谷千明"],
+"zq5ehtggo3iigbyeraavi3di":["fjalalvand","Farshid Jalalvand"]
+}) // 2023-10-21T12:20:08.045Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

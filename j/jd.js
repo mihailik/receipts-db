@@ -1,0 +1,1 @@
+var jd=(function(jsonp){ if (typeof jd==='function')jd(jsonp); return jd=jsonp })({"vitaziuii22tzu6hpdic3tsn":["jdizzle","Jordan Gzz"],"ea3hoazblbbaxawlysgyordo":["jdv","JD"],"e2rum45fcflgymn5faa2qyjs":"jdt"}) // 2023-10-21T13:15:51.099Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

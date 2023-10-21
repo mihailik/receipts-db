@@ -1,0 +1,1 @@
+var j0=(function(jsonp){ if (typeof j0==='function')j0(jsonp); return j0=jsonp })({"q3jw5ut4ytwtrfvkn7n6mlqd":["j0.hn","John Fawcett (♾️ wpm)"]}) // 2023-10-21T13:11:32.473Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -1,0 +1,21 @@
+var oj=(function(jsonp){ if (typeof oj==='function')oj(jsonp); return oj=jsonp })({
+"5bmchxxmqlgnfy44cohog6lo":"ojpoint",
+"6ofd6i4z6jsu4rsg2q52cfds":["ojk","O J K"],
+"6wge4j42hwo2eciqxtcjqnf2":"ojiilemon",
+"76gwudwysyr67k6glkiap353":["ojessen","Owe Jessen"],
+"bkqqq3hyyeb57ov5q6zjd7ik":["ojoei","joey"],
+"jfv3j2y25xqou4vembrqry6j":["ojo82","Catboard"],
+"k6orr4b6dpl5aa2w2kj7hm7q":["ojoseros","Eyebags"],
+"kmcolpob3qrlkejtqa4bipm4":["ojmason","Oliver Mason"],
+"kzqugcpnghmni5qw72vpuovy":"ojaimayor",
+"l6b34cpag3g2w4pewbype3dg":["ojouchan","タヤ≡せら"],
+"lagstf7d2efv7t54sqyzv7jh":["ojaly","ojaly"],
+"nkqzmnlkvw2ujazl7pp2y6co":["ojvso","ой всьо"],
+"py5y7g4cldcigr42o3d5y4tn":["ojutel","Olivier Jutel"],
+"rat7v6qw4crfwgvpj2d3jyt5":["ojipi","おぢぴっぴ💗１０億円💗"],
+"ruyz4pekfsfmgqgmb6cvujjd":["ojs","Omar Jabary Salamanca "],
+"xn6d6vh6laiebbbxn3tnmayn":"ojnilsen",
+"zm3iow2r6enrllyf3sstuwqp":["ojii.jp","ほし"],
+"zvsl2racazf7ylpualll5axv":"ojiry",
+"zzxwledpqf7ob7svaf675k4c":["ojanio","Janio"]
+}) // 2023-10-21T12:20:08.048Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -1,0 +1,1 @@
+var du=(function(jsonp){ if (typeof du==='function')du(jsonp); return du=jsonp })({"6nwn2kvqwfdbx64kl2benuv2":["durumcrustulum.com","Deirdre Connolly¹ ²"],"uyvscsdd2lixvqiqaitfd6xk":["dudu","Dudu"],"w7co3acvrubukskiy24cej2h":["dualipa","Dua Lipa"],"uh54pz3fk7dn775rnj7w2f7n":["dunxen.dev","dunxen"]}) // 2023-10-21T13:15:51.102Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

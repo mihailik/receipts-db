@@ -1,0 +1,1 @@
+var ru=(function(jsonp){ if (typeof ru==='function')ru(jsonp); return ru=jsonp })({"6elo4l4ipxwd2p4sq5cug666":"rushkoff","qyiobqlucjxrmppx6lkjt25u":["ruqus","The RuQus"]}) // 2023-10-21T13:15:51.106Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

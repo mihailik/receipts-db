@@ -1,0 +1,1 @@
+var ap=(function(jsonp){ if (typeof ap==='function')ap(jsonp); return ap=jsonp })({"owiphndnt3l3scfqbgantkgo":"apple","fhohgeduothw3odxkdvxsuov":["apfeitosa","Ana Paula "],"jnrru56cctwifg3rm7qaoxzl":["appo","Appoline Reisacher 🇫🇷"]}) // 2023-10-21T13:12:58.058Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

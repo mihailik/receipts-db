@@ -1,0 +1,1 @@
+var qu=(function(jsonp){ if (typeof qu==='function')qu(jsonp); return qu=jsonp })({"qjrzbqfq2vtc2szrtxahwvdh":["queen","Queen"],"gbejquywu3jcqlb2we2ecdas":["quasedoida","dayana"]}) // 2023-10-21T13:15:51.105Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

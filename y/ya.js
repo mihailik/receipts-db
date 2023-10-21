@@ -1,0 +1,1 @@
+var ya=(function(jsonp){ if (typeof ya==='function')ya(jsonp); return ya=jsonp })({"a5kcc5anlpfvi7xgoqridt6x":["yash","yash"],"dcuahwead5vhlqum6k3zlbrw":["yasmin","yasmin"],"maiy3f7jln7xqx67venpiwmi":["yagobrandao","Yaya"],"meibo7oplm62h5pbwyoopocp":["yagiz","Yağız"]}) // 2023-10-21T13:15:51.108Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

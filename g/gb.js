@@ -1,0 +1,1 @@
+var gb=(function(jsonp){ if (typeof gb==='function')gb(jsonp); return gb=jsonp })({"ubtctlxkztbzkhvhzhjuvwg5":["gbengasesan","‘Gbenga Sesan"],"5qcburx7xf6ahs32hfome5og":["gbraga","Guizinho from the sky"]}) // 2023-10-21T13:12:58.059Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

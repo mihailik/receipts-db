@@ -1,0 +1,1 @@
+var og=(function(jsonp){ if (typeof og==='function')og(jsonp); return og=jsonp })({"uhnbfpprh5fw4b7bqbfvprqd":["ogaworld","OGAWORLD/オガワールド"]}) // 2023-10-21T13:15:51.102Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

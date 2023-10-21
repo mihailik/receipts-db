@@ -1,0 +1,1 @@
+var pd=(function(jsonp){ if (typeof pd==='function')pd(jsonp); return pd=jsonp })({"rma2uls4gt3fr5b63spyu5zh":["pdr.io","pdr"],"no3rh6duwluaoq4jhc524dzm":["pdekatris","Pavlos Dekatris"]}) // 2023-10-21T13:15:51.100Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
