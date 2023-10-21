@@ -79,5 +79,16 @@ var jk=(function(jsonp){ if (typeof jk==='function')jk(jsonp); return jk=jsonp }
 "e3yuwgm2yn7q3iwmr3tvexpm":"jka",
 "23632lwgax5vosp55j6y7wnw":["jkrs0503","Jkrs"],
 "anckk6msc45vqtlsljo3kfta":["jke","Jake"],
-"3ii33xdxaadh7nlc6v7hyycw":"jkim"
-}) // 2023-10-21T15:11:46.652Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3ii33xdxaadh7nlc6v7hyycw":"jkim",
+"ptudulzndu4vy3p2ybywspt5":["jktlm","JKTLM"],
+"jhpwvgfgi3bdxza26gjwm5wr":["jkh","JJ"],
+"6tkfwlcx6teackij4nexc4d6":["jknlsn","Jake Nelson"],
+"2zik7h6aorq5anq7teqt6hfr":["jk68","Jim"],
+"hthpish5aaxbm5wbvsckqcfu":["jkcso","Joseph Katsioloudes"],
+"rvoswqaiqqngjjlxp7mddk37":["jkkm","jkkm "],
+"pap6dpyx4ektmafyhkfdegvt":["jkriggins","Jennifer Riggins"],
+"mrdvkphbh46gscbukjfg3fc5":["jkakar","Jamu Kakar"],
+"trkxxsgfny5qqkpdurkhfoeg":["jku","jay"],
+"6tzcyiscj3olmqnn4ihbwyd6":["jkrsp","Julian Krispel (Text editing consultant)"],
+"mjoj5hqty3icx4go37suxesp":"jkru"
+}) // 2023-10-21T16:11:39.433Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -129,5 +129,12 @@ var jd=(function(jsonp){ if (typeof jd==='function')jd(jsonp); return jd=jsonp }
 "j456v3qautc2nrnboyrtl3lg":["jdahl","jackson dahl"],
 "piuyasu3q2ypo73hsyloxdsa":["jdoss","Joe Doss"],
 "m5r62txx6d6zt4bxwlosgvca":["jdc","Jacob D. Castro"],
-"ngjzckrjc66misxpbtxugjou":["jdpierce","J D Pierce"]
-}) // 2023-10-21T15:11:46.734Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ngjzckrjc66misxpbtxugjou":["jdpierce","J D Pierce"],
+"myicvjz6deto67p4zlzokepc":["jdsimcoe","Jonathan Simcoe"],
+"bbtzync7g7novuvr6zenhdj2":["jdx","Jake DX"],
+"4ropqsrfroukckvkakshhyk3":["jduncan","Jamie Duncan"],
+"m5g6e56q3wyylm4vl2y65p4o":["jdgamble555","Jonathan Gamble"],
+"dynn7pfmxs5v7qfr5spnvsok":["jdkanani","Jaynti Kanani (JD)"],
+"6ou62jp64r5prlmxi66rurop":["jdr","Joshua Roth"],
+"ej5uesky6ylvn6lyb6lhxtvz":["jdiii","JDIII"]
+}) // 2023-10-21T16:13:06.178Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

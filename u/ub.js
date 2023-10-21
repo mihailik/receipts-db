@@ -38,5 +38,7 @@ var ub=(function(jsonp){ if (typeof ub==='function')ub(jsonp); return ub=jsonp }
 "y26joa5t5sjdpu2256l5px7k":["ubewoof","✾ Ube Woofers ✾ 🔜 Denfur"],
 "7bhuqmwnrdd3xtbrvgz6okly":["uber","Chris"],
 "cshf2upwpkbo7xdrfyms27j4":"ubemochi",
-"nwtez322ddfynrc5y6hqyjws":"ubisoft"
-}) // 2023-10-21T14:44:24.872Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nwtez322ddfynrc5y6hqyjws":"ubisoft",
+"ku5qjq4hbsveindquoyr4z7y":"ubanis",
+"7wvrnn6u6asc6h6x7cn5dqrl":["ubahright","Ubah"]
+}) // 2023-10-21T16:03:19.730Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

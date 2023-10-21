@@ -71,5 +71,6 @@ var jf=(function(jsonp){ if (typeof jf==='function')jf(jsonp); return jf=jsonp }
 "zt75zgidf47upr3lltf7fybm":["jfbastien.com","JF Bastien"],
 "wbqpvgo32v3g7agr3wykeb3v":["jf","JF"],
 "egw3oz6hctior72xb6xfrkfs":["jfiadeiro","Joao Fiadeiro"],
-"hlwfhfa4rtiyisld7tcjx7ck":["jfslicer","James Fields"]
-}) // 2023-10-21T15:20:31.469Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hlwfhfa4rtiyisld7tcjx7ck":["jfslicer","James Fields"],
+"yrkucmqujfrynzaig7dunnv6":"jfblucas"
+}) // 2023-10-21T16:09:33.374Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

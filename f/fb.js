@@ -18,5 +18,6 @@ var fb=(function(jsonp){ if (typeof fb==='function')fb(jsonp); return fb=jsonp }
 "z24mxaouywcx2cx7nxddjzq2":["fbuddiespodcast","F*ck Buddies Podcast"],
 "dhnrdqic5hdqrd6uhh6orzkk":["fba","Berkay Akalin"],
 "hg7p3ryhlji7zaxhcnu74vc3":["fbi","non finance dude"],
-"rnclzaroiczmtkz7d2hl7rfc":["fbs","fbs"]
-}) // 2023-10-21T15:22:01.919Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rnclzaroiczmtkz7d2hl7rfc":["fbs","fbs"],
+"t6zmzkei75vtcz2qt5nbvhqd":"fbegyn"
+}) // 2023-10-21T15:59:37.562Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

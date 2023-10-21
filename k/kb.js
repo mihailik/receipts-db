@@ -49,5 +49,7 @@ var kb=(function(jsonp){ if (typeof kb==='function')kb(jsonp); return kb=jsonp }
 "oxlmyp3bfklwrsye3v3c4azf":["kbw","Kyle | kbw.eth | Gitcoin"],
 "lnshtxmvrvjgo5oxkk6aj7vg":["kbity","Maple"],
 "lmrbo56gwfw5mvfs6wvjvn5o":["kbtombul","Brian Tombul"],
-"jvntuu7de3g3uv4f3gku47as":"kbaudour"
-}) // 2023-10-21T15:15:37.274Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jvntuu7de3g3uv4f3gku47as":"kbaudour",
+"ghkpbvxlbvh5xzfbajsvy2kl":["kblick","Kathy"],
+"7rvpvnhf776ueddpn7rbwqyp":["kbsingh","Karanbir Singh"]
+}) // 2023-10-21T15:47:53.501Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

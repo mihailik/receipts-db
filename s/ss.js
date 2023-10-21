@@ -105,5 +105,12 @@ var ss=(function(jsonp){ if (typeof ss==='function')ss(jsonp); return ss=jsonp }
 "kqzjfuk3gl3t2tghtvfhtt2u":["ssolarsystem","쏠라시스템"],
 "crzulkvszlttqrem5c6lia2o":["ssnowwi","Snow W."],
 "zsfra3xwms24m47vobtjtwqd":["sserdaro","Serdar"],
-"77h6kbabxpynxiera27f3cf7":["ssenta","쎈타 | SSENTA"]
-}) // 2023-10-21T15:23:33.039Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"77h6kbabxpynxiera27f3cf7":["ssenta","쎈타 | SSENTA"],
+"bjw2cclranxvqv4psmhxk3qj":["ssaba","Sab"],
+"ltwbh56pyk6ebbhbtacp7h7o":["ssssssscoc","なによ"],
+"vtt4ql5c74fginbhufa7xedr":["ssellers","Siobhan Sellers"],
+"ytvdliev3uhpbt4ruiqbg77h":["ssd","Shunya Shishido"],
+"pl3okvototpbt6dv5qebxjvi":["ssouten","S.Souten[jpn]"],
+"eixdvxmv5wl7dzzaozely7jk":["sssinsi","sssinsi"],
+"rlwpstmypgwzaev566g7ankn":["ssssaammii","ささみ(手羽先)"]
+}) // 2023-10-21T16:08:06.395Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -56,5 +56,7 @@ var up=(function(jsonp){ if (typeof up==='function')up(jsonp); return up=jsonp }
 "7ikeaiexpsu65n4llrshyv5z":["updog","Not much, how about you? 🏴🌹"],
 "xwpb3eyix4gsb2pp6q3gji5d":["uprice","Price"],
 "e7sk6v2sdxlhgpdpkkptupth":["uponly","Jerb"],
-"fqln5rbmxcamxh7gk5ij3ylt":"uplayr"
-}) // 2023-10-21T14:59:54.157Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fqln5rbmxcamxh7gk5ij3ylt":"uplayr",
+"aasvekdls4bdl7g6yrw74fjh":["updateswiftbr","Update Swift Brasil"],
+"46u4kosu33xvxbu67t5tgjcp":"ups"
+}) // 2023-10-21T15:46:14.832Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

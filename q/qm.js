@@ -5,5 +5,6 @@ var qm=(function(jsonp){ if (typeof qm==='function')qm(jsonp); return qm=jsonp }
 "hdjva3vyswvixdnm7uhgeuvi":["qmph-es","¿Qué mal puede hacer?"],
 "knp7blzotm2dbpumxgetiwy3":"qmp",
 "pojazqvmlkhlq74lcpwedovj":["qman","Quinn "],
-"x2pwr2wd3ogkjdavmmulqiaw":["qmickhusky","Qmickhusky "]
-}) // 2023-10-21T13:39:05.138Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"x2pwr2wd3ogkjdavmmulqiaw":["qmickhusky","Qmickhusky "],
+"tclit3ftgcpgjq44gua4ojx6":["qmuntal","Quim Muntal"]
+}) // 2023-10-21T16:11:39.328Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

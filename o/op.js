@@ -169,5 +169,11 @@ var op=(function(jsonp){ if (typeof op==='function')op(jsonp); return op=jsonp }
 "lilcllzkmhp6yydgzemnufcy":["opal","董小姐姐"],
 "qx55yhe247ya5rt5bvmarsdz":["opi","Opi"],
 "qqnbxsv6mkdopnzlp3mhu7xg":["opalina","łıηα?!.★"],
-"2mgdnw5owad2rttnrritldom":["opertura.org","Opertura"]
-}) // 2023-10-21T15:15:37.269Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2mgdnw5owad2rttnrritldom":["opertura.org","Opertura"],
+"4uvehhipn4r2zuozvwqnhqhm":["optimism","smartcontracts.eth (✨🔴_🔴✨)"],
+"oj545qhkmbtsffn4xdoljoej":["opensourcestories.org","Open Source Stories"],
+"7dgshqdwlgqtk6akq4647ize":["opex","OPEX"],
+"5i6zw7xfgulymd4t5djacxs7":["opensauced.pizza","OpenSauced"],
+"4biw5fk57jemuocvxomb74if":"opensourcedefense",
+"5rhied4xhss6dvluxtdjtxud":["opiniannated","Ania"]
+}) // 2023-10-21T16:08:06.370Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

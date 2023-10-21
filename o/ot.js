@@ -34,7 +34,7 @@ var ot=(function(jsonp){ if (typeof ot==='function')ot(jsonp); return ot=jsonp }
 "6yibmlmakrozye76pp2a5fsz":["otter-space.com","Redclaw"],
 "72zqvzhogx5matws45nyjrso":"otterbrownie",
 "75dk23lnfpw2n7h6iaghj6ns":"otolizzy",
-"76sbjaq3sfqnmmzutqcsbwho":["otter.computer","Tomi 🦦 @ EF"],
+"76sbjaq3sfqnmmzutqcsbwho":["otter.computer","Tomi 🦦"],
 "77pehbxsvlmfo44ezgwnhiku":["otherstuff","Stuff"],
 "7bpgqnthlzwmbedplmwkhddr":"ottomkx",
 "7jop2tisvgze56iutbd3laka":["otherside","terlik"],
@@ -218,5 +218,15 @@ var ot=(function(jsonp){ if (typeof ot==='function')ot(jsonp); return ot=jsonp }
 "2bzv7vcxwqrbftubi4b7s35z":["oto","oto (Clone)"],
 "zk6egk27etl3cntgqbu2qt5g":["ottis","Ottis"],
 "gyra65lh36vmu5leuyvbxhok":["otani.dev","Shohei 👋🏻"],
-"yq4cxl5427velzxslmobjjij":["otheogdai","Otheogdai "]
-}) // 2023-10-21T15:23:32.956Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yq4cxl5427velzxslmobjjij":["otheogdai","Otheogdai "],
+"ypieqy6vjoquya745kxn4tyx":["otherlife","Otherlife"],
+"3bo4uihfgh3aodidc53csq3r":["otariano","Burgues"],
+"ipng5j6zn6mlnqcmyhwov62f":"otn",
+"ydepgn3vpwofmhjrfxlrg74h":["otostopcu.art","Berk"],
+"zjgka2mxwsmgmpgajb7xqulr":"otf",
+"l2rouoxoijicekb7oerxzhzr":["otavioalse","Otavio Alse"],
+"g6vitvvh3yt2p3c2k6tvhgnp":["otaldebochado","Luciano Carvalho"],
+"5elxk66e3pay5as2akazftih":["otaviofff","Otavio Ferreira "],
+"rzzspxevnpyx4eh2tyzhzxfn":["otaviocouto","Otavio Couto"],
+"desnac3tc4ukt7b6za2vvcfz":["otakuma.net","おたくま経済新聞"]
+}) // 2023-10-21T16:13:06.163Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

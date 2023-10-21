@@ -9,5 +9,7 @@ var wg=(function(jsonp){ if (typeof wg==='function')wg(jsonp); return wg=jsonp }
 "xsvfhbvi6jsvcdfztqptt7kg":["wgervais","Will Gervais"],
 "zpbwkt3d7i27sotveb4gxzmr":["wgh6902","Oskar"],
 "uo7urx5ahyo54hkjmwedopmc":["wgmi","Crypto Moondaddy"],
-"prflqj5flpilbdclvd3uzgdp":"wgrootonk"
-}) // 2023-10-21T15:23:33.099Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"prflqj5flpilbdclvd3uzgdp":"wgrootonk",
+"a3ejo5f3ei4y7aftcruhf5bn":["wgmeets","WG"],
+"fgn4fiqtpbr2wkmutrnr43s3":["wgcastro","Waltinho"]
+}) // 2023-10-21T15:42:38.327Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -85,7 +85,7 @@ var ig=(function(jsonp){ if (typeof ig==='function')ig(jsonp); return ig=jsonp }
 "qxkt2drh5higsxyz3kcpdh36":"igno7o",
 "qyywojjm6khl5sqhpk5rgt5h":["ignaura","Ig Tejeda"],
 "rei65soqryyn5xrr3g5tszyk":["igwyn","Gwyn"],
-"rkfzsg4iwy3374dyk3huojyp":["iggdawg","Ian Bowers"],
+"rkfzsg4iwy3374dyk3huojyp":["iggdawg","Ian BOOwers 👻"],
 "rma54eomzlyb6snyabwmqnvo":["igorduarte","Igor Duarte "],
 "rxujl62a73b6frbo3qc5kt5z":["igglvsk","Igor"],
 "sadpc4jhtapac6ca6quy2xvs":"igorgrouper",
@@ -143,5 +143,15 @@ var ig=(function(jsonp){ if (typeof ig==='function')ig(jsonp); return ig=jsonp }
 "gyfrwstvl4paxqtfwjfvb5wy":["igordeoliveira","Igor "],
 "tcoo6rsijhn7aohk7fzx4kmc":["igo-eozzeozogo","ᴀɪɢᴏ @igo_eozzeozago"],
 "7zuhnezua3kv7ku6ewg5h2mx":["iguinea","Iñaki Guinea"],
-"sehuxbfvrtn7kshmq7ixbeax":["igordisco","Igor Fediczko"]
-}) // 2023-10-21T15:23:33.111Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"sehuxbfvrtn7kshmq7ixbeax":["igordisco","Igor Fediczko"],
+"ojlwoq6ijynpvydfr6ttxe44":["igorm","Igor"],
+"dogxo5cppvfoc7wixv5uy7bj":["igustavo","gu 🫧"],
+"uaj4wjhrqizfuzofqg6cpcqz":["igorg","Ig"],
+"irjogq26upn3fea7v6xixc6i":["igobycamille","Camille "],
+"ccikl4jnjjzzap7ifyvce7d7":["igreque.info","YAMAMOTO Yuji （HN: すがすがC言語）"],
+"xj7fxt3zsblemqgralirfx4b":["igumaia","Igu Maia"],
+"d4szx3muzsyfrzhigjooijum":["ighor","ighu"],
+"ufelwhqqfmd72l4dtvrmuu6s":["igormoso","Igor"],
+"7fijtbhlxnuiyo7kkzd7fmvx":["igormartins","Igor 💚🧬🌿"],
+"4shrpqkngehph5kymoujrdxk":["igormaia","Igor Maia™️"]
+}) // 2023-10-21T16:11:39.308Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

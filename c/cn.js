@@ -33,5 +33,8 @@ var cn=(function(jsonp){ if (typeof cn==='function')cn(jsonp); return cn=jsonp }
 "tg5eurplnhgliwy7j6sjvkrp":["cntero","CEO of Memes 🕴🏻"],
 "4iegdjxcfqlkzf5pjw2atcag":["cneill.dev","Charles Neill"],
 "jwpustzigo5e5phkkwhp5h7j":"cnm500",
-"tqdnq6jx2eenfr7chbmufmfd":["cnnnr","cnnnr"]
-}) // 2023-10-21T15:11:46.700Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tqdnq6jx2eenfr7chbmufmfd":["cnnnr","cnnnr"],
+"egwwrwicvhkbyyec4h4db5dd":["cnbc","SG"],
+"vnesg2i655p3aang3dsykchz":["cnb","Carl Junior"],
+"ocidluujkhsvxqpakhck46d6":["cnl","취"]
+}) // 2023-10-21T16:06:40.719Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

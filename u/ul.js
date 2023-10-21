@@ -141,5 +141,10 @@ var ul=(function(jsonp){ if (typeof ul==='function')ul(jsonp); return ul=jsonp }
 "cybldsop2ov5tyrtfjlvggrx":["ultra","Carmensita✨"],
 "tr45olfaliqtwkcdqrulplp5":["ultimapartida","Ultima Partida"],
 "anysawti2pchsd7zzjft3h3p":["ulokwa.com","樂華"],
-"6ge6lssfjluhuaxta7pkpmlt":["ultrasteve","Ultrasteve"]
-}) // 2023-10-21T14:59:54.057Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6ge6lssfjluhuaxta7pkpmlt":["ultrasteve","Ultrasteve"],
+"lb6dhoquo44rdwmsvgie3dch":["ultrasomi","nando. "],
+"bm4aunsf7kajnzuigfket7dt":["uliane","uliane"],
+"3zwavkyl6ctzqxpxui4j6qcd":["ultima","Ultima"],
+"lbwojuii554v3fbc5s6wtar2":["ultrastico","Guizera"],
+"d46l3rpu3bwrwbhw2sl75oqg":["ultimate","Ultimate"]
+}) // 2023-10-21T15:59:37.556Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

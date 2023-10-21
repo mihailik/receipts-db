@@ -42,5 +42,9 @@ var bn=(function(jsonp){ if (typeof bn==='function')bn(jsonp); return bn=jsonp }
 "rfuovxpxjejsqufb4oi57rah":["bnjmn","💙"],
 "wirk3psdg3tnt77plxsafcsc":"bnxkrthwkkhyfuv",
 "o5ey5akuejdq5fu2f4qvesnr":["bnnldy","Banana 🇯🇲🇸🇾"],
-"kw3glxefwuugix2mqwqtraqz":["bnto","방토"]
-}) // 2023-10-21T15:15:37.271Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kw3glxefwuugix2mqwqtraqz":["bnto","방토"],
+"i7twxqrvlztmllzlnuk4smgn":"bnewbold",
+"afudjylqto3e7mfq2fq6fppt":["bnmxc9","Brooke Oliver"],
+"chppro35bp6vtamiyaq7cuxy":"bnfaye",
+"73jiverdcmvqg3iflrj4cfnj":["bneo","Benedict Neo 梁耀恩"]
+}) // 2023-10-21T16:09:33.534Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

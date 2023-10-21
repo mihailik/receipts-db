@@ -147,5 +147,17 @@ var ok=(function(jsonp){ if (typeof ok==='function')ok(jsonp); return ok=jsonp }
 "v64k7tgpq4ueda5d7vzbichx":["oku","pOnKotsU"],
 "hb4ecj27lllxvlr5ae53aqrk":["okesa5862","🌲彡"],
 "ysadlnhiwy4i5tvwmgf56aok":["okgodoit.com","okgodoit (Roger)"],
-"fm2bsq7lvrn5qvgzbizblx55":"oke"
-}) // 2023-10-21T15:15:37.280Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fm2bsq7lvrn5qvgzbizblx55":"oke",
+"ob5pewpss3e65hu6eooc3mhr":["oktay","Oktay Çoban "],
+"dqqayokuvu77ijpc3psmzzrl":["okadaic.net","OKADAIC.net"],
+"eoujw6iy6bpxjkt7hzsv6orn":"okx",
+"7izavqeyj4srviapmlj4lpnk":"okbryce",
+"qem72xlt2daqi6ydqogn5w2v":["okwme","Billy"],
+"2e5fe6sbpttzw6pz4rptgte5":["okaki5959","okaki5959"],
+"enpvoinmiv3mte7gr2lmc5dl":["okbel","Bel"],
+"damy6soe56rqkdjoxc25iabv":["okapies","Yuta Okamoto"],
+"seq6guffbjfs2obtds5zrbls":["okandavut","Okan Davut"],
+"3v5i62scmf7ghbraojf7v7fe":["okunekop","okunekop"],
+"vp2vrhgk6svhzgbc3ujm6jjb":["okaz","okaz"],
+"isauzqzr3rpl7mhonkhdb2ly":["okayamanda","amanda"]
+}) // 2023-10-21T16:13:06.046Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

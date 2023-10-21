@@ -42,7 +42,7 @@ var jb=(function(jsonp){ if (typeof jb==='function')jb(jsonp); return jb=jsonp }
 "exh3z66ir7tlnhliljysu7ml":["jbfletch","Anna McDonald"],
 "f5dziqc5aulutgd6hlf3eu5s":["jbragent","Jay Boyd-Rochford"],
 "fnx5pjeh3su2el6r2fs5npzb":["jbott.social","John"],
-"fucaqkj646l6uugmoakxsuhl":["jbol","JBol"],
+"fucaqkj646l6uugmoakxsuhl":["jbol","JBol 🦅 5G Zombie 🧟"],
 "fw3lyu3qtmx42zxs354mtllu":"jbirken",
 "g6tocsztyy4ifnkrwoolcisr":["jbgc","Connecticut John Brown Gun Club"],
 "ghxaf4rcqppnznxdtu5uhl6z":["jbuget","Jérémy Buget"],
@@ -142,5 +142,20 @@ var jb=(function(jsonp){ if (typeof jb==='function')jb(jsonp); return jb=jsonp }
 "7ipqpmkcyi2tshduzzun7lpx":["jbush","Jake"],
 "x6rr6whodrt357rkiptlc7wj":["jb510","Jon Brown"],
 "vzsbwvrns5h4rjfnzancvxus":"jbtvnews",
-"doa4vpp4empzbkurt2qmy2ou":["jbdhails","bea (trixie)"]
-}) // 2023-10-21T15:23:33.090Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"doa4vpp4empzbkurt2qmy2ou":["jbdhails","bea (trixie)"],
+"igpnyzxpy7tujgsba43di5yd":["jbel","jbel"],
+"6ze7mkod66hmls7qaqxcjgq7":["jbecks.com","Jeremy"],
+"6llarrzjnwvveibfai2n3lvp":["jboursiquot","Johnny Boursiquot "],
+"rceroyjz5cpubdf6brys2fsm":["jbranchaud","👻 Josh Branchaud ✨"],
+"sleaks4zdos4tpe7s2vni3ex":["jbtc.blue","JB"],
+"c6ecjhiwzbels36da5owyfzd":["jbates","jeremy"],
+"fni4zfqfctbttclczinuv5hk":"jbryant",
+"4z4vqcqxwha34zudpvo7wr6g":["jbursz","Jessica Bursztynsky"],
+"72rhmjrafux3vvllfoasoy7q":["jbrandhorst.com","Johan Brandhorst-Satzkorn"],
+"dyk3y4jm5wkct3tq76pquwcg":["jbaru.ch","jbáruch 🎩"],
+"atlrbuj4yzqazdcxd2eqdolj":["jb6","Jacob"],
+"tvjsovppzt4zkk6xrqkjj2oj":["jblaze","Jared"],
+"um7tcmqtkcmyxlhwwoar4wzb":["jbryce","Jonathan Bryce"],
+"eeaxwjbheexxyz6jwunvwvro":["jbaert","Jeroen Baert"],
+"gki4yqleziohzbobvdvnae2n":["jbrains","J. B. Rainsberger"]
+}) // 2023-10-21T16:11:39.414Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

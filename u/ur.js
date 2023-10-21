@@ -188,5 +188,13 @@ var ur=(function(jsonp){ if (typeof ur==='function')ur(jsonp); return ur=jsonp }
 "eljgnxhutsdtwyyb3dwciinf":["urbanscribe","Alexandre Fuchs"],
 "f6twzpjdqwhyxye34moudlo6":["urs","𝚞𝚍𝚊𝚢"],
 "qalyjcqsmg4tr4ekzrzldusm":["ursulabot","Ursula K. Le Guin Bot"],
-"eebuil6je2l7skabnz4ghxx3":["urgeofid","Urge of Id"]
-}) // 2023-10-21T15:02:48.195Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"eebuil6je2l7skabnz4ghxx3":["urgeofid","Urge of Id"],
+"sfebsyy46d6woyizvuf6xccx":["uripo","uripo"],
+"lyjpykan5ih6a7bb7cijirh7":["ursinhofazraw","Arthinho"],
+"hqzyzqsgkpqtwonr7g5jbatx":["urbit.cyou","rikard"],
+"hvyxpogbvhyo3kpih55ol4jc":["ururuk516","타래씨"],
+"l33bfjp3mlk7z72gelmvoadf":["urfavoritejane","Ur favorite 💕"],
+"kwljp7br4vvbxwxtszv5bvjo":["urbanf0x","UrbanF0X"],
+"tzolkhwqs76ytuzlgsmkdybg":["uryan","uryan"],
+"rsas37suh6pgaibdfdsxj7ib":["ur4ndom.dev","Robin Jadoul"]
+}) // 2023-10-21T16:11:39.439Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

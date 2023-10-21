@@ -42,5 +42,11 @@ var ua=(function(jsonp){ if (typeof ua==='function')ua(jsonp); return ua=jsonp }
 "7ti4hbx6ciwot56y5aayc3mr":["uaidavi","davi"],
 "26wtwqsy7p5ppeaixheqmbmp":"uae",
 "m72c4gzkggz6gv4zacngcvb5":["uapdandy","Dandy"],
-"tzjfzic5e2as3aqjx4kjtram":["uakihir0","うるし (開発用アカウント)"]
-}) // 2023-10-21T15:20:31.587Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tzjfzic5e2as3aqjx4kjtram":["uakihir0","うるし (開発用アカウント)"],
+"522qnzqjxozo62gjbxwgrldl":["uaytug.dev","Umut Aytuğ Semerci"],
+"rrtdrbwj26v2pmlpcdobirja":["uaimisera","GABS"],
+"onddau3v2lgqkmwpq6nungs7":["uaumirrorball","you’re on your own, uau 🍂"],
+"vsjyrw6esslcvq2acnhc2pey":["uaiteve","Douglas"],
+"z2fy25giuxt6ofvjno6kwo3m":["uahengojr","Gottlieb Uahengo Jr., "],
+"efw3b4ll4e3bvx3d7qnm3whe":["uaimaiara","Maiara"]
+}) // 2023-10-21T16:01:41.932Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

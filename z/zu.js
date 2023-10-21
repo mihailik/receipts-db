@@ -133,5 +133,9 @@ var zu=(function(jsonp){ if (typeof zu==='function')zu(jsonp); return zu=jsonp }
 "zp4kq342eboumyb5ntp4oesv":["zumbrunn","Chris Zumbrunn"],
 "7celwzd52f542mlm4jahpggy":["zushi","zu"],
 "qrug43qj64lufk7ldwgqeqz5":["zusuf","Zusuf"],
-"phkmcuqs3lbeammarrkkibfu":["zupo","Neyts Zupan"]
-}) // 2023-10-21T15:22:01.922Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"phkmcuqs3lbeammarrkkibfu":["zupo","Neyts Zupan"],
+"g6k5j6vr56hgne3fbs44x7oj":["zubinofficial","Zubin Daver"],
+"vlsj3pyxt2nledcb7gvdk5sx":["zumurrud","じゆうたん"],
+"x4v6lebrcpddlgjy7kcv6qax":["zuel","Luiz Felipe Alves"],
+"ctbt56mq2cxh7h3w4gckkemy":["zuko","parth"]
+}) // 2023-10-21T16:06:40.749Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

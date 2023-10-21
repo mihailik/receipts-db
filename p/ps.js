@@ -224,5 +224,12 @@ var ps=(function(jsonp){ if (typeof ps==='function')ps(jsonp); return ps=jsonp }
 "pc33kmrp5qo5t2d46yu5jkw6":["psychoflux","PsychoFlux Ent."],
 "sso63t5z2ayosu2bglmkpbgf":"psych",
 "fzv77ewbhkkcdovb6gyfljqg":["psyche","Psyche!"],
-"tgblgz3bgf3x57xq3ysodyoa":["psywar","Psywar_US"]
-}) // 2023-10-21T15:15:37.149Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tgblgz3bgf3x57xq3ysodyoa":["psywar","Psywar_US"],
+"adir6dm5f7ttkboxl3vswr7b":["pseudonym","Pseu Donym"],
+"c3vo3pzkiobjjjymyzsuyu3v":["psicotropica","Luciana"],
+"4we3kl734ruo2ytqsumwucry":["pspoutz","Patrick Spoutz"],
+"v6qrvimjvconmyy3q2tsuecu":"psrana",
+"bfvg5gw2hqth5bybir4t3wra":["pstephen","Patrick Stephen"],
+"fz7hwjtsw5wilfftoeqek2c2":["psteinroe.com","psteinroe"],
+"utzf4oqn5vdwj7hmmtwzcdfn":["psiphi","Psiphi𓅃"]
+}) // 2023-10-21T16:08:06.296Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

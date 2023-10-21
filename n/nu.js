@@ -362,5 +362,18 @@ var nu=(function(jsonp){ if (typeof nu==='function')nu(jsonp); return nu=jsonp }
 "ee76thfbybbzjrodevpl2zjk":["nugget","David “nugget” McNett"],
 "qlf7quxspulo4uwjrx6kkbg6":["nurecas.com","Fabin"],
 "zmu3d5ksnn6snjizo7uhodrp":["numagasa","ぬまがさワタリ"],
-"u6ttwxmdl74xqdx6jo6wdiof":["nukiki","누키"]
-}) // 2023-10-21T15:17:21.159Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"u6ttwxmdl74xqdx6jo6wdiof":["nukiki","누키"],
+"hh42ykdfoywll5o3hiapgfxn":["nuloer.com","Sam"],
+"b6h7cnludnujzmsavktfgnte":["nullify","Null"],
+"ulvifwawgmp3i37soi4a64pe":["nuelarts","Emmanuel Bankole "],
+"i4nydbc5yqhkkl5ohssdb4by":["nufar","Nufar Bareket"],
+"h5otqlz4kg7nhliiy7fq67vx":["nutlope","Hassan El Mghari"],
+"cdkofabz6xda6f7wmcwavtxw":["nursena","Nursena Uzar"],
+"2upe6cjinfheaatnge5z5kpf":["nundang0w0","눈뒝"],
+"tohfkunvwrv6mm226hcfhuwu":["nuzair","Nuzair Nuwais"],
+"ewtrkmesp4d5dlzbtdwckvhg":["nucliweb.net","nucliweb"],
+"334224aifpcov65hl7q5fpgg":["nurzat","Nurzat"],
+"7bxaik6kftn7vgvrpkck24df":["nucleo","Nucleo"],
+"3ehmys27nrhk5usv6fykrwy5":["nuka","Nuka"],
+"kygkdgekbqn2ahkznl2zw7fh":["null-tree","Laurie Dugdale 🌳"]
+}) // 2023-10-21T16:13:06.188Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

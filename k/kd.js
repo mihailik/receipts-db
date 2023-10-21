@@ -44,5 +44,8 @@ var kd=(function(jsonp){ if (typeof kd==='function')kd(jsonp); return kd=jsonp }
 "e5xtpsezvnq3iuuzzbjggn36":"kdlaw",
 "hyo5iic26ichf4rjty6sblvx":["kdolisi","Kyle Dolisi"],
 "eabd72goukurrryrzoerqswi":["kda","Kelly Austin"],
-"p3gkepikqdq73llvbosa4pwm":["kddlb.com","Kevin López Brante"]
-}) // 2023-10-21T15:05:05.215Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"p3gkepikqdq73llvbosa4pwm":["kddlb.com","Kevin López Brante"],
+"h4bt4dzpti63uyzxrutcqf2v":"kdr",
+"kq4paxwakxpqlbuuom7jlfjz":["kdpsingh","Karandeep Singh"],
+"gtimle6mxtopjfrfi7g377x3":["kdaigle","Kyle Daigle"]
+}) // 2023-10-21T15:57:58.099Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

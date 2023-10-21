@@ -101,5 +101,9 @@ var ao=(function(jsonp){ if (typeof ao==='function')ao(jsonp); return ao=jsonp }
 "l2pyah4yd5vjbn4ut2j3chu2":["ao0000","ao"],
 "4pbqyd6jnmlr2xfsw4sms3cq":["aoeu","sn˙ɯǝpɔɯ@sɪʌɐɹʇ"],
 "32fco7sl4kwya77h3q7h4jdd":["aoki","Filipe Aoki - Tomate"],
-"7puwn4dve43vjhaaxnwj7ebb":"aoiro"
-}) // 2023-10-21T15:06:28.749Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7puwn4dve43vjhaaxnwj7ebb":"aoiro",
+"gelgrqcrqdtj3pflf4rhu34t":"aobashiw",
+"vam4sizmeyhozpdggp56lphp":["a-one","A-One"],
+"6rmfm36lbvh6airm3qyik3n7":["aozorabunko","青空文庫(Aozora Bunko)"],
+"d5rhlxcegkt3bjz4jqpqwukx":["aokie","Eiji Aoki / TNG01"]
+}) // 2023-10-21T16:08:06.328Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -59,5 +59,7 @@ var kk=(function(jsonp){ if (typeof kk==='function')kk(jsonp); return kk=jsonp }
 "cuu24st66xosm2eor6wmj5vw":"kkaufelt",
 "tkjc5bkpigb7cqf3aec5fqzb":["kkir","クロム"],
 "f2abgsleubqxsv7p4tzxgq5j":"kkay55",
-"fdo7l4gdadaoe66psdgvl2tw":["kkk81","kfy"]
-}) // 2023-10-21T15:02:48.222Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fdo7l4gdadaoe66psdgvl2tw":["kkk81","kfy"],
+"o4ufv2577ls72rnlfmhldie5":["kkoni","Kosuke Konishi"],
+"cg2577lxmye5zu3ov7q2obu3":["kkamegawa","kkamegawa "]
+}) // 2023-10-21T16:04:47.683Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

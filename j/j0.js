@@ -47,5 +47,14 @@ var j0=(function(jsonp){ if (typeof j0==='function')j0(jsonp); return j0=jsonp }
 "6mknjau2y67hxz35au62n5s6":["j3n","DECENTRALIZE THE D & F THE SYSTEM"],
 "ivdxspdiyx2o4iktp4prbmhu":"j4smine",
 "77iwmhn6xxxftty4g73nrnix":"j10",
-"vxrdlmiciunooza2gpjctqb6":["j0rdan","Jordan"]
-}) // 2023-10-21T15:18:56.317Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vxrdlmiciunooza2gpjctqb6":["j0rdan","Jordan"],
+"63sulpanqjtzrzndijle2evb":["j2k","Jaytukay"],
+"jq7xzaszwkkqymrllrvuk3wl":"j12t",
+"lgjfxldou7cenxoayj44dxb5":["j0e","Joe Bateson"],
+"xqruy6seclc5qss7xleglr2h":["j4n4nin4","J4N4_NIN4"],
+"ndztd7znblicihkfs3grc2a2":["j4n0","Damian"],
+"lziz4a2xczngufcj4cxkyins":"j3rn.com",
+"z2bewzp2pboryfkxxen2nhbd":"j0n",
+"afl2rrqx4n7a26o3l336clpg":["j4de","j4de"],
+"mgtljh5iv24ihmtzfeti2mhx":["j3m","J3M !"]
+}) // 2023-10-21T16:08:06.335Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

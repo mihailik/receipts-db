@@ -190,7 +190,7 @@ var ex=(function(jsonp){ if (typeof ex==='function')ex(jsonp); return ex=jsonp }
 "x3uaxiqcxn6z5oknr65suoio":"exari",
 "x6kof7qhuhjjqec6kc5cmt3h":["explorerjohnny","The Invisible Man"],
 "x6ruvcbttabembzelfadw5a6":["expensivesoap","A Long Bar of Expensive Soap"],
-"xe7pbxp7e4lbminwhp4i4m3b":["exogesis","Exogesis"],
+"xe7pbxp7e4lbminwhp4i4m3b":["exogesis","Lucy, the Spectre Haunting Europe."],
 "xicfxitt3wkc5nhcvvz2xfpr":["expithecat","Expi Feliton"],
 "xojyrewb6a5c7api3uk2db4p":["exquisitepanda","Chill Walton "],
 "xpsdtuhgr6nniekgqzylms77":["exoditedragon","schlond poofa"],
@@ -224,5 +224,13 @@ var ex=(function(jsonp){ if (typeof ex==='function')ex(jsonp); return ex=jsonp }
 "idggzdm4zjtbc6jdbv5lpglu":"exssv",
 "q6nxrwtqxi7kp5zcamowatko":"exiri",
 "j2vgb3dcsnuaatdtuatzk2my":["exlawyer","exlawyer.eth/tez"],
-"mpvjshyh336ikrfuyuuhwupm":["exponent","Daniel Bar 丹尼尔"]
-}) // 2023-10-21T15:22:01.910Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mpvjshyh336ikrfuyuuhwupm":["exponent","Daniel Bar 丹尼尔"],
+"igstdkc3gvz6vbnq36kdvuex":["exe","Barry"],
+"5zvufhd77ypo46jqtyb6mxvo":["exo","KPOP"],
+"hy7pl2t3y5wiuydjb3y7cja2":["exillvs","EXILLIS"],
+"lbobxeghwg4qdtnwmgzjc6lw":["expo","Expo"],
+"pzo5zr7ghxfyi7glgyb5v366":["exosyphon","Andrew Courter 🚀"],
+"s35slje2bk6k2ptne4fzfaud":["exodes","Exo Des"],
+"bglglitlenxcnkt36zhtqic6":["excid3","Chris Oliver"],
+"vj3yo5xmkmg65gvpb764lj5h":["excentricko","Luiz Ricardo"]
+}) // 2023-10-21T16:11:39.420Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

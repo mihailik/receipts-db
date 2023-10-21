@@ -58,5 +58,13 @@ var vl=(function(jsonp){ if (typeof vl==='function')vl(jsonp); return vl=jsonp }
 "wumd5zkjnbhdzz2rx63szwqr":"vladtepish",
 "prz5yhshagej5nrpaji4v5is":["vlightcreative","Jason"],
 "b5aswxxvr3doliel57eaj6it":["vlwphotography","Vicki-Louise White"],
-"g5oiwwmeytdcmo4hp4lkljx3":["vlim","Rui Velindro"]
-}) // 2023-10-21T15:20:31.584Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"g5oiwwmeytdcmo4hp4lkljx3":["vlim","Rui Velindro"],
+"424a52wcth73pir4kbd7w7ro":["vloid","Vloid| Jay"],
+"p7fin2b5keoq76injbgwqxnw":["vladgeorgescu","Vlad Georgescu"],
+"lsbv5luv7c2jqq4m72zxrbjf":["vlh","val head"],
+"u7t7h6erbhwbjs7omtnjnbxe":["vladi","Vlad Savov 🍉"],
+"xusbk4audrbhdpmfoe57sc5z":["vladikoff.com","Vlad Filippov"],
+"65q6tzy7fomt3i6zpgmioux3":["vladaionescu.com","🌍 VladAIonescu.com"],
+"tbhegjbdy7fabqewbby5nbf3":["vlad.sitalo.org","Vlad Sitalo"],
+"cc7acnha65j7mtfklgvt4usc":["vlkclk","vcolak "]
+}) // 2023-10-21T16:09:33.445Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

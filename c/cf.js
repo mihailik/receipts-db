@@ -40,5 +40,7 @@ var cf=(function(jsonp){ if (typeof cf==='function')cf(jsonp); return cf=jsonp }
 "rrjvo5jwuateqep2i7ih5ckl":["cfiesler","Dr. Casey Fiesler"],
 "c6u3okqqldyi533gnrwawl54":["cflasche","Connor F."],
 "qzn5hrl4n66jhisjwarvpki5":["cfn","Chris Norman"],
-"o7euxetw7kg7mxqcuv3tu4n6":"cfedermann"
-}) // 2023-10-21T14:59:54.181Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"o7euxetw7kg7mxqcuv3tu4n6":"cfedermann",
+"zr3ctyqfbhwpi6ja25c57qpa":["cfidurauk","Christie Fidura"],
+"uzs22ci7wjfx3ew2ce4uvsnn":["cfiresim","cFIREsim - 📈 Sassy Retirement Back-testing"]
+}) // 2023-10-21T15:51:11.978Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

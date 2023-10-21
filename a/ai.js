@@ -335,5 +335,16 @@ var ai=(function(jsonp){ if (typeof ai==='function')ai(jsonp); return ai=jsonp }
 "y5rzy2xgvdettcf6arzmmrkz":["airkonan","air"],
 "s4u6covbrwbmy67cu6v2dobl":["aimachina","Ai Machina"],
 "nj2eqef3kcdlau6t6b2ttlv6":["ai-curio","Mx. Curio"],
-"xzyce5subzr7pseav2vrvgig":["aisforayla","Ayla"]
-}) // 2023-10-21T15:20:31.553Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xzyce5subzr7pseav2vrvgig":["aisforayla","Ayla"],
+"42dtcexktk7mtro4m5beez22":["aischolars","₳𝕚𝕊𝕔𝕙𝕠𝕝𝕒𝕣𝕤 ♟"],
+"sf4c5tz3oseu7hpokek2t2hy":["aivarsmeijers","Aivars Meijers"],
+"xamn5nawzicgfj72l2x5skpo":["ainews","AI Newspapering"],
+"ylb34b5dqzbrc77lumuuim2l":["aisha.codes","Aisha Blake"],
+"7h4tqdbzhnowfnj2mzw6rbok":"aiddya",
+"5w7iipcvgvvvc42wwbwntxdn":["aircue","air"],
+"soo674zvorebdvo7nf33ibke":["airplanemode","Airplane Mode"],
+"v5whuohzj5qsh7rrmekrjtsp":"aibreakfast",
+"sl7heseccbofwccb2fncf5jj":["aickey","aiueco"],
+"n5h4kmlrkjvkddj2ixrqlikz":"aizfaizie",
+"ej3lrmqyk2tbfvs6e2chpow2":"aidar"
+}) // 2023-10-21T16:09:33.461Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

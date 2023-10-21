@@ -69,5 +69,15 @@ var gn=(function(jsonp){ if (typeof gn==='function')gn(jsonp); return gn=jsonp }
 "c2rexreswqi2kkj24e4eycmv":["gnwarklog77dev","ウィリー/Pleiades(開発・テスト用)"],
 "esiyd2lk754es3fl76g7sxm6":["gnome","alice"],
 "mwqruysaxtigbb3cyip3kvpi":["gnidan.org","g. nick // gnidan.eth"],
-"ab7wwwws2xsbnymdz6zndsdg":["gnh1201.catswords.social","Namhyeon Go"]
-}) // 2023-10-21T15:06:28.730Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ab7wwwws2xsbnymdz6zndsdg":["gnh1201.catswords.social","Namhyeon Go"],
+"cgtlyuedd3qwmtycjv62xhma":"gnusocialjp",
+"a3br7lq55buw3wyv25hssjbo":["gnsnapn","Gnsnapn"],
+"n5hrrp5oxgubedmcqeu5gejc":["gnuxie","Gnuxie 💜🎈🏴‍☠️"],
+"2yfrqtzxtmg5xqaulgqqty3s":["gnomethrower.com","Benjamin Arntzen"],
+"htzrjdjajxxe6wlksgcuuk3b":["gnumanth","Hemanth HM"],
+"su4mgtt7azaytz4worj3amu3":"gnoman",
+"copsigkglhlvtagqqlcglxd5":["gnoff","Josh"],
+"ih7yqcf2x3uctf6nrbfpx6vt":["gnz","graynoize"],
+"e3uhjcat4q7m6jk37yshb4mv":["gnomem","gnomeM"],
+"qrpfuxermjmof77yemz4s4wv":["gnarharpy","Gnar Harpy"]
+}) // 2023-10-21T16:11:39.411Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -17,5 +17,8 @@ var pv=(function(jsonp){ if (typeof pv==='function')pv(jsonp); return pv=jsonp }
 "u2p5lbyulm4mtignmbhtduzh":"pvbaikun",
 "v2cvnhhsfyjs44ucla6yqznc":["pvg","pvg"],
 "w5qcjab3kcspuvx7bku4oyox":["pvphy","phi"],
-"an7knkzfkd74zmdoclp5jo4a":["pvieito.com","Pedro José Pereira Vieito"]
-}) // 2023-10-21T13:58:40.058Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"an7knkzfkd74zmdoclp5jo4a":["pvieito.com","Pedro José Pereira Vieito"],
+"esyoezuiots7qinyjvpyhyul":["pvictorleone","Paulo Leone"],
+"ocn3e5kvlffc5wbqrsnslxug":"pvulgaris",
+"by7lgwc4znai7utayhgvcrpk":["pvazevedo","Paulo Victor"]
+}) // 2023-10-21T16:09:33.543Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

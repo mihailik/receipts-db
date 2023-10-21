@@ -83,7 +83,7 @@ var um=(function(jsonp){ if (typeof um==='function')um(jsonp); return um=jsonp }
 "tl2djiih4b6vdmcbupd362pg":["umnogledasht","Умногледащ"],
 "tubl3desozfgjssh3u7punk2":["umnoescuro","Fragmentos do que tu não precisa "],
 "uz2nukj7o3cgc3q32p3vz6r3":["umnokorito","BEES"],
-"v5t55njpz2pwz3hmibxhn3br":"umitalan",
+"v5t55njpz2pwz3hmibxhn3br":["umitalan","Ümit Alan"],
 "va6vrqxp6qsdg46txmgpukxq":["umurhancaf","Umurhan Caf"],
 "veyejnulqy5n4m32sym2vmgu":["umetnist.ingroup.social","VMETNIST"],
 "w3t3nbhduajplxziwrrhaf3o":["umi0x","Skeeter Valentine"],
@@ -115,5 +115,13 @@ var um=(function(jsonp){ if (typeof um==='function')um(jsonp); return um=jsonp }
 "c2i7buf5ax6olwer2wogvt2d":"umnato",
 "q5j64etwdwzdagtvikb6dzbp":["umiamara","✦amara skywalker✦"],
 "zi65ezhb672cjoq5ktycw32x":["umit","Umit"],
-"dmfqbiiv324r6dnlkz6knap6":["umutozturk","Umut Öztürk "]
-}) // 2023-10-21T15:20:31.546Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dmfqbiiv324r6dnlkz6knap6":["umutozturk","Umut Öztürk "],
+"24uaje4rwhtfersrg7sepopb":"umstot",
+"6u55qiocz7lewv6io7dn4hc4":["umz","Umair Khalil"],
+"6e2tbswwlgz5zddb46enrtt7":["umarsheikh.co.uk","Umar Sheikh ウマル"],
+"esxuuisvbeco5zrn6foo5xu7":["umbompedro","Pedro"],
+"3giw467rtkw4jbm76tuxmump":["umanieli","bombonieli"],
+"vsuxs6ypzxz6kmj4ylj2id7s":["umbookaholic","alec costa"],
+"ked27j2pvtspt3zjk5s3nbqm":["umuumaiojisan","うむ美味いおじさん"],
+"ma55pifx4pfsnzps4ptoozrq":["umar","Umar Mustafa"]
+}) // 2023-10-21T16:09:33.382Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

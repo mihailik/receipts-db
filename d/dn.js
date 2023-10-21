@@ -38,7 +38,7 @@ var dn=(function(jsonp){ if (typeof dn==='function')dn(jsonp); return dn=jsonp }
 "rzs674wclmwsykg6ijll7xpo":"dndryan",
 "sohn5y34hpelpfido7xdcojm":["dnnsrksmn","D E N N I S"],
 "sto33qeqssclosozds5tmpk2":["dneto","Daniel Neto"],
-"txcpesplwgoovfju7eb5vrwk":"d-nye-griffiths",
+"txcpesplwgoovfju7eb5vrwk":["d-nye-griffiths","Daniel Nye Griffiths"],
 "u3m2dnlchlioa6y36egahdsz":["dnotive","d.notive 🔜 @ Furry Migration"],
 "uunryloutb25x77ktioajgbr":["dnaphil","Phil V (he/him)"],
 "veli5miwin4mrhhbmjun47do":["dno-ada","Ada Palyanytsya "],
@@ -57,5 +57,9 @@ var dn=(function(jsonp){ if (typeof dn==='function')dn(jsonp); return dn=jsonp }
 "n2d5orfsu5vorgx2ofoz5o45":["dnk","Dom"],
 "sj7bvgxuvtlg7na4obmif5ka":["dnf","Don Neufeld"],
 "q7nrgvjifgjwzoojcjoruazt":["dnl","Daniel"],
-"du4lr2ofub7xgaol5ooqfuw2":["dnz","Deniz"]
-}) // 2023-10-21T15:05:05.180Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"du4lr2ofub7xgaol5ooqfuw2":["dnz","Deniz"],
+"dxq6pesufvcqkpunw7uxhxqk":["dnotao","Dino G."],
+"qfiveh355v2b4dvbmjrvq4bk":"dniku",
+"x6kuirgzgp3ln2icrfcygpko":"dnautics",
+"rfr2auohi55f326jibnk7ufa":"dnerush"
+}) // 2023-10-21T15:59:37.529Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

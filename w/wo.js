@@ -687,5 +687,20 @@ var wo=(function(jsonp){ if (typeof wo==='function')wo(jsonp); return wo=jsonp }
 "vqtwp3bpy3i6qo6e4k2hzh45":["woodcut","나무판"],
 "nonjef2hxww7dfzdxnc3vsqq":["wood","Wood"],
 "6xakjci26d3dle4avfvm4kcb":["wolv","Wolv"],
-"bnk5kzrsfxnbvxzypsn4ghi6":["worldwax","WorldWax"]
-}) // 2023-10-21T15:17:21.242Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bnk5kzrsfxnbvxzypsn4ghi6":["worldwax","WorldWax"],
+"lghmqzd3spafrmts4ljyfj6d":["wonderboy","brenn"],
+"wimoccdwl2ig6u5sbsumc7nr":["wolfwalking","LMS"],
+"2qkzz6b4gigaws5xoaeiritl":["wonderbeast","W. Beast"],
+"a6v2c46qd4ajhpouebl6rxgd":["wolff","Greg Wolff"],
+"jihe7o5wlu6t5rxuxepkggw2":["woojoo","쥬"],
+"fan6h2rhofvhtw5ywphmnpu4":["worldof.geese.party","worldofgeese"],
+"2tudnxyupzyofozf7hx3rxzl":"woot",
+"cbb4xyuj32hpxabfvvaw6s75":"wolffiex",
+"smzohmem4xe6ed5vytocl742":["wolfr","wolfr"],
+"sh5din3iylk4awdsiwmid4o3":["woongja","woongja"],
+"ltjm6gxxnkvnrftswjlhevzx":["wolfpaw","Wolfpaw Terria"],
+"pxdf4g2ui6tchtecbvid563a":["wowbestie","wowbestie"],
+"lqsidrb5qxqlccouu2efvkrj":"wokeberia",
+"i4epmzwlorgktq6u25rqlnm5":["worldsveryfirst","Grant (the world’s very first)"],
+"qxhgys3oxps422ciljnpudse":["wolfcolaceo","Wolf Cola CEO"]
+}) // 2023-10-21T16:11:39.441Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

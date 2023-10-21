@@ -269,5 +269,14 @@ var ag=(function(jsonp){ if (typeof ag==='function')ag(jsonp); return ag=jsonp }
 "mqi72ku4anozzqgk7wvyp2sv":["agnimax","Agni"],
 "ixzdio4buiovbeoe6y3di66j":["agrin","Agrin Ltd"],
 "vfm5rlmu2bdyz2f6rr6uslim":["aghaye-mi","آقای اِم آی"],
-"4g745zuadsanppmwclhd3as3":["aghameysam","Agha meysam"]
-}) // 2023-10-21T15:23:33.092Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4g745zuadsanppmwclhd3as3":["aghameysam","Agha meysam"],
+"blat6lv5arjqyuqchomp4mhw":["agentsmart","Aaron Turner-Jones "],
+"zos7xckob6mqayrwpq6gi3jn":["agnes","agnes"],
+"432dtmiwbttk4tgrytziwbel":"agilegames.dev",
+"uamyktzkdklvn7oh5gqiccq3":["ag11.dev","Andrea Griffiths"],
+"d5q2ywqfcvnjxc2htjbi243v":["agu","Agu Seguí"],
+"dvayhybv26majo73v53zahic":["aghayehesam","Hesam🌚"],
+"i3vnr2quynped7ob2xckxfcf":["agx","ArGxento"],
+"y5j4xgziazcfcuvv3jicpxs5":["ag.cvnd.sh","Andrew"],
+"usmvbpymky77b4qlf7vrvzeh":["agit","agit"]
+}) // 2023-10-21T16:09:33.520Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -102,7 +102,7 @@ var kn=(function(jsonp){ if (typeof kn==='function')kn(jsonp); return kn=jsonp }
 "kq5zasbew2e6nj2zezpyr3yw":"knutk",
 "krv4rnvcadqacosg6hoe5ror":["knuff37","knuff37"],
 "kvepm4yq4vscewcapymm7nuh":"kneipenlegende",
-"kzvahmyebpa7wuvxolkl3vuq":["kno","Kno"],
+"kzvahmyebpa7wuvxolkl3vuq":["knomercy.com","Kno"],
 "l5yz32nydpebjlcdfgycmf3x":["knowtheory.net","Ted Han"],
 "lbbzn6jloc4vuolo4v32v5yz":["knitntherapist","Leslie Bernard MEd"],
 "lcjwkld7cvml22kcqd5zhsdx":["knightboat","Knight Boat"],
@@ -212,5 +212,16 @@ var kn=(function(jsonp){ if (typeof kn==='function')kn(jsonp); return kn=jsonp }
 "xh7vihzmi7yfd35aggfaugmx":["knbr","knbr"],
 "35zg77a2fy6k5qgjbovjmkqa":["knylx","k n y l x"],
 "6hw6empzd5lxnp734uwk6r7v":["knorheim","Kjetil Storeheier Norheim"],
-"zeui6b7wsren3z74sa2ac3xi":["knytro","Knytro"]
-}) // 2023-10-21T15:20:31.567Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zeui6b7wsren3z74sa2ac3xi":["knytro","Knytro"],
+"3jhuvipsnibbutlupqg6dfcz":"knulp",
+"nrvxtx4niaeecx2zu3apfzhn":["knight","Knight"],
+"duvhbitcjbvjeenbiuxsfg4r":["knyar.net","Anton Tolchanov"],
+"hewhabm3uw73cbz27uwuydcg":["knowler.dev","Nathan Knowler"],
+"bzeab25pmrvwjhz4rew75vgz":["knowbody","Matt Zatorski"],
+"626qcyp2qv7g6qas3nrlxrze":["kndrathedon.cloud","K 👩🏾‍💻"],
+"fan3eplistzmp3i3kk5jljsw":["knark.club","Arvid"],
+"dc7t7gcs5eh2mmxuvkoqnfim":["knightfdn","Knight Foundation"],
+"2obclwafzm47migerhki4hfj":["knasen","Knasen"],
+"qs4ixnkvr74ennngt2gsbtna":["knowyourmeme.com","Know Your Meme"],
+"bp7gpg52wwxhhgrwoqcni3l5":["knibbs","Kate knibbs (Will Ferrell parody account)"]
+}) // 2023-10-21T16:13:06.184Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

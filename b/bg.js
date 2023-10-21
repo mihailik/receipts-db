@@ -28,5 +28,11 @@ var bg=(function(jsonp){ if (typeof bg==='function')bg(jsonp); return bg=jsonp }
 "gvilwbwc65yjnizeeydpwith":["bg.bsky.so","Benny"],
 "rnbzy7jogna6nzy2yjirjwlr":["bgoncal","Bruno Pantaleão"],
 "mxb3y5ihs7jyu2qbefq673ye":["bg3","Brian 🥃"],
-"i62jv77nxyjcscn7gs6y5ccq":"bgdr"
-}) // 2023-10-21T15:06:28.714Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"i62jv77nxyjcscn7gs6y5ccq":"bgdr",
+"bmop5qbiirxafsivj56nav7c":"bgoodwin",
+"e2f6jkkky52f3gf3ku7ixtzz":"bgins",
+"v3rurjzn4fptmwrtesoy3ang":"bgo",
+"n7qwyb43vwbctiipsd6fijjg":["bgmarx.com","Ben Marx "],
+"in7vkbhywmptmtkgxsqgs6wh":["bgold","Brent Goldman"],
+"px7h72xrgrium3fwczol3f7l":["bg00101010","42"]
+}) // 2023-10-21T16:11:39.410Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

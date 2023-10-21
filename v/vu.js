@@ -68,5 +68,8 @@ var vu=(function(jsonp){ if (typeof vu==='function')vu(jsonp); return vu=jsonp }
 "fze5wrpnrkrlwbblbeknywac":["vukurutu","AULERO ALIMENTOS"],
 "2dhotjhhrymnp3frevjdjxj5":"vukolic",
 "i7tbcl5floqbtnrm223hlpyd":["vulcanstudionft","Vulcan Studio NFT Eth/Tezos "],
-"mdrtu2lgpnnbrxxuans3dsbh":["vulcan","Vulcan"]
-}) // 2023-10-21T15:23:33.108Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mdrtu2lgpnnbrxxuans3dsbh":["vulcan","Vulcan"],
+"r6rtwbik3ome2vl73k6gvhko":["vuk","Vuk Andric"],
+"ifnpo2skcftrtpi2obdi4jsh":["vural","Vural Kap"],
+"bl6c7j3z6qzz2qydxwrfvwn4":["vuyo","Vuyo Mhlotshane 🇿🇦🇳🇱"]
+}) // 2023-10-21T16:11:39.437Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

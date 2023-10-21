@@ -40,7 +40,7 @@ var ow=(function(jsonp){ if (typeof ow==='function')ow(jsonp); return ow=jsonp }
 "ecccqiuk7ri4dgvfcfghtd4x":["owndogcreates","OwndogCreates"],
 "ecnj6xfktt6mpgi27bejtejz":["owenotter","Owen B"],
 "ehysthvggryqb6z7us6ixakx":["owenthomas","Elrond Hubbard"],
-"eo75l2ronm63km4bbv3xl623":"owoce",
+"eo75l2ronm63km4bbv3xl623":["owoce","janka"],
 "ev4475mzpowhwjgyjsstl6vm":"owr",
 "f3ha6g7u3eh4jezxje74fecd":["owlhouseisgreat","Owl"],
 "f4ek7fahsg67xyb5lfsoxxqj":["owutang","T"],
@@ -104,5 +104,8 @@ var ow=(function(jsonp){ if (typeof ow==='function')ow(jsonp); return ow=jsonp }
 "jh2jzhbqbtgvuewtyckdxriu":["owen","Owen Williams "],
 "arp6dm6465n36trfthfohjo4":["owji","Nima Owji"],
 "mmfxzvtxaqgtbrndujtojise":["owl","A Parliament of Owls"],
-"5hpt7wy323aa7gvkwk2rcr2i":["owl.bot.mimi10v3.com","owlbot"]
-}) // 2023-10-21T14:54:34.125Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5hpt7wy323aa7gvkwk2rcr2i":["owl.bot.mimi10v3.com","owlbot"],
+"f4poara264xj7skwmcg7cfnw":"own",
+"x5r2afywupcdbks5fqg7ield":["owo","owo"],
+"wmp4bpijzjyvitlkcmpev7n3":["owo7.com","RQN"]
+}) // 2023-10-21T15:51:11.918Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

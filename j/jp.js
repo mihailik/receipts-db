@@ -140,7 +140,7 @@ var jp=(function(jsonp){ if (typeof jp==='function')jp(jsonp); return jp=jsonp }
 "y2cipzforpaw3fsd7vvik75a":"jpmantis",
 "y2wjkchxsctdwtrlello5jww":["jpaksil","Jason"],
 "ycwcajnnk5mqk55a6ri5irwf":["jpkidman","Jessica K"],
-"ydpskikbkpemmrmc4c3vskk3":"jp2e",
+"ydpskikbkpemmrmc4c3vskk3":["jp2e","Jennifer Pattison Tuohy "],
 "yi24vb45glu5hwl765pyluqt":"jpinnv",
 "yiepc7rg3dfua7zinodzycy4":"jpmth",
 "yikkuixuo732ymtdaojyl3xz":["jpiringer","jörg piringer"],
@@ -168,5 +168,16 @@ var jp=(function(jsonp){ if (typeof jp==='function')jp(jsonp); return jp=jsonp }
 "3arxewhzmwhzq4cbmvdi7du4":["jpegkillah","JPegKillah"],
 "u2grmp22lyybxulhqjyhqrna":["jpe","jp"],
 "4dulfh2hlxo5ljlcpx4t3x4u":["jpierce","Josh Pierce "],
-"e6ajaz4jg2tr3mdeaiqecalg":"jpbeckenkamp"
-}) // 2023-10-21T15:22:01.952Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"e6ajaz4jg2tr3mdeaiqecalg":"jpbeckenkamp",
+"iv6v7fko3d6vsz2hk27ky24z":"jpkutney",
+"ydiw5kvikqthbc3wavc6uacs":["jprittee","Jack 🌈"],
+"tbduc2sgp3p3quhzmw4b2npn":["jpg.place","jpg "],
+"wcpm4pt7xp7lnfzeefdxibha":["jpg.xyz","Jason"],
+"sova76h53qcekwxhwmrvu4fx":["jpucca","Juliana Pucca"],
+"5xbghy4r6c5bhoy7d5f7p3if":["jpschroeder.com","Justin Schroeder"],
+"5qu272okjounyfnsg4ch4srp":["jpnewsbot","日本語ニュースbot"],
+"46xslpr5e2p2fvzae744wozq":["jpetazzo","Jérôme Petazzoni "],
+"adsvq2my64lkzjzdnx7zmzkf":["jpedroads","Jabuticaba "],
+"kfdtlt5falutaf5uisljx4ap":["jposhaughnessy","jposhaughnessy"],
+"ajydi7k7jtmtu4h2dbqwkwue":"jpcaillot"
+}) // 2023-10-21T16:11:39.403Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

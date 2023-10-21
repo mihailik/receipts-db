@@ -23,5 +23,7 @@ var uz=(function(jsonp){ if (typeof uz==='function')uz(jsonp); return uz=jsonp }
 "vh76noz6vad2xsmvb2y2pqw5":["uzi","ethan"],
 "xf67emcnmhtlgp43ws3skhkw":["uzukism","uzukim"],
 "ctup3fqimbi7uh7cxaxzopzt":"uzuminium",
-"7yufwvlfrpdven33mjx5jrp5":["uzzi","Uzzi"]
-}) // 2023-10-21T15:13:31.323Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7yufwvlfrpdven33mjx5jrp5":["uzzi","Uzzi"],
+"qluuhd5hq3qdjjw23u6raoq4":["uzimaru.com","uzimaru"],
+"n2wqplvdbboafjfnnl2qdphl":["uzmancoin","Uzmancoin"]
+}) // 2023-10-21T16:09:33.530Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

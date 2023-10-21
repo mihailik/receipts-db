@@ -66,7 +66,7 @@ var ey=(function(jsonp){ if (typeof ey==='function')ey(jsonp); return ey=jsonp }
 "wowhnsxdlrfst42t5sc4sfxe":["eyvee","Eyvee"],
 "xi2ylhfoqjp4ajmma74hwley":["eyeofra","Eora"],
 "y2ooj7eugljgd23i3ttnhgef":["eyvind","Oleksandr Mamzurenko"],
-"y6x25uf723ia4kuw6vwdr7hm":["eyesontheright","Eyes on the Right "],
+"y6x25uf723ia4kuw6vwdr7hm":["eyesontheright","🎃 Eyes on the Fright 🎃"],
 "zq63xxfyxvokwlep6dokanxe":["eyesoflamia","Eyes of Lamia"],
 "2pnctwa7zdxzlqshqcp5agtv":["eyzed","Eyzed"],
 "54fv7oz2stusfw4bmevfm5x6":["eyronius","eyronius.eth"],
@@ -77,5 +77,7 @@ var ey=(function(jsonp){ if (typeof ey==='function')ey(jsonp); return ey=jsonp }
 "kak7xge3btfo7iyc3u4uvczq":"eyalharel",
 "3knky4xh7y2kiyv4vfcuh5fa":"eyecatcher",
 "v64h7ytufhuvqcgo35jrygpo":"eyehint",
-"5qcutpbyvdeodeajdm2dw23o":["eyupyusufa","Yusuf Altunbıçak"]
-}) // 2023-10-21T15:23:33.053Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5qcutpbyvdeodeajdm2dw23o":["eyupyusufa","Yusuf Altunbıçak"],
+"5hvrpvma55c4mnklnww2qufy":["eyneid","Dienye•❌Benimaru⭕️"],
+"k7fuiq3f423vfz4licia5yn4":["eyenx.ch","tntr"]
+}) // 2023-10-21T16:11:39.404Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

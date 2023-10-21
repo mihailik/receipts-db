@@ -66,5 +66,10 @@ var og=(function(jsonp){ if (typeof og==='function')og(jsonp); return og=jsonp }
 "wzswv25uszi7c5637ci7qoyb":"ogmilady",
 "ves7duebqi5klac4yetmbt7d":"ogulcan",
 "twqqx3nlt5kepng5jjjcwkuf":["oguzhan","Oğuzhan Şentürk"],
-"6gmte7qc77rfpxhy2bqfy4i3":["ogbklyngirl","Jan Addison"]
-}) // 2023-10-21T15:18:56.331Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6gmte7qc77rfpxhy2bqfy4i3":["ogbklyngirl","Jan Addison"],
+"dhfz42sbvykyhm76muxhrcqg":["oguh","Hugo☁️"],
+"5ynwhnlvdzypzol73a6goeej":"ogulcanevirgen",
+"42gitqeazccs3sououctnx7r":["oghenerie","Oghenerie"],
+"nlpb2wjzoc37hyz6wqlyofll":["ogikubokei","ogikubokei"],
+"s3m7d25bwzcnu7uajhrtetk4":["ogbonna.dev","Ogbonna Sunday"]
+}) // 2023-10-21T15:52:42.224Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

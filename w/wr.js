@@ -175,5 +175,7 @@ var wr=(function(jsonp){ if (typeof wr==='function')wr(jsonp); return wr=jsonp }
 "inwtbtofxkwvca2v62wqd6jv":["wren","Wren 🏳️‍🌈"],
 "4n5bnh5hepd742tgxfcrcu44":["wrathchild","Lou C. Fer"],
 "4vegytlctnvyw4z6x6hlslwe":["wrdl","wrdl - Your daily game!"],
-"fknznyjgi5wdhgjkne5gxdzu":["writer","Erika Lee"]
-}) // 2023-10-21T15:18:56.225Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fknznyjgi5wdhgjkne5gxdzu":["writer","Erika Lee"],
+"vuop7ri4lzj35jqgr6pngqny":["wredhyn","André Milton"],
+"duev6m2mn3zcuqm2y452yzve":["wruan","Well 🤠"]
+}) // 2023-10-21T15:47:53.364Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -30,5 +30,9 @@ var pg=(function(jsonp){ if (typeof pg==='function')pg(jsonp); return pg=jsonp }
 "am66jarg5ty2yqkwx3lyq5u2":"pgpforcrypto",
 "pi2uwzqdzwqoups6tb5p2szi":["pgorgels","Peter Gorgels "],
 "7xtq76fwwglnvcjluf27qoqh":"pg20",
-"m5jxvkvp6emcdko4lacdtdgc":["pgsonier","Patrick Sonier"]
-}) // 2023-10-21T15:22:01.880Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"m5jxvkvp6emcdko4lacdtdgc":["pgsonier","Patrick Sonier"],
+"pagmtxxp5mdxolk3lecbotdf":["pglotmike","Polyglot Journey (Mike)"],
+"py7bcfshmtzdn6bmlr53tbwo":["pgnu","ぺんぎんぬ"],
+"6pbqpnlhlex4g7nbdb6rtjbb":"pgn01",
+"imqur6hnss43tibzsxzcybcq":"pgn02"
+}) // 2023-10-21T16:03:19.775Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

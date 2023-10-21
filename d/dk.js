@@ -57,5 +57,6 @@ var dk=(function(jsonp){ if (typeof dk==='function')dk(jsonp); return dk=jsonp }
 "xirdjrrpa4bzchukvj6a3jig":"dkim",
 "3upmrif6l6s6hn4peb55lxem":"dkeith",
 "r6f7ay3cveine3x2zxs2mmkm":"dkroy",
-"rl66yja4aic7luftei54odk6":["dking17.com","David King"]
-}) // 2023-10-21T15:05:05.127Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rl66yja4aic7luftei54odk6":["dking17.com","David King"],
+"gv4uzbf6y6lfstrl26f5goxg":["dkcrypto13","DK🏒🥅"]
+}) // 2023-10-21T16:01:41.849Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

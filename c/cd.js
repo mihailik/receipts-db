@@ -35,7 +35,7 @@ var cd=(function(jsonp){ if (typeof cd==='function')cd(jsonp); return cd=jsonp }
 "krnxje7y2yt4neqtnbydoju5":["cdebont","Christophe De bont"],
 "lknf23ikltj3jogh2yrjg54y":["cdingens","Claudia Dingens"],
 "lxyjvn4253qzkdzlx6mtvvrd":["cdbaker","Christine Baker"],
-"m2tdiw6yphtre6p6m6skgzo6":["cdgoldstein.baseballprospectus.com","The Chorker"],
+"m2tdiw6yphtre6p6m6skgzo6":["cdgoldstein.baseballprospectus.com","Chugarte"],
 "ncy4klp4mqrlkxdgleg2gcqf":["cdeampersand","Super Nerd Eric"],
 "ndwxo4golm62cegnxcxvdkge":"cdvacilacao",
 "nj2qagq5vxnpw7o5jcvs2tpj":["cdsn","Canadian Defence and Security Network"],
@@ -79,4 +79,4 @@ var cd=(function(jsonp){ if (typeof cd==='function')cd(jsonp); return cd=jsonp }
 "nmpuku6fmx2dcm5sshqrq23x":["cdbobbo","Danladi Bobbo"],
 "zlog2bcyamawb3qnhsxokpaq":["cdc.cy","Cyprus Developer Community"],
 "wqtxr33ah3p2w2dyg6n3ih24":"cdram"
-}) // 2023-10-21T15:23:33.116Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T16:13:06.168Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

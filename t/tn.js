@@ -34,5 +34,8 @@ var tn=(function(jsonp){ if (typeof tn==='function')tn(jsonp); return tn=jsonp }
 "uwgm5moeevhn42ogtf3r5vk4":["tnk","TNK"],
 "j3znnnvonpzj65uyxs42fwve":"tnowins",
 "tdfroltocfncc3txa3rvlzxv":["tnrk","りこ"],
-"lb4ad2la43ybblkejmrjtmty":["tnccjesus","多摩ニュータウンキリスト教会"]
-}) // 2023-10-21T15:22:01.874Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lb4ad2la43ybblkejmrjtmty":["tnccjesus","多摩ニュータウンキリスト教会"],
+"gou3jpvhoei6x2arxwbxbfya":"tnevels",
+"gswxmvf454l7jzpszw34h2ed":["tnt-noc","TNTのく"],
+"oj6u76cxfn3vufsx74reidf3":["tnagasawa","@nagasawa.socialの変異体"]
+}) // 2023-10-21T15:49:23.127Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

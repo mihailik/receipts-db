@@ -137,7 +137,7 @@ var pl=(function(jsonp){ if (typeof pl==='function')pl(jsonp); return pl=jsonp }
 "f3lchujb7sw2le4qtfkazt5d":["plantedaruby","human bean "],
 "f65wpwikwj6dgbffldketka6":["platerillo","麩之介"],
 "fa2fi4nm7wdu6o6egeqwmpgf":"playzzorange",
-"fc2pvydgxwrkmjyq62355gdt":["plantchobo","와생🪻"],
+"fc2pvydgxwrkmjyq62355gdt":["plantchobo","와생 🗯️"],
 "fdn2cmaq4dyyqi2ea62er5oj":["plus886","康凱爾"],
 "fdo7osr5iz4zdquskjrmqp3a":"plunderpress",
 "fe5cy43bbxl37k3iylcy2jcf":["plantwitch","Witchy Ⓥ"],
@@ -416,5 +416,18 @@ var pl=(function(jsonp){ if (typeof pl==='function')pl(jsonp); return pl=jsonp }
 "wg6a4tbdmukfgwp7rvv7touc":"planeharvester",
 "pd3r4b5up2lroqhsgedatnan":["plotski","Plotski"],
 "74ccqww6qk7hsscecudsh65j":["platformmmm","Ryan"],
-"rbr6basost3ahch6qt7kop4q":["plaguelord","登録メールアドレス間違えた"]
-}) // 2023-10-21T15:18:56.210Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rbr6basost3ahch6qt7kop4q":["plaguelord","登録メールアドレス間違えた"],
+"imbdd3jbmz4sesp4dmhjdmjc":["plastichearts","felps"],
+"uaxhhr4f4x6vbkzmtrwyiyfn":["plutusart","Plutus.Art"],
+"pewueqw5o64yjpekeajfuezc":["pleasant","pleasant 🏂"],
+"45fasdqw6okcjlhf2bsd6cf4":["platypussdivva","Platypuss Divva"],
+"6dcn7247mljpqfdsfjblmoal":["plotsklapps",":plotsklapps 💙"],
+"cjsvngmb2vz6cgsqfu3ebmbj":["pliny","Pliny"],
+"phcb7qom55s7nvtbgtwhrsgy":"plinio",
+"webm6hna2nctl2goxcgoyk7a":["planetscale.com","PlanetScale"],
+"4e25n6dnhdq5nuib2kc762ot":["plants","플라바"],
+"vdz7jkje6zouzoocwabhpweq":"plumferno",
+"ambzuel4pdfkzpu7pwi6lyr6":["platypupu","오리넉울"],
+"uarfwb76445apu3aazc4yirh":["planetofgori","g.O.R.i"],
+"ov4ujxpofu4qzow6xwylzdxu":["pleasedelete","Alice Roberts"]
+}) // 2023-10-21T16:11:39.437Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

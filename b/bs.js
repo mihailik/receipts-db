@@ -12,7 +12,7 @@ var bs=(function(jsonp){ if (typeof bs==='function')bs(jsonp); return bs=jsonp }
 "bwbd4zzj5opyccu672t7xbrp":["bskyguy","blueskyguy"],
 "c2nnxxpuckisatkcyk2ffbwu":["bsky.ceo","Biscuit"],
 "c6vrsbtychgqiscix4prgr5i":"bstephens",
-"cabm2libde26dxie4s5dtxsu":["bskycat.com","じょん🍾🧀"],
+"cabm2libde26dxie4s5dtxsu":["bskycat.com","じょん"],
 "cgf3sw6ijfohewe5ldbg7phn":["bsimmering1","bsimmering1"],
 "cuwfxnqqk3hlauwywlxjn6o3":"bside",
 "cwgsncjuvmmdvnj6yvqxt5o7":["bsky.sanao.dev","sanao"],
@@ -109,5 +109,11 @@ var bs=(function(jsonp){ if (typeof bs==='function')bs(jsonp); return bs=jsonp }
 "llmgrcqfs3ahbfrr7zuo7qz4":["bsky.dad","Joe Garland"],
 "xgqwxvdsb4j2vgslkre5xybh":["bshums","Bryan Shumway"],
 "fz6p3de5vf2vmm6s5vqwph7p":"bsg",
-"3oxjqrcmxu4c5psai3s5dgm6":"bsusper"
-}) // 2023-10-21T15:06:28.752Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3oxjqrcmxu4c5psai3s5dgm6":"bsusper",
+"nfpvokrh2rvydzatulxd6vte":["bsky.ms","Mark Steward"],
+"claq4qmt4ogr35wnf23fqeol":["bsprague","Brian Sprague"],
+"jpafdjevqnlkwwwniguhdmvc":["bstern","Ben Stern"],
+"x7eie3miw3kekarurnhlcsbo":["bscott.social","Brian Scott"],
+"o2gxe4dbfa3ys4hgkailed6l":"bsky-net",
+"vgnw6s74o55qpq7tsjs2e33m":["bstract","Bstract"]
+}) // 2023-10-21T16:13:06.078Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

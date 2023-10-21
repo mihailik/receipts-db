@@ -42,5 +42,8 @@ var wt=(function(jsonp){ if (typeof wt==='function')wt(jsonp); return wt=jsonp }
 "gk3vci55chkd4h7h2idpubyb":["wtf","🦈🧢"],
 "a7lxznqkxslqm4lkmodrexiw":["wtfandy.com","chenta"],
 "lmetusgk35i7suscbdcyrtoy":["wtfsylvia","Rue"],
-"xolndiih3n7i2koqgi4ccwb2":["wtchcrft","sophie"]
-}) // 2023-10-21T15:13:31.343Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xolndiih3n7i2koqgi4ccwb2":["wtchcrft","sophie"],
+"ivr5d5xhodq4mzr43de5zobz":["wthu9q1oxffh6e7","군필여고생"],
+"qmjrlvpggyaszejkx3drohkv":"wttdotm",
+"7kkzgyg7mdqijjcuok3kfx4f":["wtfurr","설모 from purple🌈"]
+}) // 2023-10-21T16:08:06.386Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

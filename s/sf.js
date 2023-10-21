@@ -47,5 +47,8 @@ var sf=(function(jsonp){ if (typeof sf==='function')sf(jsonp); return sf=jsonp }
 "ijn6vkbaezrwcni4hfh57hft":["sfxmaven","Emily Lee"],
 "dnawjwzchslpxbxgntzuy3gp":["sfamato","Martin Murphy"],
 "rblqgvd2hmthdwlrtizirlvo":["sfhaine","Susan Haine"],
-"g3tkbdrk4q6plehfxjyfksaa":"sfc"
-}) // 2023-10-21T15:06:28.723Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"g3tkbdrk4q6plehfxjyfksaa":"sfc",
+"23a4af4yjyowg3eeanrqfmq3":["sftech4good","SFTech4Good"],
+"ug2aklzejp4bcsq4sk42kc6t":"sfcryptonista",
+"oodij4uglceel2ffcyzbtw42":"sforbes"
+}) // 2023-10-21T16:09:33.534Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -178,5 +178,9 @@ var sq=(function(jsonp){ if (typeof sq==='function')sq(jsonp); return sq=jsonp }
 "unkvroxgwlrx6ubud4ywzjuq":"square",
 "kqqjyhofpo4vsxpzgidphelz":"squarepixel",
 "wx4f73msrdyzwhzpbxshhy4x":["sqr","صقر"],
-"jmdqqvzamcf2aqwhmtga6gyg":"squirrelspacesuit"
-}) // 2023-10-21T15:02:48.260Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jmdqqvzamcf2aqwhmtga6gyg":"squirrelspacesuit",
+"7y2fzguy54ruryiq2jphfpvd":["sqcu","S*QCU"],
+"yibgm3vlwdsk7tk2emjhem66":"squeaky5565",
+"xsft57xxbflkn2zcoos5diwo":["squirrel.motorcycles","Smol Squirrel"],
+"fra6vvs57o2vty4gsjowztdn":["squid999","押尾"]
+}) // 2023-10-21T16:09:33.399Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

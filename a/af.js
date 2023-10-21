@@ -51,7 +51,7 @@ var af=(function(jsonp){ if (typeof af==='function')af(jsonp); return af=jsonp }
 "eb4dbhib6jj737nsbtseiyfy":["afterpay","ivermectin"],
 "eckylm3hueinqtl5rrwxiudc":["afterdark.kyzer.xyz","Kyzersmutt"],
 "ed4wfivyllgadj6ldfgptls4":["afteryou","Telepassenger"],
-"ejlsqev3skkupo5awtfparx4":"afterbaiu",
+"ejlsqev3skkupo5awtfparx4":["afterbaiu","바이우(BAIU/梅雨)"],
 "enkr5pcv7aqfpt32jv3jecul":["aferaldavid","A Regular David "],
 "erdtuvzfnjdawtdetkzppjok":["af-queerart","AF.QueerArt"],
 "es52lq4dc76agovg5qygwb2d":["afracturoff","🇺🇦Alex Fracturoff🇺🇦"],
@@ -166,5 +166,15 @@ var af=(function(jsonp){ if (typeof af==='function')af(jsonp); return af=jsonp }
 "hwjyqbhwaprd3yqvcmtqc2ou":["afrodet","afrodet"],
 "lgf2br4xdgdi25gs4l2famrn":"afia",
 "ylde4qgzrofoqjliedd37dnm":["afshinhdp","Afshin"],
-"d5qeh3dzlb3wbqy2y4wbpgke":["africtivistes","AfricTivistes"]
-}) // 2023-10-21T15:23:33.037Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"d5qeh3dzlb3wbqy2y4wbpgke":["africtivistes","AfricTivistes"],
+"le43ruytc5xmesxbriu5za6y":["aftersun","di"],
+"s7cnhgarax4i7hgiucftxle5":["afrasiabi","Afra Afrasiabi"],
+"fubislwohcq4dravyanmwurx":["africakenyah","Africa Kenyah"],
+"xlkkp3onies3kgjvsxkqtg5o":["afrishan","shantelle"],
+"ghs77f3aggcz62ytw5xbziao":["afzouni","مُصی "],
+"oh7pxb5a3mfskdz3lnv6pgzs":["afit.co","Aidan Fitzpatrick"],
+"7fl7mfk3dyowoiawxysu4z6f":["afomera","Andrea Fomera"],
+"polq5hl4hmoglhn254ko7xqd":["afraa","Afraa"],
+"fmiw2rhe2yd3hagmksuatodo":["afterecho","AfterEcho"],
+"wo6o4mjycn3ej76aecwe4udy":"afidede"
+}) // 2023-10-21T16:13:06.182Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

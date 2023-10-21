@@ -230,5 +230,12 @@ var ny=(function(jsonp){ if (typeof ny==='function')ny(jsonp); return ny=jsonp }
 "uuso3kafmobids47vnl6jdsd":["nydoorman","nydoorman"],
 "avmsirut4mnktwpxykkhmrv4":["nyoroyama","にょろやま(〜*'ω')〜"],
 "37hwswo42xunpi3sxzfb6g3p":"nylacollection",
-"vhh2fb57y5njvtbznuz75xmy":["nym","Nym "]
-}) // 2023-10-21T15:23:33.014Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vhh2fb57y5njvtbznuz75xmy":["nym","Nym "],
+"5vvdx5t6lbjw2adt2osh3irg":["nyattta","はちえん。坂田誠"],
+"w23t6dm7edwpzrb6sfvyqhq6":["nyancat","Nyan Cat"],
+"lae7eoz76zu5evifi4uxfjkc":["nyamph","にゃんふ"],
+"qynpdg2yavg6j7fwm4kc2gln":"nylarosebeast",
+"puxy67mr53q37zbuinny35nl":["nyfromny","Ny "],
+"2b2eaabnoagv2nir3xo3kr6t":["nyn","NYN"],
+"juy7eaw6md27fppvw6rwrkvs":["nyxthebaryonyx","NYX"]
+}) // 2023-10-21T16:04:47.694Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -19,5 +19,6 @@ var ue=(function(jsonp){ if (typeof ue==='function')ue(jsonp); return ue=jsonp }
 "vmedlvb5pt7bgrhhvap5xtdq":"uersfeld",
 "x2bxiu2mxk32fqphtjje7dg7":["ueno-k","ケンタロウ"],
 "f6dczhr6ystxn3rkgk45reb5":"uefa",
-"czuv7gwt6z6jibxvupkbyxj2":["ueno","Sen Ueno"]
-}) // 2023-10-21T14:55:58.467Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"czuv7gwt6z6jibxvupkbyxj2":["ueno","Sen Ueno"],
+"ocpvuwfs4nz5llw6txfpc2sl":["uefyerryeni","Uefy"]
+}) // 2023-10-21T15:27:18.268Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

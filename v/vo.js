@@ -142,7 +142,7 @@ var vo=(function(jsonp){ if (typeof vo==='function')vo(jsonp); return vo=jsonp }
 "gj7u6ffipoeb77hnph3vcnqy":["vonzent","Vonzent"],
 "gl3qvr7zsarwmcyw76d3oy7c":["vousk","Gaël"],
 "gokoajtd6bydspk6o7wb6fnd":"vonbateman",
-"gulgraxdu6fcjpitxjniqn55":["vortexegg","spaghettification engine enjoyer"],
+"gulgraxdu6fcjpitxjniqn55":["vortexegg","Lovecraft's Borges Library of Babel"],
 "h3ztc6a7t25l2ebbifq3jrsh":["voyager89","Austin"],
 "h5e6y7254m5yv66o2md2jgri":["vorrenthalla","Willow"],
 "h6rr5emhgqndgoy5kxn75kw3":["vollmeisi","@Vollmeisi"],
@@ -378,5 +378,11 @@ var vo=(function(jsonp){ if (typeof vo==='function')vo(jsonp); return vo=jsonp }
 "6amm66t2d2jsdkzfbhr4xff7":"volpe",
 "le5pbmvaj74zf2ilit2htu4t":["voltairesmoked","Eli"],
 "3pjbdgyx7kvpo4mghr57ahed":["vondoom","VonDoom"],
-"4hbepe65a4465yddt4uckffl":"vortux"
-}) // 2023-10-21T15:18:56.312Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4hbepe65a4465yddt4uckffl":"vortux",
+"ocfmnlclhzvn3svauvdul7gz":["vocesabianey","Você Sabianey?"],
+"yjmj23r3y5v5xm4ehllhxexw":["voja","Voja"],
+"35vooulztljvg2ko6g3xzstd":["vostok061","ヴォストク"],
+"nfmcrngxjhffymqwynljivov":["voyager.studio","Voyager Studio"],
+"oyi7irwwh5xeh6aklfp7pkdc":["vortex","TED Vortex"],
+"2k4zszjbnqcxtqxpm4hyusut":["voodoo","Wojciech Owczarczyk"]
+}) // 2023-10-21T16:08:06.281Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

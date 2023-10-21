@@ -20,5 +20,8 @@ var xu=(function(jsonp){ if (typeof xu==='function')xu(jsonp); return xu=jsonp }
 "7uwp2pdahtyxr3jz744ufz3b":["xuxa","Xuxa Backup"],
 "k74k4gtqsfir33is4keoalyp":"xugardere",
 "63rvhlxzwphoaxfryqir67fz":["xuao","Xuão"],
-"oepelw42hm3rvbk64ngplsyc":["xuliaaquino","Julia Aquino"]
-}) // 2023-10-21T15:23:33.026Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"oepelw42hm3rvbk64ngplsyc":["xuliaaquino","Julia Aquino"],
+"5q3k67vuqkpqp5hbsjee5tlz":["xuxu","XU"],
+"6dvhlo6jr2rhepg3z6hs6orh":["xuorig","Marc-André Giroux"],
+"qovr4fwd7kk5dqhl73cgdo4z":"xuliana3"
+}) // 2023-10-21T15:57:58.088Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

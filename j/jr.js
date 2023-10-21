@@ -138,5 +138,12 @@ var jr=(function(jsonp){ if (typeof jr==='function')jr(jsonp); return jr=jsonp }
 "6r7cghkthz6x4glvkg5nhfag":["jrice","J Rice"],
 "n5ard5fhsse24jdbek6aeatb":["jrands","Justin Rands"],
 "4zc5esra3f2zw3ijbe77uo4s":["jrd","jrd"],
-"dlrknoypbyxxkaswanaqjw6z":["jr-howell.com","J.R. Howell"]
-}) // 2023-10-21T15:22:01.936Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dlrknoypbyxxkaswanaqjw6z":["jr-howell.com","J.R. Howell"],
+"aws43lpuiduwtp7f6wbdur3c":["jrkive97","may "],
+"ank2y7v6clvpq5zbaoxazqic":["jrlchaves","Jorge "],
+"xzwt4osggnshop6pqlq7yjm7":["jr.dev","JR"],
+"rdzwxwlrildtbpvdyyzouggu":["jrysana","John"],
+"5fvcb4fgj525wp53a2vbck2w":"jragunath",
+"5nt6i5hstud5mftrudqwzypp":["jr.ignac.io","jr"],
+"wlomrkhqhdqx2lenanpuokf6":["jrprince","Jr Prince"]
+}) // 2023-10-21T16:06:40.649Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
