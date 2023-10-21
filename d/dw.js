@@ -89,5 +89,10 @@ var dw=(function(jsonp){ if (typeof dw==='function')dw(jsonp); return dw=jsonp }
 "36by6hqyryd7msx75plprlhm":["dwt","Tango, Delta Whiskey"],
 "bbjguyd3rla67axwyyj4ikgs":["dwayneduggerii","DUGGY"],
 "vh7jknc7v5dc3ljeihxuffcv":"dwitmer",
-"4sn2m7v6wg2ovfr33lsoieye":["dwebxr.online","dWebXR"]
-}) // 2023-10-21T20:59:41.484Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4sn2m7v6wg2ovfr33lsoieye":["dwebxr.online","dWebXR"],
+"oyzvkx34pwgbqykcvmbdn3jy":"dwdowning619",
+"uexwebdameonqckawuz3u5oy":"dwbinny",
+"o76vigrphfanbgkdk2so2cil":"dwayned",
+"6csxydty5tqjezkrqvjzarkk":"dwebseattle",
+"72tvooiyocjfti3vyq6twvb7":["dwnstrm","dwnstrm "]
+}) // 2023-10-21T21:43:19.887Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

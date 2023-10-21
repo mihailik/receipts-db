@@ -89,7 +89,7 @@ var yu=(function(jsonp){ if (typeof yu==='function')yu(jsonp); return yu=jsonp }
 "alxt5m2h6p7lbilshrzzyce6":"yuumisang",
 "an6fywzmol6sorrppudi53ke":["yuriboats","Nico🍜Hadrain Eveningshade"],
 "anbc3lf6auhoslhmbhagfrtw":"yuricatslash",
-"angz4dokpouxkejvgdrwkyq5":"yupha",
+"angz4dokpouxkejvgdrwkyq5":["yupha","yupes <3"],
 "arw5arkcmtgdqd2iqjiy2tjo":["yungandykaufman","pat"],
 "as6rcafyvnnqlem5u73d2lq7":["yukikurage.net","ゆきくらげ / yukikurage"],
 "ass5p4znxgsrhc4rge4giydv":["yuriiproniuk.com","Yurii Proniuk"],
@@ -607,5 +607,20 @@ var yu=(function(jsonp){ if (typeof yu==='function')yu(jsonp); return yu=jsonp }
 "h7blwtkubv7xsysyjdlap4ax":["yubnub","yubnub"],
 "ph7647qm2elb7d7jjvmekkd3":["yuuuk","ゆっき"],
 "urhlnnhxmew3wjivlep6dyik":["yukyu.net","yukyu"],
-"fsvkdjr6kmzuljouyau4bc7c":["yugiamane","amane."]
-}) // 2023-10-21T21:03:27.148Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fsvkdjr6kmzuljouyau4bc7c":["yugiamane","amane."],
+"ucgxg3kfsb5mboq273go5fzr":["yuniverse","평온맨"],
+"f73bn4iw5sjwxs6qktqr6iaz":["yukai.dev","Yukai Huang"],
+"e6w5lz6uxzqaelzgklq2h3qg":"yuseung",
+"2drjrysq4llblpb5gmljr4os":["yuiseki","yuiseki"],
+"eaijcxn4fsx7sbctxjtagagu":["yut","yuhei takahashi"],
+"okhw4wcm5gqo7oyzbuv5v2kw":["yumiya","弓屋 晶都"],
+"wl5ffir75y2o2hbds66ka7m5":["yugemayuge","弓削まゆげ"],
+"oazw743kydbt62zoevnlx646":["yurakimakovych","YURA KIMAKOVYCH"],
+"2jz7buvyihupkhui4mmkdtkj":["yui6334","𐊲𐋍𐊦"],
+"67p6232d7tvddkrnilhp5b4l":["yuriseo.starrysky.social","흐김찌"],
+"riduunbszo6vvj7rm2dba36u":["yuuki-minori","勇希 実乃里（ゆうき みのり）"],
+"4g5m6fmih6bga5wycxq5yjo3":["yukichi","ゆきち"],
+"rultckox4gkcbgqbijfeahds":"yuu3",
+"uegrikuzapmwo6fsqwnovqzv":["yuutangadget","ゆうたん"],
+"onwyziw2whrhjpg3vwxm2pav":["yurin87","白優"]
+}) // 2023-10-21T21:45:06.235Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

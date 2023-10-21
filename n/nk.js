@@ -13,7 +13,7 @@ var nk=(function(jsonp){ if (typeof nk==='function')nk(jsonp); return nk=jsonp }
 "krsyb55bynivjwql3nscroxs":["nkennerknecht","Der Kenny"],
 "lokz5dhq2fk6lxiitz7di5ua":["nkornek","Nick Kornek"],
 "lwz5nmzyfbir5ftoqmwntbm7":"nkaustnes",
-"muslnzxqartd66kckkqem6qs":"nkjemisin",
+"muslnzxqartd66kckkqem6qs":["nkjemisin","N. K. Jemisin"],
 "mwukyjnrkikjvkb6bre6pcf5":"nknkftg",
 "okixfx2tekq3xzjcyksopnbf":["nkryptedmusic","nkryptedmusic"],
 "oqddlgapz6kgcl62mc2vx4mz":["nkenk","이사 온 케너프"],
@@ -45,5 +45,9 @@ var nk=(function(jsonp){ if (typeof nk==='function')nk(jsonp); return nk=jsonp }
 "qsulqihzrbegzvme4amepjpw":["nkechikwenu","Nkechi 💕"],
 "kjpq57bi54n2xqtnbc7z7x2h":["nkouevda.com","Nikita Kouevda"],
 "ylekw6zj4ljwjdq65skp5vq3":"nkmrax",
-"5rcsruf5cnvi76r6i3gouuem":["nkem","Augusta Savage "]
-}) // 2023-10-21T20:39:21.263Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5rcsruf5cnvi76r6i3gouuem":["nkem","Augusta Savage "],
+"bwhiwrjiyl62w3broqwma47m":["nkirunjoku","Nk’iru. Njoku"],
+"gywbsuhby7oipfq5f4wdtyyj":["nkikigotit","What’s the 411 hun?"],
+"cjenbwmtg6wpm6r7wmoz2az5":["n-k","Nick Kazan"],
+"upusk7zhxqmatnvd3ge2kyr3":["nkt","nkt"]
+}) // 2023-10-21T21:28:13.234Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

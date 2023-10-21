@@ -26,5 +26,6 @@ var gk=(function(jsonp){ if (typeof gk==='function')gk(jsonp); return gk=jsonp }
 "iuu4bmstc45bfs6jxnh54n3i":"gkd",
 "q76onrf4kxd3gihtrkmzdcoa":["gkn","Gkn"],
 "fn2tfq6jicrjlzlqurwweumf":["gk3.online","George Kedenburg III"],
-"qsn4dltrlrp3san3d43dqmqj":"gkngkc"
-}) // 2023-10-21T19:45:53.373Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qsn4dltrlrp3san3d43dqmqj":"gkngkc",
+"3q2byrpprktig5pwsw4xabhs":["gkgknnr","ななり"]
+}) // 2023-10-21T21:32:58.532Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

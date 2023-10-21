@@ -172,5 +172,15 @@ var jb=(function(jsonp){ if (typeof jb==='function')jb(jsonp); return jb=jsonp }
 "oiuft6xcoak6hdtvwxfbffez":["jballou","Jarrod"],
 "mkz7nvjxl4tlqkc534bcvmn5":"jbucket",
 "cwh3ic3gxgsks6rigzqcwpuv":["jb308","Jb"],
-"kh5zvdoouo4e7nqfpurayd2s":["jbuddavis","Joshua “Bud” Davis"]
-}) // 2023-10-21T21:03:27.157Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kh5zvdoouo4e7nqfpurayd2s":["jbuddavis","Joshua “Bud” Davis"],
+"7wg7te7bu2kyjugx3esklpy6":["jb.lamaigne.re","Jb"],
+"mxuvu5zwlz6tytfhdy4ulez4":["jblank","Joseph Blank"],
+"rj7nlruukyhpdudnv72bh7ck":["jbscript.dev","Jonny Buchanan"],
+"d6mkeocv5n75hsdawwh3zwev":["jbrotherlove","jbrotherlove"],
+"ms4dzr3m4o5ns57pk4uinu7j":["jbillinson","Josh Billinson"],
+"b5zu2hxmptgsjq5wszcbumyf":"jbergin",
+"ff2553qftdrvva6m7qtjbytn":"jbuck",
+"rvke5btasdjisrftm3g6wz6p":["jbambridge","Joseph Bambridge"],
+"b26tnbt4n5fsf4wcbzna6ubz":["jbwashing","John Washington "],
+"hluak7ia3jgmiriupetd5vng":"jbassi"
+}) // 2023-10-21T21:43:19.889Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

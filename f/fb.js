@@ -24,5 +24,7 @@ var fb=(function(jsonp){ if (typeof fb==='function')fb(jsonp); return fb=jsonp }
 "m3i2pitdwgicgyvibvwu7ow4":["fblauer","Fred Blauer"],
 "ixvg77lghsqbo2tesotz6rmm":["fbn.social","fabian"],
 "ial6mgfrmv4whslyajcwoia3":["fbjork","Fredrik Björk"],
-"uovxcrlto52sdtzw6w5sesz3":["fbn","Fabian"]
-}) // 2023-10-21T20:40:55.272Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"uovxcrlto52sdtzw6w5sesz3":["fbn","Fabian"],
+"eac6ujj2omppgnfucyyx6t4v":["fbbp.dev","ふーばー"],
+"dez2jdjcykc4xrlu6z2tua46":["fbajak","Frank Bajak"]
+}) // 2023-10-21T21:12:33.089Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

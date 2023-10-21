@@ -48,5 +48,6 @@ var xn=(function(jsonp){ if (typeof xn==='function')xn(jsonp); return xn=jsonp }
 "vwsz6rgebkqw6raiusza53ls":"xn--7p9h",
 "ufovya7t667ewhidvvf5wa3h":"xn--h78h",
 "foku5ai7rm4r7mkzkws6jxxl":["xn--d1alsl.xn--p1acf","Roj"],
-"jlpx4xyz53tao7nk6p5hh6bd":["xn--08j8cqe.jp","けびん"]
-}) // 2023-10-21T20:03:09.746Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jlpx4xyz53tao7nk6p5hh6bd":["xn--08j8cqe.jp","けびん"],
+"mx27lxx7uqura4jp5bkty3bc":["xnewscorp.com","XNews"]
+}) // 2023-10-21T21:18:48.085Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

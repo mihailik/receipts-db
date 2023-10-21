@@ -53,5 +53,11 @@ var wt=(function(jsonp){ if (typeof wt==='function')wt(jsonp); return wt=jsonp }
 "x4i7ijkpnskb65wparnad32w":["wtnbgo","wtnbgo"],
 "evhpubt76kjtawv27prjzicu":["wtmkorea","Women Techmakers Korea"],
 "ij5o2fgunhw52kwuhiq5gnr4":["wtftulio","Tutu "],
-"ksspcfqrrjqdxo74pul62zoo":["wtm35","わたみ"]
-}) // 2023-10-21T20:56:39.612Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ksspcfqrrjqdxo74pul62zoo":["wtm35","わたみ"],
+"hs7rnge4s2clbcxpmwhdtvk5":["wtfjuau","𝕸𝖗. 𝕾𝖈𝖍𝖜𝖆𝖗𝖙𝖟"],
+"lgrkiomk3sdorzc6s3iriwpv":["wtshm","Kenta Watashima"],
+"zipmp2mxh5ltaoyvmkwxl627":"wtayson",
+"gkesntnvgscvarg3uvyqzpsd":["wtbs","Waiting To Be Signed"],
+"bto5ylcasx7wemv5kjzkeil4":["wtf-geovana","Geovana Santos"],
+"llguwric3jmvdxocy6brxada":["wtfismyip","wtfismyip"]
+}) // 2023-10-21T21:34:29.165Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

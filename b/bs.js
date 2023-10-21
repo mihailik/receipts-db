@@ -141,5 +141,13 @@ var bs=(function(jsonp){ if (typeof bs==='function')bs(jsonp); return bs=jsonp }
 "5hktsifelrhhdiyendtukpwk":["bsaltas","Betül Sare Altaş"],
 "fwtzpcf3drekbd3ola5nn23c":["bsbakery","大久保ゆう(OKUBO Yu)"],
 "mjwxyanxxx5mr23h5zwgmidt":["bsdim","BSディム"],
-"bepd6gvgwfn6n7xtc6llvsyd":["bstoly","Brenda Stolyar "]
-}) // 2023-10-21T21:03:27.186Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bepd6gvgwfn6n7xtc6llvsyd":["bstoly","Brenda Stolyar "],
+"i3ppltsf4skwc23umko2dxoz":"bskyweb",
+"3vwshx3jo4ii66dkdfuik52k":["bskysocial256scca","Noname"],
+"zaii7vqwdduhwsbltsmiibef":["bskyjp","DSA"],
+"cbgs25nmmmip3nwia6laj67n":["bstrader","Brad Strader"],
+"veztsczykvh4htnrivjovup2":["bschul","Brian Schulmeister"],
+"qimlk6atl7tqbew5qizq73lt":["bso","BSO"],
+"rpmetkzuwevvr4b5hgxxdx3c":["bsky.tannu.cyou","Etone Sabasappugawa "],
+"kxqhxlxyjcgiyrgpsrijurv5":["bskycreators","블루스카이 연성러 모음계정"]
+}) // 2023-10-21T21:45:06.138Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

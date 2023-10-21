@@ -318,7 +318,7 @@ var or=(function(jsonp){ if (typeof or==='function')or(jsonp); return or=jsonp }
 "w2fbte4i4zb4bizs53mr4xyk":["orangist7","orangist7"],
 "weepuvekcnexr4oqh5y5hdl4":["ornamentalseashell","ornamentalseashell"],
 "wl32q4hzsrzcevc6thxsxy2m":"ordinarywolf",
-"wnu5y5cax645b62ijmcrvjpi":"originalbigdan",
+"wnu5y5cax645b62ijmcrvjpi":["originalbigdan","Dan Brewer"],
 "wp2l62scy3yy4oxjsh635ynq":["originaljustjoan","Just Joan"],
 "wr5fkyrhedi3nk2nynj2oka5":"orrhanen",
 "wtdzzfgzjpirnk5wvpjutqoy":["oracularhades.com","OracularHades"],
@@ -450,5 +450,16 @@ var or=(function(jsonp){ if (typeof or==='function')or(jsonp); return or=jsonp }
 "jdh4wd2o27kvbmvkxfqonftd":["ortile","Matt Ortile (or-TEE-lay)"],
 "nmc7vwvhj74hmpxio6fimhix":"ormz",
 "fbhrml5n7vfnfx75s2jguquy":["orikol","Ori Kol"],
-"n7jobs4rq53gsk56qhmutbhe":["orchardbeach","Orchard Beach"]
-}) // 2023-10-21T21:03:27.059Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"n7jobs4rq53gsk56qhmutbhe":["orchardbeach","Orchard Beach"],
+"f3bjdvzb5ufbj6knhkrygrjk":"orakuru",
+"6xwoxicqn5rky6owgb374h4e":["orderhub.ir","Order Hub | مرکز سفارش "],
+"wdldtess5bw6jqoslnumw2gf":["oreo","🌞"],
+"yt34nwratrgw5jaja3g2nexc":["ordnael","leandronov "],
+"6ry4a5zqqxupw7git7gzuqhl":["orlandogomezt","Orlando Gómez Torres "],
+"xqkyzf4stgu6hjnmmd35kckf":"oriol",
+"cot3cyaq5x54mzogwqjjmrql":"ordinals",
+"vkkyjn5nvmadwyjtcxtp5feb":["orchid","the Love Detective "],
+"es6xorrlcv4avez4soy6ceif":["orama","OramaSearch"],
+"zg7vcvjburufgmwrb4vrykee":["orgmode","Emacs Org Mode"],
+"ncq2y53plbeys53ukaq2nfkw":["orkun","orkun"]
+}) // 2023-10-21T21:45:06.149Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

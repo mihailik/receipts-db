@@ -500,5 +500,19 @@ var cu=(function(jsonp){ if (typeof cu==='function')cu(jsonp); return cu=jsonp }
 "evggwcvhnawhabal7zaqlrvz":["cube.april.social","April King"],
 "wdjubhr4qc4geyl4yzpllwmj":["cubo","Cubo"],
 "2crpxa4cf6aliuokexsovh4v":"curryyylife",
-"yqhwzkikevjsjidxuy6osxvg":["cupraimen","rai (era céu azul)"]
-}) // 2023-10-21T20:54:58.179Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yqhwzkikevjsjidxuy6osxvg":["cupraimen","rai (era céu azul)"],
+"rv5rggvdgieg4jg6cxybrcr3":"cu-head",
+"c2uv6dbizcdrzlkywlzxdfhe":["curacapital.io","CURA"],
+"vqtevsnbprtvlrul7c3c6pcc":["curry-bun","Curry Bun Radio "],
+"etcuqylwenb7tcvowp3mbkkt":["curtmega","Curt Mega"],
+"klxxcai3dfet4r22hpnhh4yu":["cubicflo","Jacqui"],
+"6vdeoocikd23ggxxzzg2pf3s":["cuttlefish","competentcuttlefish"],
+"3s3eac4qyozqkcwzzgg5lfds":["cure-tmk","cure-tmk"],
+"iua7ockrxknj7zvzfa6e35zd":"cumhuriyet",
+"tc7llu4zi6ibwg2dqazd7t54":["cuneytozdemir","cuneytozdemir"],
+"unl6ojz33lohaomupjhzstz4":"cuebanpete",
+"bp5wynwnu2kir57leuarlft7":"cupd",
+"wctlwy37ithnt3ql4faen6gl":"cuurlyfries",
+"53mfep2djefrsail3fqqqfg7":["cuteiosdev","Amy"],
+"xk5q6ja7cwhnn6zicwmtqduo":["cut","Twink"]
+}) // 2023-10-21T21:43:19.937Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

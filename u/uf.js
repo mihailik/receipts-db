@@ -16,5 +16,7 @@ var uf=(function(jsonp){ if (typeof uf==='function')uf(jsonp); return uf=jsonp }
 "mk6oyvbdyyivwhpzx2j6cdwo":["ufuk","Ufuk"],
 "x5yfwmnv7d6nxomn3fnz4gvz":["ufgator","Grandma Crypto "],
 "czuqf5k75gh7djg5u3qnvtkg":["ufosu","ufo👽"],
-"7lxhftph6qrngsynih3txift":["ufo-shane","UFO-Walrus"]
-}) // 2023-10-21T20:47:44.184Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7lxhftph6qrngsynih3txift":["ufo-shane","UFO-Walrus"],
+"blph45qhwkl26u3gvn2tmfmv":["ufoclub","UFO"],
+"zbwfi5intf3x7cbqf2bxagso":["ufonft2","Lolipop Mary"]
+}) // 2023-10-21T21:23:55.126Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

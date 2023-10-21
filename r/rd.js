@@ -57,5 +57,12 @@ var rd=(function(jsonp){ if (typeof rd==='function')rd(jsonp); return rd=jsonp }
 "lzfa4bxkxtnf4khkg2ljfv4c":["rdohms","Rafael Dohms "],
 "qgs2re3bgndgbdhizvetdyxx":["rdrozd","Robert Drózd"],
 "66f7umqe44p727pjuzhx4dl4":["rdmc","David McCoy"],
-"7fffftzydouq6od6jquhol2v":["rdwncuk","ridwan"]
-}) // 2023-10-21T20:47:44.165Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7fffftzydouq6od6jquhol2v":["rdwncuk","ridwan"],
+"irxikvsdxgpyvnwsdpqfhmlf":["rdgmartin","David Martin"],
+"n2kxrnmse7expcjxsafjdtwh":["rdtladygaga","RDT Lady Gaga | Fan page"],
+"qppfmhrrjtqfcl7eyehmb6gp":"rdegges",
+"faainx76fmqlwcz75pvdimiv":["rdsouza23","Raul Souza"],
+"brugjizan3riside7yiyqp6f":"rdh",
+"gycdv4z5vibo6hou6binuc43":["rduarte","Ricardo Duarte"],
+"lne6bj76yvwayaonqzd7zsom":["rdmpage","Rod Page"]
+}) // 2023-10-21T21:45:06.235Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

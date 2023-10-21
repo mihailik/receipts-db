@@ -49,5 +49,6 @@ var lc=(function(jsonp){ if (typeof lc==='function')lc(jsonp); return lc=jsonp }
 "qqh26wyyfeu37i762jc3yb2g":["lcoder","کدر خندون"],
 "bsax2z6bbugsvljtmzwq4vrv":["lcas.dev","Luca Casonato"],
 "ghek7zcov2jvizgouiiwzbe6":["lce","Louisville Clinic Escorts"],
-"zh5eqvbjkwze3v472b5q2mvr":["lchamb","lchamb"]
-}) // 2023-10-21T20:59:41.473Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zh5eqvbjkwze3v472b5q2mvr":["lchamb","lchamb"],
+"kijks4jlp6dbzhey2reqqmcz":["lcibiarque","Alcibiarch"]
+}) // 2023-10-21T21:34:29.194Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

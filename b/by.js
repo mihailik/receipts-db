@@ -162,5 +162,12 @@ var by=(function(jsonp){ if (typeof by==='function')by(jsonp); return by=jsonp }
 "ytbelq4eki45gdad7okfq7en":"byronhsu",
 "pmpj5gssorce5ilc6j5ks4za":["byori","byori_L"],
 "72ixbqwrgmffeexcm5chzk4z":"bystephen",
-"bfwjg3xw2o7vcjxk6jzz3vdq":["byconniechang","GM Connie Chang 🌈🐸"]
-}) // 2023-10-21T21:02:03.806Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bfwjg3xw2o7vcjxk6jzz3vdq":["byconniechang","GM Connie Chang 🌈🐸"],
+"leqm3xxuh7jcqj42zctjjsny":["byrontau","Byron Tau"],
+"xon2tfirjh7ayfkt5ysvxeku":["byronsmithmusic","Byron Smith"],
+"ifvbznep5lzsfmwmlu6sqylm":["bydanielvictor","Daniel Victor"],
+"wrjuovkn7hrldewz4gbwdkjr":["byoyakud","病院薬剤師D"],
+"tqerov6a4bvvvr44xvlxhqxo":["byakuya","Professional Loner "],
+"susctzbfe7draeljmcwulw47":["byteflip","Bret"],
+"ywucbz3dtqkrg4igpfjzo3dh":"bymywitts"
+}) // 2023-10-21T21:43:19.941Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

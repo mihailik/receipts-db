@@ -23,5 +23,7 @@ var yr=(function(jsonp){ if (typeof yr==='function')yr(jsonp); return yr=jsonp }
 "oyijxsvbtwm755glqhbof7am":["yrwrld","your*world "],
 "hrnwofbcq7w5f663c3nm32wk":"yrvo",
 "lkxwxjr7y43ft7y2vipf2afr":["yrik","kawai takashi"],
-"pqcvlz7wyklpxvq4yzavf3no":["yrcncld","yourecancelled"]
-}) // 2023-10-21T19:45:53.381Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pqcvlz7wyklpxvq4yzavf3no":["yrcncld","yourecancelled"],
+"trnuj4skea63mkk2j5chduqj":["yri-so","de jesus"],
+"c5n7dssbfdme5lu32rsiwybv":["yrkes","Malmö Yrkeshögskola"]
+}) // 2023-10-21T21:43:19.945Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

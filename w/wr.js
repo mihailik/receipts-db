@@ -17,7 +17,7 @@ var wr=(function(jsonp){ if (typeof wr==='function')wr(jsonp); return wr=jsonp }
 "56lxbboahlxt34myxn5eb4nh":["wrestlingismylife.fun","ぴょん吉"],
 "5f5hby2xpxk4s7erth4umch5":["wrewdison","The Wrew Ⓥ"],
 "5kieilrh7zo37xwlpro4okhp":["wrna","فطيم العتيبي"],
-"5zbvredb4ovf3wrcslt56czc":["wrathhussy","✡️wrathhussy"],
+"5zbvredb4ovf3wrcslt56czc":["wrathhussy","BITCHhussy nazi puncher"],
 "6475bqotoykfmlwrx5lwvixf":"wrenn",
 "67asv657xqkft6nrwkcy3inm":"writercrafter",
 "6bkniybzbdccqpsw2yc6ip5f":"writrzblok",
@@ -186,5 +186,11 @@ var wr=(function(jsonp){ if (typeof wr==='function')wr(jsonp); return wr=jsonp }
 "adqr5f5ak3pljq7yibb2jksi":["writer2","Richard De A'Morelli "],
 "z2354eacssfynhcdpnm55lth":["wreynoldsnz","Will Reynolds"],
 "atorvdn5gbxljrrvv7qyb63c":["wrongjohnsilver","Wrong John Silver"],
-"rxxd3tqa5axggyjz37hprcdj":["w-r.me","Ben Weinstein-Raun"]
-}) // 2023-10-21T20:47:44.294Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rxxd3tqa5axggyjz37hprcdj":["w-r.me","Ben Weinstein-Raun"],
+"e3gfdjwxtmwyacr4vi7x6wsr":["write2liv","The Notorious L.I.V."],
+"jos2mbwivqlxvqq5ztxd5fcg":"wrigley",
+"52xrgx5cwdkwk4e6ngrf4xcd":"wrgree",
+"avzsto4k7rsk6koblzsyny46":"wraeyynees",
+"u4tkduha3sraz5rw4jwdggqo":"writerwoodruff",
+"6wtvg6ik44thgxxjf26hhhqz":"wrathza"
+}) // 2023-10-21T21:39:40.429Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

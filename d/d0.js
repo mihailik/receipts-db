@@ -62,5 +62,12 @@ var d0=(function(jsonp){ if (typeof d0==='function')d0(jsonp); return d0=jsonp }
 "hkujx6anplmpdaysfsmok2wx":["d20culturebr","D20 Culture"],
 "cjzxsmx5bpv3ycxirje2maph":["d8373b.nightsky.social","이방인🎗"],
 "s4dd7wbfc27oy3uowrmedyia":"d2fn",
-"6ybllbge6pavnojxv2fouo4v":["d11r","Dragos Strugar"]
-}) // 2023-10-21T21:03:27.072Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6ybllbge6pavnojxv2fouo4v":["d11r","Dragos Strugar"],
+"q5q6p3h2meinct46ftb4saks":["d0pefish","Dale"],
+"2f4izvvg5esfjdyxnbfneb3n":"d0khtarak",
+"xiudlv2spdaeq6kg4ezz6j46":["d3n1l0","Den"],
+"bqia5rttu545wiykvtifver5":["d08890","N. Bourbaki, Dr Chad Latino"],
+"lgf7nmpa7hb7r6jd6n5nlgc2":"d11d.energy",
+"37hdja55oktu3eglkpkblwxc":["d4ic","@d4iC"],
+"jjlatypbiputyuwh7d6q2alk":"d1d4c71c"
+}) // 2023-10-21T21:41:54.964Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

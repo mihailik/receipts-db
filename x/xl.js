@@ -15,5 +15,6 @@ var xl=(function(jsonp){ if (typeof xl==='function')xl(jsonp); return xl=jsonp }
 "dlhtw2r36ugu2xwudfnhkzy4":["xlsky2023","XL"],
 "ceyu4sysotf2lr3523d4avwa":"xlvii",
 "dq6guzbsxa5k62sn55ovtswq":["xlsx464","달땡"],
-"7efvin6gjzgv5gge4ok6fb7m":["xlaszlo","Laszlo Sragner"]
-}) // 2023-10-21T16:11:39.408Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7efvin6gjzgv5gge4ok6fb7m":["xlaszlo","Laszlo Sragner"],
+"ra5ig5rtvtbecw2efgp5eauf":["xlovelila.com","Lila 💗"]
+}) // 2023-10-21T21:31:22.641Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

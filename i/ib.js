@@ -70,5 +70,9 @@ var ib=(function(jsonp){ if (typeof ib==='function')ib(jsonp); return ib=jsonp }
 "fdxrabswgacmy5i2jp4to42v":["ibsenism","조교(인더스카이)"],
 "4auuyowexd3bdjvg7qjexhrw":"ibw",
 "j7vdh3izjzqgqe3t4luudru7":"ibd",
-"ol6om4ss5qyoitje6h6cuosc":["ibrice101","izbr"]
-}) // 2023-10-21T21:03:27.134Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ol6om4ss5qyoitje6h6cuosc":["ibrice101","izbr"],
+"rqaw6s4zvxcqyotrzm4rtjlw":["ibrahimaker","İbrahim Aker"],
+"xebauaiuuakwkn63wejpmhzr":["ibouncebr","i Bounce BR"],
+"24onfjdjms2unrfc3aynggnq":["ibrahimnergiz","İbrahim Nergiz "],
+"o7ietxbf5efxnlvttt3obvr4":["ibster","Ibster"]
+}) // 2023-10-21T21:25:24.070Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

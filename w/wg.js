@@ -11,5 +11,6 @@ var wg=(function(jsonp){ if (typeof wg==='function')wg(jsonp); return wg=jsonp }
 "uo7urx5ahyo54hkjmwedopmc":["wgmi","Crypto Moondaddy"],
 "prflqj5flpilbdclvd3uzgdp":"wgrootonk",
 "a3ejo5f3ei4y7aftcruhf5bn":["wgmeets","WG"],
-"fgn4fiqtpbr2wkmutrnr43s3":["wgcastro","Waltinho"]
-}) // 2023-10-21T15:42:38.327Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fgn4fiqtpbr2wkmutrnr43s3":["wgcastro","Waltinho"],
+"d5f4uobdwkaqeifgjtrwxqlf":["wgbh.org","GBH"]
+}) // 2023-10-21T21:14:14.883Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -9,7 +9,7 @@ var fd=(function(jsonp){ if (typeof fd==='function')fd(jsonp); return fd=jsonp }
 "gztxnxrhuifcqkjp3onaza6z":["fdworz","FDomain"],
 "q7palsqlbtuhdhpklvxuttaf":"fdtd",
 "s437beknmp65bo5jblizzoy6":"fdm2",
-"yc6xkyelen7wmq4eaiqz26g4":"fdomin",
+"yc6xkyelen7wmq4eaiqz26g4":["fdomin","Fernando Dominguez"],
 "yn7jcjwc4ilk6cezb4ndmnwm":["fdeleuze","(((Fred D)))"],
 "yxfvglz7uf6yxqfgswqh45sz":["fdefantasmas","Daniel Figuero"],
 "zivr5wumd6a7oxfju3tlulkz":["fdaapproved","Byron Ellis"],
@@ -21,4 +21,4 @@ var fd=(function(jsonp){ if (typeof fd==='function')fd(jsonp); return fd=jsonp }
 "chvwpwlbfofjbxlynd3dhzab":["fda.gov","U.S. Food and Drug Administration"],
 "p4tyhpy3zkqaaiwxcrzcc2eh":"fduek",
 "crb2x2xc633urzlivjitj2hp":["fdsignifier","Grumpy dad energy "]
-}) // 2023-10-21T20:14:43.106Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T21:09:42.734Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

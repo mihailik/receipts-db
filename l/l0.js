@@ -6,7 +6,7 @@ var l0=(function(jsonp){ if (typeof l0==='function')l0(jsonp); return l0=jsonp }
 "a7mzcy5ui5b4tettd5lgjo3o":"l0velyclaire",
 "axxuxcdopmhmru6vrmbiry3w":["l0rdofmisrule","stunning ideal wet man"],
 "b7xwx4jpgcou47xbwfwhzowe":["l69fs","L69fs "],
-"bxsx2opjhkuebzwn4fqucgyf":["l1vy","Mother Bones AKA Lwaxana Troybilt"],
+"bxsx2opjhkuebzwn4fqucgyf":["l1vy","Mother Bones"],
 "ekw5hhxdktufc7npo423penx":["l2ik","L²ik"],
 "f7zyicclzywemgzrryd67fp6":["l3gsv","Legs"],
 "frmlyxal4gzayczcuj2s3pel":["l1n","巨根人妻"],
@@ -46,5 +46,8 @@ var l0=(function(jsonp){ if (typeof l0==='function')l0(jsonp); return l0=jsonp }
 "gqfl5y2pgxxqb6dwior4nbbi":["l4y","<b>hi</b>"],
 "oeq4ihwrydxfoyoetybgh3c5":["l444u","L444U (⁠´⁠∩⁠｡⁠•⁠ ⁠ᵕ⁠ ⁠•⁠｡⁠∩"],
 "mrit6bkd5lf5rkdtupmmb5j2":["l0rdhur0n","Ozymandias"],
-"ttheagyjyftzgzga6ycnlw73":["l4j","Mister Coffee"]
-}) // 2023-10-21T20:46:16.601Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ttheagyjyftzgzga6ycnlw73":["l4j","Mister Coffee"],
+"vvx5netwoaf3njjllpap5dkt":"l3x",
+"m26ujpvyy3lys2ubx7b3tru2":"l2oot",
+"qcbgjkxuzih3b6sdnhbgs77g":["l1nk","Math Link"]
+}) // 2023-10-21T21:39:40.482Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

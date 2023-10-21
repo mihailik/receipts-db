@@ -51,7 +51,7 @@ var um=(function(jsonp){ if (typeof um==='function')um(jsonp); return um=jsonp }
 "jdhlekifqxj7lgslysobd3k3":["umaenot","u Mae Not"],
 "jdtsm5dfdfmehdrevoptdoax":["umbreon","felipe"],
 "jiv7zuo4ggoke4sszd74yzxz":["umbral571ram","Umbral571"],
-"jtzltmovdpxqodtxfoxysxvd":["umaraposa","fox | 🦊"],
+"jtzltmovdpxqodtxfoxysxvd":["umaraposa","MMXCV •"],
 "keadwrwn5c5x372bapxp4odd":["umfangreich","Noah"],
 "kogtqpz7iql6y5qdzquduygm":["umitly","Ümit"],
 "le3jnjortancbgiugs463w2k":["umagumag","umagumag.eth"],
@@ -137,5 +137,10 @@ var um=(function(jsonp){ if (typeof um==='function')um(jsonp); return um=jsonp }
 "hjpgvvexhhlgu253ysoi4oco":["umutayildiz","Umut Yildiz"],
 "lc654ednvmbpi6wnjnvvs36o":["umino","うめこ"],
 "5gaoanezw4tk7j3rox6no6ea":["umenao","Ume-Nao"],
-"34bvpaoorkpfrxp26mng6dyo":["umeringo","梅りんご@プログラミング"]
-}) // 2023-10-21T20:56:39.650Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"34bvpaoorkpfrxp26mng6dyo":["umeringo","梅りんご@プログラミング"],
+"7267k5g2thzsvfcv54anif7n":["umtm","うめたま"],
+"iebb2ko5m4bwgz345ghonzwt":["umaoka","うまおかまさゆき"],
+"sxmmcffkntnm6qi37gb3efzt":["umtalerick","Erick Oliveira"],
+"34sski5cjro2f5xnbj3zvd6a":["umtheus","Matheus Henrique "],
+"e2orvkvrote7ga3iuwieoqn7":["umurkose","Umur"]
+}) // 2023-10-21T21:31:22.611Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

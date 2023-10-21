@@ -78,7 +78,7 @@ var jd=(function(jsonp){ if (typeof jd==='function')jd(jsonp); return jd=jsonp }
 "pnycjphrzoqualiftgbon53x":"jduganbarrett",
 "pu7j7pp55ux2pbxbzcuvjbqz":["jdjerbear","JerBear"],
 "pwq7idait7qvskaubte63xun":["jdag","JDAG"],
-"pxcgjfqtf2pubcgdwjvdjvpv":["jdebbiel","Deb JJ Lee (they)"],
+"pxcgjfqtf2pubcgdwjvdjvpv":["jdebbiel","Deb JJ Lee @ LBX 623"],
 "ql4m4m77ao67hokkgmn4om7c":"jdconnor",
 "rcjzaskm2oclu3wz35g6dg2e":["jddunn","Jared Dunn"],
 "rzjgafeykxv4du7aw6nftltp":["jdragsky","jay Dragon 🔜 Big Bad Con"],
@@ -156,5 +156,9 @@ var jd=(function(jsonp){ if (typeof jd==='function')jd(jsonp); return jd=jsonp }
 "d32sxyhu3ngvklo4w6iimth5":"jdurb",
 "ii6k7bdbleczulvypdvi33hm":["jdickerson","John Dickerson"],
 "34y2jcsg4f73qgmv4v6oitq6":["jdizon","Jeremy D."],
-"547ywl73cgshmpxepe2jfqwp":["jdornelles","Juliano Dornelles "]
-}) // 2023-10-21T20:43:54.456Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"547ywl73cgshmpxepe2jfqwp":["jdornelles","Juliano Dornelles "],
+"4ygpqv6w6vn43wmrj5ejte73":["jdmssmkr","Johan De Messemaeker"],
+"6ccmecv7ptqk3xnfqqj5fmri":"jdcrofoot",
+"72mut7jdzo27uurt5pmembpq":["jdj","Jeremy Johnson"],
+"vdishdmpsww7b3e4ey7hx53t":["jda5id.com","Jerry_ATX"]
+}) // 2023-10-21T21:39:40.501Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

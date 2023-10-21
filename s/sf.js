@@ -57,5 +57,11 @@ var sf=(function(jsonp){ if (typeof sf==='function')sf(jsonp); return sf=jsonp }
 "wd7awmak2svzcktnd5zapzyi":"sfaith",
 "mwqrrhvkypx7sksjls76kqrk":["sfennah","Sara Fennah"],
 "k33g5jihxugae6xolfwjyzvk":["sfd","Startup Founder Daily"],
-"2c7afebp7enocvuvbp4u5yam":["sfstandard","The San Francisco Standard"]
-}) // 2023-10-21T20:53:22.504Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2c7afebp7enocvuvbp4u5yam":["sfstandard","The San Francisco Standard"],
+"wqqx2olp5r6avcihp2hxgcn4":["sfrystak","Shannon Frystak"],
+"fmuz7cw6kvgzbl7ralomgipz":["sfx","SF"],
+"6ucutreghdhbma4sq5tz6fon":["sfk","Saul Kahn"],
+"wbm26xelckm5b277so5fapzt":["sfun","ッョィァヵェィ"],
+"puayk5fe4iuchbpipb5e42mm":["sfar","Sfar Hachem"],
+"niws4datih6dforyd7y22km4":["sfchronicle","San Francisco Chronicle"]
+}) // 2023-10-21T21:39:40.413Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

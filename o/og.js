@@ -31,7 +31,7 @@ var og=(function(jsonp){ if (typeof og==='function')og(jsonp); return og=jsonp }
 "jyee377nhvocy7kwqpr4sotp":["ogfag","og"],
 "klmqoii4cu3b653ykpxkysru":["ogto","ogto"],
 "l4t5re5fwxcb23hjs4asihcs":"ogrestab",
-"l6u4d47zfczikuyl777j6rtz":"oggh",
+"l6u4d47zfczikuyl777j6rtz":["oggh","Fabiano Denardin 🏴"],
 "m7ltjz4srarcakuw7b7lzd37":["ogluizmarcos","Luiz Marcos "],
 "mwlommvhlkeltyrussvf3dtc":"ogreesetti",
 "nkzhti3dt7huxcqg2q44ulfg":["oguzhancinlar","Oğuzhan Çınlar"],
@@ -88,5 +88,8 @@ var og=(function(jsonp){ if (typeof og==='function')og(jsonp); return og=jsonp }
 "e4kezejsqbixlkxxrfbwop6g":["oguzhanugur","Oğuzhan Uğur"],
 "dclgnxl2epg55vfmuc7vh2zq":["ogawa","Shinichiro OGAWA"],
 "4n3kfdsul2hboobpz2xzh3zf":["ogi","agoos 𓅚🇵🇸"],
-"fnvlldslznsdvgh4nsjawhtn":["ogabrielgg","Olhe para cima 🌎"]
-}) // 2023-10-21T21:03:27.150Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fnvlldslznsdvgh4nsjawhtn":["ogabrielgg","Olhe para cima 🌎"],
+"qcmysekqr5fcto47h3pliaix":"ogustavo",
+"juuggdbb65ojdars2zywnqbh":["ogulcancan","Oğulcan "],
+"j3s3cyepnglgee7shnb7iej4":["ogdwayne","Dwayne"]
+}) // 2023-10-21T21:38:14.405Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

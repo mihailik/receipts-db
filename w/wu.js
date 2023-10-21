@@ -100,5 +100,10 @@ var wu=(function(jsonp){ if (typeof wu==='function')wu(jsonp); return wu=jsonp }
 "gyg7ztxcda4rajh7ymqrfq6b":["wuestenigel.gg","Wuestenigel"],
 "fukey2sryiz53sqvu2wiuba6":["wudan","Wudan Yan"],
 "bjbydfmyyew2bult5afz7gp5":"wuestenigel",
-"bj5gbikgc7a6hdyeoa6qhp3n":["wunderlich","Niklas Wunderlich"]
-}) // 2023-10-21T20:49:12.442Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bj5gbikgc7a6hdyeoa6qhp3n":["wunderlich","Niklas Wunderlich"],
+"2w23aehncdlwcuyd4b43bww7":["wulfa","おーかみ"],
+"zxcdlofjpvbqp7l4ah6mlzz3":["wukov.com","Wukov"],
+"edkd65prhuo4mwpodwvexu5g":"wuestenigel.com",
+"s5dn75byageusbxa7ueqsc3r":["wushu","Parnia👑"],
+"pvnvbjhljj77ydthsligwclg":["wuan","Eliz"]
+}) // 2023-10-21T21:31:22.678Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

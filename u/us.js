@@ -29,7 +29,7 @@ var us=(function(jsonp){ if (typeof us==='function')us(jsonp); return us=jsonp }
 "astmzy3ulhiti56fq5j45373":["useduniverse","USEDUNIVERSE"],
 "b53sdy7pu3d3i7lwlzl3tcyj":"usimo",
 "bdywokceigspeahhir5j5apz":["uspljp","あきぽん！/ the universal soul ☻"],
-"blqiz2oshcyeeqptyh22kyle":["usspcrichardandson","women are my favorite guy"],
+"blqiz2oshcyeeqptyh22kyle":["usspcrichardandson","marxist-menendezist"],
 "bztwjakryo7g3n4drchu2tbc":["uselessusername","UselessUsername"],
 "c43onf5mmb5cnlwsvp6gvnkd":["usakuma39","うさくま"],
 "c6hxkxpjf2sbxyeh7ru4pyx7":"usgi",
@@ -157,5 +157,11 @@ var us=(function(jsonp){ if (typeof us==='function')us(jsonp); return us=jsonp }
 "go7eprq65lijd36iqm57m5ok":["usklog.net","usklog"],
 "q3ojd7pjlktoxro2sgrmhc63":["uselesstraffic","John–UselessTraffic"],
 "76vxls24whcuialmi6mozzf7":"usuallyloud",
-"limwlttxwelzwadbldm2k2ll":["ustun","Ustunek"]
-}) // 2023-10-21T20:46:16.643Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"limwlttxwelzwadbldm2k2ll":["ustun","Ustunek"],
+"xjlskiiberwopklrwvwcyjk4":["ushankar","Udhay Shankar "],
+"ni75mzz44q7fxsgg2l37nuhl":"usf",
+"a5pkvl7yo5t7rgci3fosn6go":"uspellcourtney",
+"45wo44tuc6g6uzummqdms3zt":["ushironoko","うしろのこ"],
+"yzsqcp3gr2pno5f7yhdl2ly7":"user03",
+"hqp67iyix33hxnant67lhs2w":["usachi","うさち"]
+}) // 2023-10-21T21:34:29.259Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -20,5 +20,6 @@ var fw=(function(jsonp){ if (typeof fw==='function')fw(jsonp); return fw=jsonp }
 "7c262izdb6nu2muwh5gkqahf":["fwouts.com","François Wouts"],
 "zjnufnccmyuanosce5ips6wl":["fwn","Future World News"],
 "rpwlw6yc4hwhpktjurqc45q2":["fwtnb","Fumitaka Watanabe"],
-"ajz73sdzdnvkgjbx6uykdbmv":["fwiz","Ryan “Fwiz” Wyatt"]
-}) // 2023-10-21T20:43:54.557Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ajz73sdzdnvkgjbx6uykdbmv":["fwiz","Ryan “Fwiz” Wyatt"],
+"njzrr65q5yy7tmyp32ek54e4":["fwgj","Frank Griffith"]
+}) // 2023-10-21T21:28:13.077Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

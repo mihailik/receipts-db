@@ -47,7 +47,7 @@ var jg=(function(jsonp){ if (typeof jg==='function')jg(jsonp); return jg=jsonp }
 "wdgsactldqnvbx6ammxld34b":["jgulner","Jethro"],
 "wthx5rfk6szun4n6s4atynyi":"jguelker",
 "x2hpotxg7632e657qdixusii":["jghiraldini","Jan ⚢︎"],
-"y2z7qjl6m6pqpn3msjo7j55q":["jgbollard","Neil Flanagan 🧱🗃️"],
+"y2z7qjl6m6pqpn3msjo7j55q":["jgbollard","Commission of Dark Arts"],
 "rvr2uwbbtzukp6egfckbwe7m":"jgcarbon",
 "qg6r5fgkfpkxf6vvkyuf56qz":"jgirard",
 "2hsolwuvmaikydjhleg64val":["jgrequejo","jgrequejo "],
@@ -68,5 +68,8 @@ var jg=(function(jsonp){ if (typeof jg==='function')jg(jsonp); return jg=jsonp }
 "zwvdk7bzaa7q7o4wbf2zte3r":"jgomez721",
 "424ko7k4few3xmadamcbnur4":["jgamblin","Jerry Gamblin"],
 "qobqajh27kiiflugedxvsvhz":"jgwdigital",
-"5we5ehmysivb6p3th7nbvrsl":["jgrebes","James Grebey"]
-}) // 2023-10-21T20:53:22.483Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5we5ehmysivb6p3th7nbvrsl":["jgrebes","James Grebey"],
+"b2gmcipp3mxrjbtzhvlrip65":["jgoldstein","Jonathan"],
+"7cprsgkpklqzmjwvfm4kpxdn":"jgeneral",
+"u5oqqn6pu4if3lva3w2mywag":"jgessaman"
+}) // 2023-10-21T21:41:54.995Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

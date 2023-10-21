@@ -32,5 +32,7 @@ var tf=(function(jsonp){ if (typeof tf==='function')tf(jsonp); return tf=jsonp }
 "lil5tzvoeqzexbvj3whoxure":["tfthacker","TfT Hacker"],
 "xw2ijhjybouceuvs3bkn6xmj":["tfebrilia","Tiara Febrilia"],
 "x6dyrha25fckmnkxqilidnc4":["tfortes","Tanise"],
-"bbihloanw7ymxvcx3x6vkwmq":["tfujiwara.tech","TFujiwara"]
-}) // 2023-10-21T20:56:39.652Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bbihloanw7ymxvcx3x6vkwmq":["tfujiwara.tech","TFujiwara"],
+"vnvrcocezjdptye6drxkf6ep":["tfiers","Tomas Fiers"],
+"tqqy26eqzkjk3dgxxdsg6mgg":["tfraley.me","Thomas Fraley"]
+}) // 2023-10-21T21:39:40.360Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

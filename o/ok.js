@@ -176,5 +176,11 @@ var ok=(function(jsonp){ if (typeof ok==='function')ok(jsonp); return ok=jsonp }
 "wilajgqvaik64u2u4ukuuphm":"okdan",
 "mki6yz7dylzrmfebauxeaq2l":["okthen","Ok Then"],
 "m7yj5p45pf7yyvv2bhcazqkn":["okturtles","okTurtles Foundation"],
-"2lmgaqr2fkomyy6rwgtmt7xv":["okagain","Di"]
-}) // 2023-10-21T20:43:54.538Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2lmgaqr2fkomyy6rwgtmt7xv":["okagain","Di"],
+"fjuahs76bxf3cfl3bmc4dd6q":["okuyanf61","Mehmet Fatih Okuyan"],
+"worwthso4l6ekxbm5soknrmn":["okgoman","오꼬라 불러주오"],
+"bvszdxeyn44ha3ksomeilcrd":["okome","okome"],
+"kiuexd4tt2dlsijeuwart6ps":["okms.me","Ole Kristian Mørch-Storstein"],
+"o4yswk3c4xsq4ier3rqlz5x7":"okaybryan",
+"7zk5gr2luzdc465pgch3x7dc":["okikio.dev","Okiki Ojo"]
+}) // 2023-10-21T21:41:54.925Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

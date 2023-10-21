@@ -84,5 +84,8 @@ var sd=(function(jsonp){ if (typeof sd==='function')sd(jsonp); return sd=jsonp }
 "gm4v4kxzlkxbbmdpf2jzxunm":"sdh",
 "ztbeobhcjcqo4x4hlfrsav24":["sdrugula","A Dying Pog Coming into Human Flesh"],
 "5hoev7w7tsdbp2okzdjhypy7":["sdpowell1","Samantha Powell"],
-"s56wutyhhmrtcnzjza34cbsg":["sdanisha","Danish Ahmed"]
-}) // 2023-10-21T21:02:03.799Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"s56wutyhhmrtcnzjza34cbsg":["sdanisha","Danish Ahmed"],
+"izyv7k3ussysmqonmcqe76li":["sdp","Sameer Padania"],
+"zytkqtd7howjixzn5u65xy2y":["sdsalsersmith","S.D. Salser-Smith"],
+"ssylku3suls36go55nn3ug3w":["sdgates","Stephen Gates"]
+}) // 2023-10-21T21:41:54.882Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

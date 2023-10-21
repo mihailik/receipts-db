@@ -27,5 +27,6 @@ var uh=(function(jsonp){ if (typeof uh==='function')uh(jsonp); return uh=jsonp }
 "xla7cidz5z3k44ynei6jgokm":"uhno",
 "fvoy2cdzayybyhybsbjg6tcv":"uhh",
 "mami5vi7jxewadnzbzd4j7qd":["uhus","Umut Huseyinoglu"],
-"bhaswpy5gwadwyqmi7fvgflg":["uho.moe","TAGA(日常系)"]
-}) // 2023-10-21T19:43:36.716Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bhaswpy5gwadwyqmi7fvgflg":["uho.moe","TAGA(日常系)"],
+"sijmjoi3lybsdnnnbijdvbq2":["uhaoki","uha（Ken）"]
+}) // 2023-10-21T21:32:58.553Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

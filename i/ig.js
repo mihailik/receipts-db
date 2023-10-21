@@ -39,7 +39,7 @@ var ig=(function(jsonp){ if (typeof ig==='function')ig(jsonp); return ig=jsonp }
 "ddlq2gqfciota2wx7g6hj7qi":["igorbezerra","Bezerra"],
 "deya2jwkgkyydchvleeyanp7":["igpassos","Igor"],
 "di3zzhqmq5kr3gnxqsilau73":["ignisinfernus","T3ddy🐻"],
-"ed3zpu4ho3zkaietfmwgutpc":["igorfaria","Igor 🪐"],
+"ed3zpu4ho3zkaietfmwgutpc":["igorfaria","Igor 🎃"],
 "exgbhwnyahjgwru4hnmzm7u5":["igd","It's Going Down"],
 "f7m7x7425abuuu6k4mhhwbl4":["igloinor","igloinor The Unmighty"],
 "fth3cngnk7mlq4oyisqw6oy3":["igordig","igor, o dig"],
@@ -175,5 +175,11 @@ var ig=(function(jsonp){ if (typeof ig==='function')ig(jsonp); return ig=jsonp }
 "jn7kdwutoc5e6asljcu4mbvt":["igorapp","Igor App"],
 "na6ubglxaleptazalnflnink":["iglf1995","u1"],
 "ak2k6laibntv3c47cplbgokt":["igorsantos","Igor"],
-"psxihehvxy3yhauk3uwln5sg":"igcollective"
-}) // 2023-10-21T20:59:41.467Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"psxihehvxy3yhauk3uwln5sg":"igcollective",
+"5zqkdopziyxbmaxxfi743bsk":"igorlemes",
+"7q7eutyocsjmxhbg546eldhg":["igorsantosxz","Igor Santos"],
+"j3zcqxxhhhpmbv3rhilno4de":"igoramigor",
+"v2wytcgohmauywbrik5u5u3f":["igorcg","Igor Costa"],
+"e7p3lao3xpk6h6daw6dmxxjw":["igaiga","Soichiro Iga"],
+"2w4nomi2tkrdwok5q2vxztly":["iguinhoeu","iguinho"]
+}) // 2023-10-21T21:41:55.035Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

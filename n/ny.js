@@ -122,7 +122,7 @@ var ny=(function(jsonp){ if (typeof ny==='function')ny(jsonp); return ny=jsonp }
 "lryl52vp2kv7ctikinnkqir2":["nyan19870222","にゃん! ฅ(^ •ω•*^ฅ @ first account"],
 "lyttqryw25rr4eobwfn2urph":"nyscouse",
 "m2yaogdt5nxjzrfpaan3sybf":["nymphlings","moira ☔️"],
-"mdx5oicxcvxqb4hayk6om7wa":["nymphkissesxo","Summer 🩷"],
+"mdx5oicxcvxqb4hayk6om7wa":["nymphkissesxo","♡ Summer ♡"],
 "mi4ctilzyjxsjutitwszudna":["nyxity","Jin"],
 "mogshrctze6hfdcj3bzxt6wu":"nyalruko",
 "mtqjutksedfypladj4vb4bt3":"nymeria",
@@ -267,5 +267,8 @@ var ny=(function(jsonp){ if (typeof ny==='function')ny(jsonp); return ny=jsonp }
 "eipt52pie5x6ogvdt2noit66":["nytimes.wtf","Worst of the New York Times"],
 "s7ydx6awexflozjgysqfdmlm":["nycforabortion","NYC for Abortion Rights"],
 "alfbg73kqwj7ywkcgyi2nbe2":["nyucel","Necdet Yücel"],
-"qtxxb3vttqqzqy5ky4srwdiw":["nyxoctavia","Nyx Octavia"]
-}) // 2023-10-21T21:02:03.873Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qtxxb3vttqqzqy5ky4srwdiw":["nyxoctavia","Nyx Octavia"],
+"5mbtelos3hs5mmsbn5mzps4h":["nycolaslk","Nyc"],
+"lhlzzcdc45b6nus726of7y63":["nyanfas","논노"],
+"htnh75yxvugm7c54squy5jrr":["nysfocus","New York Focus"]
+}) // 2023-10-21T21:41:55.011Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

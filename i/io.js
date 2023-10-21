@@ -57,7 +57,7 @@ var io=(function(jsonp){ if (typeof io==='function')io(jsonp); return io=jsonp }
 "vbql6m5nvi7zirqpnm6wcg3k":["iovax","iovax"],
 "vo7fx3zck2ts2gi665xqxr3l":"iosegun",
 "xu23p7a5kfst7b4sau2geljs":["ionawonderbox","Iona Wonderbox"],
-"xvgkqyhtzrlmjhd4gbael4gp":["iovi","Olivier Baumann"],
+"xvgkqyhtzrlmjhd4gbael4gp":["iovi.io","Olivier Baumann"],
 "xw3bax7uiqgjgkickeu6quqn":["ioi29797030","생.원"],
 "y636g6ur72mnem37qof4d6dq":["iontrap","leigh"],
 "yiqueoswya45qo3sn6felkio":["iowantmofish","Michael Moore"],
@@ -79,5 +79,7 @@ var io=(function(jsonp){ if (typeof io==='function')io(jsonp); return io=jsonp }
 "btjbdfvz5ijkkdjoslpuh2ce":"ioq",
 "xj4gn6zai72tgc2o2ocjrkm4":["iot","IoT"],
 "jj4vu6snmjoe6gihfkyhuced":["ioio","illia o."],
-"buz2q3ge7dfjnk43yofkyjd6":["ioanacis","Ioana "]
-}) // 2023-10-21T20:39:21.254Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"buz2q3ge7dfjnk43yofkyjd6":["ioanacis","Ioana "],
+"dp5jgnjzbbta2vtl7gkpvf2d":["ion","イオン"],
+"ekvghqtgbkzx6pjpf4fr44f6":["iotprogrammr","Джинкс"]
+}) // 2023-10-21T21:45:06.214Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

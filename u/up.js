@@ -64,5 +64,7 @@ var up=(function(jsonp){ if (typeof up==='function')up(jsonp); return up=jsonp }
 "fv5qosmeuc4vuwu5yzzetorc":["upmayo","Up Mayo!"],
 "sga7765cfwlukqmz2gddxb27":"uptin",
 "z7shkwpcnyiw3vnavirqget3":["uptwolait","UpTwoLait"],
-"pvlsnaciiluubqlgz2dv5c2b":["updatelanadelrey","Update Lana Del Rey"]
-}) // 2023-10-21T21:03:27.121Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pvlsnaciiluubqlgz2dv5c2b":["updatelanadelrey","Update Lana Del Rey"],
+"jusuk7mzuldkpjnjvaleuh4i":["uptonic","Scott Upton "],
+"qvajoqiazoz54yrita7u4isn":["up1she","うぴしぇ"]
+}) // 2023-10-21T21:28:13.206Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

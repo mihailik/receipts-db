@@ -65,7 +65,7 @@ var ur=(function(jsonp){ if (typeof ur==='function')ur(jsonp); return ur=jsonp }
 "g4nhreiuyvqk6vmanfeiroib":"uri3533",
 "g7ovvls6idkya4j6rybpwtux":["ursonis.com","Ursonis"],
 "gdpdqumxiuhhwj5ptbd3o7kk":["ursalockaby","Ian U Lockaby"],
-"ggnt35rv4n75czstxsphsfqq":"urun",
+"ggnt35rv4n75czstxsphsfqq":["urun.graysky.social","Urun"],
 "gj3cznxwrli52fp7vlxuck2h":"urbancik",
 "gn5xdspdqxkndtpjh6dzu3qo":["urbanlife","Dennis"],
 "gs5z3ajxnzg72qf3m4ckklpw":["urbpan","Urban Pantheist"],
@@ -212,5 +212,13 @@ var ur=(function(jsonp){ if (typeof ur==='function')ur(jsonp); return ur=jsonp }
 "occy6or37ybdbkpmn2ad56u4":"urtubia",
 "uggiybjrk3zigc4bbplwj5xp":["uradaily","えるちゃ"],
 "j7akx5aawlczuqzhupeetbbh":["uryokurin.net","ミンタカ"],
-"rjqonhj5dcbmd2fgtqeqotfg":"urielx"
-}) // 2023-10-21T21:02:03.854Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rjqonhj5dcbmd2fgtqeqotfg":"urielx",
+"yinfs5j7bnlr2jdb7suivucm":["ursulaperano","Ursula Perano"],
+"nwmi6ww4keg7sw5habgnlr4b":["urplepingo","The dumb ignorabt shit head"],
+"jdsanwzcjw5df6jcqo4wq2l7":["urbannathalia","Nathália Urban"],
+"jbibmwh5oeuk3xel3kecgrph":["urakatakoishi","Koishi URAKATA"],
+"ay7q5f6qqm6bmarmjce2hwvw":"urahara",
+"ysbugybyehn6kp3kk3kzemez":["urartu","Urartu Seker"],
+"goq2wngjqhst7eessgc5il7a":["urdad","Grant"],
+"lke4vgu5owvsclhkgw6rntxb":["urukame","雅™️ masaru"]
+}) // 2023-10-21T21:45:06.150Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

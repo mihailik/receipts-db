@@ -47,5 +47,6 @@ var ox=(function(jsonp){ if (typeof ox==='function')ox(jsonp); return ox=jsonp }
 "s5gd5ffluovyy4bz4vgrtfa4":["oxs","OExcess"],
 "ehktuyu46b3sdkl2y3sdij3u":["oxidecomputer","Oxide Computer Company"],
 "icbvrrf5bbe5nu4yucrsnaie":["oxfia","Emmanuel "],
-"lge2fynulg76fsmzex5cm7z5":["oxygenless","OxygenLess"]
-}) // 2023-10-21T20:54:58.144Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lge2fynulg76fsmzex5cm7z5":["oxygenless","OxygenLess"],
+"nqqsjntx7amqfdmeon42p6yb":["oxeguiga","Guiga"]
+}) // 2023-10-21T21:38:14.407Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -57,5 +57,8 @@ var td=(function(jsonp){ if (typeof td==='function')td(jsonp); return td=jsonp }
 "woxbz4yzbnnk66dqpbapicay":["tdelenikas","Thanasis Delenikas"],
 "dqbve65ugd53ytj6wjstg6w7":["tdeg","Red Flag Respecter"],
 "6jmnu42j2dq226w3ml7m66uu":["tdags.io","Tim"],
-"7j6q2rda5r722r7axwxdazbt":["tdaira","だいら / Tetsuya Odaira / 競走馬スタートアップCTO"]
-}) // 2023-10-21T20:56:39.591Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7j6q2rda5r722r7axwxdazbt":["tdaira","だいら / Tetsuya Odaira / 競走馬スタートアップCTO"],
+"gtygxuwrotx6xgeow5dhlkf6":["tdoggyholhol","Tom Hollands"],
+"2ejhohcyqludxttmw6e3z73k":["tdp","Thanos Papaïoannou"],
+"4imrpmmqz6pm4c5on5x57cog":["tdig","Thomas Di Giacomo"]
+}) // 2023-10-21T21:35:53.999Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

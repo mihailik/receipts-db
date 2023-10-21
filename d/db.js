@@ -105,5 +105,7 @@ var db=(function(jsonp){ if (typeof db==='function')db(jsonp); return db=jsonp }
 "ogosrorewtjlljajt7xegwfh":["dbrahler","David Brahler"],
 "rdb7uxzijb2tc2omig2zvzx2":["dbo","DBO"],
 "vfvjtszgulrynyyccdqjdodw":"dbeaurepaire",
-"pc2fl7fa7mewv5uhp322puld":["dbannon","Dylan Bannon"]
-}) // 2023-10-21T20:59:41.440Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pc2fl7fa7mewv5uhp322puld":["dbannon","Dylan Bannon"],
+"jn2gjdrgc6xs6fey5rjtvmxk":["dbogdb","DB"],
+"af4zrtznkdsunpo5u2c2myr6":["dbodky.me","Daniel Bodky"]
+}) // 2023-10-21T21:35:54.073Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

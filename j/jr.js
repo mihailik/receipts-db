@@ -175,5 +175,15 @@ var jr=(function(jsonp){ if (typeof jr==='function')jr(jsonp); return jr=jsonp }
 "oubrdu57o7ecj5ty3jj3z5yn":["jroosen","Joe Roosen"],
 "dzeye3k24cnnljiq7mzn6x5z":["jrs-creates","Joshua🌌"],
 "csqiv2bsbynoirkuym2pjyjm":["jrheimbigner","J.R. Heimbigner ✍️"],
-"pamqd4lsxplkzwhfrigwguf7":"jrsterne"
-}) // 2023-10-21T21:02:03.878Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pamqd4lsxplkzwhfrigwguf7":"jrsterne",
+"u2pzd7mx4pyoout3v4id55zj":["jramsay","Orson LePhat"],
+"bvbqd33n3kzhr5tnrbhj5gzv":["jrseraf","Seraf"],
+"kdjmp2eg4xrq4zv74tmtuis2":["jredmond","Jim Redmond "],
+"sunp4na3qe53xulgraykj5l2":["jrf","John R. Frank"],
+"tcv7xzpnrn7xehzcdvbfxpko":["jrawson","James"],
+"d4r2jei2cxndncfklpvfkdv6":"jrosen",
+"xmvfl7ga22vqytkucos5eg37":["jrforasteros.com","JR. Forasteros"],
+"d2b5nlcs7vtby5e53o7q6gx6":["jrnheadlines","Japan Running News"],
+"qggqxap4yunxehl3a7ovfsl6":["jrewbarrington","Jrew Barrington"],
+"pf2nknn24ntm7wm7kro7vztz":"jrobj"
+}) // 2023-10-21T21:43:19.927Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

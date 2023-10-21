@@ -8,11 +8,11 @@ var zt=(function(jsonp){ if (typeof zt==='function')zt(jsonp); return zt=jsonp }
 "jn2wcyl33tbulgt2cms3lgb3":["ztevery","Zteve Ze Burr"],
 "jshiknldxwmxqqonykf57xm7":["zt98","ZT"],
 "lvwpnlruf3umi4rwusnj6yo6":["ztolikomzastolikom","З Толіком за Столиком "],
-"tybcmufjclmndigqp3burklb":["ztul","Michael Lutz, \"America's Gallant\""],
+"tybcmufjclmndigqp3burklb":["ztul","michael lutz"],
 "vhhgrigxn7bjl34dj7p7tokn":"ztr9",
 "voxbye5clyd37bmk34gvkyux":["zteffen","Steffen Oftedal"],
 "zfu5fmsa4kr6qi54g5hnl7jo":"zts1986",
 "cnjcmqwyf6paaxqjfizefvks":["ztpetrizzo","Zachary Petrizzo"],
 "bxlpn4rnrdy2qzkti2m2wgwh":["ztw","ZTW"],
 "yew63dblizfqt2ccqn5jvbzl":["ztellman","zach"]
-}) // 2023-10-21T20:40:55.319Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T21:28:13.234Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

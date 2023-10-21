@@ -44,5 +44,8 @@ var nf=(function(jsonp){ if (typeof nf==='function')nf(jsonp); return nf=jsonp }
 "xn242wzqulv3oauuwcbtjejg":["nftsarabaumann","Sparky ⚡️"],
 "gzj53jqcbcefkqmq7ifl7rvd":["nftmaxis","NFT Maxis"],
 "orxcftmyubf5zmkc3wrkdrik":"nftignition",
-"eop4wa7vhbzflngowshdvz53":["nftgirl","Nadine"]
-}) // 2023-10-21T20:56:39.626Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"eop4wa7vhbzflngowshdvz53":["nftgirl","Nadine"],
+"fj5te3to3qw2xgvl6xl2df6x":["nficano","Nick Ficano"],
+"nytbgxmkbo32vzjcynlhejmz":["nfttehraan","Nfttehraan"],
+"bwot46psawux63h4gdbv7h7t":"nftgod"
+}) // 2023-10-21T21:31:22.707Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

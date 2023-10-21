@@ -82,5 +82,7 @@ var kc=(function(jsonp){ if (typeof kc==='function')kc(jsonp); return kc=jsonp }
 "jymlsvohwsuvikddmpbrczm4":["kcschueler","Kaylin Schueler"],
 "7tvqudqj52o4fqhcyrpnvjoo":["kcooke321","Kyle Cooke"],
 "4m7w5y2r6h5nlsqqeimdn2ya":"kcrane",
-"mcwyxef4dhrle3b327sjmivu":["kcdefender","The Kansas City Defender "]
-}) // 2023-10-21T21:03:27.053Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mcwyxef4dhrle3b327sjmivu":["kcdefender","The Kansas City Defender "],
+"nkpzwmo7a2bpoue7nypb4pjv":["kcaulfield","katie "],
+"rey2wykjhvzptdyqqz7jsk3z":["kcw","Kevin C. Whelan"]
+}) // 2023-10-21T21:43:19.926Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
