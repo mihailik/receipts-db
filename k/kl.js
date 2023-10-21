@@ -242,5 +242,15 @@ var kl=(function(jsonp){ if (typeof kl==='function')kl(jsonp); return kl=jsonp }
 "z72dn2lhgkgx3ws7fuddqjas":["kluni","Kluni"],
 "353gzbhcjbznfxegvayffqek":["klasfeldreports","Adam Klasfeld"],
 "bqr5mwczdwg4a3yl6zuh37ow":["kliciabotelho","Klicia Botelho"],
-"c3uq3p77ia2ta4vf32nkyven":["klemens","Klemens Arro"]
-}) // 2023-10-21T20:06:28.796Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"c3uq3p77ia2ta4vf32nkyven":["klemens","Klemens Arro"],
+"3wnvfa2gepwddr5svdfgsc6r":["kluge.de","Alexander Kluge"],
+"uzuqjdmeqlf3vidutfmcfhd4":["kleberoliveira","Quebrada do Klebão"],
+"az2ce3uxgoh3njj4ellcrptd":["klerisribeiro","kleris reforça palavras"],
+"cq5opgajnwikutmtr5ggljaa":["klessamiranda","☕︎ ⁷"],
+"svfrz22ubftw2mcmusbiiilf":"kloof",
+"secz6jiemqf2whbopb3ipynu":["klaepeach","klae"],
+"nf46gshrxl3r24v3c2focjed":["klh","kate "],
+"76c4l3tlsh7ge2lvv7uwurwh":["kl3a","cléa :p"],
+"ygdnkahgh4pk3j4zn3i6r6bu":["klgrady","Kerri-Leigh Grady"],
+"w5irs6z3ic4ky77qassb6rrv":["klink","brendan!"]
+}) // 2023-10-21T20:33:39.360Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -148,5 +148,13 @@ var jd=(function(jsonp){ if (typeof jd==='function')jd(jsonp); return jd=jsonp }
 "tmperfp4mvlp6yv4nqn5gvby":["jdeely","jdeely"],
 "sa2yy3gmjtupfqdrhbj6spqs":"jdotan",
 "zgndiudzyqpiq2dq6mpfj4yz":["jdkon","JDkon"],
-"g2kgldh46mfwuicmyak4vjmv":["jdl","João de Lourenço"]
-}) // 2023-10-21T20:01:28.510Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"g2kgldh46mfwuicmyak4vjmv":["jdl","João de Lourenço"],
+"5rsfgrfsu7r6fbfpu3a46nfh":["jdlooney","Jason Looney"],
+"hidxve237tl3xacho5paysmo":["jdorrans","Dornsy"],
+"k77s5qbeckisvsww5dxmgtuv":["jdm","Josh Mintz"],
+"hfjxodqindev7hjdekql5z4k":["jdbr","Jamie Dornan Brasil "],
+"d32sxyhu3ngvklo4w6iimth5":"jdurb",
+"ii6k7bdbleczulvypdvi33hm":["jdickerson","John Dickerson"],
+"34y2jcsg4f73qgmv4v6oitq6":["jdizon","Jeremy D."],
+"547ywl73cgshmpxepe2jfqwp":["jdornelles","Juliano Dornelles "]
+}) // 2023-10-21T20:43:54.456Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -12,7 +12,7 @@ var jn=(function(jsonp){ if (typeof jn==='function')jn(jsonp); return jn=jsonp }
 "7oykmcbrxdoavfjy32mdhe5u":["jntsanan","la piñata 🦄"],
 "7xpsdzsede5v2kwxf4diebso":["jnm","Julia Matos"],
 "csruu3p2mebbms325j4lbzos":["jneas","J. Neas"],
-"d2sc7ek5las4uaowhy2aqvg6":"jnchien",
+"d2sc7ek5las4uaowhy2aqvg6":["jnchien","JN"],
 "dbqmqnecu7swbx7c33xevq3a":["jnutt23","Nutthouse "],
 "dcqu7njxhf7cixehpgcuzw7h":["jnfoster","jaclyn"],
 "djeslc7zpfuf4l5qimukewyc":["jnjnyarly","Twimnxes in Crime, with Villain Leggy"],
@@ -73,5 +73,8 @@ var jn=(function(jsonp){ if (typeof jn==='function')jn(jsonp); return jn=jsonp }
 "tejuze773p4od6trzgc2nfv6":["jneto","João Neto "],
 "7k7zujgth3offst2dfuiqpej":["jnadeau.com","Jeff"],
 "tdcbsqrbqydlpu5whxm2eqpi":"jnord",
-"cok4ox55msiwme5bf2bktkxm":["jnicolejones","J. Nicole Jones"]
-}) // 2023-10-21T19:53:42.542Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"cok4ox55msiwme5bf2bktkxm":["jnicolejones","J. Nicole Jones"],
+"i6lafilxhq6o2547yebq36ye":["jnparker","Jeffrey Parker"],
+"jgkx5wrp7zhlkeyxqboztvta":["jnbrymn","John Berryman"],
+"7jtshlolbb7ylza7g5ao547m":["jnqt","jnqt"]
+}) // 2023-10-21T20:59:41.351Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

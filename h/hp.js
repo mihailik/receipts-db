@@ -23,5 +23,6 @@ var hp=(function(jsonp){ if (typeof hp==='function')hp(jsonp); return hp=jsonp }
 "yvlbe3cqpxo6esnbnoaypygz":["hpakri","H.Pakri"],
 "qp4ng7opkgwvabys42akt7d2":"hps",
 "ckaslg6hnqzr5iwkbvjg5zx6":["hpdailyrant","Hà Phan"],
-"u7rsocghpmj2le3dactivioc":["hpjin","7월의 진현표"]
-}) // 2023-10-21T20:03:09.688Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"u7rsocghpmj2le3dactivioc":["hpjin","7월의 진현표"],
+"lscuoydcnooj52kuwl5aopyf":["hpalmtrees","Hannah Palmer"]
+}) // 2023-10-21T20:42:26.282Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

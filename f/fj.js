@@ -18,5 +18,6 @@ var fj=(function(jsonp){ if (typeof fj==='function')fj(jsonp); return fj=jsonp }
 "yown5vfwbcivjuez4ipuqant":["fjmag1979","Felix ㋐guirre él/he/him/his"],
 "z5sov6c6jgkhliiy2evrmwcb":["fjtn","藤谷千明"],
 "zq5ehtggo3iigbyeraavi3di":["fjalalvand","Farshid Jalalvand"],
-"4jc3p4pdgccpdc7z22gsdocv":["fjulixxt","camile |•"]
-}) // 2023-10-21T15:06:28.706Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4jc3p4pdgccpdc7z22gsdocv":["fjulixxt","camile |•"],
+"4a2v35fx3cpznbus4kecfz3r":["fjt","Yuhei FUJITA"]
+}) // 2023-10-21T20:23:30.305Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -58,5 +58,13 @@ var gb=(function(jsonp){ if (typeof gb==='function')gb(jsonp); return gb=jsonp }
 "j3jugbg2d7kjorhkrydgybol":["gburd","Gary Burd"],
 "cqrfgh5jogbxiv6vhqvh4twx":["gbgggb04","つき"],
 "o34fmz5ptpjud5manl477knh":["gbrodgers","GBRodgers"],
-"rx4vc3shikfxq6kdyyoahpdj":"gbaggio"
-}) // 2023-10-21T20:06:28.747Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rx4vc3shikfxq6kdyyoahpdj":"gbaggio",
+"7ivaadh65o3e5hslap4o2hxz":["gbam","깐밤"],
+"nrma5tjlk5xaidenkxnlgotn":["gbarbey","Grégoire Barbey "],
+"lunddiacyjp54uwooaf37x6l":"gbeldam",
+"xf5liwsl4fuul3326wng5dum":["gby","Gilad Ben-Yossef"],
+"pgoiy7bmgdawrgupr53csltm":["gbl","gabriel"],
+"iuzfnu4tnzf2x3nc3w7zrqup":["gbrnr.com","FrancoisGBRnR"],
+"fysgtvzzxgekokt4tuhaosf6":["gbildson","Greg Bildson"],
+"ukdhmgke4w4pa3g562adp2z3":["gboy","Gil Schoenberg"]
+}) // 2023-10-21T20:51:45.231Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

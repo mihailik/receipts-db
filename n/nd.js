@@ -55,5 +55,8 @@ var nd=(function(jsonp){ if (typeof nd==='function')nd(jsonp); return nd=jsonp }
 "xupwqu2qcqb566mqcyr24bsh":["ndb","Nathan Broadbent"],
 "ulfngifqpmtvyloarsmvvg7c":["nde","Nicolas Denjoy"],
 "c5hjuwegk5ctyqw7pc2sk44y":["ndeyefanagueye","N’Deye Fana GUEYE"],
-"nskjj2m7kckhisaptwucvimc":["ndindi","ndindi 🇰🇪🏳️‍🌈"]
-}) // 2023-10-21T19:57:35.220Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nskjj2m7kckhisaptwucvimc":["ndindi","ndindi 🇰🇪🏳️‍🌈"],
+"fr6mkmhidslfbiphyzahr335":["ndk","Nigel K"],
+"sgurc3wfhktjwxmottmzjg5m":["nder.se","alex"],
+"doifvf5clszr34vgb6moddei":["nd93","Robert M. Yang, MHA"]
+}) // 2023-10-21T20:56:39.653Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

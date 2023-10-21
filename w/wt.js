@@ -49,5 +49,9 @@ var wt=(function(jsonp){ if (typeof wt==='function')wt(jsonp); return wt=jsonp }
 "ejr7hkqwamnf6uvlb3r3klv5":["wtn","where"],
 "6pi3jcqwzinbayrddqkshjjq":"wtverdev",
 "cye3vfp7ukb67k5573wqdzhg":"wtoalabi",
-"tcdx3kmcgie452i2ka5drtal":["wtogami","Warren Togami"]
-}) // 2023-10-21T19:53:42.542Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tcdx3kmcgie452i2ka5drtal":["wtogami","Warren Togami"],
+"x4i7ijkpnskb65wparnad32w":["wtnbgo","wtnbgo"],
+"evhpubt76kjtawv27prjzicu":["wtmkorea","Women Techmakers Korea"],
+"ij5o2fgunhw52kwuhiq5gnr4":["wtftulio","Tutu "],
+"ksspcfqrrjqdxo74pul62zoo":["wtm35","わたみ"]
+}) // 2023-10-21T20:56:39.612Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

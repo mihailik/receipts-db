@@ -3,7 +3,7 @@ var ur=(function(jsonp){ if (typeof ur==='function')ur(jsonp); return ur=jsonp }
 "2iubl2mi32vudlwyhifnumxg":["uraulala","うら"],
 "2jbixvzlmih3peoyjgnx3xuv":["urbanmonastic.org","Urban Monastic"],
 "2oorkmogoxp4czh5oau5soxg":["urumi","urumı"],
-"2qmiwl6ukvjvipd2j7rezkhh":["ureyite403","URey"],
+"2qmiwl6ukvjvipd2j7rezkhh":["ureyite403","URey👻🍎"],
 "2xsro3cglcmtnl5rojm53cb2":"urbanisticus",
 "3d3kzjl35lipdju32rpq46xl":["ursocubsd","UrsoCubSD"],
 "3zahigppv2wdowigiex62dac":["urcorvidae","crow!"],
@@ -126,7 +126,7 @@ var ur=(function(jsonp){ if (typeof ur==='function')ur(jsonp); return ur=jsonp }
 "pdejiwrpztwyvoyohxou4bjt":["ursulawren","Ursula Wren"],
 "q3pbi4ajo72qkdoh3ogv4g6z":["urbis","Urbis 🔜 Denfur"],
 "q6lfr4mf42dite2ct7jtxjhi":"urtheart",
-"qa2vig2vqmrgkbonu22z5slu":["urdsama","Sama 🤙 ☭ ⭐️🚩🏴🏳️‍🌈"],
+"qa2vig2vqmrgkbonu22z5slu":["urdsama","La Tieta Barbanegra moltíssim trist"],
 "qbpdqcbddaq5ty2po3c2qhuq":"ursinhadorgada",
 "qkl72lwb7xlwnko67eoev6b3":["urzamtg","UrzaMTG"],
 "qmq5ucbq6zpcjvr73zo4qwpy":["urbanlynchburg","Lynchburg Urban Network "],
@@ -200,5 +200,17 @@ var ur=(function(jsonp){ if (typeof ur==='function')ur(jsonp); return ur=jsonp }
 "abhkvuzqwqdzgd5rf4epciff":["urilevanon","Uri Levanon"],
 "dlie2dtwjil2rcr5jufdqxzi":"uritau",
 "pjiu4oksux3wkx3vbvixj66i":"urigordon",
-"eqsjclaurpmohebotd47ktrc":["urine.business","sMyle"]
-}) // 2023-10-21T20:06:28.683Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"eqsjclaurpmohebotd47ktrc":["urine.business","sMyle"],
+"w4hhykrmtzwz325ajkc2s7fs":["urati","うらち / I.Yoshida"],
+"6t22m2mup5wc6mhw6b456ztc":"urf",
+"v5rgpskabcnermwjrr772req":["urayel","Urayel"],
+"neiw3vwoohwo2nlyedrnnk5i":"uraw",
+"biisvccynzd4sdokwe24ozt5":["uraz","Uraz Kaspar"],
+"2zm7txg7oehfvkf5qhvrxarr":["urbano","Matheus Urbano"],
+"kx4fcv6ivit643hhqjfrdp2t":["urvashi","Urvashi"],
+"owxetsj5dxp2stoqrhpv6ub2":"urfriend",
+"occy6or37ybdbkpmn2ad56u4":"urtubia",
+"uggiybjrk3zigc4bbplwj5xp":["uradaily","えるちゃ"],
+"j7akx5aawlczuqzhupeetbbh":["uryokurin.net","ミンタカ"],
+"rjqonhj5dcbmd2fgtqeqotfg":"urielx"
+}) // 2023-10-21T21:02:03.854Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

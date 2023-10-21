@@ -79,7 +79,7 @@ var wr=(function(jsonp){ if (typeof wr==='function')wr(jsonp); return wr=jsonp }
 "jjpqi4xhqdmybe4rl2ldg2pc":["writervrai","Vrai Kaiser"],
 "jlhacisquag47puy4tg2fv6r":["writ","Ellis Z Sardorian"],
 "jtmxnlzdgn34yre4fur2kijc":["writeleewrite","Lee Guille"],
-"jvspn6ll7go4zar6otzjc7sp":"wringblue",
+"jvspn6ll7go4zar6otzjc7sp":["wringblue","bad graphics ghost"],
 "k7rn5ok4wc2xif6tvypres5s":"wreckit",
 "ka5btzilwj5kmayqiahhqbjb":["writerdan","Dan is writing"],
 "kbmnpc2ef5ypyhqf4ajt2usa":["writercass","Cassandra Ramos-Gomez "],
@@ -181,5 +181,10 @@ var wr=(function(jsonp){ if (typeof wr==='function')wr(jsonp); return wr=jsonp }
 "7pe6tgzmr64rszyqpqbbmyqt":["wright","thomas //"],
 "issjqrrcdo24ujer4r54fadz":["wrd","ورد"],
 "7pjd2czsdg5mtnbtsjjpb5lg":["wraith.net","Matt Wraith"],
-"uynoovff63uvdtkzbimtasuw":["write2munish","Munish Gupta"]
-}) // 2023-10-21T20:07:59.832Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"uynoovff63uvdtkzbimtasuw":["write2munish","Munish Gupta"],
+"i3fi4emaajkkrmrdbwqokczs":"wrbk",
+"adqr5f5ak3pljq7yibb2jksi":["writer2","Richard De A'Morelli "],
+"z2354eacssfynhcdpnm55lth":["wreynoldsnz","Will Reynolds"],
+"atorvdn5gbxljrrvv7qyb63c":["wrongjohnsilver","Wrong John Silver"],
+"rxxd3tqa5axggyjz37hprcdj":["w-r.me","Ben Weinstein-Raun"]
+}) // 2023-10-21T20:47:44.294Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

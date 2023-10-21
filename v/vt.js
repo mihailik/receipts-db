@@ -28,5 +28,7 @@ var vt=(function(jsonp){ if (typeof vt==='function')vt(jsonp); return vt=jsonp }
 "bhsoosucqk63echaurookvbp":["vtncg","Gleison Brana"],
 "ildm5w54ayuqmzurv62fpbgn":["vtm","vince malone"],
 "2x3rr32ren553plxnrvtcym3":["vtcodes","vt 👨🏿‍💻"],
-"ykq27igph7q4f56exeg2r2fc":["vtsnowflake","Rip van stinkle "]
-}) // 2023-10-21T19:25:30.311Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ykq27igph7q4f56exeg2r2fc":["vtsnowflake","Rip van stinkle "],
+"uawvskglywtj572lz4itqg4y":"vtolosa",
+"c4vo4zpuaj4buklulxzowdwn":["vtrsh","KAZU"]
+}) // 2023-10-21T20:56:39.611Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

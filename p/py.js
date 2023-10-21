@@ -91,5 +91,6 @@ var py=(function(jsonp){ if (typeof py==='function')py(jsonp); return py=jsonp }
 "dluuauj56oujkkybq3f56kwo":["pyroxiiumn","pyroxiiumn"],
 "kjf4j5r3oqmi7c6uy3umto4g":["pycon.kr","PyCon Korea"],
 "rt6xyzwxx5kak5uoey63mqoa":["pylette","pylette 🏳️‍🌈"],
-"vafcnztn4zyumajm3o2j6zzk":["pyxol.com","Don Wilson"]
-}) // 2023-10-21T19:43:36.714Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vafcnztn4zyumajm3o2j6zzk":["pyxol.com","Don Wilson"],
+"onqpgq3frlhuq2hhbzjm7djp":["pyunhangaha","가하"]
+}) // 2023-10-21T21:03:27.191Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

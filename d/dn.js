@@ -20,7 +20,7 @@ var dn=(function(jsonp){ if (typeof dn==='function')dn(jsonp); return dn=jsonp }
 "grzqqr5jgs7aowtrh66dlnbo":["dnaz","dnaz"],
 "hhatb5zkar4byxf4amxpoa7a":["dnl2silva","Danilo Silva"],
 "hjp5qe3dtoauto2u7xbutq5n":"dnzx",
-"iyk6yxrsrzqkcmk5hxd6boor":"dnbrgr",
+"iyk6yxrsrzqkcmk5hxd6boor":["dnbrgr","Dan Berger"],
 "jesmqdg75vzr2u22o6brd3ux":["dnolegy","oleg"],
 "k3pyxplgcjedraqkgsqwod47":["dnlv","Блядрій"],
 "k7g5giwirogovya5wvcb5gtf":["dnbtt","dan"],
@@ -70,5 +70,7 @@ var dn=(function(jsonp){ if (typeof dn==='function')dn(jsonp); return dn=jsonp }
 "2vr2lpdxkndxuc4n27cbmedx":"dnltsk",
 "jajxiwpdcearixky34my554c":"dnate",
 "xauobd6tyzybbgvwv6uyu3ym":["dnusinow","David "],
-"oc7hdau5w54pkje4cchjedqy":["dnlee5","DNLee5"]
-}) // 2023-10-21T19:57:35.283Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"oc7hdau5w54pkje4cchjedqy":["dnlee5","DNLee5"],
+"birjuuwn2fskcjk7vo3dwstb":["dnogami","NOGAMI Daisuke"],
+"35gfx2d32fujunnycfhbprdt":["dnack"," 不惑忍者"]
+}) // 2023-10-21T21:03:27.186Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

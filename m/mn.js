@@ -84,5 +84,6 @@ var mn=(function(jsonp){ if (typeof mn==='function')mn(jsonp); return mn=jsonp }
 "2ba4zf3flntioeugedbnlmqa":["mntgmry","Andy Montgomery"],
 "kji53fjune4jf6ybzbxwyfm4":["mnazim","Nazim Mir"],
 "sn4inhdzwqu2wezr3zdyh7f6":["mnicolesa","MNSA"],
-"33vqbzh2ocze76mddjtqnh6t":"mnkanjo"
-}) // 2023-10-21T20:04:49.271Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"33vqbzh2ocze76mddjtqnh6t":"mnkanjo",
+"3l7vb6v7bpw4ezsrhs3ij5jp":["mnnhnewsenglish","MNNH News English"]
+}) // 2023-10-21T20:20:17.971Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

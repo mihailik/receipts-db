@@ -12,7 +12,7 @@ var cw=(function(jsonp){ if (typeof cw==='function')cw(jsonp); return cw=jsonp }
 "dcsn454wsda5anl7wbjtpibh":["cwashington","Chris Washington "],
 "el24efeqm7fpacikahaedt5f":["cwbuecheler","Christopher Buecheler"],
 "fykgwrg6umwtkz6nx723fgd5":"cwtellstales",
-"h6as5sk7tfqvvnqvfrlnnwqn":["cwonus.org","CFO of normality (experienced pickup artist) 🧲🐝"],
+"h6as5sk7tfqvvnqvfrlnnwqn":["cwonus.org","clonus 🐝"],
 "ict4ffekpz4ku5w5spmytnjx":["cwfudge","Yes, it's me...."],
 "jkvr5dsdyd5fa6qvls2o3tfg":["cwo1po","봉"],
 "lgv6756u7wysnjamrrpzkxmm":"cwreeve",
@@ -52,5 +52,10 @@ var cw=(function(jsonp){ if (typeof cw==='function')cw(jsonp); return cw=jsonp }
 "hjtlrr2awbiqeil5m7tokixw":["cwilson","Chris"],
 "djjg5icii5fo2ybtmwrjknmz":"cwyers",
 "irhnx2euyuu2sttuzlljzck2":["cwmyers","Chris"],
-"qqresz7ajudbbz63m3kandgm":"cwgoes"
-}) // 2023-10-21T19:38:08.924Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qqresz7ajudbbz63m3kandgm":"cwgoes",
+"essmzuediazk2d3u2sh2ibcr":["cwhaught","Chris Haught "],
+"mdidqxacthek3rgc6ibkpu3h":["cwa.org","Communications Workers of America"],
+"jueds4ppeb2qhevlcrxjgahm":"cwaxler",
+"24svnbmygid7kh4cyv6qiazv":"cwb.us",
+"fzqm63djprr4hj3g3zdgum76":"cw3"
+}) // 2023-10-21T20:59:41.448Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

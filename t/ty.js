@@ -311,5 +311,14 @@ var ty=(function(jsonp){ if (typeof ty==='function')ty(jsonp); return ty=jsonp }
 "irnl7izarvc642a4zmw2oi2t":["tylerjmcdowell","Tyler McDowell"],
 "c4oxivqylm3t3wjnksqb7igy":["tycliff","Tyler Clifford"],
 "hclzqzw6ckqb6mbhg7fajjsy":["tylerblack","Tyler Black, MD"],
-"l3osfmii4sdoveoaxxwdpl76":["tylernovelas","Tyler Noveleiro❤"]
-}) // 2023-10-21T19:59:03.774Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"l3osfmii4sdoveoaxxwdpl76":["tylernovelas","Tyler Noveleiro❤"],
+"iynrlrbhphqo37xv2f25rhvk":"typester",
+"fxvdkjhao5kzpa5xpbuagsjn":["tyler.blue","Tyler Morgan"],
+"xh4ckrs24jwrxtl5b6esnlhu":["tymscar.com","Tymscar ⚙️"],
+"nc3aiv72gvnuqy52c5m2uss2":["tylerboscolo","Tyler "],
+"w374rweavklolpuf6oyuwexo":["typegirl","Typegirl"],
+"mxqnpaa6y3eazbjlr5cxxtxl":["tyamahori","tyamahori"],
+"dhfuqvfsgluzjisav2o7ry56":["tyoverby.com","Ty Overby"],
+"vhwsdz6pkpv3epyt3vqbn7xm":["tyummyyumms","Tayamba Mwanza 🅰️"],
+"7xjmqsuscdtdzpv4bv4sj7od":["typedarray","typedarray"]
+}) // 2023-10-21T21:03:27.118Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

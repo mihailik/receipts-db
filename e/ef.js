@@ -84,5 +84,14 @@ var ef=(function(jsonp){ if (typeof ef==='function')ef(jsonp); return ef=jsonp }
 "bk7jpewfe2biixip3noqhop4":["effectivepower","☆r☆ksh☆s"],
 "cahy7q6bja2ftuzujkbizjwl":["effiong","Effiong"],
 "xtgkgytq63aj2dk5lqztzx4m":"efp",
-"7xjqajay6wnzjbfg2pm5ezpq":["effmkthype","Efficient Market Hype"]
-}) // 2023-10-21T19:56:08.244Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7xjqajay6wnzjbfg2pm5ezpq":["effmkthype","Efficient Market Hype"],
+"pwawy75bxwleh3iqqcmilygx":["efcribeiro","Fred Ribeiro"],
+"resgjfwqh244qzyhcighk4jp":["effygetz","Effy Getz"],
+"vxvjsx2tq6drfr3xnhgkyqji":["efeinman","E Lev Feinman"],
+"lyenksw5v67djhgz3rnunw7q":["efficient","Efficient App"],
+"wu3qcwovdb7uo34k2fsuw76e":["efrod","Ef Rodriguez"],
+"ummhlrzstawjir5qerl5xwt4":"efroggy",
+"7jw44oiideowkykebhhxz6ti":["effchuck","A.D. Inghus"],
+"gczy7vpsyrj3uqdls4vcuz7w":["eff.co","Eff Corp"],
+"zra6rceonxyi6oiuvu5nx3ai":["efecan","Efecan Başöz"]
+}) // 2023-10-21T21:03:27.165Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

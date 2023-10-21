@@ -73,5 +73,12 @@ var s0=(function(jsonp){ if (typeof s0==='function')s0(jsonp); return s0=jsonp }
 "uteiglo42wzku7xhc7yfak6o":["s4m","PLANTTDADDII"],
 "irs3cupmwdkp2lgcyx3u677x":["s3thr1n","재도링"],
 "zhcuvf3zjbhhwcoveaxhrksx":["s0n1ck","Nick S"],
-"zmnsv6323lgquijdb6rffr7b":["s0phia","Sophia Goldberg"]
-}) // 2023-10-21T16:01:41.934Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zmnsv6323lgquijdb6rffr7b":["s0phia","Sophia Goldberg"],
+"2amn2czuamajvd2r77hy7pes":["s4katomo","さかとも"],
+"h36p4sgqfdxzji4z67fe6hbg":["s4m1r4","sam"],
+"ty6o6tfbplubpqbm65zfydsx":["s3xygyrl","s3xygyrl"],
+"m2ovathensiww2s6usin3lzy":["s1mone","Simone Villas Bôas "],
+"gmuispoqkw3t5bnr36hlmosn":"s7o4",
+"qjcaobgiti2bqh5k6lbysra6":["s2s","s2s"],
+"cefc7w3wdzi4tsznd3oyevkp":["s7eve","Stevie"]
+}) // 2023-10-21T21:02:03.841Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

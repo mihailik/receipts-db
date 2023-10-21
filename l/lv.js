@@ -36,5 +36,6 @@ var lv=(function(jsonp){ if (typeof lv==='function')lv(jsonp); return lv=jsonp }
 "oekxmu7mfu6p6pfpk2tfbq4m":["lvh.io","lvh"],
 "tia7hwabocszj7oc56yiuqrd":["lvs","luke"],
 "fk5lf5ptgwfa5xypmh4wkslp":"lvtwo000",
-"sch5a37ylgyisofhd22duunb":["lvlalvlad","ژونمن"]
-}) // 2023-10-21T19:43:36.750Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"sch5a37ylgyisofhd22duunb":["lvlalvlad","ژونمن"],
+"gcozibhw3wxnaybin64qpx23":["lvrdzs","cadela desistência  "]
+}) // 2023-10-21T20:54:58.098Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

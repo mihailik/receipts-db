@@ -24,7 +24,7 @@ var af=(function(jsonp){ if (typeof af==='function')af(jsonp); return af=jsonp }
 "a2xwwhapu62gfsy4rdnlxgfy":["afternooncurry.net","カレーなる午後"],
 "a4evwrujmlqdk3o34jjl7nmk":"afjfromfla",
 "adyu2bswrij372b73sdwys5a":["aftabomhtab","فَری‌ناز"],
-"ajdppwx2iybqffw3rckvonpg":"afrowagen",
+"ajdppwx2iybqffw3rckvonpg":["afrowagen","ニシムラタツヤ"],
 "ak3hbfu4hcwqbif5qhbdcqv7":["aflatcap","AFlatCap"],
 "asdtxckl522nshqzoucezjz7":["afevis.sheppy.gay","Afevis Solmunko"],
 "b2oguazupgnpaasmbsfblfwb":"afterdog",
@@ -190,5 +190,20 @@ var af=(function(jsonp){ if (typeof af==='function')af(jsonp); return af=jsonp }
 "cnxvydh5b7qd7tcdhv6n3bcr":"afek",
 "if2lajud62m33okfnawxk7gu":["afsirkhan","Afsir Khan"],
 "r2p7dmcr5vp6un44pazrhlxv":"afrifeminists",
-"xh4yzelxhuro4zfux6hjtvvr":["afshint2y","A F S H I N"]
-}) // 2023-10-21T20:06:28.818Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xh4yzelxhuro4zfux6hjtvvr":["afshint2y","A F S H I N"],
+"jadiq3gxvgxsyrps2bqxku36":["afroamazonida","Flávia Ribeiro "],
+"po7d7amfoprvdn2tqo42qujj":"afterselena",
+"3tt3w6snpwepyzztasdh4zhs":["afrawang","afra"],
+"njzvsmvork5lxfhvmxetlnjq":["africa","Africa"],
+"dlnq3iqurhorw4o4l2gj3pok":["afimaame","afi_maame"],
+"l4hcto7zq4e5qiacvzleb53m":["afernanda","Férnanda Araújo "],
+"6agrlw7qctwpfs73qqcqhzym":["afk","AFK"],
+"x3j7fwm6bayxyvj3ydwfeuh3":["afukuta1","ふくた"],
+"pcsgu66s5pqgxge7aijmhrcx":"afogarasi",
+"kdbx7ki73kou5wjwl4oiffel":"afolksetapart",
+"x2ktk2ox5yxxo42iuqxqvpv7":["afalli","Andrew"],
+"csuvjse7agguvdgnzidyucwt":"afire",
+"ljhzqyir3vktk2eai3whk572":["afowler","Alex Fowler"],
+"z6i5jd76qaivc3d544u3pau4":["afit","did you mean @afit.co?"],
+"qpnjynaeitsijebczc6iqkor":["afropolitan","Afropolitan "]
+}) // 2023-10-21T20:58:09.868Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

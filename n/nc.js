@@ -47,5 +47,7 @@ var nc=(function(jsonp){ if (typeof nc==='function')nc(jsonp); return nc=jsonp }
 "gjp54xb663aoxkdxa2d5ftjk":["ncc","Nick Coffin-Callis"],
 "bjyyosxwzenewye5sr3ecohi":["ncitron.org","ncitron"],
 "zqmuctw6cvx3ba5vl44ensce":["nc2y","Nicolas Christin"],
-"qzidiljmzkyrb2yzdg2xvcjs":"nchan"
-}) // 2023-10-21T19:47:27.066Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qzidiljmzkyrb2yzdg2xvcjs":"nchan",
+"u4slohis2f7rohgwsgqh26oy":"nchan9",
+"duxufc5qs4nbcxhsqdus4srn":["ncaa","NCAA"]
+}) // 2023-10-21T20:59:41.393Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

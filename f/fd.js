@@ -19,5 +19,6 @@ var fd=(function(jsonp){ if (typeof fd==='function')fd(jsonp); return fd=jsonp }
 "rzgu2p5hjclbg5ouymjutlbp":"fdr",
 "5uyihyub3yqrshrcr7uhjhmx":["fds.srt.pub","FDS / nonefffds"],
 "chvwpwlbfofjbxlynd3dhzab":["fda.gov","U.S. Food and Drug Administration"],
-"p4tyhpy3zkqaaiwxcrzcc2eh":"fduek"
-}) // 2023-10-21T19:53:42.527Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"p4tyhpy3zkqaaiwxcrzcc2eh":"fduek",
+"crb2x2xc633urzlivjitj2hp":["fdsignifier","Grumpy dad energy "]
+}) // 2023-10-21T20:14:43.106Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

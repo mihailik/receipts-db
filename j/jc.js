@@ -160,5 +160,14 @@ var jc=(function(jsonp){ if (typeof jc==='function')jc(jsonp); return jc=jsonp }
 "clmcc2brhzvdqxhoyogof2uo":["jcconrad","Jacinta Conrad"],
 "r3pikllvvvo4fikz3zzjudc2":"jconnors",
 "5ebsyoysxwo4fybq7panz5yw":["jch","Jasper"],
-"wlwpdg4o7b3ty6q3wvm6wriz":["jck","Jack"]
-}) // 2023-10-21T20:07:59.788Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wlwpdg4o7b3ty6q3wvm6wriz":["jck","Jack"],
+"mx4ulwkvwb3jowdkg2wrkt3p":"jcamuzie",
+"5lxbdutckrsd4xphitkgohwv":"jcanning",
+"adliutqwtas36azssunbt7ab":["jcris","Cristiano de Oliveira"],
+"vovxwzewjk2hofiggxw6wcj5":["jccarvajal","Juan Carlos Carvajal 👽🖖"],
+"xjvx25runjq4wlzlivti37py":["jcward.cc","Jim"],
+"g2udibdvfcdx6mborgl7om6f":"jcvanzijl",
+"ghkxdot6ps3axgos6rkligvj":["jcrjeff","JCRjeff"],
+"vej2lplr7ax5mm4rqfek2hnn":["jcly","Jen"],
+"v67rrr5zibmiwym22oxfzhk6":["jcesarperez","Julio César Pérez "]
+}) // 2023-10-21T21:02:03.842Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

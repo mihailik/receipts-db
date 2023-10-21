@@ -40,7 +40,7 @@ var cg=(function(jsonp){ if (typeof cg==='function')cg(jsonp); return cg=jsonp }
 "pys3ogok6ybs6u7dczqozehp":["cgdavey","Chris Davey"],
 "qrxhuiamnqmyzdqdxudpldyb":["cgaldieri","Chris Galdieri"],
 "rlpcyp7di7lsv4lyrgxzryh4":["cgfx","Scott Elyard"],
-"s4yfrbsjnm2dr67k6xszpcec":"cgolden",
+"s4yfrbsjnm2dr67k6xszpcec":["cgolden","Christopher Golden"],
 "s5tdmz6x5gbojpiewh4on6ae":["cgronlund","Christopher Gronlund"],
 "sbmpefyt6svb66vvyqr4az45":["cgarber8","Chris Garber"],
 "sgae3rbk4dfxt4n2e7ssowpg":["cgbaker.dev","Chris Baker"],
@@ -60,5 +60,9 @@ var cg=(function(jsonp){ if (typeof cg==='function')cg(jsonp); return cg=jsonp }
 "oysn6ppa2zhlbc3eqz6rcaho":["cgb","Colin Booth"],
 "b2acpnbozqpeqh7lskgas5a2":["cgrovesk","Chels"],
 "yqiwzoezjtwlbuop4qzm5czn":["cglee","Chris Lee"],
-"4agu25kk6oxvleg7a7xfys6p":"cgibin"
-}) // 2023-10-21T19:35:14.669Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4agu25kk6oxvleg7a7xfys6p":"cgibin",
+"dirau6rsabpt7mtis5awy3p7":["cgabrieldavila","Carlão "],
+"yypfwe5wz3fjd3mwbvpgilve":["cgartenberg","Chaim Gartenberg"],
+"spfwuutqrtl2fa3aphqhrjsd":["cgoss","Chris Goss"],
+"7cky6ll5hlat4xzfxo7oqf2a":["cgracet","Christina Grace "]
+}) // 2023-10-21T20:53:22.475Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

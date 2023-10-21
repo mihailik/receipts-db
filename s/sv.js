@@ -87,7 +87,7 @@ var sv=(function(jsonp){ if (typeof sv==='function')sv(jsonp); return sv=jsonp }
 "vw53chjyv7nb3u3gtu2dy4u3":["sviatalysytsia","Свята Лисиця🦊📘"],
 "vykzjnthvpuycdjwessmfwcr":["svelgur","Helgi Eiríkur"],
 "wjzqrnbfj4mne4z26njzslrt":"svenahrens",
-"wxmxjvyeltirekjibzsjm5bv":["svetlana","Lana_ cats _ astro _ psychologie"],
+"wxmxjvyeltirekjibzsjm5bv":["svetlana","Lana cats  astro  psychologie"],
 "wzbvv37uy277nar6aniiiuwx":["svwmerle","Merle"],
 "xfinvqa2d6oboo3bsczgpjqh":["svartoghvit","Arne Christian Eggen"],
 "ycfvgcdkaqko4ctgdag7po4g":"svarthumle",
@@ -114,5 +114,7 @@ var sv=(function(jsonp){ if (typeof sv==='function')sv(jsonp); return sv=jsonp }
 "3cqzcannsrapvyaqopmzjcdq":["sviraman","sviraman"],
 "mdu5cf3bswafsjpsw2gxcelm":["sven","Sven"],
 "insrkorh3ycrzntzut6vnhc5":"svs",
-"z7anoum2cb3xo2uuxtmnf7r5":"svatoshinemamnato"
-}) // 2023-10-21T19:57:35.184Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"z7anoum2cb3xo2uuxtmnf7r5":"svatoshinemamnato",
+"ntxta5kf3gm6js3m4gqpovzh":"sv3nk",
+"zcfjyehu2f3wnb3qmcvyljmz":["s-video.net","big drew"]
+}) // 2023-10-21T20:20:17.901Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

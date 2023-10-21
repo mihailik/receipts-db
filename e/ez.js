@@ -17,7 +17,7 @@ var ez=(function(jsonp){ if (typeof ez==='function')ez(jsonp); return ez=jsonp }
 "acn2p3azzx4my5fedbio6nhj":"ezecyber",
 "b4phglrzaormdeznhrfcssa4":["ezwal","tim"],
 "bb3emtg24dlgwrp5plm6qopb":["ezlnvive","Milkshakespeare🔥☭✊🏴"],
-"bzbqf3xhpgqjevyqcck65lhy":["ezrez","singapore sling girlthing"],
+"bzbqf3xhpgqjevyqcck65lhy":["ezrez","🎃singapore sling girlthing🎃"],
 "chqwoevnoryqvb4nhidc6rck":["ez8z","aya"],
 "daahqxj3s4u6fy73v7pdnrd5":["ezmi","ezmi"],
 "g2ke2b6ezi4j45vmirrxfcer":["ezioauditore","Ezio Auditore"],
@@ -85,5 +85,10 @@ var ez=(function(jsonp){ if (typeof ez==='function')ez(jsonp); return ez=jsonp }
 "2xftfbahuiphz25znurx3iip":["ezest","Ezest"],
 "bbmoy6afbdduilqeg7qx4fka":["ezarowny","Eric Zarowny"],
 "kpyjzi2qhgjqmx4by7riuunn":["ezra.wtf","Ezra \"God\" Olubi"],
-"uhtotuc5iim3v5t2vxzdi6d5":["ezengintaner","Taner Ezengin"]
-}) // 2023-10-21T20:03:09.650Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"uhtotuc5iim3v5t2vxzdi6d5":["ezengintaner","Taner Ezengin"],
+"zacwau5b57t2sj47mbffasdw":["ezzy","ezzy"],
+"lmtm3v22vqrv7nfdzkxe45ll":["ezmeraldaplum","Glittering Thempress"],
+"f45e3rettq7owufxvubwdptp":"ezba",
+"arcohdvjatybvqqarzvsrwjf":["ezagor","Ezagor"],
+"hozu6veingl5bz3mpgydw265":"ezgicankurtaran"
+}) // 2023-10-21T20:49:12.429Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

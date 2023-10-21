@@ -64,7 +64,7 @@ var bb=(function(jsonp){ if (typeof bb==='function')bb(jsonp); return bb=jsonp }
 "s44ztf76ys3sihkwpy342cjw":["bbangg","빵깅"],
 "sbh4iyhkqb7j2sifi3lk2iwc":["bbum","b.bum"],
 "ss2i5io5jlcd3pp5cfroyple":["bbq","🧄 𝕓 𝕓 𝕢 🧄"],
-"st4jxea3q5enlby3c5krqd5f":["bbolander","Bo Bolander "],
+"st4jxea3q5enlby3c5krqd5f":["bbolander","Cursed Book BOOlander "],
 "swcnnnvhn4g3jh7lidyy57uu":["bbi","finada binacoteca"],
 "tauvjwj2qhxo5bct4unti5yq":["bblloooodd","jakob"],
 "tcqccoco3nogeyxk2jnrxnwk":["bbhilley","Bryan Hilley "],
@@ -119,5 +119,11 @@ var bb=(function(jsonp){ if (typeof bb==='function')bb(jsonp); return bb=jsonp }
 "drfb2pdjlnsqkfgsoellcahm":["bbkogan","Bobby Kogan"],
 "nnwfz2vbh4cyhdhbbnzij2qe":["bbhong","BB❤️"],
 "tfbsjqow5i6xbeuy4oaglrfl":["bbeylo","Brandon Beylo "],
-"dhfxrfxjr222qvk2otqqrxo6":["bbloomer","Brian Bloomer"]
-}) // 2023-10-21T20:07:59.740Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dhfxrfxjr222qvk2otqqrxo6":["bbloomer","Brian Bloomer"],
+"huzx3tcmzzzvalfvqdth6gu4":["bbcparham","Parham Ghobadi"],
+"pf6v7vwjtmgc4wn565q3juvs":["bbrandon","Brandon"],
+"ikadhf26r6bwpjvvfewbxzqz":"bbyoru",
+"zyhynol4ezpdf3iyqvn7jsyj":["bbonato","Basilio Bonato Junior"],
+"z2x5rp2pydldgbght74cdwpz":"bbarthec",
+"vx57dvu2lbuhnr2pzhwk7tiq":["bbaskin","Brian Baskin"]
+}) // 2023-10-21T21:03:27.080Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

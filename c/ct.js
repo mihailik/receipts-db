@@ -78,5 +78,10 @@ var ct=(function(jsonp){ if (typeof ct==='function')ct(jsonp); return ct=jsonp }
 "yoz3wkibzpjwdf4fclwmi2dy":["ctpost","Chrysanthe Tenentes "],
 "5pjc7s7ulv7tz76u3xdxcpvo":"ctalbot",
 "fmxmdkxhj6dcv2pmvq7edvbc":["cthulhu630","Cthulhu630"],
-"olevhrdacdz6sug3ycn3wvtz":"ctbeaver"
-}) // 2023-10-21T19:59:03.753Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"olevhrdacdz6sug3ycn3wvtz":"ctbeaver",
+"pcejcn7dvnxpklwx7xbxnqup":["cthelala","Chirag Lala"],
+"sge5xzbznrih6f6njfaahewj":["ctoothaches","cocaine for toothaches"],
+"lum3tsvs5atca4hyswg4qnly":["ctl","Connor Leech"],
+"sncyil5g6dvbrldlvhqmb2xq":["ctrl.red","audibleblink"],
+"j4twy4u5i77ycxxk7florcqt":["ctbarna","Chris Barna"]
+}) // 2023-10-21T21:02:03.884Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

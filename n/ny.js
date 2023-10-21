@@ -252,5 +252,20 @@ var ny=(function(jsonp){ if (typeof ny==='function')ny(jsonp); return ny=jsonp }
 "khfxzn5kggzfuu3scf4hnjao":["nyeong","뇽"],
 "r2uaf2lzmf3ojeze4zupubrk":"nycreporter",
 "cktehc24clyo3a5tasz2afue":["nyangnyang","NyangNyang"],
-"ou2tjs4m2wswh3pe6y6t54d6":["nylons","Nancy Lyons"]
-}) // 2023-10-21T20:07:59.829Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ou2tjs4m2wswh3pe6y6t54d6":["nylons","Nancy Lyons"],
+"zxhzyujeslm5ka3iu3e5pasn":"nykibell",
+"caccugnl2mrmzs635bhqb5m2":["nyang","Nancy Yang"],
+"osn4dv776o24oajborjms444":["nyamaoka","nyamaoka"],
+"zi7i76nic7pr5hhpsuhg6vbl":["nynagermanotta","LADY FOLIE À DEUX"],
+"r2wmcf5wopxizst4nlhyr5gi":"nykeiajj",
+"naflnizewboqs74rcaw6h3wa":["nyt","The New York Times (AI) 📰"],
+"pk3mccs6xnhv4qtu4c5z5dx2":["nyakio","Nyakio"],
+"p5s3csu5wdzmjwjaiamxsiwo":["nyclovinsky","nyclsd"],
+"7nxsrhri4wzzy3phr5uf5gyu":["nyxia","nyxia-"],
+"sjxxlwxvnego4zmrwdtlk7cg":["nycantifa","New York City Antifa"],
+"ua6vxqn3ndwozeuvntvzdwjr":["nyanchu","Nyanchu_kawano"],
+"eipt52pie5x6ogvdt2noit66":["nytimes.wtf","Worst of the New York Times"],
+"s7ydx6awexflozjgysqfdmlm":["nycforabortion","NYC for Abortion Rights"],
+"alfbg73kqwj7ywkcgyi2nbe2":["nyucel","Necdet Yücel"],
+"qtxxb3vttqqzqy5ky4srwdiw":["nyxoctavia","Nyx Octavia"]
+}) // 2023-10-21T21:02:03.873Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

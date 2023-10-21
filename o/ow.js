@@ -19,7 +19,7 @@ var ow=(function(jsonp){ if (typeof ow==='function')ow(jsonp); return ow=jsonp }
 "a3k4zgd63nokxpvlqhr5pxcq":["owenkcstephens","Owen K.C. Stephens"],
 "acewmvh3ebwydyesin5gn5js":["owlbearcamus","Godspeed You ☭ Black Pudding "],
 "al73vwj4boivchx6vdql6nuj":["owlsarecool77","LJ Whatevah"],
-"b2yh7pcbcq6nh4lhpueffwp2":"owasow",
+"b2yh7pcbcq6nh4lhpueffwp2":["owasow","Omar Wasow"],
 "b4u4bakopl4ricndoko5zriq":["owlsys","Owlsys"],
 "bbm7otcb6rumsfdilr3a7ijh":["owlquill","Anke"],
 "bfe6vpebm2oyjbar6aoa3adz":"ow3xz",
@@ -111,5 +111,7 @@ var ow=(function(jsonp){ if (typeof ow==='function')ow(jsonp); return ow=jsonp }
 "yumddhlh5kslsjnapx7bgwsf":"owens",
 "wd6miy5cc4xhbzej6tdgk6qq":["owusu","AKOSUA NYAMEWAA 🦋 💐"],
 "26pjx2nrypbn4hw2es24ogtg":"owocki",
-"fnv76bqqaeyj62etwxqkrh3f":"owlstare"
-}) // 2023-10-21T19:43:36.657Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fnv76bqqaeyj62etwxqkrh3f":"owlstare",
+"ilv7t6v46yuxkygb5zgjtcus":["owlka","부엉카"],
+"a2q4t2pz4qdjldfd2ndu7eof":["owenp","Owen P"]
+}) // 2023-10-21T20:28:37.190Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

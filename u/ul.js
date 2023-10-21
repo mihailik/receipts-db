@@ -151,5 +151,7 @@ var ul=(function(jsonp){ if (typeof ul==='function')ul(jsonp); return ul=jsonp }
 "2ehgfi3uwvdzhaz7oknustzv":"ulfjack",
 "rzoizfv5kojojcgnkfsce6lk":["ultranerd","Ultra turbo nerd"],
 "etozdztaze2ghfjrj7anfae3":"ultra206",
-"igf2mebxnrfldsftazp6m562":["ultrahealth","Jay Benedik"]
-}) // 2023-10-21T19:59:03.699Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"igf2mebxnrfldsftazp6m562":["ultrahealth","Jay Benedik"],
+"vgbqbjttg3u2yttq44ah6peo":"ulusutku",
+"5ps4c3ybqmcvldwtljreyu3e":["ullrich.is","Ullrich"]
+}) // 2023-10-21T20:43:54.470Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

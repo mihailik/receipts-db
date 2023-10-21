@@ -163,5 +163,10 @@ var oc=(function(jsonp){ if (typeof oc==='function')oc(jsonp); return oc=jsonp }
 "3ccipo5fegkjqdem6ldo3ldi":["occupywallstnyc","Occupy Wall Street "],
 "7vau25py76a44oiuoml6h6xs":["octa","Octavia"],
 "kk54bkn5zepvycl3rvrzqpnf":["octopus","Dan"],
-"hsnbex4tim4ajhv3dmgr4x5a":["oceanfilly","Brooke Fitzwater"]
-}) // 2023-10-21T19:53:42.539Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hsnbex4tim4ajhv3dmgr4x5a":["oceanfilly","Brooke Fitzwater"],
+"uuwzhql6w7pt2rs654pe77ou":["octavdruta","Octav Druta"],
+"muce53rz2arizkboojncwuq6":"ochmanski.pl",
+"y73jglsvir2mogmajrjtsvao":["octopeeps","OctoPeeps"],
+"ic7n7z2yrxtl4ejl5dfjchmm":["ocasio-cortez.house.gov","Rep. Alexandria Ocasio-Cortez"],
+"24kkmli7dnlqcc6subi44hhe":["octave","octave"]
+}) // 2023-10-21T20:49:12.517Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

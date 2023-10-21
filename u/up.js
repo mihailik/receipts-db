@@ -26,7 +26,7 @@ var up=(function(jsonp){ if (typeof up==='function')up(jsonp); return up=jsonp }
 "kmz6pndkitkex3qwojkw4lwr":"upa-rupan",
 "kvlnptxqxalhcfysjwr22yn6":["uponthe101","Aaron"],
 "lxcgtokpren3c4vqnryhfhwa":["uplynxed.valk.cam","UPLYNXED"],
-"muuyrcfi4wmfc6aysbc3doc4":["upshotknothole","Upshot Knothole"],
+"muuyrcfi4wmfc6aysbc3doc4":["upshotknothole","Upshot Spooktacular Knothole"],
 "nfv445duxm42u7rmkmpwduvy":["upewigungedeelt","Up ewig ungedeelt!"],
 "nv2y624lrvwmx26t4hgfrpzr":["uploadvr.com","UploadVR"],
 "o3fy2z7u6kzdcx3ownz55yma":["upbeatprof","Upbeat Former Prof"],
@@ -61,5 +61,8 @@ var up=(function(jsonp){ if (typeof up==='function')up(jsonp); return up=jsonp }
 "46u4kosu33xvxbu67t5tgjcp":"ups",
 "rhebmeswd7c7gc4by34gscik":["upinthe","🌞"],
 "bqmlp64lv564f7jmzqmbtsg7":["upso","upso"],
-"fv5qosmeuc4vuwu5yzzetorc":["upmayo","Up Mayo!"]
-}) // 2023-10-21T20:07:59.793Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fv5qosmeuc4vuwu5yzzetorc":["upmayo","Up Mayo!"],
+"sga7765cfwlukqmz2gddxb27":"uptin",
+"z7shkwpcnyiw3vnavirqget3":["uptwolait","UpTwoLait"],
+"pvlsnaciiluubqlgz2dv5c2b":["updatelanadelrey","Update Lana Del Rey"]
+}) // 2023-10-21T21:03:27.121Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

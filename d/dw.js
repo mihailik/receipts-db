@@ -80,5 +80,14 @@ var dw=(function(jsonp){ if (typeof dw==='function')dw(jsonp); return dw=jsonp }
 "u4grxsjsquw3q4fupugwjxbj":"dwbrid80",
 "qqdzkmv35ghn2uzqk6nxbltf":"dwallacewells",
 "5isrqacvymm233su55nwf2du":["dwelling.love","Elliott Etzkorn"],
-"m2jx6bvdea2oq5fbdtszz2po":"dwrene"
-}) // 2023-10-21T19:50:44.434Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"m2jx6bvdea2oq5fbdtszz2po":"dwrene",
+"hmicnwhjo75ezgpf2wq4lf2w":["dwilliamjones","Dwilliamjones "],
+"mod67y6i5h2mxit7xahnvguz":["dwillner","Dave Willner"],
+"oq7treo6qqecsokmroxw2e6c":["dwight.tv","D:\\wight"],
+"f2akvnakdim5dwcc6mones2j":"dwjsong",
+"osn5ayh42fvzidvfexv2ona7":["dwaynedavidpaul","Dwayne David Paul "],
+"36by6hqyryd7msx75plprlhm":["dwt","Tango, Delta Whiskey"],
+"bbjguyd3rla67axwyyj4ikgs":["dwayneduggerii","DUGGY"],
+"vh7jknc7v5dc3ljeihxuffcv":"dwitmer",
+"4sn2m7v6wg2ovfr33lsoieye":["dwebxr.online","dWebXR"]
+}) // 2023-10-21T20:59:41.484Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

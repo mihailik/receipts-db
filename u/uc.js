@@ -31,5 +31,6 @@ var uc=(function(jsonp){ if (typeof uc==='function')uc(jsonp); return uc=jsonp }
 "metxzqysekddoeuepe7inggd":["ucho-ten.net","Bluesky 有頂天(ucho-ten) Client"],
 "amsnp7fhss5wgdbcvxsckqut":["uchiha","jurídico sakura uchiha"],
 "pprneo6vcgs3woc6vwwxqbos":["ucelik89","Uğur Çelik"],
-"jhuc2q4ktg5sc64zftkgnbwt":["uchihasakura","Isa "]
-}) // 2023-10-21T15:44:23.729Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jhuc2q4ktg5sc64zftkgnbwt":["uchihasakura","Isa "],
+"kkivmxceo6bihnbomkowaqbc":["ucla","Geo"]
+}) // 2023-10-21T20:59:41.472Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -6,7 +6,7 @@ var tb=(function(jsonp){ if (typeof tb==='function')tb(jsonp); return tb=jsonp }
 "56wap2flbrkmhod3c37qmlq3":"tboeggild",
 "5kggvvoym7uc24fteqe44rmn":["tbd88","NAME(나메) 🔒"],
 "67dlr5dfjxpxywyfaowgnnfj":"tbassuoni",
-"6is5lx74qrish5r5376nmo3w":"tbty",
+"6is5lx74qrish5r5376nmo3w":["tbty","tbty / terusan"],
 "7qaydotyzl5tbnyolgootvvz":["tbskyen","TBSkyen"],
 "a5wj4agl5dae5tiamiduljqc":["tbse101","Om Nom Nom"],
 "a7ogrr5bsuzhkidigw5amev6":["tbroekel","Tom Broekel"],
@@ -58,5 +58,8 @@ var tb=(function(jsonp){ if (typeof tb==='function')tb(jsonp); return tb=jsonp }
 "c6fkpf6yrrkupr2t6i4tcvus":["tbar","tbar"],
 "5ylecjxog7qs5h32zdblqms4":"tbonier",
 "7q2p6ewn33lpili5im3stbcm":["tbremer.dev","tbremer"],
-"glvvqwu4npm3diumi7zxg5lv":["tbiars","Thai®"]
-}) // 2023-10-21T20:04:49.278Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"glvvqwu4npm3diumi7zxg5lv":["tbiars","Thai®"],
+"lzdf45zdw5hmbrdegkc7hlcl":["tbalena","Trevor Balena"],
+"qgaswo3oeekdx7lxsw47vrtq":"tbone",
+"6zh4gnispntsywwfrm6pomiy":["tbb","Health and fitness"]
+}) // 2023-10-21T20:59:41.472Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

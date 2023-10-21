@@ -144,5 +144,7 @@ var zu=(function(jsonp){ if (typeof zu==='function')zu(jsonp); return zu=jsonp }
 "7gq6qagktb5podbqhysfygki":["zuk","ヅキ"],
 "apoomonpsny6gzsex7dsxwx6":["zuha","Zuha Siddiqui"],
 "xb2whbonjf5ps3xiicxfnczq":["zushanhashmi","ShAz | Danketsu 🇦🇺🇵🇰🇦🇪"],
-"3a3gncjne6t4cwbefrqniqlh":["zurich.com","Zurich Insurance"]
-}) // 2023-10-21T19:56:08.381Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3a3gncjne6t4cwbefrqniqlh":["zurich.com","Zurich Insurance"],
+"axtgk56x4sqk3hml4nfvuipt":"zuleykalara",
+"oncf56nsjgujrzzigvxrcxgg":"zuko1107"
+}) // 2023-10-21T20:58:09.839Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

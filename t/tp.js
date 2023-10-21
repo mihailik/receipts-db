@@ -28,5 +28,10 @@ var tp=(function(jsonp){ if (typeof tp==='function')tp(jsonp); return tp=jsonp }
 "vhxlhmj4wgdfkkitzn5fmp3m":["tpotdome","Justin"],
 "untchg73vaytatjdyecefxez":["tpthetechie","The Original Tyler Perry"],
 "wuyrgc2mfikeewztegyxp3lr":"tpearson",
-"27gb4mcymdmpp6unslpiy7ss":["tpires.pt","Tiago Pires"]
-}) // 2023-10-21T19:36:41.538Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"27gb4mcymdmpp6unslpiy7ss":["tpires.pt","Tiago Pires"],
+"2sbr2k63noy5digjajyz5kqn":["tparsi","Trita Parsi"],
+"sywwdhyxgbr3xpzwc6kkrohf":["tpbrown","Tim Brown"],
+"kalkozf7cmp4jalegeh5qzwk":["tpo.pe","Tim Pope"],
+"2mobc7bgwlk5736a5ba3vrr3":["tpryan","Terrence Ryan"],
+"z23sfldxbmocs73tffbiyayg":["tpotresponder","⚡️ tpot responder ⚡️ (e/tpot)"]
+}) // 2023-10-21T21:03:27.137Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

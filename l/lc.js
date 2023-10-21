@@ -44,5 +44,10 @@ var lc=(function(jsonp){ if (typeof lc==='function')lc(jsonp); return lc=jsonp }
 "oy5bhcdzpf6nyupwkean6m32":["lcsbnl","lucas"],
 "skyrbu7wgryw7e4u7fr65t2x":["lcamtuf.coredump.cx","lcamtuf"],
 "gzoyyf7hayi6mgmp7fwl3e7x":["lcsbckls","lucas"],
-"kcwbe36vmi3qyjlns23rsoaf":["lcartagenovamd","Luis S. Cartagenova, MD"]
-}) // 2023-10-21T20:06:28.737Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kcwbe36vmi3qyjlns23rsoaf":["lcartagenovamd","Luis S. Cartagenova, MD"],
+"pbnqdot4gfxk3bxaugyy56yv":["lcaramori","Lucio Caramori"],
+"qqh26wyyfeu37i762jc3yb2g":["lcoder","کدر خندون"],
+"bsax2z6bbugsvljtmzwq4vrv":["lcas.dev","Luca Casonato"],
+"ghek7zcov2jvizgouiiwzbe6":["lce","Louisville Clinic Escorts"],
+"zh5eqvbjkwze3v472b5q2mvr":["lchamb","lchamb"]
+}) // 2023-10-21T20:59:41.473Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

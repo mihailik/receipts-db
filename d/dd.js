@@ -21,7 +21,7 @@ var dd=(function(jsonp){ if (typeof dd==='function')dd(jsonp); return dd=jsonp }
 "alxbq2zja6kzyyo6x3wia56b":["dddperth","DDD Perth"],
 "amxs2trrl5dzihwzk4haitgd":["ddwhaleshark","DD :3"],
 "bfztukvkjltd6xlpuyoga2qx":["ddryan","Dave"],
-"bhes2tx7sni37spuk72olkpv":"ddiiggss",
+"bhes2tx7sni37spuk72olkpv":["ddiiggss","ddiiggss"],
 "brg4onm7sqw4ohizcoodzs72":["ddelgadovive","Daniel Delgado 🔜 Big Bad Con"],
 "cc6krbfizll7apwwd7ob4pld":["ddsnegar","نگار در آینه"],
 "ckmhg5n7yyac4jdklpkr2hbv":"ddavidd",
@@ -89,5 +89,10 @@ var dd=(function(jsonp){ if (typeof dd==='function')dd(jsonp); return dd=jsonp }
 "yp3xjtlhejqwkjiokq3wofyx":["ddimmery.com","Drew Dimmery"],
 "k5mdhfktgca65nmgjqalbaxa":["ddubb","𝙳𝙳𝚄𝙱𝙱"],
 "km73o6xght7lpff35bhqajxy":"dddyck",
-"eklegbcu7nqtfvrlyv5rpku4":["ddunstan","David Dunstan"]
-}) // 2023-10-21T20:01:28.471Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"eklegbcu7nqtfvrlyv5rpku4":["ddunstan","David Dunstan"],
+"p42myto26wn5x6lvjnsjsdbt":["d-d","Dirty-DaDDy"],
+"rs3twrz7pgi34gtqilwtag4n":["ddmnds","Hefesto "],
+"kxmtvykl6wen4sexcqo4brn6":["ddonatti","David Donatti"],
+"jvfuvjqyyocjq2dzfyocu6p4":["dddejan","Dejan Jovanović "],
+"25iypiijjfwrpnm4k5bcudyq":["ddoomen","Dennis Doomen"]
+}) // 2023-10-21T20:56:39.653Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -64,5 +64,12 @@ var kk=(function(jsonp){ if (typeof kk==='function')kk(jsonp); return kk=jsonp }
 "cg2577lxmye5zu3ov7q2obu3":["kkamegawa","kkamegawa "],
 "xpkk3rslo6uf4x6ga4v62u4i":"kkorn",
 "fmflbdqx7aajt3ozkc44t5vo":["kkbnation","KKB News & Updates"],
-"iksw5563bjdmdcug73ibdak7":["kkashushu","Kashushu"]
-}) // 2023-10-21T19:53:42.523Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"iksw5563bjdmdcug73ibdak7":["kkashushu","Kashushu"],
+"budqrkqptlru6qijuzqmcovi":"kkperson",
+"nwjh2vpahl4z2txmrtoemr4j":["kkhossro","کی‌خسرو"],
+"lsppzov3g45atlhggoungaox":["kkumtree","mscho7969"],
+"v5xukhfvcgzyds7buop775yx":["kkamka","KKAMKA"],
+"sxrf3yz2okaly7b4ajwwwmko":["kksheehan","Kayla Sheehan"],
+"lmyc2nsklu7ha36znucjvgcp":"kkasprak",
+"vpv7po35jnn4wiyknc27lbbm":"kkonline"
+}) // 2023-10-21T20:39:21.418Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

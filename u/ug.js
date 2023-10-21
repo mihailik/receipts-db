@@ -31,7 +31,7 @@ var ug=(function(jsonp){ if (typeof ug==='function')ug(jsonp); return ug=jsonp }
 "pqc3z4spdxoqaad65n6sfrs4":["uglyduckling71","Roger"],
 "qmhdpnftaknni6i5zwy4uhf2":["uguh","ぐれさん"],
 "qmwinvrxoboakee3jh3m7oil":["ugaritnoosphere","🚣‍♀️The Sea🔥Peoples🌋"],
-"rzvkm3puitr5bh2a4cdubezh":["ughfinewhatever","ugh"],
+"rzvkm3puitr5bh2a4cdubezh":["ughfinewhatever","pumpkin jughs"],
 "tqzirdq26hwr5ag6re7etmpr":"ugandaofficial",
 "ubvmv4ctqex5gu2t6pc4kor4":"ugah88",
 "vg5law3sdjahkqzh32mrfkfd":["ugh","☭"],
@@ -46,5 +46,7 @@ var ug=(function(jsonp){ if (typeof ug==='function')ug(jsonp); return ug=jsonp }
 "vxsnw4h6ietciep2qmz3fes2":["ugen225","朽竹イルマ"],
 "z3karuyabtwporxrti7kd5za":["ugonna","Ugonna"],
 "5f6l6crobs57dqmtosdnhmhe":"ugo",
-"v64dy3k5ydrbykj7bjmnh7xw":"ugmonk"
-}) // 2023-10-21T19:47:27.011Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"v64dy3k5ydrbykj7bjmnh7xw":"ugmonk",
+"7gjoildnkbdnamvk5wkb4sdg":"ugonm",
+"j46qpzpmjlxa7azj3t5v3u6k":["ugandachess","Uganda Chess"]
+}) // 2023-10-21T20:56:39.649Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -3,7 +3,7 @@ var rd=(function(jsonp){ if (typeof rd==='function')rd(jsonp); return rd=jsonp }
 "2dk55kuezgj34my2qvfzgmox":["rdmage","Red"],
 "3cvcatgirqfaswzdb6aat3vx":["rdtopp","RD Topp"],
 "3d3vnufshzmimoqjllkjbp6i":"rdmtlm2001",
-"3usymln5h2howwcmfqeujlkq":["rdwoolf","Mr. Woolf supports the Writers (WGA) & Actors (SAG-AFTRA) Guilds"],
+"3usymln5h2howwcmfqeujlkq":["rdwoolf","Mr. Woolf congratulates the WGA & supports the SAG-AFTRA strike!"],
 "45k2xumjet3sqc3wrrsjlmzg":["rdavidk","David Kaleida "],
 "4dxhacfcr2as2v75sske6qiu":["rdp2","Rick"],
 "4u7cmovdxkafyidoiz7kx6oi":["rds052","rds052 "],
@@ -56,5 +56,6 @@ var rd=(function(jsonp){ if (typeof rd==='function')rd(jsonp); return rd=jsonp }
 "e5meplkixddzuo6xnk2xflx4":["rdborges","Raphael Borges"],
 "lzfa4bxkxtnf4khkg2ljfv4c":["rdohms","Rafael Dohms "],
 "qgs2re3bgndgbdhizvetdyxx":["rdrozd","Robert Drózd"],
-"66f7umqe44p727pjuzhx4dl4":["rdmc","David McCoy"]
-}) // 2023-10-21T20:04:49.256Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"66f7umqe44p727pjuzhx4dl4":["rdmc","David McCoy"],
+"7fffftzydouq6od6jquhol2v":["rdwncuk","ridwan"]
+}) // 2023-10-21T20:47:44.165Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

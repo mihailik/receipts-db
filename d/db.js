@@ -40,7 +40,7 @@ var db=(function(jsonp){ if (typeof db==='function')db(jsonp); return db=jsonp }
 "kropk2k4ay3xbwep4lvxieoy":["dburle","Daniel Burle Orlandine"],
 "ktbq4sm2pmtunsr5f3wws5ri":["dbyrd","dbyrd"],
 "l3zb5xqyd7oycsq677dilqno":["dbernstein","David S. Bernstein "],
-"lfxebm4a2hwpcg2cuo2ywiyb":["db-user","aksfjh👖"],
+"lfxebm4a2hwpcg2cuo2ywiyb":["db-user","🪓axe-fjh👖"],
 "m3ovbgkv67cdwclmzacvshsr":["dbhobbs","David Hobbs is: Chaïm Soutine’s Odd Little Man"],
 "m4mccs7vpjzfljxkjum75h4b":["dbauer09","Derek "],
 "mkyeizsza5nl7l7po7maefdk":"dbmichele",
@@ -97,5 +97,13 @@ var db=(function(jsonp){ if (typeof db==='function')db(jsonp); return db=jsonp }
 "kochjovzrfoujql5xnjoexgb":["dburka","Daniel Burka "],
 "glzxqfah3z46lb6oddesigoo":["dbcl","Daniel Boey"],
 "en2vdlwrur5cehggcgmd2zz5":["dbusraktas","Büşra Aktaş"],
-"2sxmqo73wsmwe64ar5ontke7":["db1","db1"]
-}) // 2023-10-21T20:01:28.459Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2sxmqo73wsmwe64ar5ontke7":["db1","db1"],
+"qz4ojj7ozosmsus2g5gtcbnu":["dbrn","david"],
+"23pihpep25k66jsa3xjqh7oi":["db5","Darin"],
+"nr2b35cr3uzcs5lj2tjqxspr":["dbradley","Dan B"],
+"muijdyigrn65nlylnhinpslh":["dbfrufru","Debbie"],
+"ogosrorewtjlljajt7xegwfh":["dbrahler","David Brahler"],
+"rdb7uxzijb2tc2omig2zvzx2":["dbo","DBO"],
+"vfvjtszgulrynyyccdqjdodw":"dbeaurepaire",
+"pc2fl7fa7mewv5uhp322puld":["dbannon","Dylan Bannon"]
+}) // 2023-10-21T20:59:41.440Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

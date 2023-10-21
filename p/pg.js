@@ -38,5 +38,8 @@ var pg=(function(jsonp){ if (typeof pg==='function')pg(jsonp); return pg=jsonp }
 "bskzi3suaiue4k6bcwnhl7j7":["pghosh","pg"],
 "2off3grpe3yr55sagqn7dpvn":["pgarbe","Philipp Garbe"],
 "5q5lj6t7kl3xiki7kpvwvhiu":["pgl","Peter Lowe"],
-"swhkla3zo5d2zssyndejru5s":["pg-mana.net","PG_MANA"]
-}) // 2023-10-21T20:03:09.760Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"swhkla3zo5d2zssyndejru5s":["pg-mana.net","PG_MANA"],
+"bmlipuqfaevsqhvsfvlliwy6":["pgallo","Paul Gallo"],
+"jcxwolx4pbmfrrwpsmc4qume":["pgray","pgray"],
+"bz3xcp2lmawb3roqmyqllcci":["pgurum","GYULEE"]
+}) // 2023-10-21T20:32:11.220Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -53,5 +53,9 @@ var sf=(function(jsonp){ if (typeof sf==='function')sf(jsonp); return sf=jsonp }
 "oodij4uglceel2ffcyzbtw42":"sforbes",
 "dzyegnzasmc5py2yoozs73wd":["sfvenus","SoHa"],
 "mu62br52uh3jhay4gqyeplqn":["sfaridmousavi","سید فرید‌ موسوی"],
-"fsmib7e6qhri5osrwn2s5t7c":["sfa","Steven"]
-}) // 2023-10-21T20:03:09.747Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fsmib7e6qhri5osrwn2s5t7c":["sfa","Steven"],
+"wd7awmak2svzcktnd5zapzyi":"sfaith",
+"mwqrrhvkypx7sksjls76kqrk":["sfennah","Sara Fennah"],
+"k33g5jihxugae6xolfwjyzvk":["sfd","Startup Founder Daily"],
+"2c7afebp7enocvuvbp4u5yam":["sfstandard","The San Francisco Standard"]
+}) // 2023-10-21T20:53:22.504Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

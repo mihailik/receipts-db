@@ -112,5 +112,10 @@ var dc=(function(jsonp){ if (typeof dc==='function')dc(jsonp); return dc=jsonp }
 "fazp7jej4al63kd7xydlf3hb":"dclocal",
 "dpj2bq6ndulzgulfxswlbw3a":["dcreemer","D Creemer"],
 "u55iqc6xog6lpfjkkttyibbh":"dckrug",
-"tljr5qazkbgpdayoazzptck6":"dcharold"
-}) // 2023-10-21T20:03:09.644Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tljr5qazkbgpdayoazzptck6":"dcharold",
+"p76b5b7i553mp6jmc2m2cbii":["dcassus","Daniel Cassus"],
+"rw2lzkm2s7gq3l7kvgjhwikw":"dcs",
+"tqunaramu22brrjoobyc2tgt":"dcrepaldi",
+"4iudqssyz4asqkze3c7s5mfh":"dcp",
+"jghfmypyd4cltf66ig7kskhm":["dconscitrack","Dragon Con Science Track"]
+}) // 2023-10-21T20:59:41.398Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

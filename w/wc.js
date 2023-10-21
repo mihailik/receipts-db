@@ -22,5 +22,6 @@ var wc=(function(jsonp){ if (typeof wc==='function')wc(jsonp); return wc=jsonp }
 "vnjo7ikcl7mc6xohvz3qngjd":["wcwlion","Markus"],
 "zvqjtv3gbyby4jucbavcurbo":["wcwworldwide","WCW Worldwide Fansite"],
 "nwuzrya7patnxo6pigx55s7z":["wclee","wclee"],
-"obamfgmmud243nvqckwuiosk":["wcollins","William Collins"]
-}) // 2023-10-21T15:52:42.126Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"obamfgmmud243nvqckwuiosk":["wcollins","William Collins"],
+"ska2g53we76ggbnqaua2ifcl":["wcs1only","Charlie Stanley"]
+}) // 2023-10-21T20:56:39.562Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

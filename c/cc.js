@@ -27,7 +27,7 @@ var cc=(function(jsonp){ if (typeof cc==='function')cc(jsonp); return cc=jsonp }
 "endungxb5gh2gbog7ppxx34k":"cchandonait",
 "fgmigt6gxwt7hcgdvdd47wdl":"ccom4i",
 "fw4dwt3bryuf45nktcbxiytg":["ccnts21","ここなつ(ぬいぐるみ部 部長)"],
-"gf6norjkjdxj4qepktgqbrnz":"cc-chapman",
+"gf6norjkjdxj4qepktgqbrnz":["cc-chapman","C.C. Chapman"],
 "ggr5ll6445qq4hefmg5ld25i":["ccreechstudio","Carol Creech"],
 "h235ovmj2ylqvzllndbdyj6d":"ccbookdesign",
 "hz5ke6mapeyi42w5fount4m6":["ccriss92","Cris ☄️ "],
@@ -85,5 +85,10 @@ var cc=(function(jsonp){ if (typeof cc==='function')cc(jsonp); return cc=jsonp }
 "pfy4skqhqwhygg7tcotbpz5n":["ccallahan45","Christopher Callahan"],
 "fkyo46rprznx7xc2wigiuyje":["ccarneiro","Leonardo Carneiro"],
 "62mwiqrlg7rfh2jcspcawxap":"ccopeland",
-"qljh4du3nn3tyejsqykw2uam":["ccorreen","Cierra 🌱"]
-}) // 2023-10-21T20:04:49.176Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qljh4du3nn3tyejsqykw2uam":["ccorreen","Cierra 🌱"],
+"64rcqijmnkp3jp6sw4wmn6je":["ccortesi","Courtney"],
+"tydyyxpqta22xmmbkgpacex7":["ccddcc","cory"],
+"c6wibqicenqqyoozuxukla7m":["ccgus","August “Gus” Mueller"],
+"y3nb7hrhnq33tkxh7c74fkxz":["ccianet","CCIA"],
+"nlm42cggm3kl3oyorzl4jkfz":["ccs","Dr Corinne Cath Speth (ccs) "]
+}) // 2023-10-21T20:51:45.223Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

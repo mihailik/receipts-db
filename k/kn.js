@@ -230,5 +230,13 @@ var kn=(function(jsonp){ if (typeof kn==='function')kn(jsonp); return kn=jsonp }
 "3dawtbllrj5pauby6at5udef":["knoxilla","Thomas Knox"],
 "kg7rc2ofcnomsff4bgcooyhf":["knut","knut"],
 "atwkswznvvwtfubhujzwzbov":["knox","knox | JuicyStake.io"],
-"m7xtzvankfjw26d5eq4glmps":"knashums"
-}) // 2023-10-21T19:56:08.390Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"m7xtzvankfjw26d5eq4glmps":"knashums",
+"dwvoft7oskpyigqs3t4y67yg":["knuthelge.no","Knut"],
+"nafxz66wib6khcgsfpkqks56":"knwlkr",
+"erigblwztvyg7x2ceo35hfkj":["knotty","lee jaffe"],
+"facp6wpxdmnwmn2xw6lhbeax":["knv","knv"],
+"72uapqwptdcnarxeriuidxst":["kneel","Neil Hanlon"],
+"l2jow5sfcovihry5rwwvlwe6":["knwoop","Kenta Takahashi"],
+"f5o42mzpnrk5cex5ccauueu7":"knutjaegersberg",
+"lhtzaoysw5k7t47ce3cfvndi":"kndtyo"
+}) // 2023-10-21T21:03:27.182Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

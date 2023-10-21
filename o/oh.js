@@ -38,7 +38,7 @@ var oh=(function(jsonp){ if (typeof oh==='function')oh(jsonp); return oh=jsonp }
 "7raqf3kawvmdefttgjbzout5":["ohjulia","Jujujuliahh 🇺🇸💙💛🇺🇦"],
 "7sckl5773r4hkg3fs5cwbvaj":["ohkaydani","Dani"],
 "7tbun4kxrq4nt6x5rvtxs7ik":"ohiogrizzlybear",
-"ajitgh5cmkqfqqnsm7jjddix":["ohmyfuckinggod","BUBBA CREEPS"],
+"ajitgh5cmkqfqqnsm7jjddix":["ohmyfuckinggod","FRANK BORGER"],
 "al6j6gjbueouftheigbh7vtc":"ohpointybird",
 "am7jchaochcpyyjzz2up7k4n":["oh-deanna","(◍•﹏•)"],
 "anhsq3hpuvkgvwc7c2htfp56":["ohmu.land","Ohmu"],
@@ -157,7 +157,7 @@ var oh=(function(jsonp){ if (typeof oh==='function')oh(jsonp); return oh=jsonp }
 "s63iome7ecped3tfkthq4da3":["ohthehugemanatee","OhTheHugeManatee"],
 "scq5iwzw4ubobfsw2p4u5ao4":["ohreallytruly","Jen "],
 "sez4sq4jtos3fejdkkwrl6ma":["ohiohawkeye","P. Marsden"],
-"skarpvaq3trs2nyxomvz3mez":"ohmyemilylouise",
+"skarpvaq3trs2nyxomvz3mez":["ohmyemilylouise","emily louise"],
 "sxya7yqsplenc3w4bk2bszvx":"ohnoyousquidnt",
 "sz3elimrfnkuam2fbju3ia3u":["ohfreddie","Freddie Carlini"],
 "t24fc4mtb4747hovc7uldvpm":["ohseafarer","Lisa Shininger (she/her)"],
@@ -242,5 +242,13 @@ var oh=(function(jsonp){ if (typeof oh==='function')oh(jsonp); return oh=jsonp }
 "cfypla4csxroyslo7kj4fvyr":["ohboyitsjody","Jody Whelan"],
 "leinm7y34sjniyojfblxevro":["ohthatsjustbrandon","justbrandon • Rapper | Creator"],
 "hy4zaalwcbqhl6ttjouyg5b6":["ohaylexie.alexismarise.com","ohaylexie"],
-"lxtu3xt6zl2rsrf3vfmg22lh":["ohara","Ohara"]
-}) // 2023-10-21T20:03:09.751Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lxtu3xt6zl2rsrf3vfmg22lh":["ohara","Ohara"],
+"jiji7jdueuw5f3eaf3rtfwtd":["ohcrab","Bia Almeida 🦀"],
+"v4sqderh57xavhwe64pfq67s":["ohmysuh","Suh"],
+"elchrumpleh5zizwp4q3hwsl":["ohyoucleverboy","SAM"],
+"sdsa6w3qctcrkcnhh43okz5t":"ohagi-taro",
+"yxgpsf4ajmjsoobrq5rgtxmq":["ohashi","Kevin Ohashi"],
+"wobd7kca6ine2hjnyoaxsbai":["ohiocapitaljournal.com","Ohio Capital Journal"],
+"lzdtvcahv2bmn6xilagjluqv":"ohmybem",
+"2yxdtorsiahgnigynwio4jq7":["ohill","Olivier"]
+}) // 2023-10-21T21:03:27.148Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

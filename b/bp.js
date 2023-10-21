@@ -28,5 +28,10 @@ var bp=(function(jsonp){ if (typeof bp==='function')bp(jsonp); return bp=jsonp }
 "cp7wkpx3iejjf74kmpw3aly6":"bph960",
 "v3mwttdqwkbjlb5ovyxqffbz":["bpfetus","BPF"],
 "tadz4wt4jz7x4acaaer2aclp":["bpimp.gay","Blake Simpson "],
-"qyd7qd7bfhfzxk4x25ytatrx":["bphogan.com","Brian P  Hogan"]
-}) // 2023-10-21T19:35:14.639Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qyd7qd7bfhfzxk4x25ytatrx":["bphogan.com","Brian P  Hogan"],
+"7j6t2gkdazwoeymwc7bvxlcd":"bp12",
+"cgjstos72inr2ayc7jabsupx":"bpm",
+"nvcj3vsvryk2ureoc2ijlvih":["bpavek","Brian"],
+"dhplyrevniiqhy6xtyl5ajk7":["bpmilne","Ben Milne"],
+"5laff7p4keipfjg44fecg26n":["bpagelsminor","B. Pagels-Minor"]
+}) // 2023-10-21T21:03:27.186Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

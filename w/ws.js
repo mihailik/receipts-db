@@ -38,5 +38,6 @@ var ws=(function(jsonp){ if (typeof ws==='function')ws(jsonp); return ws=jsonp }
 "5rk6enopvbuk34hna77lturj":["wschwab","Will"],
 "norq5or3q5vqh23gkmnaiyfe":["wslash","横田真俊"],
 "n2fxny4rfd6ncggm6cbngaqg":["wsf","Will Ferguson"],
-"zpn4oi4rpvpu3evavkoqvnc3":["wsl","Marshall the Witch of Southern Light"]
-}) // 2023-10-21T20:07:59.831Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zpn4oi4rpvpu3evavkoqvnc3":["wsl","Marshall the Witch of Southern Light"],
+"y5bjjhwjxvkeaauounnhuctm":"wspr"
+}) // 2023-10-21T20:56:39.613Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -7,5 +7,6 @@ var mq=(function(jsonp){ if (typeof mq==='function')mq(jsonp); return mq=jsonp }
 "dtvyl4dtjr4jsgfjxclw2unf":["mqadimi","Mqadimi"],
 "aabnputywhxyvgynn3shgqos":["mquinlan.org","Michael Quinlan "],
 "7udflc6bgl2slhb7w6tfdoqd":["mquiroga","Mauricio"],
-"ythuysylecmqeqpjz3ufv4gc":"mqwebster"
-}) // 2023-10-21T19:38:08.837Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ythuysylecmqeqpjz3ufv4gc":"mqwebster",
+"fprmfoayp42nsoghbceq2jqh":["mquioto","Tio Otto no céu azul"]
+}) // 2023-10-21T21:03:27.186Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

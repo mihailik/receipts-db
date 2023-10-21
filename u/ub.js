@@ -45,5 +45,9 @@ var ub=(function(jsonp){ if (typeof ub==='function')ub(jsonp); return ub=jsonp }
 "pwrndqmyqfqwbuq3rjrxjnv6":["uban","Alberto Uban"],
 "kayvyz5jqmkwzlbubpygwlhm":["ubimidia","Ubimidia "],
 "ezexagxxxkminjazrnjorzpm":["ubuntu-kr.org","Ubuntu Korea Community"],
-"sf5z5cc2bmnakfezdgbo6co3":["ubucon.asia","UbuCon Asia | Oct 7-8 - Surakarta, Indonesia"]
-}) // 2023-10-21T20:04:49.212Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"sf5z5cc2bmnakfezdgbo6co3":["ubucon.asia","UbuCon Asia | Oct 7-8 - Surakarta, Indonesia"],
+"vtonlfsm4kkhdf755yfm5peh":["ubyi","หยก • 玉 • Jade • 翡翠 • нефрит • 옥 • ngọc bích • जेड"],
+"7sw55s2b6j42hmkqmb6wcfnh":["ubuconla","UbuCon Latinoamérica "],
+"katzqcoopy4ydww7y5d56lkw":["uberleeto","Uberleeto"],
+"ak3xfxe5e6is3dedjczfnrxz":["uberbrady.com","Brady"]
+}) // 2023-10-21T20:58:09.873Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

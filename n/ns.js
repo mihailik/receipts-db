@@ -37,7 +37,7 @@ var ns=(function(jsonp){ if (typeof ns==='function')ns(jsonp); return ns=jsonp }
 "jmtj2dk5vit2vsxhhqchre34":"nsensei",
 "jz73io5ubgae7bdct2unl2zt":["nsymmes","Ancient Woman"],
 "kfp2x2g7uupgoy7722nc6g2a":"nsfsushi",
-"l3vbx3e2lqnlja7q64wfrrzq":["nsaphra","Naomi Saphra"],
+"l3vbx3e2lqnlja7q64wfrrzq":["nsaphra","Naomi Saphra 🟣"],
 "l7ewuyt4np7foarc2se22m5z":["nsfw.keska.gay","Keska, at night 🌖🔞"],
 "lksu4kn7yv2unv5emtjzrwgc":["nstomos","ともしゅ"],
 "lohlc5k7adlyksl3jvwb7kdl":"nspooksfw",
@@ -83,5 +83,12 @@ var ns=(function(jsonp){ if (typeof ns==='function')ns(jsonp); return ns=jsonp }
 "73ur6oata22ewersuydlyhjy":["nst.blue","Néstor"],
 "hfzqz6ifwp2guf42c6q2rmtz":["ns0n","Anson"],
 "lngx72ruqedpzhwmiwqaawg7":"nschaeferhoff",
-"bz7zfap5el737a2oeetiyss5":"nsmall"
-}) // 2023-10-21T20:01:28.513Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bz7zfap5el737a2oeetiyss5":"nsmall",
+"3m2icehcolb7mmgkyemanney":["nstimson","Nancy Stimson"],
+"plihccgtcwwlyjkpgntifbih":["nsspain","NSSPAIN XI"],
+"ocmclqks2uq4io5bfetq5fx2":"nsbt",
+"2qkihamr22sr5o7w4oxackqb":["nshi","N氏"],
+"ejc3xditvofxdvzsbalnoui5":"nsaadbembridge",
+"ncpmf7ky5sbwk4g4srlhtfwz":"nsfuwu4",
+"gbrf2oqo4ca422sjiopahbbr":"nsg"
+}) // 2023-10-21T20:59:41.486Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

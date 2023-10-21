@@ -17,5 +17,7 @@ var fg=(function(jsonp){ if (typeof fg==='function')fg(jsonp); return fg=jsonp }
 "hoo6nrjyvmdwtapkgme5nahu":"fgblanch",
 "gxpreml2ka52syaqiiktp4pm":["fgo-gacha","FGOガチャ研究所"],
 "nliq4iljio6jorgzwwuk5vax":"fgbx",
-"kqg744qzjhgl37jgzdxbsows":"fgilbane"
-}) // 2023-10-21T19:56:08.314Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kqg744qzjhgl37jgzdxbsows":"fgilbane",
+"pauvotqiu2coorxdfcadeyt3":["fgiuliani","Facundo Giuliani"],
+"hb4w65ciepcjiwkfayc6vvyz":["fgutsch","Florian Gutsch"]
+}) // 2023-10-21T20:49:12.509Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

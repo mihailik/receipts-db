@@ -430,5 +430,22 @@ var gl=(function(jsonp){ if (typeof gl==='function')gl(jsonp); return gl=jsonp }
 "hgrcplr7of2ok6biioncrdcu":"glasscrane",
 "7rba4oslnel7zzev7k7gzlem":["globerman","Dror Globerman"],
 "vgngddep7u74w72wnasui62c":["gleiciany","Gleiciany"],
-"iaokqfbj65kjp4cvbqim5ftr":["gloryah","Gloryah Allen"]
-}) // 2023-10-21T20:06:28.793Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"iaokqfbj65kjp4cvbqim5ftr":["gloryah","Gloryah Allen"],
+"urpj6pqs4sthmckftnbtfhxw":["glitchedsummer","Summer"],
+"a3qk3nufhro2v3ecq7uofbn2":["gloriakexinwu","Gloria Kexin Wu"],
+"pi24uhzrme3sp5amzfnqesvl":["glich.stream","Bassem"],
+"nauzywnfjrtwj2wat4xbdit4":"glennc",
+"jvuft7sbxsji2uq37cpw3frc":["gleu.ch","Greg Leuch"],
+"qbuektt7tsj265vfxbq5xku4":["glennkurtzrock.com","Glenn Kurtzrock ☠️🐄"],
+"bera6jrrp7jhafoouatyjzr5":["glowcoil","Micah Johnston"],
+"zjfyorkcrvgrzh7kxvtwqfb7":["glabela","Gabi "],
+"sf3jzbi46xtbbmreqi3x5dfo":"gleidson",
+"fvlt67vyfhm6zg5tczqdbr3v":["gladruan","Desinteligência Artificial"],
+"puouirkzon37ryep5raiyvpo":"gluckstadt",
+"6k25uveapu2ryq4wa22tsdvi":["gleeb","Anna"],
+"h3xnidov4ye7xyx5tj6oohd6":["glitterbomb","Gabe B."],
+"nrcpkzlxwwezasehxzalyrzo":["globalvote","Global Vote"],
+"lzvmkk3teol4glwqi4k5n6ou":["glizzyelliot","kris but tentatively"],
+"7lm3322p353aprbkjyaaurzv":"gloriasin",
+"yucqyli6uu4p2jc7szy4lrek":["glhrmblng","Guilherme"]
+}) // 2023-10-21T21:03:27.120Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

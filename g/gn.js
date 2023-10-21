@@ -47,7 +47,7 @@ var gn=(function(jsonp){ if (typeof gn==='function')gn(jsonp); return gn=jsonp }
 "qarfucxmxlaj4uhnvb4kjuvt":["gnmerritt.net","rocky racoon tan"],
 "qgc7ywjjiip6z2vqpziuslxv":["gngrbear","Stephen 🔞"],
 "qp7e3fvmihbfis2cbrthuwae":["gngeorgarakis","George Georgarakis "],
-"qppgwdbhdtsv2crkfqaf7uji":["gneisha","Gneisha ✌️"],
+"qppgwdbhdtsv2crkfqaf7uji":["gneisha","Ghoulsha 👻"],
 "r6qfxwzyibvdcxejmko6n2zg":["gnarlybole","gnarlybole"],
 "rzpooam4ilcnrjqg2vnav6ut":["gniv","Gniv"],
 "sfyq6pu2t4yl6jvmv7wg5kg5":["gnarrlii","Gnarrlii "],
@@ -58,7 +58,7 @@ var gn=(function(jsonp){ if (typeof gn==='function')gn(jsonp); return gn=jsonp }
 "vai6u7we7nxt5k7vpontl46g":["gnamoureux","Gnamoureux "],
 "veexkmgi4utort7vhayly2gj":["gnasheruk","Dave Nash"],
 "vqxoxwsxz25pvxui42twsvql":["gnollnvoid","Gnoll&Void"],
-"wq2woeioijogxhzhfndqx3vp":["gnuconsulting.com","David “Handsome Dave” Bishop"],
+"wq2woeioijogxhzhfndqx3vp":["gnuconsulting.com","David “Devilish Dave” BOO-shop 👻"],
 "wszpe7fvqaby6qcyqj64ld33":["gnarlyghost","Drew Shields"],
 "xanpnmn7oyvuqkabn7whd7lv":"gnocchers",
 "xgj2ubvo36ohj6a27p4shr2s":["gnatryan","(g)nat 🌈"],
@@ -82,5 +82,11 @@ var gn=(function(jsonp){ if (typeof gn==='function')gn(jsonp); return gn=jsonp }
 "qrpfuxermjmof77yemz4s4wv":["gnarharpy","Gnar Harpy"],
 "hwfpoccm6i3cpj6lb7q3cpvt":["gnnr","Gunnar Kl"],
 "vkfsbysufpz4issblhapywlq":["gnar5280","Raivat"],
-"uji75tk7rg4le2sadb77nvhf":"gnb"
-}) // 2023-10-21T19:59:03.779Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"uji75tk7rg4le2sadb77nvhf":"gnb",
+"lqpaebm2jzeyn7sbqesc357z":"gnoticpasta",
+"yxpjxpzqzfv4duyrlotbcefg":["gnd","Grace"],
+"hf7imklymamni6vyeadyxsgd":"gnet",
+"iq3ukkrlbmcv2dfl7s5xagxz":["gnilronalleinad","Daniella Norling"],
+"lvqkreo4mpmy6vvpuqs5dot2":["gnugnushka","Saša Jokić"],
+"3ltfwqefmagz2sd5xplckr3q":["gncordova","G Cordova"]
+}) // 2023-10-21T21:03:27.121Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

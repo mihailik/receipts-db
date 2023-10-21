@@ -22,5 +22,7 @@ var ue=(function(jsonp){ if (typeof ue==='function')ue(jsonp); return ue=jsonp }
 "czuv7gwt6z6jibxvupkbyxj2":["ueno","Sen Ueno"],
 "ocpvuwfs4nz5llw6txfpc2sl":["uefyerryeni","Uefy"],
 "ibh7n7ep37cjatnpol3eucv3":["uesn","うえ/Ue-san"],
-"kuyc64n77bm6rsbaw2gkgq63":["uehara","Masayuki Uehara"]
-}) // 2023-10-21T19:35:14.718Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kuyc64n77bm6rsbaw2gkgq63":["uehara","Masayuki Uehara"],
+"q3ekyimqitxzcn6c23munuyp":["ueda","ueda"],
+"irobcyfedvhw76wlp5dts5cn":["uedagrill","UedaGRILL"]
+}) // 2023-10-21T20:25:39.939Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

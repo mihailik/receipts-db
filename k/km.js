@@ -51,7 +51,7 @@ var km=(function(jsonp){ if (typeof km==='function')km(jsonp); return km=jsonp }
 "n7maihyccs6l33wf72f6yolt":"kmarsh625",
 "n7zttrwglryfssyh2yycb5fr":["kmichaelwilson","喬石言 were a stone to speak"],
 "ndh4rhcgp2kzreho2chofu3k":["kmtani","Karen Tani"],
-"nlix6vsb7aduwt2jk6txkco7":["kmr","kevin makes rain"],
+"nlix6vsb7aduwt2jk6txkco7":["kmr","kevin’s mighty revenge"],
 "npx37i3hekazbs7jccj57gdu":"kmkibble75",
 "ojq7kyz3sra4btc2tya7dgf2":["kmacdonnell","Kevin MacDonnell"],
 "p6nx6aucc2fq4slgsi3pc5tw":["kmart.zip","Moose"],
@@ -101,5 +101,13 @@ var km=(function(jsonp){ if (typeof km==='function')km(jsonp); return km=jsonp }
 "ygkjtoojgpzsppssykrqdqsp":"kmody",
 "fiyg3zg43o6opulz3xkzcqsc":["kminimini","K."],
 "4omekpxlr2annf4h6nipdmju":["kmdatasci","M"],
-"4jeiinnm6sylj7l7r6bf5csm":["kmele","Kmele Foster"]
-}) // 2023-10-21T20:07:59.826Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4jeiinnm6sylj7l7r6bf5csm":["kmele","Kmele Foster"],
+"w5t57fjjs4se3jewqcr4bcwz":"kma",
+"bzpgbmsxnudzhorr23l7jvrc":"kmetz",
+"biiosmejftazt7kmq7f3lkln":["kmdn","Keith Madden"],
+"hdopqcqe6qkbjzhusmxasiqc":["kml","Kamil"],
+"pfkyf7z47dhunvj3k2dx3jgz":["k-m","murano osa"],
+"2dtim5jx5b62yekxwnq3duqn":["kmyers","#1 Emma Myers fã "],
+"oecp3dkhw4el4lf6xhomirov":["kms","Keram Malicki-Sanchez "],
+"eiiv4ubggcl5rjyyezca67zo":["kmconner","KMConner"]
+}) // 2023-10-21T21:03:27.181Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

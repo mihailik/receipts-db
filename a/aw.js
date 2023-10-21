@@ -59,7 +59,7 @@ var aw=(function(jsonp){ if (typeof aw==='function')aw(jsonp); return aw=jsonp }
 "imq4pupt7gvkqkgqtnynpgja":["awesome-communist","Mauler Communist 🏳️‍⚧️"],
 "jexymgb7r3zjrykkm2vbyfwq":["awellwellwells","Adam Wells"],
 "jfrzispnbkn5fumd7rxuo5vx":"awkwardespeon",
-"jhnmkozx52ozc2wnt35nafbw":["awful.clownaround.town","Monica!"],
+"jhnmkozx52ozc2wnt35nafbw":["awful.clownaround.town","Haunted Monica!"],
 "jmeuipvaherocxtngsc3clug":["awkward","R"],
 "jtqcs5bbeapn2sdmmjxpw5io":["awiseman","Heywiseman"],
 "k3ixrwvotjnutflyw7n5nswl":"awlbiste",
@@ -180,5 +180,11 @@ var aw=(function(jsonp){ if (typeof aw==='function')aw(jsonp); return aw=jsonp }
 "5zact7ckk5jhilui2hwc32fz":["awf.vc","Acquired Wisdom Fund"],
 "sujyfivfcaxktuillnojjrnn":["awelshcorgi","AWelshCorgi"],
 "ln2lmv66cxw3l5fi7zvsk7q3":["awolfeinnj","Matt Wolfe "],
-"tzpnmoekuhczwagwtmydk7vx":["awilcox","Wilcox"]
-}) // 2023-10-21T20:06:28.798Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tzpnmoekuhczwagwtmydk7vx":["awilcox","Wilcox"],
+"nrgm7mwf46qnz6i5xxez2bkv":["awmark","Andy"],
+"2hjar7otmxyagvlslkvbazpe":["awaumi","あわうみ"],
+"x5bz2vgjcdsgwhlq6hgzgwmk":["awapoyo","魚から出てる泡🫧🐡"],
+"yvvwejxthpp5s62cu5bqpvxw":["awalkerinla","Alissa Walker"],
+"tlgrqv45j6pjdhn5biqlmirm":["awesomeguy","shayan"],
+"whphtvxcsidzthoywnblxnpf":"awoo"
+}) // 2023-10-21T21:03:27.084Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

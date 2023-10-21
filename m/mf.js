@@ -7,7 +7,7 @@ var mf=(function(jsonp){ if (typeof mf==='function')mf(jsonp); return mf=jsonp }
 "6gul3x5bnckl6trnypodhtcc":["mfdoc31","Marie Defosse"],
 "7dhvwymseacfn5tgi3whmpxe":["mfrederickm","Fred M"],
 "7j3hat4ovzphd24lgdtxplyj":["mformultiverse","✨ Milly ✨ commissions open!"],
-"7oaoz52tmsuwz2e27juim3cg":"mf010",
+"7oaoz52tmsuwz2e27juim3cg":["mf010","Manuel "],
 "aiy5iqm4mq6mb7lhjq7iiumo":["mfoster.io","Mark Foster"],
 "b4unrosfntu6fg2uh4qh4a5w":["mfozgur","Mehmet Fırat Özgür "],
 "bqmd5xdwa66quupbz3pby42w":["mfsaa","Хеяхи | Mfsaa🔥🌺"],
@@ -55,5 +55,8 @@ var mf=(function(jsonp){ if (typeof mf==='function')mf(jsonp); return mf=jsonp }
 "n3jttegvje444l7ilopim7y4":["mfollett","Michelle Follett 🌱🧁"],
 "x7xb5tkkw5hn6pwy6te2gomk":["mfg","Micah Gantman"],
 "mhr6trth2gd3ekuf52i7q4wd":["mferdogan","Mehmet Fatih Erdogan"],
-"gbxl7fi5npmr32y45lkubhb4":"mfer"
-}) // 2023-10-21T19:59:03.736Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"gbxl7fi5npmr32y45lkubhb4":"mfer",
+"y2a2ichhgxypmvr74pvynrkt":["mf7cli","mf7cli"],
+"zoyav27l2nvuum2rzdqmkhzg":["mfpalladino","Marcelo Palladino"],
+"24qvklyhwfovtjhw74amw2iv":["mfedrizzi","Marcelo Fedrizzi"]
+}) // 2023-10-21T20:46:16.603Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

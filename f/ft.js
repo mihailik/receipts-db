@@ -28,5 +28,7 @@ var ft=(function(jsonp){ if (typeof ft==='function')ft(jsonp); return ft=jsonp }
 "nhq5voqcfrpyi7ajjsjifgfy":["ftlsid.com","Siddharth"],
 "stavqjjosjntnspytg5wclse":["ftencaten","Felipe ten Caten"],
 "umh3spaiisbokcwvksorg775":["ftisiot","Francesco Tisiot"],
-"ivpr4xffy4eztj5e5fssf3h5":"ftx"
-}) // 2023-10-21T15:57:58.123Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ivpr4xffy4eztj5e5fssf3h5":"ftx",
+"km5vsxdhzdlixh7xjbuf63y4":["fterdal","Teenage Mutant Finnja Terdal"],
+"mt6tjnyjkfp6gukrkauq7z77":["ftk","ftk"]
+}) // 2023-10-21T20:53:22.501Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

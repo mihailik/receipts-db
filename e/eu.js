@@ -18,7 +18,7 @@ var eu=(function(jsonp){ if (typeof eu==='function')eu(jsonp); return eu=jsonp }
 "76mlfazlax6spnxjqmmewbeo":["eurybia","Die Fee"],
 "7dsvkuvruwh2susb4mtqsq3d":"euphonic79",
 "7ip3t5jtfzniz6vif5dqdd2r":["eusouoguilherme","Guilhermeeeeeee!!!!!"],
-"7nksfc3v2m54fcwan3f5nw53":["euadan","neto de netuno"],
+"7nksfc3v2m54fcwan3f5nw53":["euadan","apenas adan"],
 "7xdvk5ma6wi2nlqvvzz3x33r":"eutite",
 "7y77b5czc74374mwukeo7vlh":["eusoufael","Fael"],
 "a4rhrvw43rlnah3l2njfxc5e":["eugenedaydsc","Eugene Day, DSc"],
@@ -56,7 +56,7 @@ var eu=(function(jsonp){ if (typeof eu==='function')eu(jsonp); return eu=jsonp }
 "gc6mz7f2vnpajpqll6ek6iju":["euphrosyne","f. "],
 "gchys6y2voeiuue2tmttskw6":["euleklimt","EuleKlimt"],
 "ge7k4bmcmmrydekyq7ptoez3":["eumarcelo","Marcelo"],
-"goviihr7mfy5lzyytldtdhix":"eubielnery",
+"goviihr7mfy5lzyytldtdhix":["eubielnery","Gabriel "],
 "gsqplgcoemyxmk2ar2qolg3m":["eufaleifarao","Ê, faraó"],
 "h2tjrphevc7gab4pgstrnejx":"euroscanner",
 "h2wokfln3fmpefosewvb4viv":["eusouumcesar.xyz","Cesar Cardoso"],
@@ -212,5 +212,17 @@ var eu=(function(jsonp){ if (typeof eu==='function')eu(jsonp); return eu=jsonp }
 "dbmauxc75xz7oth7zdndhfto":"eunmo",
 "4ocvcstumtkjrzw7y4ddop5r":["europaendlos","Europa Endlos"],
 "asf2s3px47sct7uycaq4kjmr":["euross","ross"],
-"l2p5dk4fbgrrrd75rlfievyk":["eugenio","Eugenio"]
-}) // 2023-10-21T20:01:28.398Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"l2p5dk4fbgrrrd75rlfievyk":["eugenio","Eugenio"],
+"jodxydckb73a7pcvbgllcc6f":["eugustavohenrique","gus"],
+"chkd6ngntv5ngcpg4plgucam":["euruan","Ruan Carvalho"],
+"lqvr2axwnr677lmoqop7srxp":["euiveteandrade","Ivete Andrade "],
+"pmjee5x34how27g3rh5g5nb7":["euyuriz","YURI "],
+"ii5hjnwvja75oenab5pyjvvn":["euphoriia","انبه"],
+"3fplzudys3vb7t3xxrxinx47":["eungyu","공게"],
+"vccipwiz44dgn3kzpxftouuj":"eugenioestrada",
+"n7z642hftqwudgibqpcrduvq":["eumastermind","johnny (taylor's version)"],
+"bmlkmrw7n2nzq3qyatizlofh":"eukomos",
+"ilpiic4vuj2gsmxrve4cowhb":["eudaimon.ist","Jason S. Canon"],
+"qcj25euexzraardabfvce5nf":["eupablolima","Pablo Lima"],
+"epjsbdq4wgwhljjdhnxp5obn":["euterpe","Luna"]
+}) // 2023-10-21T21:02:03.772Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

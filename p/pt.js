@@ -45,7 +45,7 @@ var pt=(function(jsonp){ if (typeof pt==='function')pt(jsonp); return pt=jsonp }
 "rlfbdayt2drwilnyxxrb2xpc":"ptexpat",
 "s6us4m7kad3tz2tjhik6cy7n":"pterribledactyl",
 "sgnbuxei7x6ycu4g33qauahn":"pterodactylus2",
-"sgwm6svrzkpmfkohp52r4icu":"ptdnldsn",
+"sgwm6svrzkpmfkohp52r4icu":["ptdnldsn","Pat Donaldson"],
 "six47dus7fdnxv35ka75fizz":["ptklein","ptklein 📽️"],
 "ssbx7dizcino5jxdnxtwfwm5":"ptclay",
 "vd2eec2ozlfkq7yql2vifedu":["ptcklucas","Patrick L. 🐘"],
@@ -71,5 +71,6 @@ var pt=(function(jsonp){ if (typeof pt==='function')pt(jsonp); return pt=jsonp }
 "e5qqxqzl22uehfm7pgrpkdqy":"ptraversy",
 "gftpkwu4ad3dxhme7glctdjd":["ptquattlebaum","PQ"],
 "xry4txafui7tecno3wj3xpnn":"ptpells",
-"afm5w4k2simsvesbk2f2eoyr":["pteratato","KC Pteratato"]
-}) // 2023-10-21T19:47:27.066Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"afm5w4k2simsvesbk2f2eoyr":["pteratato","KC Pteratato"],
+"p2xmezjbag2s3jvmtmuvbawm":["ptk.dev","Patryk Rzucidło"]
+}) // 2023-10-21T20:39:21.298Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

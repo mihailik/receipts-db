@@ -18,5 +18,6 @@ var qo=(function(jsonp){ if (typeof qo==='function')qo(jsonp); return qo=jsonp }
 "bx5nhcewbirtlilne5io2hxp":["qorashi","Yasser"],
 "w5jivxpufutdbevjpedoscgn":["qoowchan","くーちゃん"],
 "wjb2v5f4uofwptfsjod33toc":"qoppa",
-"avxnq3t6l67ssgtjwsreirn6":["qolvap","qolvap"]
-}) // 2023-10-21T15:34:15.355Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"avxnq3t6l67ssgtjwsreirn6":["qolvap","qolvap"],
+"gliny2dlprx6x2oaph2mygtz":["qomnews","Qomnews قم نیوز "]
+}) // 2023-10-21T20:56:39.639Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
