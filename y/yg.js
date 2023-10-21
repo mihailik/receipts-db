@@ -20,4 +20,4 @@ var yg=(function(jsonp){ if (typeof yg==='function')yg(jsonp); return yg=jsonp }
 "x7yr4p23wpk6gjxo5yxijc6f":["ygmin","Y_Min "],
 "xibka76nohifsmbqnefshvet":["yggdrassal","Yggdrassal (Commissions Open)"],
 "xtxtpeicxyntt5xejxsa2qn4":"yggm"
-}) // 2023-10-21T12:20:07.977Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:04.015Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

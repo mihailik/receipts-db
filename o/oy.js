@@ -28,4 +28,4 @@ var oy=(function(jsonp){ if (typeof oy==='function')oy(jsonp); return oy=jsonp }
 "wtl623wctej7mnjlzpmtb52q":["oyster","여오이"],
 "z5ftjw35fxakdgxgvvq4jkfm":["oyatsu","Ytk"],
 "zgv4cyzdzm2zzpz225khjyhf":["oya2suki","おやつ。"]
-}) // 2023-10-21T12:20:07.971Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:03.805Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

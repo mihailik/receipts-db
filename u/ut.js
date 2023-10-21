@@ -43,4 +43,4 @@ var ut=(function(jsonp){ if (typeof ut==='function')ut(jsonp); return ut=jsonp }
 "xwufj3f37yg3c7rud6ltyduc":"utku91",
 "yp4knr3s4f6nji2fsywkoaoh":["utubo","うつぼ"],
 "yueeqn3dpjcs6x5ikrp6xtcb":["ut-maito","ゆーてーまいと"]
-}) // 2023-10-21T12:20:07.967Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:03.601Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

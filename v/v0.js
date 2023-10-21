@@ -16,4 +16,4 @@ var v0=(function(jsonp){ if (typeof v0==='function')v0(jsonp); return v0=jsonp }
 "tfotw5ywbtaog4gvjtbqdvrv":["v1kp4s","від вушка до вушка"],
 "vn2r75sbdehc2gi3qeuhwhap":["v8sheppard","Holden Sheppard 🇦🇺😎💪"],
 "yu2moidiyqs2vr4dy3bblc4g":"v0idmochi"
-}) // 2023-10-21T12:20:08.054Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:05.074Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

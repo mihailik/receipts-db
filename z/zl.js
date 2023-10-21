@@ -17,4 +17,4 @@ var zl=(function(jsonp){ if (typeof zl==='function')zl(jsonp); return zl=jsonp }
 "qoiuyajz3hlidnsowwfjhlwl":["zlakovy","Злаковий батончик 👨‍🌾"],
 "r5swk3vvkgvlsykdfjprzvii":["zl898","zl898 🇺🇦🌻🐈‍⬛🐕"],
 "ssxwgqabqxamlvbvj7ww3sfx":["zlyikityk","Zlyi_kityk"]
-}) // 2023-10-21T12:20:07.960Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:03.360Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

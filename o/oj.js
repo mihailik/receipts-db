@@ -18,4 +18,4 @@ var oj=(function(jsonp){ if (typeof oj==='function')oj(jsonp); return oj=jsonp }
 "zm3iow2r6enrllyf3sstuwqp":["ojii.jp","ほし"],
 "zvsl2racazf7ylpualll5axv":"ojiry",
 "zzxwledpqf7ob7svaf675k4c":["ojanio","Janio"]
-}) // 2023-10-21T12:20:08.048Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:05.044Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

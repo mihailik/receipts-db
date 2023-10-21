@@ -40,4 +40,4 @@ var pn=(function(jsonp){ if (typeof pn==='function')pn(jsonp); return pn=jsonp }
 "yszgnubvk2nlcc56u4pkg53x":["pntoledo","✠ Pedrão"],
 "ywtqkgq4ixzah3d4byqu6vmf":"pneumologiker",
 "zowqdim5okzfshncock72r7l":"pndabear"
-}) // 2023-10-21T12:20:08.008Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:04.430Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

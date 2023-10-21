@@ -19,4 +19,4 @@ var yr=(function(jsonp){ if (typeof yr==='function')yr(jsonp); return yr=jsonp }
 "wqow324c64ooldystdy43v6z":["yrreug.ch","☼Yrreug☼ 🇨🇭🐕"],
 "wtqwemcv5fjxwzdr32tk7mf2":["yrieithydd","Dr Ieithydd (Carys)"],
 "yh4r7kbivd434rbxz66fqxxh":"yrauntielola"
-}) // 2023-10-21T12:20:08.042Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:04.988Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

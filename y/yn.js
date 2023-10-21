@@ -17,4 +17,4 @@ var yn=(function(jsonp){ if (typeof yn==='function')yn(jsonp); return yn=jsonp }
 "nvhwamipo3xldb7t2sqe5z5q":["ynwa0613","달방하숙박집사"],
 "tgxmhw32wdeaaj7wrjloh77d":"yngvi",
 "zaqoqfehgmzb4fvxq7ogzlpa":["yneth256","Anthony Bondarenko"]
-}) // 2023-10-21T12:20:08.011Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:04.475Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

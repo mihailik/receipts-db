@@ -46,4 +46,4 @@ var uk=(function(jsonp){ if (typeof uk==='function')uk(jsonp); return uk=jsonp }
 "xbmtrgbtromshuqb5wqdorlx":["ukdefencejournal.org.uk","UK Defence Journal"],
 "xnrjq3frxmhe4stodv26ohei":["ukrsena","чому така мила? "],
 "z46lo3vypz2kamcysh6txxbs":["ukhomosexual","UKHomosexual 🌈"]
-}) // 2023-10-21T12:20:07.887Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:38:56.543Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

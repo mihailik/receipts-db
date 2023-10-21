@@ -10,4 +10,4 @@ var qr=(function(jsonp){ if (typeof qr==='function')qr(jsonp); return qr=jsonp }
 "ulnojdz4rqszermxtf735mpl":["qrik","Qrik"],
 "vrfpirznn4gnkgqfx73tmqlx":["qrh.pwnage.ai","Quentin"],
 "yyrtutmwmhk74cnrcis76gfy":["qrvstmv","Їжачок"]
-}) // 2023-10-21T12:20:07.947Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:03.105Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

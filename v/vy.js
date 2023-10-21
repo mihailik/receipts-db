@@ -34,4 +34,4 @@ var vy=(function(jsonp){ if (typeof vy==='function')vy(jsonp); return vy=jsonp }
 "yo27743axepq2zs266q3uxx4":["vymogaperemogy","хроніки щітпосту"],
 "z4zgakaihevvvijkqu64sbr4":["vyacheslav","sl_g"],
 "zgqh6q6xc6yjvxujoibz7wtw":["vynnsarr","Klayre °˖✧"]
-}) // 2023-10-21T12:20:08.040Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:04.950Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

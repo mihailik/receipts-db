@@ -24,4 +24,4 @@ var vc=(function(jsonp){ if (typeof vc==='function')vc(jsonp); return vc=jsonp }
 "t5vr3ctxgu2qltjkexkstddy":["vcampanacho","Vanessa Campanacho"],
 "tiblfhbqjybfwphwrreua2gi":["vchabrette.fr","Vincent Chabrette"],
 "w2eondp6auo6mguu34vpgmgl":"vcav"
-}) // 2023-10-21T12:20:08.045Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:05.019Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -54,4 +54,4 @@ var kj=(function(jsonp){ if (typeof kj==='function')kj(jsonp); return kj=jsonp }
 "wy6vxt4nenrsebhfq3xemns6":["kjellauk","Kjellaug"],
 "ytwhk55nyy4xuitbxbbi53pt":["kjetll","KJETLL"],
 "zh4lehg2nmx2pwkgon2gvpmk":["kjal","der K"]
-}) // 2023-10-21T12:20:07.938Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:02.470Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

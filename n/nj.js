@@ -18,4 +18,4 @@ var nj=(function(jsonp){ if (typeof nj==='function')nj(jsonp); return nj=jsonp }
 "uqdkpu4yocxa5d2gchixprub":["njpatel.dev","Neil Jagdish Patel"],
 "wfh6mgyl7qv7sog2owkulgfv":["njyuschka","Спецпроект Сюрреалізму пише"],
 "yaijcmkhdmqtmdd6ojuqini3":"njayeolds"
-}) // 2023-10-21T12:20:08.041Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:04.969Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

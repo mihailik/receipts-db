@@ -7,4 +7,4 @@ var xg=(function(jsonp){ if (typeof xg==='function')xg(jsonp); return xg=jsonp }
 "jyjztj7bgzipknveluac4ic5":"xguilbert",
 "rvnll2ftrljoska43lskmuzx":["xgibran","Gibrán"],
 "uwwsag42rj7oqw5htbicxdgf":["xglossd.me","sj "]
-}) // 2023-10-21T12:20:07.987Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:04.181Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

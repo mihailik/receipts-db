@@ -24,4 +24,4 @@ var vv=(function(jsonp){ if (typeof vv==='function')vv(jsonp); return vv=jsonp }
 "wh4o4bn5ppuxn7saotd2xqzm":["vvakame","vvakame❤🐈"],
 "wo3trr2pfng2dor3v5hf2k6k":["vvspire","vv"],
 "xaboxktc2vmdwjhtyhzedq2c":["vviane","★ Veevee~"]
-}) // 2023-10-21T12:20:08.056Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:05.095Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

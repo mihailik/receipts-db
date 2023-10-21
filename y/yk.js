@@ -18,4 +18,4 @@ var yk=(function(jsonp){ if (typeof yk==='function')yk(jsonp); return yk=jsonp }
 "xatqfd7kwyhwj2frioy4rmnd":"yktd",
 "zbis7u7ppb23wvuqci3f77pd":"yknot05",
 "zmezes6wk5xlocvkzsnudra4":["ykskr","結季"]
-}) // 2023-10-21T12:20:08.033Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:04.888Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

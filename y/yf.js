@@ -9,4 +9,4 @@ var yf=(function(jsonp){ if (typeof yf==='function')yf(jsonp); return yf=jsonp }
 "saivj3b35jasc6dffe7h6bfa":"yft",
 "sfbhltbkoby4ahe4blqktwtz":["yfield.social","Лао Цзи"],
 "vq7te4s2unebph7itpkwkxa7":["yfje1","🌳Yvette🌳"]
-}) // 2023-10-21T12:20:07.985Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:04.081Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

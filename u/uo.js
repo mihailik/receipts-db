@@ -13,4 +13,4 @@ var uo=(function(jsonp){ if (typeof uo==='function')uo(jsonp); return uo=jsonp }
 "ysfdw6oasfwtweii3oe7sqz3":["uoxoy","."],
 "z7hb7d6ellhdpwzxpgam5v5k":["uorat","uorat"],
 "zvnoa6ogs6rgpfcuixwh3b7j":["uonnzo","텐조"]
-}) // 2023-10-21T12:20:08.053Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:39:05.065Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
