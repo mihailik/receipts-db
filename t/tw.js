@@ -352,5 +352,8 @@ var tw=(function(jsonp){ if (typeof tw==='function')tw(jsonp); return tw=jsonp }
 "iwl7c4hgbjfw2p7atiz4mo3v":["twoslashes.com","Nick Tabick"],
 "2xbounvb2udbygehcrgmurtm":["twocrabs","Two Crabs"],
 "3oy5wjpkfukgkvyyffzgxodh":["twentysix","하을"],
-"hwclbrwtlldoatktgaq5mpii":"twainsname"
-}) // 2023-10-21T21:45:06.299Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hwclbrwtlldoatktgaq5mpii":"twainsname",
+"vq3kdot6qd5t3binnmovjtbt":["twoa","Two"],
+"i4ixsxurogsttdnobsyzcpib":["twaites","Twaites"],
+"zzaimkniqbuyl6zxf6fs2znm":["tweelwhite","ジュ"]
+}) // 2023-10-21T22:03:04.060Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

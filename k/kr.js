@@ -745,5 +745,14 @@ var kr=(function(jsonp){ if (typeof kr==='function')kr(jsonp); return kr=jsonp }
 "gkdl5u3x3clw5j62syaf7wq6":"kruft",
 "i5k54ahjsn3zh3mr7e4faqw6":["kredburn","Kate Redburn"],
 "ahuv6f5breyfrdfxthaglk6j":["kristatos","Kristatos"],
-"pto7vxfjdw7mj7popds27v7k":["krisnielsen","Kris Nielsen"]
-}) // 2023-10-21T21:45:06.240Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pto7vxfjdw7mj7popds27v7k":["krisnielsen","Kris Nielsen"],
+"urptnha4p7cfoqz2dfl6szg7":["krieg.io","Matt Krieger"],
+"3jkq24j5ttulvem2sqpdpft2":["kriller","KRILLER"],
+"5jflqsbn5fzbcxq6fjn7h3l5":["krismccracken","Kris McCracken"],
+"znd2jcb57gwe5xoh2zctawvo":["kreativity","Kreativity"],
+"4g6yedycie3sbakycstaqjoz":["krazystyle","TommyD"],
+"ci4z5or3vzhzlw2xtfwecne5":["kryptorina","Kryptorina"],
+"zt2akqg5kjiqs5jppepmjvit":["krinza","krinza.eth"],
+"4ifyjxve3kmzg3oq6p5dvo2p":"kristinbrey",
+"oyzyu3udjfeltofaxcwusqrj":"krazykarfreak"
+}) // 2023-10-21T22:03:04.012Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

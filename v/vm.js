@@ -32,5 +32,7 @@ var vm=(function(jsonp){ if (typeof vm==='function')vm(jsonp); return vm=jsonp }
 "dxqxxg2tgpk6ejnrr2vxvtdq":"vmstan",
 "m2betkx5ghpkxoytpuv7hxtg":"vmarconi",
 "fair353nzjktmxlsqdrxxfej":["vmate","Máté Világi"],
-"3izpem7zfaoqawxmju2sqbfi":["vmd","Vlad Md Golam"]
-}) // 2023-10-21T21:25:23.949Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3izpem7zfaoqawxmju2sqbfi":["vmd","Vlad Md Golam"],
+"24heueztj7zmjx5co3ocdnn6":["vmartinss","vit"],
+"6igt6zp5tp3puwdszdnk7ky5":["vmramos","Víctor Manuel Ramos"]
+}) // 2023-10-21T21:56:58.544Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

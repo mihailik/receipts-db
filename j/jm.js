@@ -34,7 +34,7 @@ var jm=(function(jsonp){ if (typeof jm==='function')jm(jsonp); return jm=jsonp }
 "6xdtfbz4uihz4jzmiirdpbb6":["jmcsweeney","john mcsweeney"],
 "6yv2us3hzys4fqcpn57nkqgr":["jmotist","Jmö"],
 "72fiogdcyxtnq6uhlxkjgvt6":"jmarquiso",
-"7ddftkomtzz7a3jqlrxwmtbj":["jmritchey","J.M. Ritchey "],
+"7ddftkomtzz7a3jqlrxwmtbj":["jmritchey","Taste the Blood of J.M. Ritchey "],
 "7elpvxseqhasf7k326pvdgz2":["jmhart","J.M. Hart (rowjimmy)"],
 "7o3747rpz5yz5ixxmr3gahmb":"jmgoatse",
 "7s66wuaeztpzmbqrjf2735h4":"jmcminn",
@@ -239,5 +239,11 @@ var jm=(function(jsonp){ if (typeof jm==='function')jm(jsonp); return jm=jsonp }
 "ye7bj74ny26aj2c3a65ggkve":["jmreekes","Jimmy Reekes"],
 "w6jvprariuqxaoay3pa4jnrq":"jmwiz",
 "k5sf7pfhw753djerw3r3y76k":"jmonty",
-"kr3rx6y2ld7ahrcmb5owpyco":["jmphillippe","J.M. Phillippe"]
-}) // 2023-10-21T21:43:19.908Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kr3rx6y2ld7ahrcmb5owpyco":["jmphillippe","J.M. Phillippe"],
+"7ok22333qmctmhj7zmi2hqgz":["jmee","Jeremiah Mee"],
+"2lyxmqsihvwx6flm66jkxsmb":["jmp","Jens Matthes Paul"],
+"amhsyfskqez3wibxvmuwtim5":"jmoe",
+"nye6dgjptk4feoyopd63ehlb":"jmgao",
+"smvds7kvypwbhb4grk3ubakh":["jmillzdc","Julie Millican"],
+"6rhuyncrktnqtikghwwvh5mi":"jmsquared"
+}) // 2023-10-21T22:03:04.031Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

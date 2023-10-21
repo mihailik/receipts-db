@@ -69,7 +69,7 @@ var fl=(function(jsonp){ if (typeof fl==='function')fl(jsonp); return fl=jsonp }
 "4ninjzqbshdrq3lj5m64yrv6":["florikonrad","Flori & Konrad "],
 "4ooas7yfsdjtydczhlrtcwr5":["fluxblog","Matthew Perpetua"],
 "4osdsu3xgdis4dmeyazs7o5v":["fluffylion","Fluffy Lion"],
-"4pq6x2toacbppro7j2cvlzos":"flaviasantos",
+"4pq6x2toacbppro7j2cvlzos":["flaviasantos","Eu não sou sua preta"],
 "4qfaq5kxa4mgneyyfdwx7ynf":["flatcapgoalkeeper","Flatcap Goalkeeper"],
 "4qxthigep3xl3ftsjfrf5eqs":"fluoridefaerie",
 "4spabmxhmet6rgfxohq6z24v":["flotron.us","FLOTRON 🎹"],
@@ -966,5 +966,11 @@ var fl=(function(jsonp){ if (typeof fl==='function')fl(jsonp); return fl=jsonp }
 "cqnrjrxsv5krnzglyfcua4sm":["fluffyheretic","Loth"],
 "qeo7o5rvgrpkpwubdley3hgc":"flaviadurante",
 "lvogzyyaijmcf2c5o4c5ema2":["flour","Flour Flour"],
-"r4v2t2ysuydjtqempjdl5jhv":"flameboi"
-}) // 2023-10-21T21:45:06.157Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"r4v2t2ysuydjtqempjdl5jhv":"flameboi",
+"ia55xqe73tevujowmr7w5b5j":["fleurdelis","fleurdelis"],
+"5mxpuobtybylnh4nk2vljruv":["floragraham","Flora Graham"],
+"so67w232suezcunw2j5kpzu2":["flipboardcs","Flipboard Community Support"],
+"roxr35jeqfgmxntxxngcfp55":"flaneresprit",
+"xv4tvowytxumknsaqhw6hgux":["flipflip","FlipFlip"],
+"ouah3sprbj67t6unf35t333j":["flyingcybersec","Flyingcybersec"]
+}) // 2023-10-21T22:00:07.450Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

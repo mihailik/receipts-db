@@ -15,5 +15,6 @@ var uu=(function(jsonp){ if (typeof uu==='function')uu(jsonp); return uu=jsonp }
 "d3wcfxx2nbc4fo2stq4a73rt":"uuu",
 "3apumfs3tfbkqkljvmcqvjvj":"uunisavant",
 "de2i5tf52oy7xshqkye6cbr2":"uuuno",
-"e2nvtotazfrjcqaap45r2nvw":["uuuzuka","卯塚ウウ(uu uzuka)🎈metaverse Balloon Artist JPVtuber🎈"]
-}) // 2023-10-21T21:20:14.069Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"e2nvtotazfrjcqaap45r2nvw":["uuuzuka","卯塚ウウ(uu uzuka)🎈metaverse Balloon Artist JPVtuber🎈"],
+"inbdotdlbuxc2ygaqbvzhkie":["uurs","Uurs"]
+}) // 2023-10-21T22:00:07.407Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

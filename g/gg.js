@@ -1,6 +1,6 @@
 var gg=(function(jsonp){ if (typeof gg==='function')gg(jsonp); return gg=jsonp })({
 "2mnouhvuxsnjf47gcngu7o77":"ggomasaja",
-"5cwv3j6q2dxdkqsr6wockvqd":"ggr",
+"5cwv3j6q2dxdkqsr6wockvqd":["ggr","Greg Rose"],
 "5g4unkeqicoxmqzcquoorytz":["ggelenator","✰ геленаторка ⚢"],
 "66yud4wy4jqrbwhq6npko7g7":["ggyo","꾜"],
 "6lzkzrshkk253skj5s4izjjc":["ggwpruu","ると"],
@@ -38,4 +38,4 @@ var gg=(function(jsonp){ if (typeof gg==='function')gg(jsonp); return gg=jsonp }
 "eobpoj6q63ud3quxegk6ohrz":["ggxuao","Xuão"],
 "eois7gce3rr22uswvcdyhkv3":["ggroom","Gina Gina Bobina"],
 "cudembwn66tyrv5u3rx3mqtp":["ggcaughtmann","گرفتار"]
-}) // 2023-10-21T20:40:55.284Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T21:56:58.481Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

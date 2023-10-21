@@ -420,7 +420,7 @@ var ze=(function(jsonp){ if (typeof ze==='function')ze(jsonp); return ze=jsonp }
 "u7iceuo4cneli6ttaqwibgnc":["zephra","ArtbyZephra "],
 "u7xqahp5n7ccyk64y2xbllew":["zelph","Zelph"],
 "ucbtvyc6mggerfikkuiizyug":["zena-here","제나・ゼナ"],
-"ufjgr6iopbeoezu2mw2dtwr7":["zephyrmang","cosmic funk elemental |Zephyr Mang|⭕️Fall Tour🔜"],
+"ufjgr6iopbeoezu2mw2dtwr7":["zephyrmang","Loving Dup|Zephyr Mang|DOE DONE W/ TOUR"],
 "uii6zsx45f336x4majhor5kp":["zellishrows","zellishrows "],
 "ukvichraw6licshlpuqvtzl5":"zerooneonefour",
 "ulgixcn4zl53oar5jenvylgx":"zerkydevore",
@@ -640,5 +640,14 @@ var ze=(function(jsonp){ if (typeof ze==='function')ze(jsonp); return ze=jsonp }
 "mxnff7gjokop6d6u4ijenspd":["zeinabtashi","Zeinab Tashi"],
 "zypopzypzadhkphadgsiy2lm":["zegroj.online","jorge"],
 "edlgp7rgtmyfej7ataas23s7":["zeigen","Stephen Mack"],
-"owaummtrmcgmuxym7xnxbzvb":["zekipedia","زکی پدیا"]
-}) // 2023-10-21T21:45:06.185Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"owaummtrmcgmuxym7xnxbzvb":["zekipedia","زکی پدیا"],
+"44xq2a44a2skxz5hvf5wjirj":["zentered.co","Zentered"],
+"6kie3p23o5ungjjqn67wkmjp":["zerenato28","Zé Renato "],
+"pnthyvkyhm6l24wx7yorlaxi":"zenidavinci",
+"hvrc2763ke5vcdwhfvarkvuh":["zerodivzero","ZeroDivZero"],
+"m5qh4nwv2vpzybxpa2wfzbwz":["zenyr","Jinhyeok Lee"],
+"phnmqauedpuarr3ohxllga4s":"zef",
+"vtnhy2dq7gybx4ado3pr5dlq":"zeyad",
+"j6uh4ov54gep6nndbnokhtco":["zetagundam0087","にゃん! ฅ(^ •ω•*^ฅ @ Programming"],
+"svj5ulejkfaoznl3orpbud2n":["zehicle","Rob Hirschfeld"]
+}) // 2023-10-21T22:00:07.429Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

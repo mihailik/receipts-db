@@ -830,5 +830,17 @@ var gu=(function(jsonp){ if (typeof gu==='function')gu(jsonp); return gu=jsonp }
 "4r6f6hnumpj42vpqs5yndpoc":["guilded","Guilded"],
 "t6vdlrpnwuyd6uzsw5fqdkcn":"gustavoferroni",
 "h2ddfodwbk2x2ev75q2wktfh":"guimoemtranse",
-"5i5fu5rmqe6yoomzlkzbpd4e":["guitarwatson","Tom Watson "]
-}) // 2023-10-21T21:43:19.865Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5i5fu5rmqe6yoomzlkzbpd4e":["guitarwatson","Tom Watson "],
+"5izt2hjtax6h2gos7m3gtqj2":["guivsantos","Ted Lasso do Design "],
+"tqgk3ghqmr5yxv3xe6s62raa":["guibernardes","Gui Bernardes"],
+"bvchnn3bvibdi72n5carogwi":["guattari","cleo"],
+"m5rwn4fn6umcqyk2dog3hfz5":["guivaz","Gui"],
+"f52xueb5qqrs2cpenpnvgxfo":["gusthpa","Gustavo Henrique"],
+"n4d6vulgzxvv6wtu3nmalqvo":["gurpartap","Gurpartap Singh"],
+"fvem5cp4plmmclfnvjtbrgio":["guillebas","Guille Bas (Gunror)"],
+"l7wc2ywlurk2whadjxhdppln":["guinness","Guinness"],
+"zo5al3tae2ejf66i6ax25uxc":["guilty121","Steve"],
+"bnkrii3mau355bibbej42kly":["guyincognito","Chris"],
+"mljpj2dssdli3jvm5itk4mph":["gustavoporto","Gustavo Porto "],
+"ydr43mgioemuq46dik7pj7vd":["gustavorios","Ursinho carinhoso"]
+}) // 2023-10-21T22:03:04.065Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

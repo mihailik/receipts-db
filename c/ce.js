@@ -651,5 +651,12 @@ var ce=(function(jsonp){ if (typeof ce==='function')ce(jsonp); return ce=jsonp }
 "urn7ie6zgmqi4avj7nuilabb":["celesthuan","Noah"],
 "iwmpvgbrpvg7nvxmxm2qzpvx":"cerebro",
 "xyv6kqgp74jeresinyjtcnmw":["celil","Celil UNUVER"],
-"s2fylicth53djztz6mylur5v":["cerbos.dev","Cerbos"]
-}) // 2023-10-21T21:45:06.173Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"s2fylicth53djztz6mylur5v":["cerbos.dev","Cerbos"],
+"4mmwfwx3l74kbr4jifbuhoua":["cerentheacemi","Ceren Sungur"],
+"s2xaydbplw5ycxnty5cqxlvq":["cemkocer","𝕮"],
+"qbpfsvkarvxkvpkqlgedb72m":["ceubauler","Céu Bauler"],
+"sxemaby7pxmauyuiwgku6ff7":["cecexie","cece"],
+"zwhrbwoy5izgkkbma5bs2s4q":"celoviana",
+"yjtm3vl7xmsitucsrfvjmvuo":["cenevoldsen","Claus Enevoldsen "],
+"raqrr2c3odff64a3ruzywid6":["cezaraugroc","Cezy"]
+}) // 2023-10-21T22:03:04.061Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

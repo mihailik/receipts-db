@@ -91,5 +91,7 @@ var og=(function(jsonp){ if (typeof og==='function')og(jsonp); return og=jsonp }
 "fnvlldslznsdvgh4nsjawhtn":["ogabrielgg","Olhe para cima 🌎"],
 "qcmysekqr5fcto47h3pliaix":"ogustavo",
 "juuggdbb65ojdars2zywnqbh":["ogulcancan","Oğulcan "],
-"j3s3cyepnglgee7shnb7iej4":["ogdwayne","Dwayne"]
-}) // 2023-10-21T21:38:14.405Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"j3s3cyepnglgee7shnb7iej4":["ogdwayne","Dwayne"],
+"exveeoyrx2m7z2pmj2bjxoh2":["oguzhanunlu","Oğuzhan Ünlü"],
+"dm2c6hwijeo7wmlxyqb4lzzv":["ogro","OgroHimself"]
+}) // 2023-10-21T22:03:04.059Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

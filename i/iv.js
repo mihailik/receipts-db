@@ -185,5 +185,6 @@ var iv=(function(jsonp){ if (typeof iv==='function')iv(jsonp); return iv=jsonp }
 "xdcu7u7aatk44wm7khqfdfpk":["ivanjr.eti.br","eu"],
 "taf5ulotkt7ktx6ypflpi3ln":["ivanheral","Iván Hernández Alvarez"],
 "ah3um7teww26rxjv5grds7b2":["ivy.cm","ivycomb"],
-"4d2oolqhbvpjseeyhtluq7cx":["ivanferic","Ivan Ferić"]
-}) // 2023-10-21T21:45:06.139Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4d2oolqhbvpjseeyhtluq7cx":["ivanferic","Ivan Ferić"],
+"eh4upycbpa3gkkrg65nyskit":["ivon","이본"]
+}) // 2023-10-21T21:48:35.726Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

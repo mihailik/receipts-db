@@ -780,5 +780,10 @@ var ve=(function(jsonp){ if (typeof ve==='function')ve(jsonp); return ve=jsonp }
 "dbppigwy4qczri6atwhmwmre":"venusianlore",
 "tcvytgefbxiyrlqx4cgqolfe":"velojones",
 "lgdbzcghwdtae6pskovjqzyk":["verizonwireless","Verizon Wireless"],
-"gwotqofor5c3trok5gotdlow":"vendor"
-}) // 2023-10-21T21:43:19.830Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"gwotqofor5c3trok5gotdlow":"vendor",
+"szy5kc2r5yyjgabkyl3grddm":["velobetty","Elisabeth Anderson"],
+"jg7n4gftqpbdnowwactbpka3":["veylanka","Alin"],
+"gfk2o45qd46wwamhpag5vs5e":["vedanth","Vedanth"],
+"n7fjonpynj7p2aupwc74rq2q":["veer66.rocks","@veer66@mstdn.io"],
+"iisoezf7tgw4gzbdp4rx5gyz":"vejasple"
+}) // 2023-10-21T21:58:31.821Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -1421,5 +1421,22 @@ var te=(function(jsonp){ if (typeof te==='function')te(jsonp); return te=jsonp }
 "ufnpfogvev6d26grmwuysed5":["temerity","Where?"],
 "yxe72bct2qs2bdk3raw5wgbc":["techtube","Techtube"],
 "t4kc7r77hi4cvblfak5drgvb":["teoman","teoman"],
-"dn7tieflpybvgve2bndrtgoj":["technolaaji.com","Mohamad Kalaaji"]
-}) // 2023-10-21T21:45:06.197Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dn7tieflpybvgve2bndrtgoj":["technolaaji.com","Mohamad Kalaaji"],
+"lpzy256xltphxsln7zmz7rsm":["techmagic","TechMagic"],
+"2q555bdnyn7s4jgfchdjqssb":["tegabrian","Brian"],
+"e5tpuleqbitliydj7npaotqg":"texastribune",
+"45ihc3jjd6dntejts2pn5e7m":"terencedaamog",
+"h5pfsdnvuczkdwuu54kamnek":["tenantfromhell","Gymothy"],
+"yet7drwvg6xkclqixtjccoue":["tephllon","Tephllon"],
+"cykbthucs3dsl7jo2ow3x4xn":"techboah",
+"afv67beu7hvhhchom4igydnb":"tekmayor",
+"u7ersycsy4d65dxyytpk3j7m":["tedgabbard","Ted Gabbard"],
+"mbrxdtifoemzwl2xhiuyinrd":["tee","tee"],
+"47s3gmbhpsuitkupdr6ga33y":["teegee","Todd Gullion"],
+"knrpx2ldbz5xayr22grjaa77":["temo","ても"],
+"nc3vbicaxmxco54kgnj4exiz":"tek",
+"pmd3vxhavwbvz6pjm6u7wmf5":["teufat","Taiwo Oyewusi"],
+"h4i5pthxnmqn23ciafeos4cj":["technicolours","techni"],
+"tagpjb342ry3kpztux25dzbb":["tenacity","Utility Enjoyer"],
+"bjrkqy763ajtde22hsvv2rlx":["tempnz","TempNZ"]
+}) // 2023-10-21T22:03:04.013Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

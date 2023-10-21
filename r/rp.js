@@ -57,5 +57,6 @@ var rp=(function(jsonp){ if (typeof rp==='function')rp(jsonp); return rp=jsonp }
 "mhjpjmpcr3yvwjbsgb23lucn":["rpgdad","RPGDad"],
 "o3yjxd23qyw2vxlkw7a7lb7e":"rpinhd",
 "gz74kjpyrzh7kv6wfmso4fqm":"rpgirl27",
-"o4ezjy43vpo3p2rzunutkloe":["rpguaxa","RPGuaxa"]
-}) // 2023-10-21T21:17:20.662Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"o4ezjy43vpo3p2rzunutkloe":["rpguaxa","RPGuaxa"],
+"xj7p54tfxj5tckcw46b4qvek":"rpulido"
+}) // 2023-10-21T21:58:31.887Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

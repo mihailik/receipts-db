@@ -713,5 +713,14 @@ var it=(function(jsonp){ if (typeof it==='function')it(jsonp); return it=jsonp }
 "dp2mwkuflswokm4a4wyq23fd":["italiangeek","Vincent"],
 "u3o7elh2imob3aqslsmzrlyg":["itscooper","Coop"],
 "3oe5szkbfg2ohlfrncz6wmy7":["itwasacoup","Paige ExGOP 🇺🇸🇺🇦"],
-"b74pkbfyg6bwjpv4b5kgsv4a":"italoteixeira"
-}) // 2023-10-21T21:45:06.244Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"b74pkbfyg6bwjpv4b5kgsv4a":"italoteixeira",
+"uekvqbkhcnri7yiylphw6xmi":["itsamanster","Aman"],
+"gmbdqp5ckppjesnrrkfkdwxc":["itsjohndavis","John Davis"],
+"w75jgdpsvdbkjaurqdw4wbfr":"italiandressing",
+"i5aj3oqcflla5uyul246427y":["itsukicub","Willian Freitas"],
+"shnvmpxsnkpy3lh3l5vuyom3":"itsbrittany",
+"h3i5zu5oqewtibqju44qmdkn":["itsmefabee","Bittersweet "],
+"grh3h54j2o5fhrnq7pfis3rw":["itchymutt","Roberta Carraro"],
+"27k6zshq65qb4ah6noqgtcg6":["itsjessegomez","Jesse Gomez"],
+"fu6itarkaaybjmo2eqrtaah5":"itsirem"
+}) // 2023-10-21T22:00:07.335Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

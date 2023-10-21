@@ -15,7 +15,7 @@ var cc=(function(jsonp){ if (typeof cc==='function')cc(jsonp); return cc=jsonp }
 "7satc7k27aq5lwkqfsrt6icg":["ccartstuff","Clair 🌟"],
 "7ump5xvowg4mhnupdrryk7uh":["cclaire","C'Claire"],
 "7zjoxyrzfqxwy6mzgbtgrudf":["cc56","Cc56"],
-"a2lwwrfirdhbhjc7um3cjwhn":["cccrystal","crystal"],
+"a2lwwrfirdhbhjc7um3cjwhn":["cccrystal","👻 crystal 🎃"],
 "a65fn52t2nsjrg66levskduj":["ccrook","Colleen"],
 "bgmvx3m3wgwzplnzhp2q5bqa":"ccpj",
 "cd64mmvdxkdqc4cyww5bzff4":["cchu","しちゅ"],
@@ -47,7 +47,7 @@ var cc=(function(jsonp){ if (typeof cc==='function')cc(jsonp); return cc=jsonp }
 "ntdo2g5wawpmzwqv4kaoxyq7":"ccguerilla",
 "oakdmhnvnnmwowhtmamvh4jl":["ccshoreditch","CCShoreditch"],
 "ovzudl665f3tv7u4ihuff3fa":["ccwheatley","Chase Wheatley"],
-"ozkstjbotamxqgt7wfw54a4j":"cccp",
+"ozkstjbotamxqgt7wfw54a4j":["cccp","Norman redose"],
 "p4fdcgqp36qdao6ie7jb7c7q":["cclick23","Casey"],
 "pbxsza5azrwbnuyqrsalhe6b":["ccsont","Mr. Autumn Man"],
 "pqh2pfrajgbxm747js3kdqgg":["ccbaxter","Caroline Baxter"],
@@ -95,5 +95,7 @@ var cc=(function(jsonp){ if (typeof cc==='function')cc(jsonp); return cc=jsonp }
 "mmqrdpfvthxauip6vnot6rw4":["ccert.in","Council of Compuer Education Research And Training"],
 "zqikn6ra67kaqsvekdg5uyyr":["ccpost","Chris Post"],
 "3cgu32pei5uvel5c52mr5km3":"cct",
-"g2hhdmpl3ghynpxqau6b6xk4":["cchil","Chris Chileshe"]
-}) // 2023-10-21T21:38:14.394Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"g2hhdmpl3ghynpxqau6b6xk4":["cchil","Chris Chileshe"],
+"d4pfnowr6dnmk47f6whu6wld":["cciaresearch","CCIA Research Center"],
+"mo2qr2c7pxdsa5jcnpoqq7jp":"cccollapse"
+}) // 2023-10-21T22:00:07.422Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

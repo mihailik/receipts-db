@@ -351,7 +351,7 @@ var ru=(function(jsonp){ if (typeof ru==='function')ru(jsonp); return ru=jsonp }
 "jsm24rkcz44uuswc6iscd7i3":["ruska","de_Ruska"],
 "jsphh4a6jmgwejv6ee646cd3":["rubberbutters","Rubber Butters"],
 "jultk3urlprhvtffpc752d4i":"ruudje",
-"jxeu75op2o66z7gz3g2me5q5":["rubot","rubot"],
+"jxeu75op2o66z7gz3g2me5q5":["rubot","rubot 🇵🇸"],
 "k6knfvifugzrhr5w2j3672fp":["ruralanarchy","Rural Anarchy "],
 "kahwoze2tpavti455f66qibm":["rufseh","✨ Sloth Gothmother 🖤"],
 "kdgd2y2r7edi7ixh3bu5saaq":"runemcd",
@@ -848,5 +848,14 @@ var ru=(function(jsonp){ if (typeof ru==='function')ru(jsonp); return ru=jsonp }
 "wesmijdwkf3gfhmsferhaiof":"russellblogan",
 "q42kw5c3aterplod7mrqmiwz":["ruposaionji","西園寺るぽ"],
 "zb62pta3pc236y73tvufxqlx":["russthemuss","Russell Sun Eagle"],
-"vsjv5atkm6kpimpvbjchnhuy":"rug"
-}) // 2023-10-21T21:41:54.979Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vsjv5atkm6kpimpvbjchnhuy":"rug",
+"stm5alos52einojn5j2mvqsh":["ruseunit","Sebastian "],
+"4jrzkucnwlgywj3gn6kt47lp":["rush-moo","Rush Moo"],
+"pftpwo5d5qxzoh5ictdghoit":"rudygt",
+"rcucy6dsvvdzk6ut6rshquda":["ruze","Ruze"],
+"vzchfbdxzyj755yl5dgvprta":"runbike",
+"fsaamjhotyj4ioxgv3gozd65":["ruu","るう（a.k.a @ruu_embo)"],
+"twfkx2bxpdy5xvbrsyhz2w2q":["rutledge","Rutledge Daugette"],
+"aiydvdamosfn4c6ktnpmkrqr":["rutalia","Rutalia Nël’véya "],
+"iqnleav5joveqhazh2ssing7":"rupaul"
+}) // 2023-10-21T22:03:03.985Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

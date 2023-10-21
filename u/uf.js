@@ -18,5 +18,6 @@ var uf=(function(jsonp){ if (typeof uf==='function')uf(jsonp); return uf=jsonp }
 "czuqf5k75gh7djg5u3qnvtkg":["ufosu","ufo👽"],
 "7lxhftph6qrngsynih3txift":["ufo-shane","UFO-Walrus"],
 "blph45qhwkl26u3gvn2tmfmv":["ufoclub","UFO"],
-"zbwfi5intf3x7cbqf2bxagso":["ufonft2","Lolipop Mary"]
-}) // 2023-10-21T21:23:55.126Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zbwfi5intf3x7cbqf2bxagso":["ufonft2","Lolipop Mary"],
+"crnjk5chuslrer3dxstollbf":["uffeux","Jeremy Boone"]
+}) // 2023-10-21T21:56:58.446Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

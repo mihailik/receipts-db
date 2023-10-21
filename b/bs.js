@@ -149,5 +149,7 @@ var bs=(function(jsonp){ if (typeof bs==='function')bs(jsonp); return bs=jsonp }
 "veztsczykvh4htnrivjovup2":["bschul","Brian Schulmeister"],
 "qimlk6atl7tqbew5qizq73lt":["bso","BSO"],
 "rpmetkzuwevvr4b5hgxxdx3c":["bsky.tannu.cyou","Etone Sabasappugawa "],
-"kxqhxlxyjcgiyrgpsrijurv5":["bskycreators","블루스카이 연성러 모음계정"]
-}) // 2023-10-21T21:45:06.138Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kxqhxlxyjcgiyrgpsrijurv5":["bskycreators","블루스카이 연성러 모음계정"],
+"rfsfghslezersdfjmh6toem5":"bshin",
+"iy3bf5csvthfmv6jt7xyflri":"bswa"
+}) // 2023-10-21T21:56:58.513Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

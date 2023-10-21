@@ -1409,5 +1409,22 @@ var ri=(function(jsonp){ if (typeof ri==='function')ri(jsonp); return ri=jsonp }
 "e6hs7ldpkwb5zzclwniclcna":["rix1","rix1"],
 "dyisvvbdjcffu4bh6ecvmwkl":["riko.blog","riko"],
 "lbhx2luookesmzuqo6nhif3q":["richmackey","Rich Mackey"],
-"lv4ck3alj66axb3uszz2xvdm":["rin7n","朝凪凜"]
-}) // 2023-10-21T21:43:19.923Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lv4ck3alj66axb3uszz2xvdm":["rin7n","朝凪凜"],
+"7uqctar6zxomzx4ruyqeejf3":["ricardoferro","Ricardo Ferro"],
+"o7pann4dhg6osqx7w42gp62c":["rickstern","Rick Stern"],
+"hiiduwc3d4rlk5pqfw2z7bcv":["richardpilot","Richard Pilot "],
+"yaup5q3wsuomfxcfqxxo6a7s":["richardk","richardk"],
+"uxg7d6x4ahu5iljotmrdmkfb":["ritav","rita v"],
+"yrp7bkln4gezchwgwqg3kw7y":["rikapo","りかぽ"],
+"c3jf3dneohqzgch74gkojn2i":"richardspeed",
+"k4iginoqgknlc4ktxhozmmeo":["riccardo","Riccardo"],
+"qcr4t5h5e6rbiljen2vrmaps":["ricklamers","Rick Lamers"],
+"bdcgif3pucjzmmfhildjvhm4":["ricka","Rick"],
+"kcq6mi4tkuaqnpxt6eoovdza":"riles",
+"r7uofmrf25vj76inzbugjddr":["rio","りお"],
+"lccyjztejirrtwihnl4r7qmp":["riquemerces","Eduardo Henrique Mercês de Vasconcelos "],
+"tcoymyyvbptzdjac2kgtcyj4":["ricardotaves","Ricardo Taves "],
+"ifl7h2ub7d6isat2s2dqwtse":"riskeraser.com",
+"imj4w5qdghi3boeac56x7x4z":["rickjohanson","Rick"],
+"3lbgmty57arvkcio5vkzxcx3":["rikkikitsune","Rikki✨"]
+}) // 2023-10-21T22:03:04.031Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

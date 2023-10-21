@@ -888,5 +888,13 @@ var mr=(function(jsonp){ if (typeof mr==='function')mr(jsonp); return mr=jsonp }
 "nr7xteo5b2cfenriwq5oresl":["mrkamo","Kamo"],
 "mlqdgy4pe3mku4d4xfe7oj4z":["mrbatsu","mrBatsu"],
 "iksripqkezyvd3j5c6ojyubt":["mr-reset","Mr.Reset"],
-"5kcbz3b4rwbms5troe6cxt7i":"mrbar"
-}) // 2023-10-21T21:45:06.271Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5kcbz3b4rwbms5troe6cxt7i":"mrbar",
+"ywikii2sqgjsoousykkp4yse":["mrkia","Kia"],
+"xexxtcuwiriwpslmrqdjp44j":"mrsmarmo",
+"xjmnooythwf37graa6e3pfdn":["mrxthedev","Sensei-X"],
+"eq3j5tpe4wnq5bkaulyiqqq6":["mrpatrickcakes","Mr. Nardo "],
+"mrx7g53lihplgue2gimllkvd":["mrtiger","Tiger"],
+"xo3ddp7bejs6vpte7zpoa5q5":"mrestrepo",
+"zjzijmvrc26xpeqdmjzmrmfv":"mrbaz",
+"k5helv3ug2rdhuqh6m6yvqha":["mrkurtgallagher","MrKurt"]
+}) // 2023-10-21T22:00:07.463Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

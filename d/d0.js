@@ -69,5 +69,7 @@ var d0=(function(jsonp){ if (typeof d0==='function')d0(jsonp); return d0=jsonp }
 "bqia5rttu545wiykvtifver5":["d08890","N. Bourbaki, Dr Chad Latino"],
 "lgf7nmpa7hb7r6jd6n5nlgc2":"d11d.energy",
 "37hdja55oktu3eglkpkblwxc":["d4ic","@d4iC"],
-"jjlatypbiputyuwh7d6q2alk":"d1d4c71c"
-}) // 2023-10-21T21:41:54.964Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jjlatypbiputyuwh7d6q2alk":"d1d4c71c",
+"z6r2lgqnhmlxx3owb6kkumuk":["d6rkaiz.com","d6rkaiz"],
+"fecbgsdqvlfhkarrais73mg6":["d3k","dek"]
+}) // 2023-10-21T21:51:24.797Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -220,5 +220,8 @@ var ur=(function(jsonp){ if (typeof ur==='function')ur(jsonp); return ur=jsonp }
 "ay7q5f6qqm6bmarmjce2hwvw":"urahara",
 "ysbugybyehn6kp3kk3kzemez":["urartu","Urartu Seker"],
 "goq2wngjqhst7eessgc5il7a":["urdad","Grant"],
-"lke4vgu5owvsclhkgw6rntxb":["urukame","雅™️ masaru"]
-}) // 2023-10-21T21:45:06.150Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lke4vgu5owvsclhkgw6rntxb":["urukame","雅™️ masaru"],
+"oswdri334c2kofciy5n4hel5":["urisuzu","urisuzu"],
+"wqeylltyd5ppqn63rs7gx6ro":["uriname","あめばやし"],
+"mn56rwmcjqhegqyj4pdewiuo":["urea60","あとで"]
+}) // 2023-10-21T22:00:07.423Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

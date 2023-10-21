@@ -1638,5 +1638,21 @@ var vi=(function(jsonp){ if (typeof vi==='function')vi(jsonp); return vi=jsonp }
 "yat2dxijjj4wdkzq2d67vkgv":"vidiu",
 "qdeu7yngbdj4g3bheaiep3hi":["visitiran","Visit Iran"],
 "a225r5gcpztxyyvubgxhcoiq":"vivekb",
-"7vyunqd6wg6c4v4e6zwbinhp":["vivinegrini","Aquela dos Laços 🎀"]
-}) // 2023-10-21T21:43:19.772Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7vyunqd6wg6c4v4e6zwbinhp":["vivinegrini","Aquela dos Laços 🎀"],
+"uux2pn4d76b5xcevfy6ikymq":["vitiinz","Victor Duarte"],
+"cq5scv2ltnuwyywzciewet6x":["vitalii","Vitalii 🇺🇦"],
+"geyy7hkyub5nf7wimv5zv6ko":"vipin",
+"7cu7ecauqnr2kqph646dts6c":"viv3k",
+"nllcfxmmckiynswb7xfpc2n3":["vieirayan","BFR.yan"],
+"2wsoxyanysfaf4punjxtxbug":["vipassana","Vipassana"],
+"nvbwwpjd6qd4zck72zr44nbs":["visionary","visionary"],
+"qbdpgi2qc7stgrgqmch7ut5f":["viesearch.com","Viesearch"],
+"oeizvgii6cm2f3no56b63inr":["vishesh","Vishesh Bansal"],
+"p2buas6rkc7375br3uhgfodm":["victerres","claudinho e buceta"],
+"nh4sufkmpuzddnfbk3n4x3hh":["vitugouvea","vitu"],
+"f62vvrypi6evc3vo6myhlpej":["vitordias","Vítor Dias"],
+"ngai5oatqnpuir7cz2rss7vj":"victorfelipe",
+"fvuqhopr7qf5gqytptikk5my":["vinimota","Vini Mota"],
+"gnza5rikyaq5ssmttee3vtbm":"vinniemcd",
+"ez5sj4khwv64tl22sgcco2ki":["vicbergeriv","Vic Berger"]
+}) // 2023-10-21T22:03:03.966Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

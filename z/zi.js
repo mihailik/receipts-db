@@ -264,5 +264,7 @@ var zi=(function(jsonp){ if (typeof zi==='function')zi(jsonp); return zi=jsonp }
 "oatiafsj6yvjmifb6p6le6kk":["zingolabs","ZingoLabs"],
 "ymn7ivutzgamzflttexcw6wl":["zi-dot","zi"],
 "rpe2qcqdhxjnjg7itel7cb34":"zig",
-"wsk336izeyvys5w3erexwtgl":["zilmer","Priidu Zilmer"]
-}) // 2023-10-21T21:38:14.383Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wsk336izeyvys5w3erexwtgl":["zilmer","Priidu Zilmer"],
+"ldtw4bkb4avsai4hwqskrbgh":["zittle","zittle"],
+"2o5z5a2dajtqpxzk4d5m43ha":["zingolabesp","ZingoLab en español"]
+}) // 2023-10-21T22:00:07.464Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

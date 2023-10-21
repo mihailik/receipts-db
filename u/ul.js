@@ -116,7 +116,7 @@ var ul=(function(jsonp){ if (typeof ul==='function')ul(jsonp); return ul=jsonp }
 "vr3lobn2wq2lj7l2y3swztbo":"ultranusabitbol",
 "w35yqalnnbwln5ycutaporwz":["uluri","Uluri"],
 "wxsqrbvxw4lf6ggca7osvm6g":["ultimasystem","Ultima Aperture"],
-"xc7r3xm6opkbcrcltv75as4c":["ul6ul6ul6","搖💪('丫'💪)搖"],
+"xc7r3xm6opkbcrcltv75as4c":["ul6ul6ul6","💪('丫'💪)"],
 "xojp35y3tioktnkrvoztp6l5":["ulrikamhedman","Ulrika Hedman"],
 "xry5yf663pq6nheioha6b3z2":"ultralib",
 "xt2wdpgzd2cmwzdmtsipxkq2":["ulla","Ulla Saraiva"],
@@ -154,5 +154,6 @@ var ul=(function(jsonp){ if (typeof ul==='function')ul(jsonp); return ul=jsonp }
 "igf2mebxnrfldsftazp6m562":["ultrahealth","Jay Benedik"],
 "vgbqbjttg3u2yttq44ah6peo":"ulusutku",
 "5ps4c3ybqmcvldwtljreyu3e":["ullrich.is","Ullrich"],
-"et6jone5zur4sa5xdypuh3ll":"ulaas"
-}) // 2023-10-21T21:31:22.684Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"et6jone5zur4sa5xdypuh3ll":"ulaas",
+"4czati5ds5mqwcleolcz3pl4":["ulusoy","Yusuf Ulusoy"]
+}) // 2023-10-21T22:00:07.445Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -181,5 +181,10 @@ var dm=(function(jsonp){ if (typeof dm==='function')dm(jsonp); return dm=jsonp }
 "j6jjs3argw6sgt2qndvk3enh":"dmac",
 "y77o4fpsr5wmgrg3s3k6lt4s":"dmmulroy",
 "ehfumzlorrb4jqbe7qzsoh2m":"dmbmcguire",
-"laxlxjaqjxk3dhrchelpfnb7":["dmboard","DM Board | دی‌ام برد"]
-}) // 2023-10-21T21:43:19.919Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"laxlxjaqjxk3dhrchelpfnb7":["dmboard","DM Board | دی‌ام برد"],
+"6n3qvvoxoni65dnlfhcciddq":["dmanc","dmanc"],
+"nsmi33e2ytyisfsm3egq5xfd":"dmnk",
+"2rm7pu7dwlacfulkewaztnl4":"dmoney",
+"cwp7pmtiy5cy4upmrtzo6mya":"dmilk",
+"lpg7hhfszmql7ghxxbxshxd6":["dmenconi","David Menconi"]
+}) // 2023-10-21T22:00:07.373Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

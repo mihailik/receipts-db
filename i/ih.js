@@ -75,5 +75,6 @@ var ih=(function(jsonp){ if (typeof ih==='function')ih(jsonp); return ih=jsonp }
 "vuv6lyhuki7h6oz4qbkd5djo":["ihaveabluehatmp","Angelo von Möller"],
 "x5fn5klggsyw3krajjh6givz":["ihatepangyo","도시락과 강아지의 기웃댐"],
 "cpgom3gayyf7iojvgbv4wjy5":"ihatedeer",
-"ronzeogungl4jnff2i7pxjeh":["ihor.xyz","Ihor Dvoretskyi"]
-}) // 2023-10-21T21:29:43.659Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ronzeogungl4jnff2i7pxjeh":["ihor.xyz","Ihor Dvoretskyi"],
+"gdrao67i345mao5oza6abdj7":["iheartstonks","chris"]
+}) // 2023-10-21T21:54:05.318Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

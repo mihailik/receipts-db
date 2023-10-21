@@ -514,5 +514,6 @@ var cu=(function(jsonp){ if (typeof cu==='function')cu(jsonp); return cu=jsonp }
 "bp5wynwnu2kir57leuarlft7":"cupd",
 "wctlwy37ithnt3ql4faen6gl":"cuurlyfries",
 "53mfep2djefrsail3fqqqfg7":["cuteiosdev","Amy"],
-"xk5q6ja7cwhnn6zicwmtqduo":["cut","Twink"]
-}) // 2023-10-21T21:43:19.937Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xk5q6ja7cwhnn6zicwmtqduo":["cut","Twink"],
+"3yrxff33jl2w62blr4vxmybr":["cubegho.st","alex ⟡*·_ ☭ "]
+}) // 2023-10-21T21:54:05.317Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -14,5 +14,6 @@ var wp=(function(jsonp){ if (typeof wp==='function')wp(jsonp); return wp=jsonp }
 "wgaxoheylopy4rqkj6nczer7":["wpgne","MJ"],
 "gostelfmrd2rpjhafyrynwgk":["wps","Whitney Snyder"],
 "ozn5w4vtgbcoqydvbkthvdel":["wperiyasamy","Winn Periyasamy, JD, MPH (They/she, அசுவினி)"],
-"5kn3tn6yp3gy26g3vmqddmn7":["wpyzone","peiying wang"]
-}) // 2023-10-21T21:20:13.904Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5kn3tn6yp3gy26g3vmqddmn7":["wpyzone","peiying wang"],
+"gvh77t5skrl5zteouabg5qcx":["wpdlem","𝙅𝙖𝙙𝙚"]
+}) // 2023-10-21T22:03:04.025Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -858,5 +858,13 @@ var we=(function(jsonp){ if (typeof we==='function')we(jsonp); return we=jsonp }
 "vra3usudguvpj4qsbyi3cklj":["weitergeo","Yehor Chekalkin"],
 "bjm6emtqjaccwpwldzkhjjhs":"wendi",
 "whfojrfsfa5e4f2bbant5noo":["welbert","WELL"],
-"eo5ae27oydwdxo4uxypax7lo":["weslleylima","Weslley"]
-}) // 2023-10-21T21:45:06.265Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"eo5ae27oydwdxo4uxypax7lo":["weslleylima","Weslley"],
+"auosi5l2g76gykunujwg3cga":["weareyellowdot","Yellow Dot Studios"],
+"6po2y4fxe2uczmi3rkua3sk3":["web3hero","Web3Hero"],
+"e5vos3zaeyie5qqaew4c3ddj":["weworkkind.com","Magnus Wood"],
+"o2jhn7akkebvvjlirgb3a7j4":["webthing","webthing"],
+"7hr6olt464zgpu5a5lra652f":["westley","Dread Pirate Roberts"],
+"jft4ogy4dquqvjp3x3i533y3":["wealthfandom","Wealth Fandom"],
+"2w7o2kievop5fakbg25rbqic":["wendyshepherd","Wendy Shepherd"],
+"lgosp3cincyldpv6flx32id5":["welshy","Ian Welsh"]
+}) // 2023-10-21T21:58:31.883Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

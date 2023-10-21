@@ -261,5 +261,8 @@ var ex=(function(jsonp){ if (typeof ex==='function')ex(jsonp); return ex=jsonp }
 "4uftskfrfo4yd3nj7pprcklw":["exboylixo","andryws"],
 "dd2njvt4b4ty7zvgmywpvguf":"exafox",
 "5pkelyhflke5wibgg632ou3i":["exmortal","ex_mortal_"],
-"i4ayut5ljnu4jov4cm6tbc3o":["executor.plolitics.lol","EXECUTOR OF PLOLITICS"]
-}) // 2023-10-21T21:41:55.022Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"i4ayut5ljnu4jov4cm6tbc3o":["executor.plolitics.lol","EXECUTOR OF PLOLITICS"],
+"yevpnf2npm7qnjwxvdnlwrxf":["extemper1","Daniel Wheaton"],
+"yoztypui4q3vinkdyulz3cf3":["examinationnews","The Examination"],
+"tmmsav75o7x34jxwggtysqbc":"extremelyonline"
+}) // 2023-10-21T22:03:04.049Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

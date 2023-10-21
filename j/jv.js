@@ -58,5 +58,7 @@ var jv=(function(jsonp){ if (typeof jv==='function')jv(jsonp); return jv=jsonp }
 "xsoytmru2z36wgdq2rjzjfm7":["jvipondmd","Joe Vipond"],
 "hykjp7clvl2bnl2yucrrxrnn":["jviz","Jason"],
 "bzemr37jr6qoepcrntfu7oey":["jvictordearaujo","joão victor "],
-"zz2afsk4gxqokofgx7gqolg2":["jvreeland","Justin Vreeland"]
-}) // 2023-10-21T21:43:19.937Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zz2afsk4gxqokofgx7gqolg2":["jvreeland","Justin Vreeland"],
+"sby3zs4rwyrhixsenrh3jbyc":["jvp","Jewish Voice for Peace"],
+"3fw3qnpgno23rt34pdmanv2d":"jvd2711"
+}) // 2023-10-21T21:56:58.416Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

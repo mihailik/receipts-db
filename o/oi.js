@@ -9,7 +9,7 @@ var oi=(function(jsonp){ if (typeof oi==='function')oi(jsonp); return oi=jsonp }
 "5spmbtcqyllkw3nghkygbzvp":"oinkraw",
 "6agoimtucr4faoxm7qvemuhd":"oilercountry",
 "72lwgzw7rolf7nruqg7i7aoo":["ointment","charly"],
-"7gepj4vyrqci23np535zjprz":["oicabie","oiCabie"],
+"7gepj4vyrqci23np535zjprz":["oicabie.com","oiCabie"],
 "7huuxg6iimg6hoz7yttjbehb":["oiber","Gymnardo"],
 "7pztnggslsqoo5ngdbc55yq5":["oizu.me","ぜろ"],
 "aakho7uah6oavtf4lfuzcjze":["oilcantim","justified ancient of poo poo"],
@@ -83,5 +83,6 @@ var oi=(function(jsonp){ if (typeof oi==='function')oi(jsonp); return oi=jsonp }
 "ialwurnybqm7rciltnv6yfl3":["oifogs","fogs"],
 "bgctxyxmxasatgbu4fpv7ctp":["oinkym","やまなか"],
 "y7fovspcieew6ff4tud4bbwy":["oiadriano","Adriano Schmidt"],
-"xajldfz27uy3xfdwvwwuask5":"oide"
-}) // 2023-10-21T21:45:06.278Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xajldfz27uy3xfdwvwwuask5":"oide",
+"diut2mqb543hhjretqndeokt":["oid","oidoid"]
+}) // 2023-10-21T21:56:58.482Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

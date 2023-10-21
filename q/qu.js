@@ -17,7 +17,7 @@ var qu=(function(jsonp){ if (typeof qu==='function')qu(jsonp); return qu=jsonp }
 "3awcsux6hofhiaxeplqy4psh":"queering-math",
 "3do5rw5ojnphwfmunvetztt3":["quede2310","Quede2310 "],
 "3f7xguahowqtgg3tdvd55nm2":["quintus","Quintus"],
-"3fnztmqvh3kuqpjbfcmjj5g4":["quinnmcphail","Quinn"],
+"3fnztmqvh3kuqpjbfcmjj5g4":["quinnmcphail.com","Quinn"],
 "3h4ixtfsgzv5adgls733e5vk":"quigz",
 "3hpkklsnpkv65xf46q7mnibn":["quinnaemoon","Katherine Alejandra Cross"],
 "3hzsbqgzgjq55yidqovjpeg5":["quyetpawz","QuyetPawz 💉💉💉💉 😷"],
@@ -629,5 +629,10 @@ var qu=(function(jsonp){ if (typeof qu==='function')qu(jsonp); return qu=jsonp }
 "7it67bwbs7uijzhypisjdxbk":"queentenae",
 "6fope3e52lxbp5s745iz6lzt":["quinneverett","Quinn"],
 "x4eso7k7iswzn6yrb6tmdmbw":["quincyinst","Quincy Institute"],
-"tjdxsjhhcdleayi2ops27q23":["queiroz","Blue"]
-}) // 2023-10-21T21:45:06.254Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tjdxsjhhcdleayi2ops27q23":["queiroz","Blue"],
+"wpq7upcvftatpqw6iltfb7xg":"quidryan",
+"je4xcbhuenaw4q25qhes4w52":"quitebrazen",
+"azfizbkzr5dhtgtnufvl6noi":"quentez",
+"ualn5zdl4mysor7qpvvtbnni":["quarksoop","josh b"],
+"3nzd73ki56johoi3uqha5m4c":["quotematic","The Quotester"]
+}) // 2023-10-21T22:03:03.961Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

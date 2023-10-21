@@ -579,7 +579,7 @@ var bu=(function(jsonp){ if (typeof bu==='function')bu(jsonp); return bu=jsonp }
 "phijqwhbxmjhj7itkwo34qls":["bukharin","frost"],
 "pi6vdtnraqj6vxmlj6icdwnq":"bullesdeflo",
 "pibhrge7h25z3ezj4k4ec3cr":["bustronaut","Katie Beazler "],
-"pis3ks5avm6t3t7mijhqlpnt":["bugtype","Lisa 🐛"],
+"pis3ks5avm6t3t7mijhqlpnt":["bugtype","Lisa 🦇"],
 "pitia5qqxkkui33w3cuxvmug":["buckley.deer.place","Buckley!!"],
 "pkdyn3bkzlacqbiaieqr2rpu":["building-the-plane","BrendaScottBC"],
 "plutszl626aab4pfkrtm3xqi":["businari","Maurício Businari"],
@@ -1063,5 +1063,12 @@ var bu=(function(jsonp){ if (typeof bu==='function')bu(jsonp); return bu=jsonp }
 "qyt7tpaal6ay3vhhqrdftrsq":["buttfairy.com","The Real Butt Fairy"],
 "zcctucge23cizm6uvq7hbrau":["bussan","BUSSAN"],
 "jchlxcscxl775mqiiz6njsil":"bubalu",
-"qvjjmdlrqv7c3si57e6vgxo4":["bugofbook","虫"]
-}) // 2023-10-21T21:45:06.264Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qvjjmdlrqv7c3si57e6vgxo4":["bugofbook","虫"],
+"vftyklsbm2f523rplkne2tfp":"buckett",
+"ja5v4duc32dic6m35554njbu":"bubba",
+"2cw6dm6itjlu3n55wwkvr3ev":["bushell","Tony Bushell"],
+"3iyj4bvnifgpdt2qtx6mgltf":["bundastcarnage","Damien Van Coke"],
+"xtv2hkfbeiip4bkdwhzhfebz":["buddhist","Buddhist "],
+"6jilj5eqxxjb76pgzh767ofp":["busebicer","Buse Biçer Akbaş"],
+"y56sxlhxdtutunit45nw5evj":["bud.weedstar.social","Bud Weedstar, Private Eye"]
+}) // 2023-10-21T22:03:03.954Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -60,5 +60,7 @@ var td=(function(jsonp){ if (typeof td==='function')td(jsonp); return td=jsonp }
 "7j6q2rda5r722r7axwxdazbt":["tdaira","だいら / Tetsuya Odaira / 競走馬スタートアップCTO"],
 "gtygxuwrotx6xgeow5dhlkf6":["tdoggyholhol","Tom Hollands"],
 "2ejhohcyqludxttmw6e3z73k":["tdp","Thanos Papaïoannou"],
-"4imrpmmqz6pm4c5on5x57cog":["tdig","Thomas Di Giacomo"]
-}) // 2023-10-21T21:35:53.999Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4imrpmmqz6pm4c5on5x57cog":["tdig","Thomas Di Giacomo"],
+"5wcqh622lqkiwvz5thbwynsr":["tdils","Tom Dils"],
+"creh6oomopusan5dbyhkcrly":"tde778"
+}) // 2023-10-21T21:56:58.464Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

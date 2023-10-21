@@ -130,5 +130,10 @@ var eb=(function(jsonp){ if (typeof eb==='function')eb(jsonp); return eb=jsonp }
 "hhlrcj7tx3wqgyfno3lr4cn5":["eberthvox","eberthvox"],
 "3vvtv2cq2ilh6x5nxenxdor5":"ebiita",
 "btgayuzama73g6c7h7mcj22s":["ebdc.institutoprincipia.org","Encontro Brasileiro de Divulgadores de Ciência"],
-"s5cbvu5m6j6zvkzglfol32qa":["ebomike","Michael Krehan"]
-}) // 2023-10-21T21:38:14.411Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"s5cbvu5m6j6zvkzglfol32qa":["ebomike","Michael Krehan"],
+"5kbxbfiqf3xmxd3cv7qwcnal":["eben","Bert"],
+"sa44dankddzm4n2s7zfdgnl7":["ebbflowarts.com","Laura Simone"],
+"7i75aeoadpbdupgj3up75etn":["ebony","Black Beauty"],
+"opsutcx6effhdbmznwytdxre":"ebp",
+"ndmjcvmtxticgkj24vpduokh":"ebrahimbazande"
+}) // 2023-10-21T22:00:07.457Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

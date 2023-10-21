@@ -119,5 +119,8 @@ var sv=(function(jsonp){ if (typeof sv==='function')sv(jsonp); return sv=jsonp }
 "zcfjyehu2f3wnb3qmcvyljmz":["s-video.net","big drew"],
 "axg57uq7trszi2j7ejoffv3j":["svennacirclet","Sara M.E. Ventura"],
 "fzhsxbxaqkyqxvoz3zuwboed":["svetlana415","Svetlana"],
-"itulfovx52wtdzuopldboypr":"svpn.com"
-}) // 2023-10-21T21:43:19.860Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"itulfovx52wtdzuopldboypr":"svpn.com",
+"nhi7umdwgt7py7duyk6lnthr":"svoltec",
+"zm6qpzh75gp3w5iyezjpafaj":"svpn.net",
+"jvo3ch4f4npoyggcsxwa2tvb":"svar"
+}) // 2023-10-21T22:03:04.044Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

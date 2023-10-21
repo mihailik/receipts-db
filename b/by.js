@@ -169,5 +169,9 @@ var by=(function(jsonp){ if (typeof by==='function')by(jsonp); return by=jsonp }
 "wrjuovkn7hrldewz4gbwdkjr":["byoyakud","病院薬剤師D"],
 "tqerov6a4bvvvr44xvlxhqxo":["byakuya","Professional Loner "],
 "susctzbfe7draeljmcwulw47":["byteflip","Bret"],
-"ywucbz3dtqkrg4igpfjzo3dh":"bymywitts"
-}) // 2023-10-21T21:43:19.941Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ywucbz3dtqkrg4igpfjzo3dh":"bymywitts",
+"kt2wahgcple27y2a7e2absqh":["byecorps.com","ByeCorps"],
+"hq5h3d2nqpc5tpxne2yt4wkq":["byksy","Mustafa"],
+"w7eg47dpaqxayqraet4sfku2":["byith","Yith"],
+"w7ubevqmclzvcib7lt3tz3k6":["byorvina","별삐 / ESTELLA"]
+}) // 2023-10-21T21:58:31.877Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

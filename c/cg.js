@@ -1,5 +1,5 @@
 var cg=(function(jsonp){ if (typeof cg==='function')cg(jsonp); return cg=jsonp })({
-"2bhal3nrrc5b7kgu72f4tv7d":"cguryan",
+"2bhal3nrrc5b7kgu72f4tv7d":["cguryan","Chris"],
 "2xgyzwlsi4zl2vwzurz7wbzm":["cgsmks","Terry"],
 "3dxpook2si32nhsirowdp732":"cg12",
 "3esdpxsvyzvvs4o4ta5dmwe4":["cgquarterly","Classic Gaming Quarterly"],
@@ -65,5 +65,6 @@ var cg=(function(jsonp){ if (typeof cg==='function')cg(jsonp); return cg=jsonp }
 "yypfwe5wz3fjd3mwbvpgilve":["cgartenberg","Chaim Gartenberg"],
 "spfwuutqrtl2fa3aphqhrjsd":["cgoss","Chris Goss"],
 "7cky6ll5hlat4xzfxo7oqf2a":["cgracet","Christina Grace "],
-"7poidjlnswxwu7a7atzrz7sa":["cglennen","Cait Glennen "]
-}) // 2023-10-21T21:32:58.553Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7poidjlnswxwu7a7atzrz7sa":["cglennen","Cait Glennen "],
+"ypvwu3m4myvlkc3lyhzlsxol":["cgq","e.g. Alice Roberts"]
+}) // 2023-10-21T22:00:07.423Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

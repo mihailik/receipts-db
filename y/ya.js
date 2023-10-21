@@ -227,7 +227,7 @@ var ya=(function(jsonp){ if (typeof ya==='function')ya(jsonp); return ya=jsonp }
 "k4f4qwjucpzetz4tb4quouu6":["yanizkt.swifties.social","Yan"],
 "k5fhnin2z5hwti3mh74wmkw6":["yaminabe","やみなべ"],
 "kavzogyeshd533dtksl3ydzj":["yaminohere","Yaminohere"],
-"kee5paxhdakzia2w2ks3xprm":"yanouch",
+"kee5paxhdakzia2w2ks3xprm":["yanouch","Yanouch"],
 "kfpnfuvdcjg52zxxw6htoa4e":["yaemiko.baby","𐐪𝓈ℴ𝒻𐑂"],
 "kfx2mqfpp2hpssdfn2bw2tfw":["yaswinart","yas 🌸 commissions open"],
 "kgplqvbi42bsnxdiqsepfm6k":["yasaka","八坂・シェルティ"],
@@ -311,7 +311,7 @@ var ya=(function(jsonp){ if (typeof ya==='function')ya(jsonp); return ya=jsonp }
 "plpwqlcorbdjxvztbprdrop7":["yahiko","Yahiko"],
 "po2vnc3tnxz5zefv3iij4aww":["yaioku","alice🇺🇦🏳️‍🌈"],
 "pozzsy2yop2ymlwo5hqwbk5j":["yashwinacanter","trashwina"],
-"pvclrrwrmdjyr5cfh2okenm2":["yarrriv","yarrriv"],
+"pvclrrwrmdjyr5cfh2okenm2":["yarrriv","YARRRR-iv (the YARRRR is being said by a ghost pirate)"],
 "pxpfqpnsrrofv4ipr3h4kvy7":["yasuyuki788","康幸"],
 "pyi6v33mxtur52crsfjabmwl":["yannick1893","Yannick 🏳️‍🌈"],
 "q2qfj4hhuca6f7cq4tkxd5sq":["yakamole","Yakamole"],
@@ -689,5 +689,17 @@ var ya=(function(jsonp){ if (typeof ya==='function')ya(jsonp); return ya=jsonp }
 "vzhjv3b66a4wtcicxzjptprg":"yassin",
 "cnccrroq3bf3bwysicnpbx44":["yandae","Yandae"],
 "qxk5hxreabsn6md6vnu5zdrp":["yagitch.com","yagitch"],
-"3mryznsbhljtnhqjrynsgf3y":["yashin","Yashin Mehaboobe"]
-}) // 2023-10-21T21:45:06.203Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3mryznsbhljtnhqjrynsgf3y":["yashin","Yashin Mehaboobe"],
+"6stutyca2avv6mmj6zjw72yu":"yaphet",
+"i6qfpojlljjoam45m5sy6gus":"yasu106",
+"iap3mvcwrgtimjeehrep6pkh":["yasi6","یاسمین"],
+"546536b7ak2rklz5jgfkzlzb":"yasarkemal",
+"o7kxnmpis42y6rgxabhyvicp":["yangshun","Yangshun Tay"],
+"e46a65ulhhk434ck62wjsluy":["yasuhara","安原宏和"],
+"jmyukwmhr6yccyqqyr6b7chn":["yarm","yarm"],
+"eu323zqqwa5qafk5vc4gcf5n":["yasiinclemens","Yasiin Clemens"],
+"hso7yhb4ggosmd7hz2cr22lk":["yaman","Yaman"],
+"m5lu2xix3xqshdvdwaff4ehe":["yaswat","yaswat"],
+"b6rof26yll4qbc3uifntvk62":["yaavasin","يٰ‌س"],
+"ldr2zx3imtyci6aczgahsnfx":["yaraleone","Yara ♿"]
+}) // 2023-10-21T22:03:03.983Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

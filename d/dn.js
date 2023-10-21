@@ -74,5 +74,6 @@ var dn=(function(jsonp){ if (typeof dn==='function')dn(jsonp); return dn=jsonp }
 "birjuuwn2fskcjk7vo3dwstb":["dnogami","NOGAMI Daisuke"],
 "35gfx2d32fujunnycfhbprdt":["dnack"," 不惑忍者"],
 "jkpjdz37ywhahba7nzc4vk5g":["dnl.dev","DF"],
-"trvgn2ayf56mnaudufwkad46":["dnice","Denise"]
-}) // 2023-10-21T21:18:48.171Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"trvgn2ayf56mnaudufwkad46":["dnice","Denise"],
+"2ecdunhgrj4cifv5ytmmjmdu":"dnorup"
+}) // 2023-10-21T21:58:31.761Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
