@@ -130,5 +130,6 @@ var bb=(function(jsonp){ if (typeof bb==='function')bb(jsonp); return bb=jsonp }
 "kjk47hndukm4rwxoluef7va3":["bbircan","Buğra D Bircan"],
 "op55awljppfwt5rsjxebmcgr":["bbemo","𝖇𝖇 𝖊𝖒𝖔"],
 "o6fwkdtdxy6fpj5oqz5cdvsi":["bbryanharris","bryan 🫠"],
-"7qnmfi4uwj2symjgvbdutd4t":["bbaize","Bryan Baize "]
-}) // 2023-10-21T22:03:03.979Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7qnmfi4uwj2symjgvbdutd4t":["bbaize","Bryan Baize "],
+"vlmcssi4mob76dj7ljlrfpn7":["bbcpersian","BBC NEWS فارسی"]
+}) // 2023-10-21T22:05:27.852Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

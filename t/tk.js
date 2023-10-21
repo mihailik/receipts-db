@@ -104,5 +104,7 @@ var tk=(function(jsonp){ if (typeof tk==='function')tk(jsonp); return tk=jsonp }
 "s6vj2dl6rzcvha5cgodw5nue":"tkh",
 "jqtehavahvhthdarlxtiihgv":["tks","高須正和@ニコ技深センコミュニティ Nico-Tech Shen"],
 "2mrvumonn5vcj6zyaclqeyrg":["tkt","tkt"],
-"5kxj46a2q2fsqb2hh23gsx45":["tkdk","tkdk"]
-}) // 2023-10-21T22:03:04.045Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5kxj46a2q2fsqb2hh23gsx45":["tkdk","tkdk"],
+"zht4m3a5aypqpwpwfivrjcpz":["tkelly","Terry"],
+"hcpgtisv4kyfqolyi7xntfuu":"tksh"
+}) // 2023-10-21T22:08:20.702Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

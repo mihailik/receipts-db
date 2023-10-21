@@ -206,7 +206,7 @@ var wi=(function(jsonp){ if (typeof wi==='function')wi(jsonp); return wi=jsonp }
 "bpx6ey4th57lv36fnlhlr5eu":"winterdogo",
 "bqnztqlolnjm4t5ohcpo4wbh":["wingsndnsilver","WingsNDNSilver"],
 "bqwofwkvu4j6fvjs4nhctj7p":["wildboarherd","Everett!"],
-"bricohp75tzqhgufyodok2al":["winterwhale.azuresky.social","하제"],
+"bricohp75tzqhgufyodok2al":["winterairy.azuresky.social","하제"],
 "brn5cymznmq3gta5bagcfrok":"willdeasy",
 "btnn4rdsncej34zpo6jrhkyn":["witchymary","mary"],
 "bu4xes5n3ntcle3o6icjzucp":"willtope",
@@ -1253,5 +1253,13 @@ var wi=(function(jsonp){ if (typeof wi==='function')wi(jsonp); return wi=jsonp }
 "wkodgmor3wanxcwidflzhavi":["wilzhem","Will Machin"],
 "zmh2otardugcdfwdhyu73cb3":["witko","Emily Witko"],
 "cwowrlwiqd65kvvwqg5mko7u":["wired-canuck","Pierre Roman"],
-"exwsq6cfyjk3xbwwfklifz4j":["willswanson","Will Swanson"]
-}) // 2023-10-21T22:03:03.923Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"exwsq6cfyjk3xbwwfklifz4j":["willswanson","Will Swanson"],
+"gw4ou5crxuceovjwinbjocfn":"wilker",
+"q7d5h7kcpesg72iesv6ot2ps":["wiwitaek","wiwitaek"],
+"oh6pa5nyuvgzhjvc3syj6gjg":["wick","Wick"],
+"oubcz3n6ngkx4fn5bsqxn4xw":["williamc","William Campbell"],
+"ilrlwzftemz5knfjgthai5cs":["williamcj","William Johnson"],
+"ppmx6bpiapdiqf4rvdrsvxlk":"willhutchfilms",
+"c6csy2xyu6aidbs7savtwdr4":["witchpaula","Paula Machado"],
+"ff6iudx4csfhw4h45p3b4toq":["witovisk","Lu Witovisk "]
+}) // 2023-10-21T22:14:52.675Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

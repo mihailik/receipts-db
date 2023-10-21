@@ -558,5 +558,7 @@ var ku=(function(jsonp){ if (typeof ku==='function')ku(jsonp); return ku=jsonp }
 "uwgglew3xhcjmccfqx5usmpr":["kucukkanat","Galactic President Superstar Mcawesomeville"],
 "tca4myp7py2mogmllwpwwd4a":["kukbi","쿸비"],
 "nno4xdzl6jgnmku26kwj4izs":["kulturistan","küLtürisTaNbuL"],
-"fybmwa7o54pqwdx6oeko4frk":["kunica","Sveta Kunica"]
-}) // 2023-10-21T21:45:06.253Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fybmwa7o54pqwdx6oeko4frk":["kunica","Sveta Kunica"],
+"yjf5d42s6v6jg37spxyurubp":["kulturtava","Kültür Tava"],
+"mfiaihjmaxvg74ag55thv5er":["kurubushi","読書猿 （『文章大全』執筆中）"]
+}) // 2023-10-21T22:13:25.780Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -37,5 +37,6 @@ var cv=(function(jsonp){ if (typeof cv==='function')cv(jsonp); return cv=jsonp }
 "cnv2dxhf4otltipwtztj4plp":["cvantifa","CVAntifa"],
 "gy7nb2y2x3xnqoxlvrjbzhxw":["cvercoza","Carla Verçoza "],
 "zodkskbftzoet6arzibsspib":["cvalentield","Chris 🥷🏳️‍🌈"],
-"zvvw5m6qxw44podgyvqsjmot":["cvonraesfeld","Christine Von Raesfeld "]
-}) // 2023-10-21T22:03:03.942Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zvvw5m6qxw44podgyvqsjmot":["cvonraesfeld","Christine Von Raesfeld "],
+"yczguk4vjptjxof3fjsq6gej":"cvander"
+}) // 2023-10-21T22:08:20.722Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

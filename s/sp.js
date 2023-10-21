@@ -284,7 +284,7 @@ var sp=(function(jsonp){ if (typeof sp==='function')sp(jsonp); return sp=jsonp }
 "boalhu55xveh4o54vgsfil4r":["spacemon","The Spacemon "],
 "borbymqaw6hwzt2anawvqeem":["spotteathotty","JJ"],
 "bphdexfmfew4hsyginuwocj5":["sprachpingel","Sprachpingel"],
-"bpweucnnjmxsz4noiotiycfy":["spicedrum","Barb not Barbie™"],
+"bpweucnnjmxsz4noiotiycfy":["spicedrum","REႧЯUM"],
 "bqda6ygbwiyknp7m4phopuw4":"sparkxfalcon",
 "bqej4pb65zvdcw2zqmgbpyrj":["spores","THE GREGSTER"],
 "bqvtaohziw4htflw4oqilalk":"space-universe",
@@ -535,7 +535,7 @@ var sp=(function(jsonp){ if (typeof sp==='function')sp(jsonp); return sp=jsonp }
 "icwprtvgbwurnjrhxd4ekvuo":"spacebear1xo",
 "icybgz3f7xbxlaegicbx6tia":"spiritunicorn",
 "ie4xhwx5vxu7wewovn7gcbur":"spencer1910",
-"ie6mxpfl4n4ebbgacepsfuq5":["spottacus","Spottacus (➡️ burn)"],
+"ie6mxpfl4n4ebbgacepsfuq5":["spottacus","Spottacus sfw (➡️paw,mff)"],
 "ifhhccwq42wm76xh5fyxnhi6":["springconvert","Mr president"],
 "ifnkdujxt3v3dywr4vjesqnp":"spurtles",
 "ifrvziuds5cvo4zj5xdgntsu":["spamofme18","Mohammad Mahdi"],
@@ -1409,5 +1409,16 @@ var sp=(function(jsonp){ if (typeof sp==='function')sp(jsonp); return sp=jsonp }
 "cszfbjjtbxwlwvyhtjwa4dj6":["sparks","sparks"],
 "6svw7475olewiw2fjl4crpde":["spicycapybara","SpicyCapybara"],
 "xuy6wpegq5o5m6c6gcs5bxez":["spacepants","Some Guy Named Paul"],
-"36dq7b27r25ol737xp7gbwdl":["spirobel","spirobel"]
-}) // 2023-10-21T22:03:04.007Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"36dq7b27r25ol737xp7gbwdl":["spirobel","spirobel"],
+"34v75fbk4ydq74vz22elgcsq":"spiderryder",
+"7imkbxwndnhisbspjjpf6jnk":"sportsmommy74",
+"s4jv73zj2irlsunjfkik5clj":["spencer.gibb.us","Spencer Gibb"],
+"db5zcxnacuz7g646mm3pxnpc":"spe1996",
+"p3axkmuhmmktdrpiuelmhwhp":["sportscarr","David Carr"],
+"oeelz2ylxxwwowevf526dydo":["specker","Francis Specker"],
+"xkraxicv43uwwonejgnp2gw3":["springjunk","셀리"],
+"cpppamogcnkntrryjl5p4kiq":["speakingtomato","speakingtomato"],
+"pvezjkwtq7toaumayfw2hbhj":["spolakiewicz","Stephen Polakiewicz"],
+"cvek2ike36btqlnhqmzjqkws":"spandorf",
+"23onix3zu47odx5vmw5zpxti":["sparc","Sparc Flow"]
+}) // 2023-10-21T22:14:52.592Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

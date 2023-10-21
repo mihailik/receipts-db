@@ -122,5 +122,7 @@ var sv=(function(jsonp){ if (typeof sv==='function')sv(jsonp); return sv=jsonp }
 "itulfovx52wtdzuopldboypr":"svpn.com",
 "nhi7umdwgt7py7duyk6lnthr":"svoltec",
 "zm6qpzh75gp3w5iyezjpafaj":"svpn.net",
-"jvo3ch4f4npoyggcsxwa2tvb":"svar"
-}) // 2023-10-21T22:03:04.044Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jvo3ch4f4npoyggcsxwa2tvb":"svar",
+"afxhysl5qj6bmmdgw4lxcjhg":["svenphan","Steven Phan "],
+"vbfc2nrjlh7y3iewgpr7yya4":"svpn"
+}) // 2023-10-21T22:14:52.644Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

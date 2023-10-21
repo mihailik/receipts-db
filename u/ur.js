@@ -223,5 +223,8 @@ var ur=(function(jsonp){ if (typeof ur==='function')ur(jsonp); return ur=jsonp }
 "lke4vgu5owvsclhkgw6rntxb":["urukame","雅™️ masaru"],
 "oswdri334c2kofciy5n4hel5":["urisuzu","urisuzu"],
 "wqeylltyd5ppqn63rs7gx6ro":["uriname","あめばやし"],
-"mn56rwmcjqhegqyj4pdewiuo":["urea60","あとで"]
-}) // 2023-10-21T22:00:07.423Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mn56rwmcjqhegqyj4pdewiuo":["urea60","あとで"],
+"yofh3kx63drvfljkibw5zuxo":"urguy",
+"gt366bnbf5fwdn3hn7z6bah3":"urchin",
+"w5cclco6wqzs3pxfubykxx3j":["uranaiya","占い屋花"]
+}) // 2023-10-21T22:08:20.748Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

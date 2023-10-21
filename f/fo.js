@@ -55,7 +55,7 @@ var fo=(function(jsonp){ if (typeof fo==='function')fo(jsonp); return fo=jsonp }
 "4edafrri6wyjzrmojqsla52p":["foxyn","Foxyn 🌸 #FBL11"],
 "4gcibxi5jddntzji7psdjcpb":["forefofoe","포포"],
 "4hsahe7mbcnkl2bkuv6ganyk":["foxb","Foxbee"],
-"4im6btr23nwrucwebyo5jcne":["forivadell","tariq but it’s pronounced tariq "],
+"4im6btr23nwrucwebyo5jcne":["forivadell","how often do you think about the abbasid caliphate?"],
 "4kpaahfajnkhnt55wg37gkzn":"fotoneustart",
 "4ksv7u5p737ljze4kpz4beje":["fortunatelyhappy","Jason Goodwin"],
 "4lqvqlr5nrgnh4atafkrgges":["followers4algernon","Followers For Algernon"],
@@ -857,5 +857,12 @@ var fo=(function(jsonp){ if (typeof fo==='function')fo(jsonp); return fo=jsonp }
 "pnux6t5pkupc3lqubtehigkg":["foioguto","Guto Barbosa"],
 "w3xhlbrfy33djq4raxxojqd6":["foghog","ほぐ"],
 "tyoqzwqmkkhii2l6fxjkq6bj":["forwardprog","Wil"],
-"u3ebhu6o3gysnoncjzk7klar":"foxenhimr"
-}) // 2023-10-21T22:03:04.014Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"u3ebhu6o3gysnoncjzk7klar":"foxenhimr",
+"dhojf7tvhixlmjmzseelo32r":"fooman",
+"yjqaxqbyaconsbzevm6wafef":["fordyce","Jackson Fordyce"],
+"wizzbigwyuxmhhk5m2kmkfqd":["foxhack","Foxhack / Dave Silva"],
+"pediigktvxq7jyqwuvxi5pmg":["folmer","$"],
+"qtvlehgnhkculdb25ynw3c4i":"forestkaser",
+"i57v5y3ki45r6zxr7kbypn7s":"fortheplanet",
+"c7qegxacwla7342ylvnpmavv":["forbetter","마더개레사"]
+}) // 2023-10-21T22:14:52.692Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

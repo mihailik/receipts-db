@@ -46,7 +46,7 @@ var us=(function(jsonp){ if (typeof us==='function')us(jsonp); return us=jsonp }
 "h7xfacmt4acc4unuplka743q":"uslongtorso",
 "hcoo6nmf2je6omjzdx7ba65z":["usernametaken","Cullen Ward"],
 "hjxsuonnwckvfno7zgc5ouip":["ust","Satoshi"],
-"hqsnhpt5qtmrrig4spfnsunl":["usacomrade","𝘾𝙤𝙢𝙧𝙖𝙙𝙚𝘿𝘼𝙢𝙚𝙧𝙞𝙘𝙖𝙣 nana"],
+"hqsnhpt5qtmrrig4spfnsunl":["usacomrade","☭𝘾𝙤𝙢𝙧𝙖𝙙𝙚 𝙩𝙝𝙚 𝘼𝙢𝙚𝙧𝙞𝙘𝙖𝙣☭"],
 "ilmp7c27jptx3tffrjtxesme":["usedforwx","UsedForWX"],
 "ipkknrh5b3xrcek4x7usd5l6":["usher.foo","Dan Usher"],
 "jalif54bne255sdog4hkskr4":"u-su-bo-n-ya-ri",
@@ -165,4 +165,4 @@ var us=(function(jsonp){ if (typeof us==='function')us(jsonp); return us=jsonp }
 "yzsqcp3gr2pno5f7yhdl2ly7":"user03",
 "hqp67iyix33hxnant67lhs2w":["usachi","うさち"],
 "g3x7gl37ct5oecld3mfaxep6":"usausa"
-}) // 2023-10-21T21:49:59.379Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T22:13:25.624Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

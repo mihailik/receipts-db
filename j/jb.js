@@ -185,5 +185,6 @@ var jb=(function(jsonp){ if (typeof jb==='function')jb(jsonp); return jb=jsonp }
 "hluak7ia3jgmiriupetd5vng":"jbassi",
 "qrgh3p66cnb53h2zd44sbzme":["jbru","🌚Defund MPD🌝"],
 "o3eerms4shcavuluavi4nvt7":["jbergberg","J Berg"],
-"ntvl5lg2aubzxsvqwehn3biz":["jbot.jbox.com.br","JBot 🤖| Ofertas e Pré-vendas 🈹🔖"]
-}) // 2023-10-21T21:58:31.765Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ntvl5lg2aubzxsvqwehn3biz":["jbot.jbox.com.br","JBot 🤖| Ofertas e Pré-vendas 🈹🔖"],
+"jl4temjz2xti3ymdygvl5okm":"jb4"
+}) // 2023-10-21T22:05:27.819Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

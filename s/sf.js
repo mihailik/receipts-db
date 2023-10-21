@@ -65,5 +65,6 @@ var sf=(function(jsonp){ if (typeof sf==='function')sf(jsonp); return sf=jsonp }
 "puayk5fe4iuchbpipb5e42mm":["sfar","Sfar Hachem"],
 "niws4datih6dforyd7y22km4":["sfchronicle","San Francisco Chronicle"],
 "rwsxzefxjp7o2l74zifjwdxh":["sfn","SFN"],
-"d6wcx2lgtdzwb42ptz7srlvv":"sfelf"
-}) // 2023-10-21T21:51:24.697Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"d6wcx2lgtdzwb42ptz7srlvv":"sfelf",
+"5jaxi3glvfpfjbqqidsvrt4z":["sfsieck","Sophie Sieck"]
+}) // 2023-10-21T22:13:25.778Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

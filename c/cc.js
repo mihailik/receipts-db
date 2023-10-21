@@ -97,5 +97,6 @@ var cc=(function(jsonp){ if (typeof cc==='function')cc(jsonp); return cc=jsonp }
 "3cgu32pei5uvel5c52mr5km3":"cct",
 "g2hhdmpl3ghynpxqau6b6xk4":["cchil","Chris Chileshe"],
 "d4pfnowr6dnmk47f6whu6wld":["cciaresearch","CCIA Research Center"],
-"mo2qr2c7pxdsa5jcnpoqq7jp":"cccollapse"
-}) // 2023-10-21T22:00:07.422Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mo2qr2c7pxdsa5jcnpoqq7jp":"cccollapse",
+"7scztnteksey6bfyabr4flbl":["cccooollliiinnn","( ( ) |_ | |\\|"]
+}) // 2023-10-21T22:05:27.856Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

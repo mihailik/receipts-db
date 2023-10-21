@@ -105,5 +105,6 @@ var wu=(function(jsonp){ if (typeof wu==='function')wu(jsonp); return wu=jsonp }
 "zxcdlofjpvbqp7l4ah6mlzz3":["wukov.com","Wukov"],
 "edkd65prhuo4mwpodwvexu5g":"wuestenigel.com",
 "s5dn75byageusbxa7ueqsc3r":["wushu","Parnia👑"],
-"pvnvbjhljj77ydthsligwclg":["wuan","Eliz"]
-}) // 2023-10-21T21:31:22.678Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pvnvbjhljj77ydthsligwclg":["wuan","Eliz"],
+"mayddwfh3vi2klhc2uw33q2l":"wump"
+}) // 2023-10-21T22:14:52.644Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

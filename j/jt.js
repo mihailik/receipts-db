@@ -101,5 +101,6 @@ var jt=(function(jsonp){ if (typeof jt==='function')jt(jsonp); return jt=jsonp }
 "w6wt42qlkijptge3iq4g5z32":"jtvandyk",
 "iqzyym7oagvst5f3oflfqe5e":"jtichenor75",
 "wgibg2cm766r3y7oeowdnba4":"jt0095",
-"kknvs4vhzcgdtylxho52l3jy":"jtothes"
-}) // 2023-10-21T21:56:58.376Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kknvs4vhzcgdtylxho52l3jy":"jtothes",
+"j7uhamgz6ujyaxar77hwgcb3":["jtbfan69","every e-scooter is a policy failure"]
+}) // 2023-10-21T22:08:20.731Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

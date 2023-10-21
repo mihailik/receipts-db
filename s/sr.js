@@ -90,7 +90,7 @@ var sr=(function(jsonp){ if (typeof sr==='function')sr(jsonp); return sr=jsonp }
 "tobymhu7g6kj6p2e6g2dknw7":["srpelo","Pelo"],
 "trrxjiwfyx3hxkihp6cyhj22":"srdraftgon",
 "tvflghxoei23y4j6lbau4wfe":["srsim","Srsim"],
-"u3q7calmmw5cvvim2vuojzjc":["sri","sri"],
+"u3q7calmmw5cvvim2vuojzjc":["sri","sri (but spooky)"],
 "u4o2vhu6omccyvlvtdghdyz2":"sriracha1102",
 "upougrba4rrs4bafkrbfmddc":"srburgess",
 "uzcybrp24kbuyukq6cldabyj":["srav","srav"],
@@ -196,5 +196,6 @@ var sr=(function(jsonp){ if (typeof sr==='function')sr(jsonp); return sr=jsonp }
 "plpxyfo5qer2tuqelkjthspx":["sreenet","Sree Sreenivasan"],
 "l634w72ugu2bcav7r5gx2brn":["sreee","sree"],
 "4kj4hvhhpe7s5k3mnqb5uxnh":["srinathnarayan","Srinath Narayan"],
-"iwehyqxjdap7p2v7frzijijl":["sroot","Steve Root"]
-}) // 2023-10-21T21:58:31.892Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"iwehyqxjdap7p2v7frzijijl":["sroot","Steve Root"],
+"7utooc7uz53heukyn4qkr27p":"sr20det"
+}) // 2023-10-21T22:11:09.191Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

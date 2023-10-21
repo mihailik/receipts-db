@@ -864,5 +864,11 @@ var hi=(function(jsonp){ if (typeof hi==='function')hi(jsonp); return hi=jsonp }
 "dumldcspmse4phi4vfjgzm4r":["hiroosa","OSAWA, Hirotaka/ 大澤博隆/ 日本SF作家クラブ会長"],
 "gzoxgk33vluyzq3pkkzm5wjc":["hippiehacker.org","Hippie Hacker"],
 "547ihaxja3zbumejxzxaohex":["hideoishii","石井英男/フリーライター"],
-"ewnnmsh3gvfnldefvykwcm3i":"himalayankat8"
-}) // 2023-10-21T22:03:03.986Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ewnnmsh3gvfnldefvykwcm3i":"himalayankat8",
+"vow62wv5c5nfapsxx7s7kp66":["hifi","Zach"],
+"uqsym7fx5dsebglyes24o7vj":["hinakoiroiro","ひなこ"],
+"oj7te5dxm5ri23ymi2nlkumy":["hiroism007","Hiro"],
+"qhyl4dqchvfyahmoj75ot2ji":["hiroaxs","HIRO☆"],
+"lppzpdyjojhmobqtdyskzn3a":["hiremeimfunny","Orli Matlow"],
+"jcyaqu4qigclmof4n4wgpeso":["hiing","힝"]
+}) // 2023-10-21T22:14:52.657Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

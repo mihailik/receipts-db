@@ -257,5 +257,6 @@ var ps=(function(jsonp){ if (typeof ps==='function')ps(jsonp); return ps=jsonp }
 "j24rxf5mq3ki55iaioyovrjd":["psychozzy","digs"],
 "opl7dhof4v43yrz2ylgvznkj":["psychephi","Psyche"],
 "stwpgkmksndwtf2hmrj7zdqp":["psbdc","Theodora (Theo) Lau - 劉䂀曼"],
-"cr2v4a7omuob6fq7rscgxzsn":["psylockheart.com","Pรץɭ๏ςкђєคгՇ 🌬🏳️‍⚧️"]
-}) // 2023-10-21T22:00:07.450Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"cr2v4a7omuob6fq7rscgxzsn":["psylockheart.com","Pรץɭ๏ςкђєคгՇ 🌬🏳️‍⚧️"],
+"oudlfbfpz5fa2yj62buxtadr":["psy0ch","Psy0ch"]
+}) // 2023-10-21T22:05:27.840Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

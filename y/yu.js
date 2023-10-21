@@ -631,5 +631,14 @@ var yu=(function(jsonp){ if (typeof yu==='function')yu(jsonp); return yu=jsonp }
 "jjvql2z4w4zoumf3jtgbcnfa":"yu01",
 "iotqxhiz4ozfnszf644efaol":"yuvalv",
 "s4b6i7sffdazt3t24css2v6p":["yua0101","Yua"],
-"pw4da4bkhejxeailjb5a4ssm":["yumdakedo","yum"]
-}) // 2023-10-21T22:00:07.314Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pw4da4bkhejxeailjb5a4ssm":["yumdakedo","yum"],
+"tgeqc6v7ktcftkwdw5cyeoip":["yuventus","Yuventus"],
+"34omyydrd6p2o72o5sfsf7lu":["yukata.dev","Kot"],
+"ul72fb7fu3omqh63co2zat3k":["yuzutoruru07","るるな"],
+"awuqdrkcwgj43tl6ijsnsamh":["yul","𝒴𝓊𝓁"],
+"jbz4rl2kdcwkn6p37q2hmgyq":"yuukswg",
+"bkxss4aactf7st4ta3qfufpw":["yukinoki","のき"],
+"waup55elzmuvbtgeadtvqbs4":"yutakashino",
+"m7jvh5hldhbea4qwrn3ursij":["yumilus.com","ユミルス"],
+"kpk4zpbqrmbfthiafx2lkiuo":["yume86","ノジオ∣ライフブログ"]
+}) // 2023-10-21T22:14:52.697Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

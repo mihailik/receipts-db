@@ -19,7 +19,7 @@ var ie=(function(jsonp){ if (typeof ie==='function')ie(jsonp); return ie=jsonp }
 "nvhrtatto2r5d23cdcowarcd":["iejtok","K."],
 "ruc2bd4ztff55gj76hj7nh76":"iejends",
 "s4ktrmgc2dgokr5egnhfypvb":"iesornozines",
-"tr4b6jrsokn4jp7np5jv4ggk":"iepstein",
+"tr4b6jrsokn4jp7np5jv4ggk":["iepstein","Isaac Epstein"],
 "tu5rb3lo4dhgtfl7vbb7sqrj":"ieungknitting",
 "twu6fsqhg565lxy2tbwoo34z":["ienisien","이엔"],
 "ugxdsm7fi47qfdeg5ybey52f":["iearthist","I.Earthist"],
@@ -42,4 +42,4 @@ var ie=(function(jsonp){ if (typeof ie==='function')ie(jsonp); return ie=jsonp }
 "uxkxhm2vxghyb7jksr5ishon":["iestevez","Iván Estévez"],
 "i62zm3vq5ar4bpl7cob5p7e7":["ieinu","家犬"],
 "r4zlmijmwkliqfuyf643h5gv":["iewori","いえもり"]
-}) // 2023-10-21T21:34:29.242Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T22:11:09.159Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

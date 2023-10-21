@@ -843,7 +843,7 @@ var _in=(function(jsonp){ if (typeof _in==='function')_in(jsonp); return _in=jso
 "wqviqnilncosp2lgx3ajx7dg":["introvinta","introvinta"],
 "wuprssc7mw5dcwrtz2nud2o2":["indigobunting","Sita"],
 "ww7qp7fyyecfxug7paxfjfkc":["indiespiritbath","IndieSpiritBath"],
-"wyceperrwoan32pv5qzvy63z":["inforapenny","penny"],
+"wyceperrwoan32pv5qzvy63z":["inforapenny","penny (cursed)"],
 "wydj67i5h24qu5wc2k5tbwb5":"insanenoire",
 "wzek7xit3hn3zd3ctn6uwmig":"intrepidspacecat",
 "x53xtip53vum7fdw6nkh7gzw":["inimeitiel","Inimeitiel"],
@@ -1186,5 +1186,16 @@ var _in=(function(jsonp){ if (typeof _in==='function')_in(jsonp); return _in=jso
 "gppugfesi726l3il4ok7tref":"infi1trate",
 "iijamvmqxjtca7vagp4z4q7i":["indiwulf","Indiwulf"],
 "p3oa3ccomvrihv5jmrvrolyc":"inder",
-"exgw3pl4wszdj7mjmqojkrfx":"insomnia"
-}) // 2023-10-21T22:03:03.955Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"exgw3pl4wszdj7mjmqojkrfx":"insomnia",
+"mm2tlguiawsk3tuhoce2zv47":["intogear","IntoGear"],
+"m6w67kfp3f6phb262s5gilae":["ineffablefrood","frood"],
+"nkd7z6znyi3n4caktmh5njge":["investmntwanker","sherbet marcuse"],
+"kkcuh6hucc4qdad7yhpuoxsa":"insidelobbying",
+"4rxp6xglcwdhz2fejeowargb":["insomniactech","Insomniac Technologies "],
+"dtvzlyedunnphujcxxszjjno":"ingac",
+"yd4lkyq3jxlvdyfkcqnjxmyk":["interactives","Interactive Journalism"],
+"vd67z5g2xwjcaso7cbc34e2s":["inuorlambda","ラムダ"],
+"u6yeqttca67uung6ku7bulcu":["inkycap","sage"],
+"gddjtov3kqau56pocc2prn53":["ing","Ingrid Burke Friedman"],
+"pnlo4rf2tg2i2zejledecmvf":["inm","ぐら"]
+}) // 2023-10-21T22:14:52.734Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -209,5 +209,9 @@ var jp=(function(jsonp){ if (typeof jp==='function')jp(jsonp); return jp=jsonp }
 "bterttu6ipcgnku5km2l45j7":["jpclement","Josh"],
 "u562gxrfnsfkud33dpixx5yj":"jpug",
 "osfb27tmnvzmjyipe5bvosbf":["jplventures","JPL"],
-"7kqccxi2vjyymaqhvghpedzb":"jps78"
-}) // 2023-10-21T21:39:40.437Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7kqccxi2vjyymaqhvghpedzb":"jps78",
+"czklw6arpozwzyneav72etls":["jpnrsantos.me","JP"],
+"5iirioeo22pxc4sjgp2m5wjc":"jporter",
+"sapkfjrq5fj7q7larh5uwh4z":"jpemont",
+"n2lmwmyhlazqzylixdvuwpsb":["jpxdude","Jassen"]
+}) // 2023-10-21T22:14:52.702Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

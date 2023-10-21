@@ -675,7 +675,7 @@ var go=(function(jsonp){ if (typeof go==='function')go(jsonp); return go=jsonp }
 "qotvl6cpkm5rb27264557kdh":["godid","공해"],
 "qqp6oykzjip6b7u7bvhgot7v":["gojirademonstah","Jonely Bonely"],
 "qsgvk6ktnbjkqzw5x5lphtzf":["godzooky","lucy godzooky"],
-"qti5jrhaxotbciqdzvyqs2gp":["gockydongcuntry","⛦ 𝖘 𝖆 𝖔 𝖎 𝖗 𝖘 𝖊 • 𝖕 𝖚 𝖕 ⛦"],
+"qti5jrhaxotbciqdzvyqs2gp":["gockydongcuntry","⛦ 𝖘𝖕𝖔𝖔𝓴𝖞 • 𝖕𝖚𝖕 ⛦"],
 "qtys3w5sq3xk37q37pxd725b":["goo","goo"],
 "qwyhyfdx2iupjsmrwvoeiyrq":"goddamnitsamantha",
 "qxofyulquvc5kv4mbkd7vgfm":["gosundevils","Rachael Kettner-Thompson, NBCT"],
@@ -1237,5 +1237,11 @@ var go=(function(jsonp){ if (typeof go==='function')go(jsonp); return go=jsonp }
 "uetjufoncax72hfmvenw4nqz":["gonde","Antoine Gondé"],
 "2trp2gxgkuwjinzt3sg7yqi5":["gock","Gock"],
 "hb56orczcmxc2zf46q7zg7cz":["good","Brian"],
-"3huqb4u6yzfcs63phoc6altn":"government"
-}) // 2023-10-21T22:03:03.978Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3huqb4u6yzfcs63phoc6altn":"government",
+"uqze4ihtaetlq46r7mtigous":["gotica","Gótica"],
+"dajaduwqu6grkv6233gxhfwx":["goblinmatron","Goblin Matron"],
+"krhy6bxhu5wkuomjobtdxyoq":["go9.ma","고구마"],
+"7hq4va7mhw2vqgkxw5sk6aom":["govarthenan","Govarthenan R."],
+"y6gqe3nlrkaeukp3r7kighfn":"godman",
+"iamv5qhp72ljfbv2hm47wlgm":"gohwi85"
+}) // 2023-10-21T22:14:52.735Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

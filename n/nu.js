@@ -218,7 +218,7 @@ var nu=(function(jsonp){ if (typeof nu==='function')nu(jsonp); return nu=jsonp }
 "nobu5cfjgsxd5gzbbm2jkoc6":"nudechs",
 "nuniuz6xqcnvnbxunoflrfsy":"nuphobi",
 "nwg2va3y6bhaxo6pxedsb7xu":["nunchiku","نانچیکو"],
-"nz3arguxmwqpcbk55srcdvpr":["nuclearteeth","Dr Emma Southon "],
+"nz3arguxmwqpcbk55srcdvpr":["nuclearteeth","Emma Southon "],
 "o3x6z6tfqsdyhelpvszwdbno":["nucleargoth","Marv 🏳️‍⚧️"],
 "o6pumx5ni2gzxq4prc3jgvuc":["nuradtp","Nur"],
 "o7ar6pox3vmnwsgbhcie6xg5":["numerobis1812","Numerobis"],
@@ -435,5 +435,8 @@ var nu=(function(jsonp){ if (typeof nu==='function')nu(jsonp); return nu=jsonp }
 "6rli6idslbwk2sbbodurvzff":["nullchou","널리"],
 "ypsuyawtivm23se4gfarak27":["nurcan","Nurcan"],
 "fr2vvs6ct6ckf3n6uyy3hdhs":["nulluo","Nulluo"],
-"s3j5dnxtuik2fttigaaioz32":"nuggetcentry"
-}) // 2023-10-21T21:56:58.482Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"s3j5dnxtuik2fttigaaioz32":"nuggetcentry",
+"gyq4uspby2bxim75vkpm2ndg":"nullandvoid",
+"nfypsn6d2mnnekv4bimkcuzx":["nuancerocket","nuancerocket"],
+"pra255hyke6kdk7jalohidnb":["nullset","Eric Null"]
+}) // 2023-10-21T22:11:09.074Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

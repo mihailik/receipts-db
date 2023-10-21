@@ -30,7 +30,7 @@ var rs=(function(jsonp){ if (typeof rs==='function')rs(jsonp); return rs=jsonp }
 "ghod65jjjr47e2uym2nrziyz":["rsu","にゅーらる"],
 "h7vgnvlkxvhi6wrgx2xmg2kw":["rsalty","Russ Resists"],
 "huqnylm7fnwvvejvseiuaz6g":["rs3","RS3"],
-"hyol3jhkrwy6vsyky5mfzwtw":["rss.coffee","Rob (RSS)"],
+"hyol3jhkrwy6vsyky5mfzwtw":["rss.coffee","Rob (RSS) 🛫 TwitchCon"],
 "iezclrbqa36nqeuvl2lr3bmn":["rstanek","Becky"],
 "katze3dox7idvlprjwclwqia":"rslinger30",
 "kpfvvemim6vvl2sfieqxtnos":"rsdream12",
@@ -101,4 +101,4 @@ var rs=(function(jsonp){ if (typeof rs==='function')rs(jsonp); return rs=jsonp }
 "wqeus33vedkqccypgrkyqrue":"rstockmtest",
 "ttqqmulvh2sjx52t2qj6vriu":["rsokamoto","Scott Okamoto"],
 "lfe6iy2top6hx5gwtexggw6x":["rsky","rsky"]
-}) // 2023-10-21T21:45:06.293Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T22:05:27.716Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
