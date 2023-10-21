@@ -43,5 +43,11 @@ var kb=(function(jsonp){ if (typeof kb==='function')kb(jsonp); return kb=jsonp }
 "xbsk2nlb5csoqhi4ja27mph4":["kbivarsson","Kerstin Ivarsson"],
 "xywnfak67xvd7m7zltsb3idd":"kbabcock",
 "zmpsx7rqol4ng3kng4w5ahwj":["kburmz","Keeley Burmeister"],
-"zyg3a3cmo7jpg6ubq443h44j":["kbuts","Pete Sastone"]
-}) // 2023-10-21T13:39:04.807Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zyg3a3cmo7jpg6ubq443h44j":["kbuts","Pete Sastone"],
+"xymxybqvv7t7uwk54ye23g63":"kbrede",
+"waob3nstvob2aoipoj47okuz":["kbsez","KB Sez"],
+"oxlmyp3bfklwrsye3v3c4azf":["kbw","Kyle | kbw.eth | Gitcoin"],
+"lnshtxmvrvjgo5oxkk6aj7vg":["kbity","Maple"],
+"lmrbo56gwfw5mvfs6wvjvn5o":["kbtombul","Brian Tombul"],
+"jvntuu7de3g3uv4f3gku47as":"kbaudour"
+}) // 2023-10-21T15:15:37.274Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

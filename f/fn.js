@@ -18,5 +18,10 @@ var fn=(function(jsonp){ if (typeof fn==='function')fn(jsonp); return fn=jsonp }
 "uwrkgtjwhj6lvfmqlpwmfh5u":["fnurt","Steve Mellen"],
 "w5v7zbk57pgkgtvm4o32dqub":["fnfeminist","F'N Feminist"],
 "x5whb6yjxaxh4rpdy7uedvrp":"fndportal",
-"y3cueeziyugnbbr4bchpxbu3":["fndungeonmom","The Friendly Non-binary Dungeon Mom"]
-}) // 2023-10-21T13:38:56.625Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"y3cueeziyugnbbr4bchpxbu3":["fndungeonmom","The Friendly Non-binary Dungeon Mom"],
+"kql52jsmktrzdop4v3dxe7gw":"fnance",
+"c4ouptruzwc3nai3r4dwj3xd":["fnwrtmpp","ふんわりタンポポ"],
+"vagc7mjoqb4qb6fgmoznsocn":["fnbnfml","NestorN"],
+"tdepgd4m6gpbby2e3k5brjk2":["fnnngn","fnnnnnnnnnnngn"],
+"tust7lec5fgtbiqcsywah6hh":["fnt","fred"]
+}) // 2023-10-21T15:22:01.881Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -37,5 +37,10 @@ var bn=(function(jsonp){ if (typeof bn==='function')bn(jsonp); return bn=jsonp }
 "xfbsywiu5xn7s7ae3ddjwmca":["bnuuyance","☆leo-prine🐇🍀"],
 "yscmtlvjea33bw6qz462m7ie":["bnjmnblmnthl","Benjamin Blumenthal"],
 "z37zxpcg22ookqjpvmgansn2":["bnrlibrarian","bnrlibrarian"],
-"zizgfeciljmwlz6dkilee2qr":["bnightingale11","B “Human Bean” Nightingale"]
-}) // 2023-10-21T13:45:46.751Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zizgfeciljmwlz6dkilee2qr":["bnightingale11","B “Human Bean” Nightingale"],
+"g3tirhk4ye4lz63y6nyccgcs":"bnb",
+"rfuovxpxjejsqufb4oi57rah":["bnjmn","💙"],
+"wirk3psdg3tnt77plxsafcsc":"bnxkrthwkkhyfuv",
+"o5ey5akuejdq5fu2f4qvesnr":["bnnldy","Banana 🇯🇲🇸🇾"],
+"kw3glxefwuugix2mqwqtraqz":["bnto","방토"]
+}) // 2023-10-21T15:15:37.271Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

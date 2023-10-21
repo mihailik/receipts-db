@@ -20,7 +20,7 @@ var xo=(function(jsonp){ if (typeof xo==='function')xo(jsonp); return xo=jsonp }
 "f2jqzny7abzur5hwrgyoj2gl":"xonikkilove",
 "foe7d3dg3xicl5adxw3bmng7":["xoxoalucard","alucard"],
 "frh475pn225hbuckb4ymohti":["xoia","Tiago Scheuer"],
-"fttrgu5s3bvm6psuogh7nxwk":["xonas","Jo"],
+"fttrgu5s3bvm6psuogh7nxwk":["xonas","𝙅𝙤"],
 "gn76exoab5w35cawnaesng6b":["xodium.net","Xodium"],
 "gyewucyysxcsplj2wil72mxl":["xomia.com","Mia Moore"],
 "h54z4xtprtftp5woanv2omvh":"xochitlsochill",
@@ -50,5 +50,11 @@ var xo=(function(jsonp){ if (typeof xo==='function')xo(jsonp); return xo=jsonp }
 "xfby3tkxscrmqz4pd6trvsw7":["xodaniwrites","Dani"],
 "yddfcdhhinii6fj6hyulnzpk":["xoxogossipgita","it's gita time"],
 "yyk6vs5r2b4b7qtnmev3t5h6":["xodarlinalt","XODarlinAlt"],
-"z32ojaih6ugsg73fhzlh3hdn":["xodarlin","XO"]
-}) // 2023-10-21T13:38:57.369Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"z32ojaih6ugsg73fhzlh3hdn":["xodarlin","XO"],
+"utq2vu7kojvt3zojbtxxjrmc":["xoxo","♡"],
+"p26e2yp7fmlfqpqwb3zxpm6j":["xopher","xopher"],
+"4hmumpwrgtzol4bvvhorulu3":["xoxoara","Ars"],
+"dk5ok63dw54ewfazmurrjes4":["xotto","xotto"],
+"qqx4ihw7gtwxrimji4xjrd36":"xoniq",
+"fjxlsffr5ujbjl5ss4cq4iuq":["xochitl","Higher"]
+}) // 2023-10-21T14:57:31.398Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

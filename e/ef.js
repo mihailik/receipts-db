@@ -67,5 +67,12 @@ var ef=(function(jsonp){ if (typeof ef==='function')ef(jsonp); return ef=jsonp }
 "xo32sqgvpykv4vp65l3jnupd":["effinbirds.com","Effin' Birds"],
 "xzz7ljfshazfqmys55n4bnci":["efrog","An Enormous Frog"],
 "ypwnaukfovfn62bebfyceykd":["effinvicta","Effy of Online"],
-"zwdxwposa7bzxpej6gncchga":"efrjr91"
-}) // 2023-10-21T13:39:03.208Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zwdxwposa7bzxpej6gncchga":"efrjr91",
+"jx4fyvfw77rftnsedvwy6xhp":"effbee",
+"ovcgqllghgypcethm2pdi3zz":["effort","lileffort"],
+"bbxxrpbxnmcvhqjqgs6ke7ij":["effie","effie"],
+"j7dbnv73vo3bn2abykamvx5q":["efege","f. g. marpal"],
+"yfmzgqarxivh77zia2jmsxxq":["efficientag","Efficient AG"],
+"h7n557tk6kydhtu2o4osoj5c":["eferrariph","Emanuele Ferrari"],
+"uy5ftkzwu3b4flyr2b6rct3t":["efe","efe"]
+}) // 2023-10-21T15:18:56.349Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

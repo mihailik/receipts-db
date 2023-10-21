@@ -119,5 +119,24 @@ var jr=(function(jsonp){ if (typeof jr==='function')jr(jsonp); return jr=jsonp }
 "zgzd562ohk7phvh4ewzbddcu":["jramseyi","John Ramsey"],
 "zrorndnbdiffcjs5efvyqa5h":["jrat","J Rat"],
 "s4fwuibid2w2sc2grniicj7g":"jro",
-"25hrvypifgf33eastltengck":["jrykner","Jeremie Rykner"]
-}) // 2023-10-21T13:46:54.823Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"25hrvypifgf33eastltengck":["jrykner","Jeremie Rykner"],
+"l4f7znlz4brvgidhknkwxott":["jrosenthal","Jake Rosenthal"],
+"be64x2qhmdpikg6gzejuxyff":["jrferraro","Junior Ferraro"],
+"vbmaiytsw6ybjvi6rfeae4gl":["jrwoledge","Jamie Robinson-Woledge"],
+"pytdydd3nkg5jmayocjcn5yr":["jranil","Jalal Rohani"],
+"n7trlzyabtwfrljk4bi4orhx":["jrimmer","Jason Rimmer"],
+"abmk5gghgk7xp4koqhyzx22f":["jroirand","Johan Roirand "],
+"f7rkwq7ydgdefxcv22lahc2t":"jrhall",
+"oslkw3t3dp7ta5k42hadssne":["jrfilippelli","Junior Filippelli"],
+"co6kpsizrc3jftyu6dzfzqmh":"jrs",
+"yjq7khl3c6ws2d5psrrehs2l":["jrp","Juan Rivera Perez"],
+"7ihtkmmiczfaf3suplmd2t6q":["jrdorkin","Josh Dorkin"],
+"pqnirjbwrruud53wgyxccl7n":"jroodnat",
+"lrbmu4nnezieqzjx7og4knll":["jrubano","Joel Rubano"],
+"n4cptm3adxyj5p5ro5l6ul3z":["jrrdan","JD"],
+"vs5iycee2oasxlftfqb646bf":"jrp1",
+"6r7cghkthz6x4glvkg5nhfag":["jrice","J Rice"],
+"n5ard5fhsse24jdbek6aeatb":["jrands","Justin Rands"],
+"4zc5esra3f2zw3ijbe77uo4s":["jrd","jrd"],
+"dlrknoypbyxxkaswanaqjw6z":["jr-howell.com","J.R. Howell"]
+}) // 2023-10-21T15:22:01.936Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

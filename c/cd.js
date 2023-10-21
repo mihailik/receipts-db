@@ -69,5 +69,14 @@ var cd=(function(jsonp){ if (typeof cd==='function')cd(jsonp); return cd=jsonp }
 "z7kcrucaji2evq24tplusnqf":["cdata","cdata"],
 "zigzfyrfykdg75um7haukaug":["cdpsays","CDPSays"],
 "zmi666p2weed3c2eravea43z":["cdubya719","Chris Webber (Cdubya719)"],
-"znbex5waj4ivg57f3gohh2vf":"cdwren"
-}) // 2023-10-21T13:39:05.087Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"znbex5waj4ivg57f3gohh2vf":"cdwren",
+"tn2azbbaoweklakoqzevv4vx":"cdcasey",
+"cuvly4w2abnx5ozfkqebyv6l":"cdixon",
+"4oxqeanxeswswcgl4nnt6lwl":["cdhscott","Christopher Scott "],
+"5x54llqtxxarqez3dg6o6dwz":["cdh","Chris Harris 🎐"],
+"wssm5tny63tp6gnju7b5ip6o":["cdc","Center for Prevention and Disease Control"],
+"fcnvflishd4e6iqpqbroqsul":["cdbk","cdbk.bsky.social"],
+"nmpuku6fmx2dcm5sshqrq23x":["cdbobbo","Danladi Bobbo"],
+"zlog2bcyamawb3qnhsxokpaq":["cdc.cy","Cyprus Developer Community"],
+"wqtxr33ah3p2w2dyg6n3ih24":"cdram"
+}) // 2023-10-21T15:23:33.116Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

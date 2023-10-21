@@ -39,5 +39,8 @@ var ug=(function(jsonp){ if (typeof ug==='function')ug(jsonp); return ug=jsonp }
 "xeprp3mgmdnwaknzkchiifey":["ugima","Ugi"],
 "z43rxauxhrvud7meyua3wezh":"ugurtan",
 "zltqtmydso6kikzw7wafpj4p":["ugarles","Handsome Sen. Lemon Gogurt (I - Blue Sky)"],
-"zu4tlsik2t33ogco6mntrvkj":["ugeplex","UGEplex"]
-}) // 2023-10-21T13:39:02.462Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zu4tlsik2t33ogco6mntrvkj":["ugeplex","UGEplex"],
+"p2xkarizasofrzxghpfbvpzd":["uga","Ugá "],
+"dx6zjtuhpkco7j65ktl2ugho":["ugur","Ugur"],
+"wplorqpkercxjo2v4d2s5qwo":["ugurcelenk.com","Uğur Çelenk"]
+}) // 2023-10-21T15:07:54.046Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

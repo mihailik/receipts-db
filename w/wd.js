@@ -19,5 +19,6 @@ var wd=(function(jsonp){ if (typeof wd==='function')wd(jsonp); return wd=jsonp }
 "xd5ieiau3rynq5ay423sa5cu":["wdrptv","WDRP TV"],
 "xq3xwiwdha7325ucqg6hz2w3":["wdudatlonfa","Duder Dudre"],
 "yrqmsenafehhze56ojjcii6r":["wdormann","Will Dormann"],
-"zrqvrmr4pcntpaxydkro3lcz":"wdortmans"
-}) // 2023-10-21T13:39:04.188Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zrqvrmr4pcntpaxydkro3lcz":"wdortmans",
+"by6al4ymaabzl5o4ud67riaw":["wdeoliveira","Wally de Oliveira"]
+}) // 2023-10-21T14:54:34.065Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

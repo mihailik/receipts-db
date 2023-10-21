@@ -22,5 +22,11 @@ var uc=(function(jsonp){ if (typeof uc==='function')uc(jsonp); return uc=jsonp }
 "xbmlqmwh2c3p5zu4lrxbyvcs":"ucgcaw",
 "xcbnex4tdl2fa3bjopeviia2":["uchidashusaku","内田 周作"],
 "xksb6owd5pso7xledoeo4kzl":["uchelwrol","Uchelwrol"],
-"xt3law6gnhdscov3uvd3pmvf":["uchihafuriosa","Freya"]
-}) // 2023-10-21T13:39:04.553Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xt3law6gnhdscov3uvd3pmvf":["uchihafuriosa","Freya"],
+"s2pmc3cc6rvtihbqwfyrdsja":"uchioke",
+"gzckpvyh4pu4kjjgpl32ikap":["ucantblikeb","Batiste"],
+"v5apoeyfaviqoet5tgilgaya":["ucer.us","Tunca Üçer"],
+"x22xd6p3q7wekdwpvfwjczbs":"uchoten",
+"jxshm3bhzngsfvr5cl4c6iis":"ucho-ten",
+"metxzqysekddoeuepe7inggd":["ucho-ten.net","Bluesky 有頂天(ucho-ten) Client"]
+}) // 2023-10-21T15:22:01.954Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

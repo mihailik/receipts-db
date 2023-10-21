@@ -38,5 +38,11 @@ var tv=(function(jsonp){ if (typeof tv==='function')tv(jsonp); return tv=jsonp }
 "wpe5oj7dmr4ejrskalpuo4pw":["tvstravis","TV's Travis"],
 "wvpm7l3yo3escxlmr2xd2pql":["tvsadam","TV's Adam, whispering into a teacup,"],
 "xc5mfbp3zds52ytohjqhy5ye":["tvol","Timothy Vollmer"],
-"zwn7nb3r7lgsu2exzx4xbz4q":["tvrr","Traffic Violence Rapid Response"]
-}) // 2023-10-21T13:39:04.574Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zwn7nb3r7lgsu2exzx4xbz4q":["tvrr","Traffic Violence Rapid Response"],
+"adcczvmp3zui3kxmgozztn3k":["tvler","Tyler Deitz"],
+"p47dvsxrsi5qp5itnpoq3z2g":["tvtransmissions","TV_Transmissions"],
+"squtge6onof7g6xooy6y7yk3":"tvgirl",
+"zbgmtrrp4ygkbmpdgy7kw5oi":["tvglobo","TV Globo (perfil não oficial)"],
+"qeltup33aovyji534rlbjygj":"tv3ditor",
+"ux6oronebsidd4qdyje6joif":["tvenuto","Thiago Venuto"]
+}) // 2023-10-21T15:23:33.054Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -63,5 +63,10 @@ var vu=(function(jsonp){ if (typeof vu==='function')vu(jsonp); return vu=jsonp }
 "zm3yb7lb5pc4wu6aryfzz3x6":"vurixen",
 "zor4ey72rtzmnvyr74jrui3v":["vulppine.space","Flipp Syder"],
 "zu7jthfftxeyumkapsm63oeu":["vumpire","Jacob Evans"],
-"zwkqabihbcycl7cjldgfu4wb":["vulotaur","Vülo 🔜WPAFW, MFF"]
-}) // 2023-10-21T13:39:04.358Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zwkqabihbcycl7cjldgfu4wb":["vulotaur","Vülo 🔜WPAFW, MFF"],
+"4azy7uqbxowzv2uuo7kvv7cv":["vuf","vufrancois"],
+"fze5wrpnrkrlwbblbeknywac":["vukurutu","AULERO ALIMENTOS"],
+"2dhotjhhrymnp3frevjdjxj5":"vukolic",
+"i7tbcl5floqbtnrm223hlpyd":["vulcanstudionft","Vulcan Studio NFT Eth/Tezos "],
+"mdrtu2lgpnnbrxxuans3dsbh":["vulcan","Vulcan"]
+}) // 2023-10-21T15:23:33.108Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

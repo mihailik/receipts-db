@@ -57,5 +57,11 @@ var bd=(function(jsonp){ if (typeof bd==='function')bd(jsonp); return bd=jsonp }
 "wvwsfzl55b6doxjt4dnpe6vk":["bdherzinger","Blake Herzinger"],
 "yh2tweqf2jqoaz33ofrbrnhk":["bdub502","Bdub"],
 "yyixzw23pkx6zoxcboto2eud":["bdholms","Bethany Holmstrom"],
-"zfqy54lvwfr7ajjynlrpcyj2":["bdodds","Zeroday"]
-}) // 2023-10-21T13:39:03.201Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zfqy54lvwfr7ajjynlrpcyj2":["bdodds","Zeroday"],
+"tb6r5wpd2b5gugqzsfbcn6bm":["bdruhot","Rev. Ben Druhot"],
+"4zycliukszljirvobucclmtp":"bdr",
+"kan7llkv724djcwjui2tjvcp":"bdidier",
+"47ofznkjimaikx3pw7i5tauv":["bdg","Bharat Gandhi"],
+"cyiym724sbf4zlwkel7suszj":["bdhatt","Brian Dhatt"],
+"7go6icasolc3o65jqqwn3ks4":"bdawg923"
+}) // 2023-10-21T15:11:46.696Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

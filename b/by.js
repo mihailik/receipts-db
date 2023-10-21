@@ -112,5 +112,17 @@ var by=(function(jsonp){ if (typeof by==='function')by(jsonp); return by=jsonp }
 "y4d357uwmomkhiqdijrrua3c":["byfuss","Byfuss"],
 "ybbiy4w7zkngubrwarzizgv6":["byjessicaelena","Jessica Elena"],
 "yowy3ikh5dom77gjfbaz5snk":["bytebot","Colin Charles"],
-"zhqlrskxtofrwq6ytjrgvn4j":"bywayofjosiah"
-}) // 2023-10-21T13:38:55.622Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zhqlrskxtofrwq6ytjrgvn4j":"bywayofjosiah",
+"axiucghsmqbcft24twpwhjoj":["byakko","byakko"],
+"2jwqg76a56pry55xpptxdf2f":["byboat","byboat"],
+"4perb6jqvscasmr5a5q2ducx":["byakkie","byakkie"],
+"jabzzuifuaj2vb5vwt2ftefj":["byle","kyle"],
+"ttntk5vtxohs2snpsgr6ugcg":["byroad","byroad"],
+"yabrydgwfi32xsfqgg2s3ulw":["byte","byte"],
+"2b5sfpwjqsf2ncjrug75gosk":["bye","bye"],
+"c3qikdhmrlntxd2vzyxkemld":["bykellymcd","Kelly "],
+"dpmccedm6klpe4dttbxxxam2":["byrds","Byrds"],
+"cmnqb466nltjkxq7katgsu2y":["bykendell","Bykendell"],
+"ody633vedbb6iegrmc4t5ggu":["bylopes","Humor alterado 🍒"],
+"rvur4ev5uk7tz4hk7zflw7dk":["bytedance","ByteDance"]
+}) // 2023-10-21T15:20:31.511Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

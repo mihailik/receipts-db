@@ -58,5 +58,15 @@ var ct=(function(jsonp){ if (typeof ct==='function')ct(jsonp); return ct=jsonp }
 "xy6pydpxmlzte7gkf5xm5jfs":["ctownt2g","街坊撐華埠 ChinatownT2G 📍"],
 "yi3fx23knwa7uaur54xf6vbp":["ctpax","CTPAX"],
 "z4soqq22ebqgundmvfvs3hvv":"ctrentham",
-"zdi6fqyicfhwj5cslvqi6uk7":["ctjhill","Catherine Hill"]
-}) // 2023-10-21T13:38:52.920Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zdi6fqyicfhwj5cslvqi6uk7":["ctjhill","Catherine Hill"],
+"urige7a5ztu65e4cwe7s7yrc":["ctogden","Chris Ogden"],
+"3ebeobtqcfp6iivpwjzyrrgv":["cto-junior","TDM (e/λ)"],
+"6zvkbzg27on2wogpam3p524v":"ctforester",
+"weteap2swqbijpgta5vg5dug":["cthulhu","Cthulhu "],
+"kbs7d52jxhteajiw4sds7yjm":"ctd",
+"rxiqfocyqapd55mvxc46maol":["cto","Curious Cat"],
+"vrn5cplxjidvw64tzjkwsety":["ctf","César de Tassis Filho"],
+"qayabd2ihoocywiuhs7rmgsx":"ctschad",
+"srozua6cuce7ccdiramyv273":["ctomeo","Chris Tomeo"],
+"2jxazas4k4cs4av42gggbzya":["cthrin","Catherine Shyu Sullivan"]
+}) // 2023-10-21T15:06:28.733Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

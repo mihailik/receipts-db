@@ -7,5 +7,6 @@ var yp=(function(jsonp){ if (typeof yp==='function')yp(jsonp); return yp=jsonp }
 "shjekikwkgjamulizac7fizd":["ypanda","José B. Rebolledo"],
 "x6qbhtz6vvysczxess6fpl4u":"ypsilantea",
 "y42pqo6rrh54b7krwc2q7lq3":["ypicalwriter","🦀 Jᴜɴᴇ Is 🦀"],
-"ymp6ntdh4fqs4qyiwtjlo4og":["ypparii","˚₊*마리아카라칼"]
-}) // 2023-10-21T13:39:03.971Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ymp6ntdh4fqs4qyiwtjlo4og":["ypparii","˚₊*마리아카라칼"],
+"wrcjbcjf5ji5e2lb2iizvlqf":"ypwu"
+}) // 2023-10-21T14:46:01.596Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -2,7 +2,7 @@ var yk=(function(jsonp){ if (typeof yk==='function')yk(jsonp); return yk=jsonp }
 "3qrozhjcr63sf2xrkz7cmoao":["ykr11","YKR"],
 "6vtgc26ivjdfjszrboxwkxa4":["ykravv","Yevhenii Kravchenko 🇺🇦"],
 "7zaas2gzygjhoerfaai3xtjg":["ykmc","うきた"],
-"bt3sygs3yyzr2m4cv5fec4a5":"yksm",
+"bt3sygs3yyzr2m4cv5fec4a5":["yksm","Yusuke NAKASHIMA"],
 "ddj6wyomly3bhxvy3e266psv":["ykarenkwon","Karen Kwon (she/her)"],
 "ebwg6ekr2flmkbybwileqeib":["ykt","YKT"],
 "hfiphziknw6gqrqkdmemyyai":["y-kim","김와이"],
@@ -17,5 +17,10 @@ var yk=(function(jsonp){ if (typeof yk==='function')yk(jsonp); return yk=jsonp }
 "vayec6mmt4d7kwz5w2ubmknb":["ykubota","KUBOTA Yuji"],
 "xatqfd7kwyhwj2frioy4rmnd":"yktd",
 "zbis7u7ppb23wvuqci3f77pd":"yknot05",
-"zmezes6wk5xlocvkzsnudra4":["ykskr","結季"]
-}) // 2023-10-21T13:39:04.888Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zmezes6wk5xlocvkzsnudra4":["ykskr","結季"],
+"qe2td5zzcod3vkogrpur4iqf":["ykodo","3"],
+"fblohkgjhlv2h54uq22w46ae":["ykazu","ykazu🎹"],
+"xhp6ekmvbst5df2cdaom2kmj":["ykzkmy03","mayo.y"],
+"q2pp4sbs34bmngi42bz6jvi4":["ykkc","ykkc"],
+"6prsrngnyftfrl7off6v6dod":["yknogi","YK"]
+}) // 2023-10-21T14:59:54.109Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

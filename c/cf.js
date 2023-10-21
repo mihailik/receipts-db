@@ -33,5 +33,12 @@ var cf=(function(jsonp){ if (typeof cf==='function')cf(jsonp); return cf=jsonp }
 "yefjsj56oardrrfaws3s5s4g":["cferejohn","Chris Ferejohn"],
 "yfrfqv7q4fd3sdf3znpn44tn":["cfcat","장냥"],
 "ynao25bauquxrflyht76aj62":["cfijwpg","Carson Fijal"],
-"znga6gmosf6wm5sfshxfanoc":["cfoncu","Chari Foncubierta"]
-}) // 2023-10-21T13:39:02.517Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"znga6gmosf6wm5sfshxfanoc":["cfoncu","Chari Foncubierta"],
+"xpl55jkuk6pcvuxfiv2m6ly3":["cfarivar","Cyrus Farivar"],
+"hubnvrs7qatazjvznnk75pgl":"cfarnum2",
+"a2btnrjim7ubtrmh2r7l63mz":"cfc",
+"rrjvo5jwuateqep2i7ih5ckl":["cfiesler","Dr. Casey Fiesler"],
+"c6u3okqqldyi533gnrwawl54":["cflasche","Connor F."],
+"qzn5hrl4n66jhisjwarvpki5":["cfn","Chris Norman"],
+"o7euxetw7kg7mxqcuv3tu4n6":"cfedermann"
+}) // 2023-10-21T14:59:54.181Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

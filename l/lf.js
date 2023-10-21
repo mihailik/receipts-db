@@ -10,5 +10,8 @@ var lf=(function(jsonp){ if (typeof lf==='function')lf(jsonp); return lf=jsonp }
 "qo6bngpmyst5tipajbkabp2y":"lfs",
 "qx4ond3teyud3tpvukddc7p5":"lfaliaj",
 "uxcl4o32b2zi33acdqmmcv7g":["lfconline","LFC Online"],
-"wx27gfh6zsx3ey45r2u7anxn":["lfx.gay","lain the fox"]
-}) // 2023-10-21T13:39:05.048Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wx27gfh6zsx3ey45r2u7anxn":["lfx.gay","lain the fox"],
+"jkhzv2g7ro6nnangf36zxq2n":["lfmpaes.com.br","Luiz Fernando M. Paes"],
+"xbqaukkaxffiyqzot73zu2ey":["lfg","LFG!!!"],
+"3eabnncupbctf772kn33v4ti":"lfc"
+}) // 2023-10-21T14:49:23.343Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -14,5 +14,9 @@ var hk=(function(jsonp){ if (typeof hk==='function')hk(jsonp); return hk=jsonp }
 "uazi6dylt4755deknzr67fii":"hkt3030",
 "wbtzzzadtq2fn7h3h3hc3d4t":["hkdnet","hkdnet"],
 "xfmgrj3sgmg7dzg6o4dmnigq":["hkh555","هادی (ره)"],
-"zg3xyv2pth7psxhx6b3spovp":["hkluterman","⛥H. Kyoht Luterman⛧ 🔜 Megaplex Dealer"]
-}) // 2023-10-21T13:39:05.031Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zg3xyv2pth7psxhx6b3spovp":["hkluterman","⛥H. Kyoht Luterman⛧ 🔜 Megaplex Dealer"],
+"6kw2g667i7bspfscba5ktnqe":["hkk","Hideaki Kiko"],
+"3vnglc3o5qv7jhxp2htargcj":["hkazazi","Hosein Kazazi"],
+"t24fb3nrhowhnot3ylzkfvhy":["hkluis","H"],
+"s26x6p3ovzgpyvzgipiagxvc":["hkd","HKD Stuff 🇦🇲"]
+}) // 2023-10-21T14:42:47.639Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

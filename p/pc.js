@@ -37,5 +37,11 @@ var pc=(function(jsonp){ if (typeof pc==='function')pc(jsonp); return pc=jsonp }
 "xklpiwyadju3svaq7nlhmzfo":["pcmaghistory","PC Magazine (1982-2009)"],
 "xqtaqwvitpirxxlfn5oibblq":["pcspenden","Computer spenden statt wegwerfen"],
 "yqd6o5xdqba7jgbtyfov4yby":["pcable.net","pat cable"],
-"zg4u6ppj6nf4tqff2h2ldqrd":["pchisoorii","Soorii"]
-}) // 2023-10-21T13:39:03.886Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zg4u6ppj6nf4tqff2h2ldqrd":["pchisoorii","Soorii"],
+"sger4oyavjnwjktfam23vzpr":"pcbuxton",
+"7gymxhspdzvhmg3rjhz7b5mj":["pcfranca","Paulo França"],
+"lwqte5rpv5i44cf5csuihw2l":["pconnolly","Peter Connolly"],
+"2gp3wrzocmu3pgld5reokyvp":"pcotera",
+"rcne2nshwyhywfzspmgttwau":["pcarion","Pierre Carion "],
+"jxifbtgcoehwgetacs7hftk5":["pcillustration","Priyanka"]
+}) // 2023-10-21T15:11:46.710Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

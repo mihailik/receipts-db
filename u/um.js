@@ -24,7 +24,7 @@ var um=(function(jsonp){ if (typeof um==='function')um(jsonp); return um=jsonp }
 "bz7xreq27yexldz2pn2ugmpq":["umbrielle","Oleksandra Potseluiko"],
 "c7df3jcksaaxf2ld5czaki26":["umbrainsomnia","Morgan"],
 "caj5pnimwn5apisz6dlwdmsx":["umz0","Uni Matrix Zero"],
-"crlavttcbem4eayfamwmbhkv":["umo","新巻 鮭"],
+"crlavttcbem4eayfamwmbhkv":["umo","新巻鮭（返却11/3）"],
 "ctqfygi5narku25k7khtfq5r":["umazu.la","UMAZURA"],
 "d7lyn73j7wxrmtzhmnlzwv5y":"umancherkassy",
 "dlndvxiotmaitvkecm652mfm":"umlautparadots",
@@ -100,5 +100,20 @@ var um=(function(jsonp){ if (typeof um==='function')um(jsonp); return um=jsonp }
 "z76zd4jsu47dis5s546ucru5":["umaiumani008","signon008"],
 "zg4afxbg2aoeame6mtwpxd3t":["umaumaoniku","むちん"],
 "znhuiokmxsk2qkcuzohehc5t":"umbers",
-"zwh5jpnodomctsq6rg5vmvbr":["umbraomega","Umbra Omega"]
-}) // 2023-10-21T13:38:55.968Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zwh5jpnodomctsq6rg5vmvbr":["umbraomega","Umbra Omega"],
+"ixwnszz7q7g3bhubhmigfvmg":["umang","Umang J"],
+"jyzhjasbpdhrrnqofugu5llh":"umakatyperry",
+"cgy5i4awn7lpnh2eochrsbfb":"umusicbrasil",
+"zw2cjo6bh3pfagq2j62iixwv":"umutsubasi",
+"5pytpeigdevzbdejsd4kmhex":"umut",
+"rte33adkjxxoasqrdbll32pt":["umeasako","うめ妹尾朝子（せおあさこ）"],
+"cvf26v37u5myyolq574t6pgj":["ummshelby","Shelby"],
+"qjtm262ql47o7g4kxl474aon":["umrod","Rod"],
+"b6tr2igusoi4qji4rzvgnex2":["umi","Umi"],
+"pzcx5qev24x5mjmjopc5w3ek":["umeh","David Umeh"],
+"dusxewwgnk6c2fize2kfbqfo":"uma",
+"c2i7buf5ax6olwer2wogvt2d":"umnato",
+"q5j64etwdwzdagtvikb6dzbp":["umiamara","✦amara skywalker✦"],
+"zi65ezhb672cjoq5ktycw32x":["umit","Umit"],
+"dmfqbiiv324r6dnlkz6knap6":["umutozturk","Umut Öztürk "]
+}) // 2023-10-21T15:20:31.546Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

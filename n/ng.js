@@ -32,5 +32,16 @@ var ng=(function(jsonp){ if (typeof ng==='function')ng(jsonp); return ng=jsonp }
 "xwxwmx2tafofjmzxoqgz5xll":"ngi",
 "yep6566vqqs4ejgrjrfr4vsx":["ngdwrites","Nathan Graham Davis"],
 "yo3ayo5dtzccq3kp3g5sgggi":["ngngtalk","투쓰"],
-"ztrkwu2m4ypaginb5sz4cz5n":["ngmferguson","Natty"]
-}) // 2023-10-21T13:39:04.939Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ztrkwu2m4ypaginb5sz4cz5n":["ngmferguson","Natty"],
+"cbkjy5n7bk3ax2wplmtjofq2":["ngerakines.me","Nick Gerakines"],
+"y36epwt6unjzw6asvyvt4jr4":["ngsw.jp","ngsw"],
+"3dqgmbnd3siacsi2izkmcymn":["ngelo","Angelo🇵🇷"],
+"zo4oxu22n33v66uy5lomabe2":"nguyen",
+"td7vvg73biwx6c4yzec5zbqh":"ngoel",
+"llb2uymh7yhcpp4wy3omiihk":["ngmi","ngmi"],
+"7l62255kao3q3amj3pevgiwt":["ngdemus.com","Dave"],
+"wbbr5p7gq554ene3ruq2jsn3":["ngorillated","Victor Rios"],
+"w53jwbo6jv56fmdiu6c4vwvy":["ngamarra","Nathan Gamarra Ph.D."],
+"hrdq6itkngy7d3wfv72houuc":["ngvrnd","hey it’s ngvrnd from that other place"],
+"gudcw73ybk75dnwylnejcyso":["ngo","NGO"]
+}) // 2023-10-21T15:11:46.622Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

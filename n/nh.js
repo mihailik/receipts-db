@@ -21,5 +21,9 @@ var nh=(function(jsonp){ if (typeof nh==='function')nh(jsonp); return nh=jsonp }
 "rxgypil5pkwmgvnyljapyd5y":["nhaliloglu","Nagihan Haliloğlu"],
 "sxq6blq3bzmftspdtzuunljd":["nhoonited","Le Novichok De Hoonited "],
 "trxyka7r6frpzjsbtcwosjgx":["nhiroki","nhiroki"],
-"znqrjsw7p42fntmpxw632jlk":["nhomu.com","nhomu"]
-}) // 2023-10-21T13:39:04.816Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"znqrjsw7p42fntmpxw632jlk":["nhomu.com","nhomu"],
+"2yq5a2rvuojiffy2bfcahevm":"nhl",
+"lyej52cp6a3utqjgqdhulu2n":["nhoj","nhoj"],
+"2p3qpeamurypgvqzcummmf6s":["nhia","Nhia"],
+"wuvamnbt3irdnnvzahcz4zwr":["nhlbrasil","NHL Brasil"]
+}) // 2023-10-21T14:47:36.648Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

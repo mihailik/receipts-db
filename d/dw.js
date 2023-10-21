@@ -56,5 +56,19 @@ var dw=(function(jsonp){ if (typeof dw==='function')dw(jsonp); return dw=jsonp }
 "xuqnzpixtod7hf7fqe4dvepg":["dwuff","Dwuff 🇿🇦✨"],
 "yem3mzfrmjxecimxqcdwuilx":["dweinman","Daniel Weinman"],
 "yqme5lduiob34thmvggdlss6":["dwhanna","“That Guy”"],
-"l3uult7pcfz24d6h4xduezhv":"dwarkesh"
-}) // 2023-10-21T13:46:54.930Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"l3uult7pcfz24d6h4xduezhv":"dwarkesh",
+"2uzbn6c7srf7y3yuapqoj54j":"dwlng",
+"fvsxyews7tby3zbdusc45swx":"dwaite",
+"iaqbf5jrstshhmsluclt7dgj":["dwalker","Debra Walker"],
+"du2uit5rvyr7muellwkpumjz":["dwight","Dwight McDonald "],
+"mmxpxcvswrlytbovhdhhbdk3":["dwb","David W. Brown"],
+"fcl26zc4hlbq4fokv25aunwn":["dwr","dwr (hold)"],
+"inbwugiadj4upsb374rybctw":"dwag3",
+"nupbymephomvftpkmtbjtz2p":"dwl",
+"ln6t6pygnzbzn3nwyaa7zuhp":"dweefle",
+"3dkf3mukopqy2qywqjkylmrv":["dwaynesamuels.com","dwayne samuels "],
+"w26t3mmnjjlxgpoc3f36pkii":"dwebdesign",
+"p4mn2o52m7q2mwpvunyzsike":"dweb",
+"kknx4g2mqmqg5dk7fu5dlj4v":["dwnm","MAX"],
+"2xja2bxscokwpd6kgs7ltiwu":["dwiib","Richard Dwi"]
+}) // 2023-10-21T15:22:01.919Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

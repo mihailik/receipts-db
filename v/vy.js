@@ -33,5 +33,9 @@ var vy=(function(jsonp){ if (typeof vy==='function')vy(jsonp); return vy=jsonp }
 "xkprfyfvw4v3b32qiyvnt24o":["vysetron.pixeldie.com","D"],
 "yo27743axepq2zs266q3uxx4":["vymogaperemogy","хроніки щітпосту"],
 "z4zgakaihevvvijkqu64sbr4":["vyacheslav","sl_g"],
-"zgqh6q6xc6yjvxujoibz7wtw":["vynnsarr","Klayre °˖✧"]
-}) // 2023-10-21T13:39:04.950Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zgqh6q6xc6yjvxujoibz7wtw":["vynnsarr","Klayre °˖✧"],
+"xd5jrjjchjiwhbj6ujayttld":["vythor","vythor"],
+"25kdwnd4hwlta54u4r7lx56b":"vykingmyk",
+"a4mbyyzulwzcdhx4bcxqsjrs":["vyau","Vincent Yau"],
+"uyxs2odzx7rr6yiwrbyqc7ry":["vyyyper","Vyyyper"]
+}) // 2023-10-21T15:18:56.267Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

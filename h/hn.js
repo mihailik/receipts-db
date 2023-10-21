@@ -11,5 +11,9 @@ var hn=(function(jsonp){ if (typeof hn==='function')hn(jsonp); return hn=jsonp }
 "pgcpvogdngtq3yry7rzj4gwz":["hnnng.de","Henning Krause (he/him)"],
 "qffbhnlwc3vfvfuszgif6awu":["hnrq","hnrq"],
 "yhjepiyzv7vbo4m3zf2tm4mk":["hndyoril","аліна||🍓"],
-"fjsmdevv3mmzc3dpd36u5yxc":"hnbot"
-}) // 2023-10-21T13:45:46.729Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fjsmdevv3mmzc3dpd36u5yxc":"hnbot",
+"dnwy6yld6bjyxrwhstlmjx6j":["hnk","HØSΞΙΝ"],
+"33n7ixm2cn2eddnwb5h3vdr4":["hnowruzi","Nowruzi"],
+"3svuljaqezw6ayub23w5hee3":["hns","Handshake (HNS)"],
+"dlz47pxx3vez3te3htsn27l2":"hnsl"
+}) // 2023-10-21T14:55:58.459Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

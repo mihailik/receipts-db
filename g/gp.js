@@ -17,12 +17,18 @@ var gp=(function(jsonp){ if (typeof gp==='function')gp(jsonp); return gp=jsonp }
 "gjs2eeoldbxwvd7ypn6e3jwa":["gporro","gporro"],
 "hjykhrtsznz76d4qllrdbywq":["gpike","G! "],
 "iezpvs2exb7v66433hj5myzc":["gpd0","건포도"],
-"jjvcllmstrqhwumataphanzw":["gpurcell","George Purcell"],
+"jjvcllmstrqhwumataphanzw":["gpurcell","George Purcell “Punished” on Twitter"],
 "lfd4q4nr37apsww4z4eitohj":["gpdmckay","McKay"],
 "ma37ez4i3gmwkvwpytsqeepp":["gpsnmeajp.achetaria.com","Segment"],
 "mudwhdz4asvrodou2wogw7qm":"gpryder",
 "ohhs3alzkrgzrzeylsmeiv7f":"gplowe92",
 "p2bj3d37m42rqcoqvgrmwhm3":"g-pop",
 "peiyufadnimuqaj3ubdov44p":["gpmciver","Gregory Peter McIver"],
-"zg7lgcxhdkoufwuypudmpjjb":["gpatrick","gpatrick (Tanya Chutkan supporter)"]
-}) // 2023-10-21T13:39:04.385Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zg7lgcxhdkoufwuypudmpjjb":["gpatrick","gpatrick (Tanya Chutkan supporter)"],
+"tdtkywxbgzdblalzur6eeqlv":["gpsnmeajp","Segment"],
+"hjmesocb5vs4otqgkqgbp542":["gpt","GPT Bot"],
+"wavac6mivpset2gc3xq4fcik":"gpj",
+"xoh5i7yo55saptm7kx63u5jb":"gp2980",
+"duxmgyr2tlfy7jxc3whi3tpt":["gps","💀GPS"],
+"fzcpmja7jfuym5u3dxvj3rgj":["gpg"," "]
+}) // 2023-10-21T14:57:31.346Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

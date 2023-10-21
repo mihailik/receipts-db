@@ -177,5 +177,16 @@ var ur=(function(jsonp){ if (typeof ur==='function')ur(jsonp); return ur=jsonp }
 "yugq5fs7g2zzi3j2pekfas7n":["ursus","Uncle Ursus"],
 "yvuy2odchyygz34v7khs7l5k":["uromatsu","uromatsu!"],
 "zlcrh52vkt252yvwzcsbnkeh":["urasamurashima","José a.k.a. UrasamUrashima "],
-"zskltsymvbfpzjsix3wpchh4":"urluck"
-}) // 2023-10-21T13:38:54.762Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zskltsymvbfpzjsix3wpchh4":"urluck",
+"4qtsekp4lidkdbjqov5s6pj3":["ura","URA"],
+"grohy2iczcxnsne4q3sy4hgh":["urbitzoomer","Urbit Zoomer"],
+"e4koyzkg7sijd4pf34bfhsqk":["uruhina","颯葵"],
+"sw5hb2avzvpkq2fvxctg2ugm":"uri",
+"nakcfqpd5sz3ok2dkme3uogr":["ursula","evil witch"],
+"xoptfgn6lqrl3psuqiumowkv":["urmom","Satya Nutella"],
+"52b4jefmlsdz5ccwsdlnli3r":["ursa.love","Anne Ballaran"],
+"eljgnxhutsdtwyyb3dwciinf":["urbanscribe","Alexandre Fuchs"],
+"f6twzpjdqwhyxye34moudlo6":["urs","𝚞𝚍𝚊𝚢"],
+"qalyjcqsmg4tr4ekzrzldusm":["ursulabot","Ursula K. Le Guin Bot"],
+"eebuil6je2l7skabnz4ghxx3":["urgeofid","Urge of Id"]
+}) // 2023-10-21T15:02:48.195Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

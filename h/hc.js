@@ -24,5 +24,8 @@ var hc=(function(jsonp){ if (typeof hc==='function')hc(jsonp); return hc=jsonp }
 "wpj5z24vsmik5ocqjybwjpso":["hcrichardson","Heather Cox Richardson (TDPR)"],
 "xmermz76xkvtrlhyhb6gadrj":["hcgambrell","Haley Gambrell"],
 "xqjumxr7coykeya652ofwhhf":["hcnewton","H.C. Newton - The Irresponsible Reader"],
-"xshjcsuwxdhrjkhbofif7omc":["hcaki","大晨"]
-}) // 2023-10-21T13:39:04.101Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xshjcsuwxdhrjkhbofif7omc":["hcaki","大晨"],
+"n6agjk2ojud7ypyopwhhdv7k":["hcg813","TampaMan4Fun"],
+"jykg3u5tk5zczcfwxzpfgur5":["hcc","Harrison"],
+"ccwih55qcuessjw37rfxod2g":["hcdesigns","HC"]
+}) // 2023-10-21T15:07:54.085Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

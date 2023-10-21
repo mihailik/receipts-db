@@ -48,5 +48,14 @@ var dn=(function(jsonp){ if (typeof dn==='function')dn(jsonp); return dn=jsonp }
 "xwybdnnk3kxrx2375pbxpksq":["dnyce","D Nyce"],
 "zu46kydq4pfx245lspwtp75j":["dnhills","Doug HIlls"],
 "xbwwdiqu5gkvymcv5ty2ej4v":["dnewbold","Dave Newbold"],
-"6rp5jfzezxmf7kgornnaw5tx":["dns","DNS.xyz"]
-}) // 2023-10-21T13:46:54.932Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6rp5jfzezxmf7kgornnaw5tx":["dns","DNS.xyz"],
+"rbgkvitjatmoabjco3o4rioa":["dnoperao","クンクタートル"],
+"ayvpesyzdb3rgcseugfyaooa":["dni","Dani 🧚🏻"],
+"nvyww54t4mheqi5bdcu5jcuc":["dna","Mark Budde"],
+"kj6novuxum77pm32yt55fnym":["dnorco","Doug North Cook"],
+"c2prqnlringsyu24jjlmw5ki":["dndv","Dan"],
+"n2d5orfsu5vorgx2ofoz5o45":["dnk","Dom"],
+"sj7bvgxuvtlg7na4obmif5ka":["dnf","Don Neufeld"],
+"q7nrgvjifgjwzoojcjoruazt":["dnl","Daniel"],
+"du4lr2ofub7xgaol5ooqfuw2":["dnz","Deniz"]
+}) // 2023-10-21T15:05:05.180Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

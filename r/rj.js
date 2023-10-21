@@ -61,5 +61,8 @@ var rj=(function(jsonp){ if (typeof rj==='function')rj(jsonp); return rj=jsonp }
 "wt3u6jvjrigyxld7t2fbkgcr":["rjwhite","RJ White is \"Givin' it a Go\""],
 "y4ekygxjiz3zxum2d74oaj5o":["rjcassara","Rich Cassara"],
 "zcm3ycmqahhbzg27xuw5uyql":["rjgnyc","rjgnyc"],
-"zwoxuqcjskpecoefamba4uli":["rjpwj","Ricardo"]
-}) // 2023-10-21T13:39:04.299Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zwoxuqcjskpecoefamba4uli":["rjpwj","Ricardo"],
+"g36zgryix6tvw64rto6q6rl6":["rjc","Ryan"],
+"gnlnzjwzbuvgr3v4peonoprj":"rjventimiglia",
+"im2vqoo4ydzrju4snbyy52zq":["rjp","RJ"]
+}) // 2023-10-21T15:18:56.331Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

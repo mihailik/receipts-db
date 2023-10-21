@@ -17,5 +17,10 @@ var oj=(function(jsonp){ if (typeof oj==='function')oj(jsonp); return oj=jsonp }
 "xn6d6vh6laiebbbxn3tnmayn":"ojnilsen",
 "zm3iow2r6enrllyf3sstuwqp":["ojii.jp","ほし"],
 "zvsl2racazf7ylpualll5axv":"ojiry",
-"zzxwledpqf7ob7svaf675k4c":["ojanio","Janio"]
-}) // 2023-10-21T13:39:05.044Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zzxwledpqf7ob7svaf675k4c":["ojanio","Janio"],
+"iogplvc75by46taybwjp542y":["ojisan","オサーン"],
+"7v3swaay3o3xlmozspcgh4nc":["ojour","Helmut Spudich "],
+"vqgdqtppoekz3yyjn5xc7hua":["ojoshe","Joshua Levy"],
+"2ixzfa3v65wd4qjamitya43x":["oji","星"],
+"5oobzrpkwdxgbishgt5fthln":"ojustin"
+}) // 2023-10-21T15:18:56.343Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

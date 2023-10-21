@@ -81,5 +81,12 @@ var wu=(function(jsonp){ if (typeof wu==='function')wu(jsonp); return wu=jsonp }
 "yuj63nfqju6lbdoi5oyt2w3j":["wudus","WuDuS - Дитина 35 рочків"],
 "zbeg3gayazgtevfk4lwvysj6":["wutangjoebiden","Conway's Guy of Wife 🐀"],
 "zedfkz7gshlyjuwiyyz63ywr":"wulfyroxas",
-"zh62veeatodqjvv7ch256jza":["wutjc","Jean-Claude"]
-}) // 2023-10-21T13:39:04.651Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zh62veeatodqjvv7ch256jza":["wutjc","Jean-Claude"],
+"nnfwi2mhmrj76ncz5cpmmsj2":"wuyufeng",
+"nicpc4z34czmzzph6vo6xxsy":["wulfric","Victor Wulfric"],
+"wejioviu4r7oy7tloufdrg6g":["wunderkimmy","kimiko "],
+"vgd7nsasvfagv4cianugbvn6":["wupton","William Upton"],
+"b2y5u3dvnpqfeeo2er6qeaou":["wutania","tania"],
+"7s7naiptv4uxvpcusk6e3sjp":["wuyaoh","吳烏鴉 Wuya Oh"],
+"ufl2tnmdjpy56qa55o7hsryc":"wutwut"
+}) // 2023-10-21T15:15:37.260Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -11,5 +11,6 @@ var vp=(function(jsonp){ if (typeof vp==='function')vp(jsonp); return vp=jsonp }
 "p2qxsyohgdosfoh2ubaxydc3":["vpsreports","Vishal P. Singh 🏳️‍⚧️ (they/he)"],
 "pn7qbg2wbyp4xf6aghomqfpt":["vptevo","vp"],
 "x7ei4aozz7c7wl6defhmprgq":["vplo","Vanessa"],
-"zt77gxt4mlwddfsnyc2x7mpw":["vpace","V Pace"]
-}) // 2023-10-21T13:39:05.130Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zt77gxt4mlwddfsnyc2x7mpw":["vpace","V Pace"],
+"2uturqnaaliebj4bq7zw57nz":"vpasquier"
+}) // 2023-10-21T14:35:27.454Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

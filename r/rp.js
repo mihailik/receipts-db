@@ -40,5 +40,8 @@ var rp=(function(jsonp){ if (typeof rp==='function')rp(jsonp); return rp=jsonp }
 "xnm37kao6s6i4fehk25gfeqz":["rpancoast","Ryan Pancoast - Illustrator/Artist"],
 "z7oopjiff3lury7k5qufkiym":["rplevy.info","Rob Levy v/acc"],
 "zn2wnbbjbpdhqhtrsbwvnnsy":["rplantageneta","Rafael Plantageneta"],
-"zppq6lifwk63rldgnbb7ny2j":["rpb","Robin (she/her)"]
-}) // 2023-10-21T13:39:03.735Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zppq6lifwk63rldgnbb7ny2j":["rpb","Robin (she/her)"],
+"elcrlszncktijbdvhakcepnh":["rpmeredith","Merwight"],
+"6ephekhessthbddxgwfi6plt":["rproven24","Rproven 🏳️‍🌈🌊"],
+"xmvzqp2up74velyjx4gsfh47":["rpw","rpw (aka esizkur)"]
+}) // 2023-10-21T14:50:51.390Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

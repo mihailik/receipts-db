@@ -106,5 +106,17 @@ var jl=(function(jsonp){ if (typeof jl==='function')jl(jsonp); return jl=jsonp }
 "z4qzswrxgqpp4w4g4kw67s6w":["jlcomes","J.L. Comes // Joey (he/they)"],
 "ze5ifkvbc73x2jplol5c2zoc":["jlbriere.boats","J.L. Briere"],
 "zk4vcf5nxsphofy7i6peu6vw":["jluisrod","J. Luis Rodriguez"],
-"q76lbyq2uo7wkru7qfc3dqfh":["jlsgo","Jhon"]
-}) // 2023-10-21T13:46:54.948Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"q76lbyq2uo7wkru7qfc3dqfh":["jlsgo","Jhon"],
+"ln7znduv2tz5jpiaoqsr2mfc":["jll","jL"],
+"4xrmdvdlkmw6dpuclr4ifjgr":["jlevitsk","Josh Levitsky"],
+"rm47b47q4bdagxraj5xf4abo":["jlantunez","José Luis Antúnez"],
+"ljr5sdgxlpaz2nhhlxvonvug":["jldimayuga","JL"],
+"iyiuimp26flz5fvcw3gbu66w":["jlw","Jordan Walker"],
+"v3wbzcvrguo75xehzkd64kz6":"jlm",
+"ggf3rjjaddqolayl54g5wt4i":"jlshefsky",
+"sp5sjpwgvmumzxjbovhlmt2h":["jlaw","J L"],
+"n54for5gygidm3tn3rk5zlx2":"jlung",
+"yld6jfafkw5cfyahaguzjzzt":["jlord","Jessica Lord"],
+"j4mrzkqw3q3i2dgqczradmo4":["jlefors","Jayne LeFors"],
+"a3vncgw3kajhi3ocd5um2k5h":["jlaracena","J1"]
+}) // 2023-10-21T15:01:21.754Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

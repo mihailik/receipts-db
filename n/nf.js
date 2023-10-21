@@ -21,5 +21,12 @@ var nf=(function(jsonp){ if (typeof nf==='function')nf(jsonp); return nf=jsonp }
 "scvxt3k53lcaedaxgbytcd3f":"nf4o-btrip11",
 "uqjqg7af5rwq23lf2iuoezcc":["nftqu33n","Lena Grundhoefer"],
 "z7yn5ifmmlh5wzm4pj4yiimo":["nflstreet","☆★ゆい★☆"],
-"25wfmrcs7oijil2bbqjv6xn2":["nft","@NFT yea wassup  3500"]
-}) // 2023-10-21T13:45:46.844Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"25wfmrcs7oijil2bbqjv6xn2":["nft","@NFT yea wassup  3500"],
+"kwkhaclbww64wmbe3galvgpe":"nfts",
+"qhla734rmnghoma2qc5phvy5":["nfk","NFK"],
+"4lvww75uirdxqkwlrz6wof7u":"nfhostel",
+"s4a456bbaxmpbk77orsax5vm":["nfpn","Nuno"],
+"qwmpde5yinlx6o43ubdghjqo":"nfx",
+"f62feal25jrk4h2tbagm62ow":["nftcargirl","NFT CAR GIRL"],
+"l7lmzgg53uhjzpu4v5mkfwok":["nftlisa","Lisa Fogarty"]
+}) // 2023-10-21T15:13:31.312Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

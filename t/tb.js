@@ -42,5 +42,13 @@ var tb=(function(jsonp){ if (typeof tb==='function')tb(jsonp); return tb=jsonp }
 "vitqbmcqyfvechzrz37i5wax":["tbrown80","Terry Brown"],
 "vka2ffjdcyyxfbtjwsu76ssr":"tbobrowsky",
 "wfkuzffyfa27n5qizdgvjcru":["tbonejenkins","LaShawn M. Wanak"],
-"wymdln4mt74cvqvvnnyg36mg":["tbili5","Georgia(Георгия)"]
-}) // 2023-10-21T13:39:04.398Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wymdln4mt74cvqvvnnyg36mg":["tbili5","Georgia(Георгия)"],
+"o2k6txknpzvvkhlntjpsenx5":["tbarbaraaires","Bárbara Aires "],
+"bngan6cmaeduxuzbmdq5kvgg":["tb3","Katycat da Pitchfork "],
+"bdp3axihe7rbuuwmnsixgfqx":["tbarkley","Taylor Barkley"],
+"yhc6hojruuyttjwiaaszoe4f":"tbhatch",
+"zrwhncnqel7corjtg2cak3jx":["tbabb","tbabb"],
+"eieswdneycmmv2pgmcbdlknz":"tbranco",
+"2jskqrwxghd33i4zp4dhpp33":["tbqh.net","yura"],
+"z4tjpwlkdkfx4qjvbnyrmfuj":["tbsdesigns","TBSDesigns"]
+}) // 2023-10-21T14:52:16.232Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

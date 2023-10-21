@@ -16,7 +16,7 @@ var ub=(function(jsonp){ if (typeof ub==='function')ub(jsonp); return ub=jsonp }
 "f5kqvujnbmuyzvjxx7f5x54b":["ubikh","Yves Le Yaouanq"],
 "fdbks7ugpy5i6nweuhffho4b":["ubergreen","the lictor of thrash"],
 "fk2bcjizlhvzymyjmn7dlhat":["uberdorkgirlie","UberDorkGirlie"],
-"fv256ijb3ftgb6hewcujshxw":"ubiquity75",
+"fv256ijb3ftgb6hewcujshxw":["ubiquity75","Sarah T Roberts, PhD"],
 "geowgfovqu6i75ahh7rao3p6":["ubirajara","Ubirajara"],
 "hr54fo22gifjtwn22a3pku7i":"uberzensch",
 "jqgrelidfw6w7ok75qj33wb5":"uberlis",
@@ -35,5 +35,8 @@ var ub=(function(jsonp){ if (typeof ub==='function')ub(jsonp); return ub=jsonp }
 "wk6aoraaz3ffqq2r5jksp4go":"uberthemeh",
 "x2h4uqysw3eryfglfoz7nzvk":"ubellack",
 "xe54tswm2qcnbzu5zmiwr75c":["uberjnet","uberjNet"],
-"y26joa5t5sjdpu2256l5px7k":["ubewoof","✾ Ube Woofers ✾ 🔜 Denfur"]
-}) // 2023-10-21T13:39:04.992Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"y26joa5t5sjdpu2256l5px7k":["ubewoof","✾ Ube Woofers ✾ 🔜 Denfur"],
+"7bhuqmwnrdd3xtbrvgz6okly":["uber","Chris"],
+"cshf2upwpkbo7xdrfyms27j4":"ubemochi",
+"nwtez322ddfynrc5y6hqyjws":"ubisoft"
+}) // 2023-10-21T14:44:24.872Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

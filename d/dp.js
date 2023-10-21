@@ -43,5 +43,13 @@ var dp=(function(jsonp){ if (typeof dp==='function')dp(jsonp); return dp=jsonp }
 "zkrgdsaotzqndyox3wys6pwr":"dpsifr",
 "zrpjoxhgmutcewdr2ozqs3yi":["dpinfosec","dpinfosec"],
 "zsymww7xbetiycy33bicgkbf":["dphscn","девочка припевочка ✈"],
-"zwpbopv2aerrhm4s2v6xvoxa":["dps952","Dave"]
-}) // 2023-10-21T13:39:00.955Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zwpbopv2aerrhm4s2v6xvoxa":["dps952","Dave"],
+"pjxzi3re7x4wcutadnw6jyw3":["dplusplus","D++"],
+"ybw7kpe7ozh7wiolz3hhbcre":["dpx","Drew"],
+"j43ebggizcgr2opalp2d6r5u":"dpatritti",
+"ui5f2pvjzclhuch5hufps5hc":["dpereirapaz","David Pereira"],
+"2rjfrpj4fpzjo73ywxsws6uu":["dpnation","Dana P"],
+"hiqpegi7fstmivhrauvvp2yc":["dpflug.me","Daniel Pflug"],
+"nhbcz4lgtbdrtuw7kk7iodom":"dpwoodford",
+"uiqeskjmfh4tg4gf5irq4ng2":"dpranjiv"
+}) // 2023-10-21T15:18:56.324Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

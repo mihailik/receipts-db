@@ -44,7 +44,7 @@ var og=(function(jsonp){ if (typeof og==='function')og(jsonp); return og=jsonp }
 "qfutslqwtnmdcfqmvf6r6git":["oguzhanyaman","kristoffer"],
 "qpksmiapned7iagtechk4ykg":["ogeografo","𝙾𝙶𝙴𝙾́𝙶𝚁𝙰𝙵𝙾 ❤️‍🔥"],
 "rtsodk5ze42hhfx5wzzavvsm":["oguzcandurutas","Oğuzcan Durutaş"],
-"s7kxteaeayst6f6g4noygsx2":["ogrady.ai","Jason O'Grady 🧠"],
+"s7kxteaeayst6f6g4noygsx2":["ogrady.ai","Jason O'Grady ⚡️"],
 "smhvsvewjg4bjtdzjjzrd64w":["ogmalcontent79","Mal"],
 "toynju6zdwfw7ksmlwpwwck3":["ogafroman","Afroman Placeholder"],
 "trisgnlhlvg4l3yzwqnwtyam":["ogm","オジマ"],
@@ -55,5 +55,16 @@ var og=(function(jsonp){ if (typeof og==='function')og(jsonp); return og=jsonp }
 "wsrem3jkez5umthiiq4nc3eq":["ogreblaise","Blaise the Ogre"],
 "xnpw6r4kmzhyvnr37a4oldio":["ogmanatee","the manatee"],
 "yfu4ebe3jlejsgmdg4m7vus3":["ogdenrobyn","Robyn🟧🌊🌊🌊🇺🇲🌈🇺🇦"],
-"ynewyc4mbbrk4fbw3skylmys":"ogtrekker"
-}) // 2023-10-21T13:39:03.112Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ynewyc4mbbrk4fbw3skylmys":"ogtrekker",
+"uhnbfpprh5fw4b7bqbfvprqd":["ogaworld","OGAWORLD/オガワールド"],
+"bvxsr34f736cncqnjo2mxu3o":["oguzgelal","Oguz Gelal"],
+"elxlcr64fszyk5spkievfmto":["ogaken","OgaKen"],
+"l23y7udy3tticwcv2n7y6awy":["ogma.net","Brian"],
+"rjsqn6ajynqsipbofw52cdz7":["oguilhermeluiz","Guilherme Luiz"],
+"3l42kmgjkpltbgfabhit4d4o":["ogkreatives.com","OGK 🎥"],
+"ce4rqxn3urwvemoefmsyu3k7":"ogfloridian",
+"wzswv25uszi7c5637ci7qoyb":"ogmilady",
+"ves7duebqi5klac4yetmbt7d":"ogulcan",
+"twqqx3nlt5kepng5jjjcwkuf":["oguzhan","Oğuzhan Şentürk"],
+"6gmte7qc77rfpxhy2bqfy4i3":["ogbklyngirl","Jan Addison"]
+}) // 2023-10-21T15:18:56.331Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

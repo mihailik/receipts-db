@@ -63,5 +63,19 @@ var jt=(function(jsonp){ if (typeof jt==='function')jt(jsonp); return jt=jsonp }
 "zhdxowmoaxrr2yzcca47drqi":"jtlovell",
 "zryv6b4w4tvfzfa72nf2abc3":"jtahoejoe",
 "zuf77sg2ajur5y53mkh3vou2":"jtlnrj",
-"zvtbtmwpvqrxotpvoqmee2mx":["jtebasile","⚔️ elísabet"]
-}) // 2023-10-21T13:39:04.072Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zvtbtmwpvqrxotpvoqmee2mx":["jtebasile","⚔️ elísabet"],
+"nfwttqdmcnubacjxsnwy326t":["jtvhk","James Hill-Khurana"],
+"flm5ksatszjg5tvvomsjwbbn":["jtdeane","Jeremy Deane"],
+"owsvuctrvfzt7kvbttafqfvc":["jtshaw.com","jtshaw"],
+"dmknqru2ct2w6grp4hiyygxs":["jtzook","Jared Zook"],
+"vpx2dfbbbetb3z3cjtsnrizj":"jtatem",
+"jm3jah5s62zygrzhum4t6arb":["jtcbrule","Joshua Brulé"],
+"mvp42dkqh3qs2qfvrnk5x3sm":["jteixeira1994","Jhonata Teixeira "],
+"i3msimuayqjfunwg2hdx6zbc":["jtriley","jtriley"],
+"rlnrmspqel5j2sxjndphv4ff":["jterrell","J."],
+"mcfrohqflvj6qftqxrqzkuq4":"jtguibas",
+"jo2uh3q2u2uzmsnoqkx4pc4l":["jtc","JTCARLYLE"],
+"vuj7q5v5xfb4s4falfq7n7ew":["jtraglia","jtraglia.eth"],
+"uva6y5idv4dfggudrk33et3c":["jtlissphotoart","J.T. Liss"],
+"nwy2jmkeu7uopdqhxh56524a":["jtoyts","JToyts"]
+}) // 2023-10-21T15:22:01.952Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

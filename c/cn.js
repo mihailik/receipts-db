@@ -8,7 +8,7 @@ var cn=(function(jsonp){ if (typeof cn==='function')cn(jsonp); return cn=jsonp }
 "afxujev3ol6fs2zefb4gey4t":["cnyhockeyreport","Scott Kinville / CNY Hockey Report"],
 "amson3kjoox33bbpgkxxyy35":["cnwarneke","C.N. Warneke (Nat)"],
 "e36b723d5kn5yklz6b46j26r":["cnwillis","Dr. Charmaine N. Willis"],
-"fknpzcpzslhwikcwwgprcich":["cna","Sina Roshan"],
+"fknpzcpzslhwikcwwgprcich":["cna","سینا روشن"],
 "iqcpzawhy736rhqs5o2kkvm4":["cnunes","Celso"],
 "iwf5u4th44uj6ukucuvi6k35":["cno","Definitely Not Shane"],
 "ljva2s37uo6oiypkfdqywq3e":"cntmuno",
@@ -27,5 +27,11 @@ var cn=(function(jsonp){ if (typeof cn==='function')cn(jsonp); return cn=jsonp }
 "wcazrvzwcs37ifoxnqiqniim":["cneechy","SkippyMcGeee"],
 "wt4benz5hs5j3uiijqt4h5h2":"cntrlshft",
 "x6pgbejszocc4cjg6wgqnovj":"cnothelle",
-"yey4z4m7mhgm6t7j5k3orlky":"cnonna"
-}) // 2023-10-21T13:39:04.686Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yey4z4m7mhgm6t7j5k3orlky":"cnonna",
+"jb5wobx2svg7ij5bs6mwri6e":"cnn",
+"lfxhukxb3jssb66eoufrow7o":["cnizrl","nana"],
+"tg5eurplnhgliwy7j6sjvkrp":["cntero","CEO of Memes 🕴🏻"],
+"4iegdjxcfqlkzf5pjw2atcag":["cneill.dev","Charles Neill"],
+"jwpustzigo5e5phkkwhp5h7j":"cnm500",
+"tqdnq6jx2eenfr7chbmufmfd":["cnnnr","cnnnr"]
+}) // 2023-10-21T15:11:46.700Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

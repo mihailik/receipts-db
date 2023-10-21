@@ -71,5 +71,11 @@ var cc=(function(jsonp){ if (typeof cc==='function')cc(jsonp); return cc=jsonp }
 "yhnzujmhspsiv4qtkoxsbpge":"ccinthecities",
 "ywtgjee2f6tvny3yk2u6lkyv":["ccampbell","Craig ⚡ indie solo startup builder"],
 "6al5t6ei6z6p4wzpmhpmwmdw":["cc","cc"],
-"ksqhdzl4n4zqv4gqqhfdst6c":["ccheever","Charlie Cheever"]
-}) // 2023-10-21T13:46:54.905Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ksqhdzl4n4zqv4gqqhfdst6c":["ccheever","Charlie Cheever"],
+"5yzzervq4ihjmcuw4hmwb7lx":"ccc",
+"gq4brcgitluoatkzvzmln4fh":["ccl","Craig"],
+"ag5r2uuhqrxjcuxwl3ndtlz7":"ccam",
+"vnuex2bamfcotgfogt3h6c62":["ccgroove","Christian"],
+"nt5pesitfgtcx6uuccqdnhx2":["cchelberg","cchelberg"],
+"rqs2zramiadkzrmh5phatlbg":["ccarella","Chris Carella"]
+}) // 2023-10-21T15:15:37.250Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -42,5 +42,15 @@ var ut=(function(jsonp){ if (typeof ut==='function')ut(jsonp); return ut=jsonp }
 "xncrrzudv5kntk7hpghljw5n":["utkuoz","utku"],
 "xwufj3f37yg3c7rud6ltyduc":"utku91",
 "yp4knr3s4f6nji2fsywkoaoh":["utubo","うつぼ"],
-"yueeqn3dpjcs6x5ikrp6xtcb":["ut-maito","ゆーてーまいと"]
-}) // 2023-10-21T13:39:03.601Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yueeqn3dpjcs6x5ikrp6xtcb":["ut-maito","ゆーてーまいと"],
+"miq4j4mmuid5e4rloredlf5s":["utopia","ִ"],
+"vyur2mj53wfzg62kstv56hkv":["utism","Neon Genesis Ivermectin"],
+"i6spdak474vqyaczvqq74b35":["uts","UTS"],
+"ngcmeida6urpxati2mhqysas":["uta","Because I’m Uta"],
+"t6sbrdqma5jyhosiy6a57bw3":["uts1885","UTS1885"],
+"e46wo2ifqjyypaszurcbykgx":["utageya6","宴屋六郎"],
+"sc6ey5v4fvomtzjmtbows325":["utaka","UTAKA"],
+"vt7cpfhzicnxfgcckrld3bfv":["utsuwa","しなもん｜下山ワタル"],
+"uhxfxwezzgsq52kk7atldclk":["utku","Utku Şen"],
+"5jzra54kobcrxljiteibx4bi":["utopianish","bad utopian (conor)"]
+}) // 2023-10-21T15:13:31.297Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

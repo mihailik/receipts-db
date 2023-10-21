@@ -18,7 +18,7 @@ var rl=(function(jsonp){ if (typeof rl==='function')rl(jsonp); return rl=jsonp }
 "hcauot3q6hj7eslcp3ts3ta6":["rlinky","RLinky"],
 "hdfu7jbanb2e7bjhr7rb4ktd":["rlopezortiz","Ricardo López Ortiz"],
 "iggixslmyy6fe3ojr6qt5d5j":["rlstollar","R.L. Stollar"],
-"igkw3laifzpumlpw4mz7b2kn":["rlacir","쨔그"],
+"igkw3laifzpumlpw4mz7b2kn":["rlacir","고고나"],
 "kmb7a5juum3ysu6665qhvv3k":["rlynneal","Kit"],
 "kymesxxs3std3d2lqxbxjcvq":["rlaskarha1","yomma"],
 "lf7e5jp5gcr2rch4oghbp25c":["rlxpls","ятсянь 👾"],
@@ -38,5 +38,9 @@ var rl=(function(jsonp){ if (typeof rl==='function')rl(jsonp); return rl=jsonp }
 "u6fockpmvntat2qsjfwpurk5":["rlmrdlnz","Earl Mardle - A Vote for Nats is a vote for ACT - Don't"],
 "vgpya5yrjq7zx7hy4q4drodz":["rltinha","Ritinha"],
 "vlx2lydniowzgeohekzjojk3":"rlph",
-"y3vl5plvmlmmonkooi6kakmc":["rleepoole","R. Lee Poole"]
-}) // 2023-10-21T13:39:04.738Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"y3vl5plvmlmmonkooi6kakmc":["rleepoole","R. Lee Poole"],
+"zcnk5jmqbfbb2ctfzu7difhy":["rlys","rachel "],
+"w72rxoo4jjfacixqrapmqqry":["rlotun","Reza Lotun"],
+"gy3w4r3oqzbca7aljuh7of24":["rlta.dev","𝐇𝐀𝐑𝐔"],
+"jsp77bgan27ns3sobosdm6vz":["rlove.org","Robert Love"]
+}) // 2023-10-21T15:13:31.314Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

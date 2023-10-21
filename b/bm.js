@@ -56,5 +56,15 @@ var bm=(function(jsonp){ if (typeof bm==='function')bm(jsonp); return bm=jsonp }
 "vyucfdttygdlzh5wd7jkcfgr":["bmuramatsu","Brandon Muramatsu"],
 "xl2umsf4kqgcqkrbavy3nqlf":["bmichaael","𝖇.𝖒𝖎𝖈𝖍𝖆𝖆𝖊𝖑"],
 "ynyz5akpsnuyslh4tdei3v7d":["bmoraccoon","bmo 🦝"],
-"zattvplgaqzo32dw7woyykve":["bmiller1027","BrandonPNW"]
-}) // 2023-10-21T13:39:02.817Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zattvplgaqzo32dw7woyykve":["bmiller1027","BrandonPNW"],
+"jd3gpb34z4valesizkpq3meg":["bmw","Bernie M Weiss"],
+"g6cvcxyicqnldufuqxcrcsw4":["bmorearty","Brian Morearty"],
+"cjzqb7gxwvasvxrjjf6vicd4":["bmg","brady {ℏ} b.hbar 🌴"],
+"flw4fzswfkcf2rwubyng3qje":"bmathew",
+"wlawcdp345simputsrpgek2c":["bmichael","B Michael"],
+"w7d6chxtec7bclxdelrxs7xm":["bmr","Burry Market Research"],
+"s2ftyphuws4dot7gp5lmx37b":["bmock","Bryan Mock"],
+"v6qmeinay5ce3k5b5tc4yllj":"bmoore102",
+"5lguiytadbgpqcusjsa67vqt":["bmorekathy","Kathy KO"],
+"waa7nsnaqzn7i3zh546udt4o":["bmarston","Brian H. Marston"]
+}) // 2023-10-21T14:42:47.610Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

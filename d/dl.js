@@ -60,5 +60,16 @@ var dl=(function(jsonp){ if (typeof dl==='function')dl(jsonp); return dl=jsonp }
 "wyhkgvljmhh4oo4dudqza52o":"dlvienna",
 "xoc4zdmj6bt5ml776e2ipvuz":"d-letion",
 "xzzcupgbtdxo3mjmav7c3pfg":["dl1976","Dave L"],
-"z2krwl5dxskxnlnxoxhje6cv":["dlspecht","David Specht"]
-}) // 2023-10-21T13:39:04.723Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"z2krwl5dxskxnlnxoxhje6cv":["dlspecht","David Specht"],
+"fivvyafa7th23qvy447sxodd":["dlvs","DLVS"],
+"y4o53ek5qhv2hikbbco4tmj2":"dlp",
+"ocy5a4n3j35knsf3yganxr67":["dlew","Lewandowski-core 🕹️"],
+"2ronfwyicpmjnj4xr6uabyxq":"dluxstudio",
+"2rnuz5wwscvnunq6gc46nqxj":"dlockamy",
+"36lbmom3qivay6iwe3zi3qbj":["dlski","Dana"],
+"6eym4exmiqmkywfs45iwl6u3":["dlo","Dan Loewenherz"],
+"ok6irfyese5qluq4wnrfeupk":["dlandeau","Derek"],
+"4qsi2glgt4gqrgfa6vp7usef":"dlh",
+"2wumgldzifgu5q3smqjrhmku":["dltn","dalton"],
+"vyni2h2y5fa23wotlmde76nu":["dlieberman","Daniel Lieberman"]
+}) // 2023-10-21T15:17:21.188Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

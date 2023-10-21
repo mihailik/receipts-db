@@ -97,5 +97,17 @@ var bs=(function(jsonp){ if (typeof bs==='function')bs(jsonp); return bs=jsonp }
 "z3axc7zobkcor7hh7bwofrrj":["bsky-social-q6n7","Пані Надія (та сама не* La Reine Margot) "],
 "z72i7hdynmk6r22z27h6tvur":["bsky.app","Bluesky"],
 "zhdernisvy5cbsovzhzzd237":["bsquiklehausen","bsquiklehausen"],
-"zkwpb72k3iprtdiwyactgsjr":["bstevensonlab","Brian Stevenson Ph.D. spirochete  lab"]
-}) // 2023-10-21T13:39:03.222Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zkwpb72k3iprtdiwyactgsjr":["bstevensonlab","Brian Stevenson Ph.D. spirochete  lab"],
+"din276yigtmvwnhk423tec2s":["bskysocialcodetwt","Bluesky  Invites"],
+"sqov4ftthckyhmlufu7qhdff":"bsk",
+"btfqvn7aowgvjvt5ulhwjejh":["bsuresh7282","Suresh Balakrishnan "],
+"k6a6jggkiqxht2c2s6akfwr4":["bsky.scorpii.io","Scorpii ▪️"],
+"dotokt4szx4wxxn63e6qdjeb":"bslc",
+"4dmdh6nsxgp2n3asyrrfs2v5":["bsky.gay","𝔭𝔰𝔦"],
+"73dubnpzspzvev5ge4pa7njn":["bskyus","Bluesky Fan"],
+"h5myzsi3uswgnvwwbk7hydlh":["bsb","Brendan"],
+"llmgrcqfs3ahbfrr7zuo7qz4":["bsky.dad","Joe Garland"],
+"xgqwxvdsb4j2vgslkre5xybh":["bshums","Bryan Shumway"],
+"fz6p3de5vf2vmm6s5vqwph7p":"bsg",
+"3oxjqrcmxu4c5psai3s5dgm6":"bsusper"
+}) // 2023-10-21T15:06:28.752Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -45,5 +45,7 @@ var uk=(function(jsonp){ if (typeof uk==='function')uk(jsonp); return uk=jsonp }
 "whyqmxsfod2pwwiv2pzpzfez":"ukilludie",
 "xbmtrgbtromshuqb5wqdorlx":["ukdefencejournal.org.uk","UK Defence Journal"],
 "xnrjq3frxmhe4stodv26ohei":["ukrsena","чому така мила? "],
-"z46lo3vypz2kamcysh6txxbs":["ukhomosexual","UKHomosexual 🌈"]
-}) // 2023-10-21T13:38:56.543Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"z46lo3vypz2kamcysh6txxbs":["ukhomosexual","UKHomosexual 🌈"],
+"wllzqn2lf4r2whlv5obuuxsk":["ukaijyu","ゆかいじゅ"],
+"dxplfgmgnfd7qrrtiaxuugo7":["uklondon","uklondon"]
+}) // 2023-10-21T14:40:54.738Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

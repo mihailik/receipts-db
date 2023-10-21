@@ -6,5 +6,8 @@ var dx=(function(jsonp){ if (typeof dx==='function')dx(jsonp); return dx=jsonp }
 "myh2rhpdiyclgmxq36wzu764":["dxmthemachine","David"],
 "rcbqhon3ltzvx7bp5xkpp3hg":["dxvil.com","DXVIL"],
 "sav72xyvughscg44xwaxfamo":["dx6682","dx6682"],
-"sjlbbqsdfswvbocdbqjuyftf":"dxk"
-}) // 2023-10-21T13:39:04.549Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"sjlbbqsdfswvbocdbqjuyftf":"dxk",
+"ovab3scij2atzbpqdt2niync":["dx-question-mail","DX質問メール powered by GPT-4"],
+"3relwcdtwckfja7hjlven4db":"dxp232",
+"myjcy25nl7ci4nsyxxvlc6ba":["dxdeji","Deji-Fr"]
+}) // 2023-10-21T15:10:19.581Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
