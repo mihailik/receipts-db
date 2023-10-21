@@ -78,5 +78,11 @@ var cd=(function(jsonp){ if (typeof cd==='function')cd(jsonp); return cd=jsonp }
 "fcnvflishd4e6iqpqbroqsul":["cdbk","cdbk.bsky.social"],
 "nmpuku6fmx2dcm5sshqrq23x":["cdbobbo","Danladi Bobbo"],
 "zlog2bcyamawb3qnhsxokpaq":["cdc.cy","Cyprus Developer Community"],
-"wqtxr33ah3p2w2dyg6n3ih24":"cdram"
-}) // 2023-10-21T16:13:06.168Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wqtxr33ah3p2w2dyg6n3ih24":"cdram",
+"k4v2jdqvi6ct2dnrvwofenfa":["cds","CDS_HACEK"],
+"mo5o7dbssr5quekemaurldsz":["cdemers","Catherine Demers"],
+"4qz4vjmfbvrjlwhuvlsxgezf":"cdetrio",
+"szlkaccw42uktxuptsx5uey5":"cdifazio",
+"pgj7pnwzq5u553gaqns5eccu":"cdubs",
+"inxjgrbrj2qfonbxjwzg3kpn":["cdub","Cornelius Willis"]
+}) // 2023-10-21T20:07:59.773Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

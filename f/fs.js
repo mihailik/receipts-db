@@ -36,5 +36,10 @@ var fs=(function(jsonp){ if (typeof fs==='function')fs(jsonp); return fs=jsonp }
 "dd6m74co2vkysb32zvey2yhg":"fstopper",
 "upujpxl2f4n7oljbkyzrmomp":"fsaragiotto",
 "grmq5s6twg6qppuxsa2tvy2i":["fsadatian","FatemehST"],
-"ogwn7mxy5mrg4s3tdoxo2wt5":["fserb.com","Fernando Serboncini"]
-}) // 2023-10-21T15:44:23.626Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ogwn7mxy5mrg4s3tdoxo2wt5":["fserb.com","Fernando Serboncini"],
+"ulcsri2hhkwet4flz3lnxyd5":["fsmontenegro","Fernando Montenegro (he/him)"],
+"vfzjsbgxoooevd3yuerpenaz":["fsantana","Felipe ➰"],
+"j4xmul65ufoi3uqqmlie5uha":["fscapolo","Francesca Scapolo"],
+"65wfaschoymbv3crtgdb2hte":"fsky",
+"mzm3ytlconw52dwi7yn3nl5r":"fscklog"
+}) // 2023-10-21T20:01:28.503Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

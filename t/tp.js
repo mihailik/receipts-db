@@ -26,5 +26,7 @@ var tp=(function(jsonp){ if (typeof tp==='function')tp(jsonp); return tp=jsonp }
 "a3jl5josxf4oxq5izvtuwqn6":["tpfeather","Tpfeather"],
 "bzt4bh4lhlor3gccljfqpqrb":"tpob",
 "vhxlhmj4wgdfkkitzn5fmp3m":["tpotdome","Justin"],
-"untchg73vaytatjdyecefxez":["tpthetechie","The Original Tyler Perry"]
-}) // 2023-10-21T16:06:40.588Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"untchg73vaytatjdyecefxez":["tpthetechie","The Original Tyler Perry"],
+"wuyrgc2mfikeewztegyxp3lr":"tpearson",
+"27gb4mcymdmpp6unslpiy7ss":["tpires.pt","Tiago Pires"]
+}) // 2023-10-21T19:36:41.538Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

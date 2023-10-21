@@ -27,5 +27,7 @@ var kg=(function(jsonp){ if (typeof kg==='function')kg(jsonp); return kg=jsonp }
 "vslxw3jfvkm2ihxerth5k5za":["kg8m","kg8m"],
 "fse2ysmuyr3a6yvfryqqh7gv":["kgtkr.net","kgtkr"],
 "hv3bhuj2tdrf56fsojjwzsq4":["kgrayson.com","Kathryn Grayson Nanz"],
-"o6njsjngoe3njcqaut6w7m7m":["kgo","Kosti"]
-}) // 2023-10-21T16:01:41.916Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"o6njsjngoe3njcqaut6w7m7m":["kgo","Kosti"],
+"i7brmpdj5d25wvrvn6yecjy5":"kgwvof",
+"ue3fappldgm4lqcmgqbpsblc":["kgeek","Hajun"]
+}) // 2023-10-21T20:06:28.690Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

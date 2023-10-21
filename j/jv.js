@@ -20,7 +20,7 @@ var jv=(function(jsonp){ if (typeof jv==='function')jv(jsonp); return jv=jsonp }
 "ij46zckbczwmou44xkj2ykvc":"jvcarrington",
 "irut44mhha533653buectw74":["jvohmy","j✨"],
 "iytxiu46olbccaequk3cz2mu":["jvdham.nl","Jeroen van der Ham "],
-"jhk4zfq3462xt6sxrisotfxa":["jvpires","João Vitor | O irmão do Pires"],
+"jhk4zfq3462xt6sxrisotfxa":["jvpires","o JV"],
 "jucvvays5ldbbqnadcf4hy2b":["jveezy","jveezy"],
 "l4ii4gdetx7zl4mrcy2ulbq6":"jvangeest",
 "lhlqpab77qeppq3yoy7ikbsi":["jvegas","Johnny Vegas"],
@@ -46,5 +46,7 @@ var jv=(function(jsonp){ if (typeof jv==='function')jv(jsonp); return jv=jsonp }
 "7nkmjzai3jtqpomlj24cg7zt":["jveresj","jveresj"],
 "hex4c5pdpvr4f5coogkf23d7":["jvqueirozzz","Jão que não é o Jão"],
 "gb3vbgfmf3xrkek6wgh6xyip":"jvegin",
-"2ssyyrojqfzgrjthq5nbki6s":["jvd","JVD"]
-}) // 2023-10-21T15:56:26.504Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2ssyyrojqfzgrjthq5nbki6s":["jvd","JVD"],
+"rs5jkyw4elxdnitakphij6ij":["jvandershark","Joshy V "],
+"u4lusmmsz34jyqt25qtm2s76":["jvchican","Jean Victor"]
+}) // 2023-10-21T20:07:59.804Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

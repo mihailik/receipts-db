@@ -6,7 +6,7 @@ var jy=(function(jsonp){ if (typeof jy==='function')jy(jsonp); return jy=jsonp }
 "5t5uxz4hkrz6xnxckvulyfbe":["jympton","Hugh Jympton"],
 "5x4vvxarfl2d5e3op3md4eur":["jyggdrasil","Jyggdrasil "],
 "6m6rpjviohkowlc7tjnfqth6":["jydera","JyDeRa"],
-"7end3h3k3akz7mcdlt7bnmej":"jysexton",
+"7end3h3k3akz7mcdlt7bnmej":["jysexton","Jared Yates Sexton"],
 "b7yf6zwggjogy3kokwadilmo":"jyaire",
 "dezdtrbhk7cyl36ypzsyy653":["jymfox.com","Jym Hooray"],
 "dy4odkqyj35el4xaut6hzmoi":["jyaltma","Kiki 由哉"],
@@ -47,5 +47,7 @@ var jy=(function(jsonp){ if (typeof jy==='function')jy(jsonp); return jy=jsonp }
 "ba7uxitpr7xuevboyokeyson":"jyotika",
 "xcwf4zaxp53jafsvklvhb23v":["jyd","JYD"],
 "wb7uu246b7syyly3vvfqvqjz":["jyonyve","(정데맘::JNV)"],
-"qku6taddact225tww54cy3pz":["jysquall","Jean Yves Z."]
-}) // 2023-10-21T15:57:57.923Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qku6taddact225tww54cy3pz":["jysquall","Jean Yves Z."],
+"lruddvbqshebtm2xqljcism2":"jylerbrylerson",
+"fcka2ubvcne27rdxaltt6ltx":"jyri"
+}) // 2023-10-21T19:38:08.927Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

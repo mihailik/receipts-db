@@ -6,5 +6,7 @@ var xg=(function(jsonp){ if (typeof xg==='function')xg(jsonp); return xg=jsonp }
 "illrvjsx5szbn33455f4iwne":["xgh-master","Channer Domesticado"],
 "jyjztj7bgzipknveluac4ic5":"xguilbert",
 "rvnll2ftrljoska43lskmuzx":["xgibran","Gibrán"],
-"uwwsag42rj7oqw5htbicxdgf":["xglossd.me","sj "]
-}) // 2023-10-21T13:39:04.181Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"uwwsag42rj7oqw5htbicxdgf":["xglossd.me","sj "],
+"zly56f6hg4mkuuzd5rkvzpwm":"xgboost",
+"nbxnuxlth3y2a5zi5s7l5umk":"xgohomeroger"
+}) // 2023-10-21T19:50:44.394Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

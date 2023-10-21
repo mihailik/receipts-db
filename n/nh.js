@@ -28,5 +28,8 @@ var nh=(function(jsonp){ if (typeof nh==='function')nh(jsonp); return nh=jsonp }
 "wuvamnbt3irdnnvzahcz4zwr":["nhlbrasil","NHL Brasil"],
 "2kdd33gmzwg3hoij3n6mk33w":"nhan.xyz",
 "r43bz4bcxzrcorybn34rmofn":"nhk",
-"hsircoydd37mxyixfgdmewsx":["nh-sooner","Tyson "]
-}) // 2023-10-21T16:11:39.436Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hsircoydd37mxyixfgdmewsx":["nh-sooner","Tyson "],
+"5upsfckodq5l7yq6ozhr75it":["nhu","౨ৎ"],
+"manjkbnctolcpymeibt5e6a2":["nhoodpublicist","The Neighborhood Publicist "],
+"lajrbfkmumpjp76xw2f5ws7n":["nhbaptiste","Nathalie Baptiste"]
+}) // 2023-10-21T20:06:28.812Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

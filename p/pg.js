@@ -34,5 +34,9 @@ var pg=(function(jsonp){ if (typeof pg==='function')pg(jsonp); return pg=jsonp }
 "pagmtxxp5mdxolk3lecbotdf":["pglotmike","Polyglot Journey (Mike)"],
 "py7bcfshmtzdn6bmlr53tbwo":["pgnu","ぺんぎんぬ"],
 "6pbqpnlhlex4g7nbdb6rtjbb":"pgn01",
-"imqur6hnss43tibzsxzcybcq":"pgn02"
-}) // 2023-10-21T16:03:19.775Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"imqur6hnss43tibzsxzcybcq":"pgn02",
+"bskzi3suaiue4k6bcwnhl7j7":["pghosh","pg"],
+"2off3grpe3yr55sagqn7dpvn":["pgarbe","Philipp Garbe"],
+"5q5lj6t7kl3xiki7kpvwvhiu":["pgl","Peter Lowe"],
+"swhkla3zo5d2zssyndejru5s":["pg-mana.net","PG_MANA"]
+}) // 2023-10-21T20:03:09.760Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -36,5 +36,6 @@ var cn=(function(jsonp){ if (typeof cn==='function')cn(jsonp); return cn=jsonp }
 "tqdnq6jx2eenfr7chbmufmfd":["cnnnr","cnnnr"],
 "egwwrwicvhkbyyec4h4db5dd":["cnbc","SG"],
 "vnesg2i655p3aang3dsykchz":["cnb","Carl Junior"],
-"ocidluujkhsvxqpakhck46d6":["cnl","취"]
-}) // 2023-10-21T16:06:40.719Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ocidluujkhsvxqpakhck46d6":["cnl","취"],
+"aodgoxw6d34ppdyvvziot7db":["cnliberalism.org","New Liberals 🌐 "]
+}) // 2023-10-21T19:22:58.159Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

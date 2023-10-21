@@ -16,7 +16,7 @@ var oj=(function(jsonp){ if (typeof oj==='function')oj(jsonp); return oj=jsonp }
 "ruyz4pekfsfmgqgmb6cvujjd":["ojs","Omar Jabary Salamanca "],
 "xn6d6vh6laiebbbxn3tnmayn":"ojnilsen",
 "zm3iow2r6enrllyf3sstuwqp":["ojii.jp","ほし"],
-"zvsl2racazf7ylpualll5axv":"ojiry",
+"zvsl2racazf7ylpualll5axv":["ojiry","Ryoji Yoshioka"],
 "zzxwledpqf7ob7svaf675k4c":["ojanio","Janio"],
 "iogplvc75by46taybwjp542y":["ojisan","オサーン"],
 "7v3swaay3o3xlmozspcgh4nc":["ojour","Helmut Spudich "],
@@ -25,5 +25,7 @@ var oj=(function(jsonp){ if (typeof oj==='function')oj(jsonp); return oj=jsonp }
 "5oobzrpkwdxgbishgt5fthln":"ojustin",
 "idj27q6bhgkbytn4me6dlxwy":["ojaooliveira","João 🥸"],
 "x27fpdbp5ncxc4wei4zzdggi":"ojo",
-"qa3l3bi2bn7zz5h5k7fiupxe":["ojulianojorge","Juliano Jorge"]
-}) // 2023-10-21T15:47:53.424Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qa3l3bi2bn7zz5h5k7fiupxe":["ojulianojorge","Juliano Jorge"],
+"7kjvi2g7uwcz5se2kbh6ivs7":["ojito.cam","ᴀʟᴇx 洪"],
+"rbmondgl7h4siigux4qp7bkz":["ojas","ojas"]
+}) // 2023-10-21T19:50:44.478Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

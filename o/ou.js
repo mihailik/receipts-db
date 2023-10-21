@@ -87,7 +87,7 @@ var ou=(function(jsonp){ if (typeof ou==='function')ou(jsonp); return ou=jsonp }
 "nxxm6xbzneywrl6b7vbupswo":["outlander","Keywan"],
 "okoejttw426t7lvsfa7ecguh":"outoffachs",
 "orkn5xpvi6p63q3drn2hfdr6":["outrun2019"," Mike ''The Gaoster'' Mike"],
-"otmrp5fehcbe6ws5ieqqx25r":["ourcocodotorg","Our Community Collective 🤝 Black August "],
+"otmrp5fehcbe6ws5ieqqx25r":["ourcocodotorg","Our Community Collective ✊🏽 Free Palestine "],
 "oua3sfrvdedlci72x66lhpox":["ouddin","Omar Uddin"],
 "ozyzm4a2clmqyls27skla4fh":["ourbaekhs","dudinha 🧸"],
 "p4ulbdx4ycf3djqdtkc3nb3b":["outerhaven","Frank, Unemployment Bearer  "],
@@ -139,7 +139,7 @@ var ou=(function(jsonp){ if (typeof ou==='function')ou(jsonp); return ou=jsonp }
 "xz5r2jvuwljsxsg6fxsvdxv6":["oumar.jolof.social","Oumar FALL"],
 "yzpgjqsi3cwppmlb7iptzg2z":"ourhouse1105",
 "zfo4hohsk5lvaj5qjcnydc2d":["outbackcatgirl","kot"],
-"zgbld7wlhbsfmbpim3525mhl":["oulipien","doleful moo of a cow"],
+"zgbld7wlhbsfmbpim3525mhl":["oulipien","doleful boo of a cow (the cow is a ghost cow)"],
 "zn7cvlegrr3jjbyxayfe33ei":"outofbody",
 "367hz4oas4tfywbdsuaek7zw":["outrodoug","."],
 "4lp77xjg26xfo5le4l4fhcr7":["ouriel","Ouriel Ohayon"],
@@ -165,5 +165,7 @@ var ou=(function(jsonp){ if (typeof ou==='function')ou(jsonp); return ou=jsonp }
 "ohdopp5l7uvf7aqcex4smucx":["ourfavour","Favour"],
 "pj47jnzs2epyh6qzrjus3c3j":["outsider.dev","Outsider"],
 "6mvefnjj3vk2cakzvzhj3yk3":["ouid","ouid.eth"],
-"oawnufffgbfksigthq2p7b2d":["ouch.town","Dean"]
-}) // 2023-10-21T16:11:39.408Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"oawnufffgbfksigthq2p7b2d":["ouch.town","Dean"],
+"x3e7mgib5h2vca3ata65x4zb":"ouvessvit",
+"qmq43qadmaoxt7q3pudouee7":["ouzy","Sangria Papi"]
+}) // 2023-10-21T20:04:49.296Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

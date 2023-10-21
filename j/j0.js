@@ -4,7 +4,7 @@ var j0=(function(jsonp){ if (typeof j0==='function')j0(jsonp); return j0=jsonp }
 "4s6o52m3iis4aiyfjm2jykt7":"j37hr0",
 "6azpmn6lyqoaic5ecbncett2":"j04n",
 "73wtynmewb7o7wthabyzahdv":"j17sf",
-"7iiiufou3hi2ea3uhn7opym4":["j0hnnyxm4s","j0hnnyxm4s.bsky.social 🔜 Hack the Hospital"],
+"7iiiufou3hi2ea3uhn7opym4":["j0hnnyxm4s","Johnny Xmas 🔜 Securing Sexuality Conference"],
 "7mlxtywsjydi43dzxjde2bfz":["j9neener","J9Neener"],
 "dczdk5jiespmfilg5cvqadlm":["j3nnx","JennX, eh? 🇨🇦"],
 "dre5feg7eue5bfb3gdy4ogjr":["j0anbug","✝️Joan, The bum living in NormalityCo's dumpster🐝🪡🦇"],
@@ -56,5 +56,9 @@ var j0=(function(jsonp){ if (typeof j0==='function')j0(jsonp); return j0=jsonp }
 "lziz4a2xczngufcj4cxkyins":"j3rn.com",
 "z2bewzp2pboryfkxxen2nhbd":"j0n",
 "afl2rrqx4n7a26o3l336clpg":["j4de","j4de"],
-"mgtljh5iv24ihmtzfeti2mhx":["j3m","J3M !"]
-}) // 2023-10-21T16:08:06.335Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mgtljh5iv24ihmtzfeti2mhx":["j3m","J3M !"],
+"oa27aque37nkmesewnwiutum":["j3rry","Jerry Michalski"],
+"tldzwnlsuzgh7yahqoksthss":["j6.ee","Jinn6"],
+"tuyrvhmxf646supxsxlnzzsw":["j1mmy","j1mmy.eth"],
+"tpkxpdzxrw2krfe7lcsf44t5":["j1ak50n","eclipse "]
+}) // 2023-10-21T20:07:59.811Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -60,7 +60,7 @@ var mx=(function(jsonp){ if (typeof mx==='function')mx(jsonp); return mx=jsonp }
 "lsapjqcojoq3sbgzj4tlrk42":["mxwoermsin.gothgeek.org","The Essence of Woerm Sin"],
 "m7x6al6jyor5qbm67n2qk67j":["mxlomax","Maxy 🏳️‍⚧️"],
 "mo3ukg4a3f5xmmwth3atex2d":["m-x0w0x-7","みお"],
-"mpcyt6cgm75rfl3jgrdod6x7":["mxmorgan","Mx. Morgan "],
+"mpcyt6cgm75rfl3jgrdod6x7":["mxmorgan","Morgues"],
 "mrfozsxakvsbo4hhqksqpqbf":"mx-ser-j",
 "mtn2afy2nxn65u6dhrne3vnn":["mx-salty","i used to be young & dumb, now i'm just dumb"],
 "ncwpigg2iobt5gdvlpzcspmr":["mxngoose","Mongoose"],
@@ -108,5 +108,11 @@ var mx=(function(jsonp){ if (typeof mx==='function')mx(jsonp); return mx=jsonp }
 "57zagk7nuebedhua2dskpm2i":["mxstbr.com","Max Stoiber"],
 "vxbylbghh2hwh26frs7x7ouk":["mxrcelo","marcelo nogueira"],
 "4ih3gbp7jvl62usoesxg65hw":["mxandy","Max Andy"],
-"t2e4wpmp5rquwd3ekisdj2rm":["mxguy","Mxguy"]
-}) // 2023-10-21T15:59:37.543Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"t2e4wpmp5rquwd3ekisdj2rm":["mxguy","Mxguy"],
+"2j6vkkzoqinwmchajm7ui2ab":["mxmlkzdh","Max"],
+"kbl4frymfdtrbjirm3tfwbjr":["mxkanteven","Keshav Kant"],
+"d5umsb2ibiw7hzqkiwcs4sb7":["mxb.dev","Max Böck"],
+"32b3qc6oh5x235nnthxhi3no":["mx5","miata"],
+"nnbsszaunevoyudyih6yrmkj":["mxxxm","ℳ"],
+"n2eafamq7wlplqcamatyedic":["mxthgui","mini querido"]
+}) // 2023-10-21T19:56:08.390Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

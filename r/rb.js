@@ -41,7 +41,7 @@ var rb=(function(jsonp){ if (typeof rb==='function')rb(jsonp); return rb=jsonp }
 "ujzdrgygg67wowfuca2f7den":["rbratspies","Rebecca Bratspies"],
 "um6gszqyufbasqow5oyss7gg":["rboyd.dev","Richard Boyd"],
 "w42xsj2lno3ltnttgsnms4fj":"rbrocanelli",
-"w47ruosdj3rld5y4qolkoyze":"rbeda",
+"w47ruosdj3rld5y4qolkoyze":["rbeda","R Beda"],
 "xc2kzvwrc4ifmwvaxbihmoe7":["rbmars","Rúbia"],
 "xed44xbxomqjlsfuumvlqz6v":["rbritoreis","Ricardo Brito Reis"],
 "xuf5u73pkyl5wjt3bcsmlb65":["rbrbndgrl","Rubberband Girl"],
@@ -53,5 +53,13 @@ var rb=(function(jsonp){ if (typeof rb==='function')rb(jsonp); return rb=jsonp }
 "hqt2enuxccq64uvkpvtg2gx5":["rby","rby"],
 "hm5lg2tnwfhkjfob355gqmmw":"rbrady",
 "pegptjhgbawzgtvvpywmguf5":["rbn","Reuben Bond"],
-"2c3sziwuqjhob3a7x44qeviv":"rbonbass"
-}) // 2023-10-21T16:04:47.631Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2c3sziwuqjhob3a7x44qeviv":"rbonbass",
+"hcfoph2hghywlc2p4t5ptaho":["rbran.soy","rick branson"],
+"vmacwq7kq2ep63jvfashhcbu":["rbhal.la","Roshan"],
+"xllqvdciro67aa6g4q7c2jbl":["rboyle31","Rebecca Boyle 🌕"],
+"rbdmhslskcnl2meijykf33gt":["rbfchampion","Leslie"],
+"v35oyms3kwhk4732s7pw2shd":["rbernalber","rbernalBer"],
+"oqj3x4xvuvuij3patmoo4xfv":["rbuck","Rick"],
+"avphxvk3zudeecpblvqwkl7z":["rbyers.net","Rick Byers"],
+"u22fyeofwozztwkt2pai345w":"rbschreiber"
+}) // 2023-10-21T19:59:03.774Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

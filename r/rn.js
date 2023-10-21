@@ -33,5 +33,7 @@ var rn=(function(jsonp){ if (typeof rn==='function')rn(jsonp); return rn=jsonp }
 "z5pjwoiwx2mu27awb3zkisv6":["rnj","藍綬"],
 "ahhsubb24josdd4bwadgnm5k":["rnewman","Richard"],
 "6badltzx2ahd5mglij4abfvx":["rnjswjdals23","빌머레이 할아버지"],
-"7iaohwxu43tj2ku2bpqrewkr":"rnr"
-}) // 2023-10-21T15:31:09.885Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7iaohwxu43tj2ku2bpqrewkr":"rnr",
+"fpopgfjz7ontuucsqpnurmz7":["rneal","Richard Neal"],
+"bh2hr74yyza3whey4bywheg4":["rndr","Render Foundation "]
+}) // 2023-10-21T20:04:49.281Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -42,7 +42,7 @@ var up=(function(jsonp){ if (typeof up==='function')up(jsonp); return up=jsonp }
 "scu4ms5sgve7t6lfyjk25dqc":["upalalao","Upa™"],
 "soovnmbao5wf4dlbbylc45r4":["upasama","tsu"],
 "sylvisicvtyd533a2mhnlk2a":["uplift17","Brendyyy"],
-"tpjqgpll4josvuyioe2n5rar":["upstreampodcast","upstream"],
+"tpjqgpll4josvuyioe2n5rar":["upstreampodcast","up-scream! 🎃👻🦇 "],
 "x6xe3q24qfmjxz7jdgmxs6hr":"uprightsquire",
 "xm5rbxzyzbmwc5zou7wbxsld":"uperalta",
 "yk73yccoyregpa5a4l4ij35t":["upfromsumdirt","upfromsumdirt"],
@@ -58,5 +58,8 @@ var up=(function(jsonp){ if (typeof up==='function')up(jsonp); return up=jsonp }
 "e7sk6v2sdxlhgpdpkkptupth":["uponly","Jerb"],
 "fqln5rbmxcamxh7gk5ij3ylt":"uplayr",
 "aasvekdls4bdl7g6yrw74fjh":["updateswiftbr","Update Swift Brasil"],
-"46u4kosu33xvxbu67t5tgjcp":"ups"
-}) // 2023-10-21T15:46:14.832Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"46u4kosu33xvxbu67t5tgjcp":"ups",
+"rhebmeswd7c7gc4by34gscik":["upinthe","🌞"],
+"bqmlp64lv564f7jmzqmbtsg7":["upso","upso"],
+"fv5qosmeuc4vuwu5yzzetorc":["upmayo","Up Mayo!"]
+}) // 2023-10-21T20:07:59.793Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

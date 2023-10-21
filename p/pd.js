@@ -59,5 +59,9 @@ var pd=(function(jsonp){ if (typeof pd==='function')pd(jsonp); return pd=jsonp }
 "nnh4zjue4lqcipwebeavc7lh":"pdxnola",
 "diw32o2bhxosvcysjvooq32j":"pdas",
 "x3yhxgz7psg7emoivvtw74zr":["pdglenn.com","Paul Glenn"],
-"g34fnpchkjfneh7hbt7lse73":["pdxhackerspace.org","PDX Hackerspace"]
-}) // 2023-10-21T16:08:06.368Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"g34fnpchkjfneh7hbt7lse73":["pdxhackerspace.org","PDX Hackerspace"],
+"cunkcm4akvxxxw4a2gy3mfqg":["pdxlawgrrrl","pdx law grrrl "],
+"l2j26oyxnaqssgffjessg4gq":["pdxstepheng","Stephen Green "],
+"piboiofkylajeo4jpewumpqc":"pdweisman",
+"ef4xyvuieijga7dl6iiz7vac":["pdedwards","Tricia Edwards"]
+}) // 2023-10-21T20:03:09.744Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

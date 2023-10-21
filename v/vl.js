@@ -66,5 +66,11 @@ var vl=(function(jsonp){ if (typeof vl==='function')vl(jsonp); return vl=jsonp }
 "xusbk4audrbhdpmfoe57sc5z":["vladikoff.com","Vlad Filippov"],
 "65q6tzy7fomt3i6zpgmioux3":["vladaionescu.com","🌍 VladAIonescu.com"],
 "tbhegjbdy7fabqewbby5nbf3":["vlad.sitalo.org","Vlad Sitalo"],
-"cc7acnha65j7mtfklgvt4usc":["vlkclk","vcolak "]
-}) // 2023-10-21T16:09:33.445Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"cc7acnha65j7mtfklgvt4usc":["vlkclk","vcolak "],
+"zhdzhngbk5if2ybm5rdjboff":"vlatte79",
+"qsvve6x34dlvfqsldjt2uvrp":"vladimir",
+"f6edh7kh4c7cg5qljnqconbc":["vladyan","Vladyan "],
+"2fjyin6t4t7khdzw4zahh3e2":"vladk",
+"w53jkvpyucpgsax2krkmtrxs":"vlazzle",
+"ea4e2gzt4b6nmubnmuaxnr53":["vlh2","H 나츠키 "]
+}) // 2023-10-21T20:04:49.256Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

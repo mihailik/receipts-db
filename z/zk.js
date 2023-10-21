@@ -16,5 +16,7 @@ var zk=(function(jsonp){ if (typeof zk==='function')zk(jsonp); return zk=jsonp }
 "dnne2w2ljhrgu7o7ede37vhk":["zkproofs","Pratyush Mishra"],
 "46tnr4rgkn4prs2g46mh5yuz":["zkpawky","pawky.eth"],
 "iwasfvmits3rjmcbcrok4ox4":["zkochan","Zoltan Kochan 🇺🇦"],
-"fv5bh746hn33ef4wxet47t32":["zkorman.com","Zack Korman"]
-}) // 2023-10-21T16:03:19.810Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fv5bh746hn33ef4wxet47t32":["zkorman.com","Zack Korman"],
+"sxoqtim2almcbm6y5snlmhya":["zkestelle","Estelle 🏳️‍⚧️🌿💛"],
+"oxhlhztufunuo7ic4jq44z3p":["zksnark","Jasper.eth"]
+}) // 2023-10-21T19:45:53.375Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

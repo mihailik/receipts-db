@@ -2,7 +2,7 @@ var yr=(function(jsonp){ if (typeof yr==='function')yr(jsonp); return yr=jsonp }
 "4mh4n3obsndyxngupxwtcohv":["yrougy","Yves Rougy"],
 "7on2ed7wkagd6mrmsjhh4po3":["yrfinepetingduck","DumbLittleHazel🍼"],
 "ai6amxzu6gldmsuasky6nyqa":"yrgoldteeth",
-"aq4f4q6x7hmcn6oiu3wspw43":["yrfatfriend","Aubrey Gordon (she/her)"],
+"aq4f4q6x7hmcn6oiu3wspw43":["yrfatfriend","🎃 Aubrey Gorgon 🎃"],
 "cmsm33h2eboyt3lba3ntckjf":["yrwyddfarecords","Yr Wyddfa Records "],
 "dei7f7zh74xr3hoghei6ke3d":["yrpalchris","chris"],
 "hob45fe4u7uhgkgw6fspccax":["yroi3","よろいさん"],
@@ -22,5 +22,6 @@ var yr=(function(jsonp){ if (typeof yr==='function')yr(jsonp); return yr=jsonp }
 "zrdflafuecg7kivwfshfivo2":"yrpal",
 "oyijxsvbtwm755glqhbof7am":["yrwrld","your*world "],
 "hrnwofbcq7w5f663c3nm32wk":"yrvo",
-"lkxwxjr7y43ft7y2vipf2afr":["yrik","kawai takashi"]
-}) // 2023-10-21T15:59:37.462Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lkxwxjr7y43ft7y2vipf2afr":["yrik","kawai takashi"],
+"pqcvlz7wyklpxvq4yzavf3no":["yrcncld","yourecancelled"]
+}) // 2023-10-21T19:45:53.381Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

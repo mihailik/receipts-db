@@ -82,5 +82,8 @@ var cc=(function(jsonp){ if (typeof cc==='function')cc(jsonp); return cc=jsonp }
 "ofmp3ibbdciqrctcc6cbauei":["ccieby30.blog","CCIE BY 30"],
 "vcdv3ophpstjiffjkjfwp3yf":["ccg","C. Ceyhan Gönen "],
 "csfgfb63hrknociqmxen27bv":["ccserpentes","CONVIVENDO COM SERPENTES "],
-"pfy4skqhqwhygg7tcotbpz5n":["ccallahan45","Christopher Callahan"]
-}) // 2023-10-21T16:11:39.443Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pfy4skqhqwhygg7tcotbpz5n":["ccallahan45","Christopher Callahan"],
+"fkyo46rprznx7xc2wigiuyje":["ccarneiro","Leonardo Carneiro"],
+"62mwiqrlg7rfh2jcspcawxap":"ccopeland",
+"qljh4du3nn3tyejsqykw2uam":["ccorreen","Cierra 🌱"]
+}) // 2023-10-21T20:04:49.176Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

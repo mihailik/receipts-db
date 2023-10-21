@@ -98,5 +98,14 @@ var xi=(function(jsonp){ if (typeof xi==='function')xi(jsonp); return xi=jsonp }
 "vzphzq5n4t3p2dwfrz6pbx27":["xiorcal","Lacroix"],
 "hbea5vpfvvn6mabm2cywovuf":["xif","しふ"],
 "alcvsikinpd5x5lywng6ljgz":["xisko","Xisko 💢"],
-"dx7lfcqhwhskn5qovawtr7f5":["xikimm","Thiago"]
-}) // 2023-10-21T16:06:40.617Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dx7lfcqhwhskn5qovawtr7f5":["xikimm","Thiago"],
+"4ygzy4v34ed2ech7ka45czw3":["xish","Andrés Rodríguez"],
+"n6nvym7whynpalycsvpnn4iw":"xine",
+"rq6tiuenq4vvvdcvzzoaxx45":["xiaowoo.jp","小武『女主任・岸見栄子』単行本発売中"],
+"6nzntamwzr26qrefprbb542d":["xiann","Christiann"],
+"b6642jmgkt63jkbw3lqvgcwm":["xina","Christina"],
+"hkepubepwiasvquaygjbtbeb":["xiniha.dev","XiNiHa"],
+"3kpipvlkyy7tm3vyhv6qd636":["xima","XIMA"],
+"skt6knh4sd2otlbm6jwiyknq":["xicolucas","Xico Lucas"],
+"p5cgxzjckkjtwt7uwxwear4q":["xiupos.net","xiupos"]
+}) // 2023-10-21T20:07:59.746Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

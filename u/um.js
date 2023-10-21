@@ -123,5 +123,13 @@ var um=(function(jsonp){ if (typeof um==='function')um(jsonp); return um=jsonp }
 "3giw467rtkw4jbm76tuxmump":["umanieli","bombonieli"],
 "vsuxs6ypzxz6kmj4ylj2id7s":["umbookaholic","alec costa"],
 "ked27j2pvtspt3zjk5s3nbqm":["umuumaiojisan","うむ美味いおじさん"],
-"ma55pifx4pfsnzps4ptoozrq":["umar","Umar Mustafa"]
-}) // 2023-10-21T16:09:33.382Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ma55pifx4pfsnzps4ptoozrq":["umar","Umar Mustafa"],
+"44jtyr5xeiw6qpbilnxp5uxy":["umamutti","Sandra 🦣 "],
+"m3k2xwqnm2b2c7kgrqrswjfh":["umg","universal money gang"],
+"ehpe47zr6yik6wkhslytvgau":["umbc","UMBC"],
+"ctkfboxmpdnfzsjybrnftkjc":["umitulusoy","Umit"],
+"todutjnvbkre2r2zhchoigio":["umutaydin.net","Umut Aydın"],
+"skha4ijkdwtklbgtj5gdpqis":["uminekozawa","海猫沢めろん"],
+"6e4hpghshaaf36tk5tysjkyb":["umuttaymaz","Umut Taymaz"],
+"e4decgbilsbdzkvu42y4bfva":["umur","Umur"]
+}) // 2023-10-21T20:03:09.702Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

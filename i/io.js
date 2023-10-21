@@ -72,5 +72,9 @@ var io=(function(jsonp){ if (typeof io==='function')io(jsonp); return io=jsonp }
 "gldquv7hdr7wqsjnqxoi5zju":["iospro","iOS Pro"],
 "yl6z7dwzp3rw4hhorn36rw2t":["iopred","🌞 kit is squiggly 🌚"],
 "b64dyubgqvx6hedaa52sd4ne":["ioana","Ioana "],
-"m5amh2gakzwe52pkdl3537vi":["iotaf","Otávio Ferreira"]
-}) // 2023-10-21T15:29:00.358Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"m5amh2gakzwe52pkdl3537vi":["iotaf","Otávio Ferreira"],
+"ukt6lhzw3vwnz5job5yikxs7":["ioastorga","Ío "],
+"gyuiba3zmtdw2mwlf54aj7yd":["ionescu","Alex Ionescu"],
+"upz74h4a7dgcl7djxsytm7bg":"ionaitalia",
+"btjbdfvz5ijkkdjoslpuh2ce":"ioq"
+}) // 2023-10-21T19:56:08.340Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -20,5 +20,7 @@ var qw=(function(jsonp){ if (typeof qw==='function')qw(jsonp); return qw=jsonp }
 "vmbhucype37dqcxsxo3rmr7g":["qwertydamn","QWERTY"],
 "wfuzvrhidhoea3oi4ilxt6uj":["qwert20230","왕앵두"],
 "mqri3tqsfffyx4awg4sbrr7l":"qwer999",
-"ho6qychzhqlxyqxh2pnanv26":["qwjyh","qwjyh"]
-}) // 2023-10-21T15:34:15.388Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ho6qychzhqlxyqxh2pnanv26":["qwjyh","qwjyh"],
+"kytd5nxtdz7bemgbr5ruglgy":["qwantz.com","Dinosaur Comics!"],
+"noqmgkvtglurhtsiuagmhw43":"qwqiao"
+}) // 2023-10-21T19:47:26.974Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -18,7 +18,7 @@ var rs=(function(jsonp){ if (typeof rs==='function')rs(jsonp); return rs=jsonp }
 "aawuxp2g4doffuw34ho4z2nb":"rsmjr",
 "bhlaypj3itdyeoianu4wesi4":"rsmon77",
 "bwzbpmzuthnroyoifvbfngbq":["rsnstats.com","Red Sox Nation Stats"],
-"c6b4jhahjjn75k4k2rvhsvyh":"rsimmon",
+"c6b4jhahjjn75k4k2rvhsvyh":["rsimmon","Robert Simmon"],
 "cavj3iu5zzshj3pzttn3lsh3":"rszasz",
 "cb35t3l3542fgx3sgvfoutoj":["rsagg","ragil sagita"],
 "dr5hvdtpbo4l7long325nqxo":["rswestmore.land","Richard S. Westmoreland ⚙️"],
@@ -77,5 +77,11 @@ var rs=(function(jsonp){ if (typeof rs==='function')rs(jsonp); return rs=jsonp }
 "qj4ju4ftkl2csxh7rhyxljtt":["rstfnf","Ernesto Fanfani"],
 "w3whl7tpctc4lejhwlsvrnyp":["rsecior","⠀"],
 "namczhf6phj3snbn4kyrcsuk":"rslv",
-"ako3gf7sasvswsi4c5x45y7y":["rsalimian","Reza Salimian"]
-}) // 2023-10-21T15:46:14.851Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ako3gf7sasvswsi4c5x45y7y":["rsalimian","Reza Salimian"],
+"ojxs2nhnxhugo7dooamqxx6e":["rsdspec","Reasoned Speculations"],
+"wxla6h6sliblskqok5gkavgl":["rsolva","Ruben"],
+"mg7utac2kslibiumx5x2icm4":"rstuart",
+"lpx57pzmhd52sewjgie7heyp":["rsblyth","RSB"],
+"5tfog3nqvqx36c6tx5woovqu":["rsync","Rsync⚡️"],
+"vuxix2irn4z7gx4mkgmldyjf":"rseroter"
+}) // 2023-10-21T20:04:49.289Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

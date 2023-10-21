@@ -26,7 +26,7 @@ var zy=(function(jsonp){ if (typeof zy==='function')zy(jsonp); return zy=jsonp }
 "ln4dlhnrygrta7noc4aqyq6a":["zygote.lol","sky mote"],
 "lpgayddel3ixnfrchqbmnnom":["zyraph","Zyraph Chronicros"],
 "mqzh7dg3aiywfwf3cy3fqtwy":["zyuina","Zyuina"],
-"nyba26bsqzqgl47wzhej6n67":["zymandia","🔆 zymandia"],
+"nyba26bsqzqgl47wzhej6n67":["zymandia","🔆 zymandia 🎃"],
 "onm3uy27idefaezquvyfj3qz":["zymova.com","Oleksandra "],
 "oo5wrgnmxykoyy45mxkqn6om":["zyntaks.ca","Zyn 🦇"],
 "otnuujs6fsm7nfs7mvf5wk3w":["zyleeth","Satanic Panic Barbie"],
@@ -51,4 +51,4 @@ var zy=(function(jsonp){ if (typeof zy==='function')zy(jsonp); return zy=jsonp }
 "kl5xjpfysdqzaz5obywfdk7f":["zyzxx","Zyzxx Infinity"],
 "ky7oow33stj2ryfx6auoevgu":["zylphia","JH"],
 "mglar2qs4u7pxifwkugygdb2":["zyzz","Zyzz"]
-}) // 2023-10-21T14:57:31.370Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T19:33:34.684Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -75,7 +75,7 @@ var ax=(function(jsonp){ if (typeof ax==='function')ax(jsonp); return ax=jsonp }
 "tyb7n4hiwlum6qaj7cggfijz":["axiomxx","🔮AXIOMxx🔮 🔞"],
 "uevv3m3oznrwm4qpb4q6aoao":["axhoffman","AX Hoffman "],
 "ujemfj3puv7udggtndue2h7g":["axstohal","Haruko"],
-"upl33uu6dkckihpvv6vidky3":["axelsparkster.lol","Axel Sparkster 🔜 FM"],
+"upl33uu6dkckihpvv6vidky3":["axelsparkster.lol","Axel Sparkster"],
 "vfupd5qq6koqdn5qo6opd3q7":["axiee","axie! 🐱🍑"],
 "vmt7o7y6titkqzzxav247zrn":["axfelix","Alex"],
 "w5vzb4tvxix5jr7kj2kz6llz":"axelinabox",
@@ -102,5 +102,11 @@ var ax=(function(jsonp){ if (typeof ax==='function')ax(jsonp); return ax=jsonp }
 "g3c7cjo6qq3ci3h2ik5sqvwo":["axel","alvrzaxel"],
 "rvpgptc5c27e3amrp4yinpzt":["axic","axic"],
 "ualy4pcpntiyzowt6vxlnxel":["axolotl","Adam"],
-"izy53d5w35f5gfg4afdxpqay":["axstone","Axstone"]
-}) // 2023-10-21T16:09:33.507Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"izy53d5w35f5gfg4afdxpqay":["axstone","Axstone"],
+"jffmt63qmosqkssd6if3jegz":["axu","Axu, Daily NFT and Crypto Updates"],
+"6poiiyofj3qqr523ugwfgrqu":["axelle","Axelle Goldie"],
+"yvzy3xyfbnqnakojijo26xkd":"axnreaxn",
+"s3ipfjfcydgxnvi5hjaympmf":["axoromero","Christian Romero"],
+"ta6teexycdbqcmb7p73zngay":"axs",
+"fexxz6lkxeymuihcvl62sl63":["axelmansoor","Axel Mansoor"]
+}) // 2023-10-21T20:04:49.302Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

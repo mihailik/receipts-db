@@ -8,7 +8,7 @@ var hn=(function(jsonp){ if (typeof hn==='function')hn(jsonp); return hn=jsonp }
 "gmp5vaceom24ll2rdxwt5igh":"hnozka",
 "kjx6l5l2xf5mfixsvkk7xol7":["hnakamur","Hiroaki Nakamura"],
 "lsxckmbdi7pq2n3ds2khfzpg":["hnsdrff","hansdorff"],
-"pgcpvogdngtq3yry7rzj4gwz":["hnnng.de","Henning Krause (he/him)"],
+"pgcpvogdngtq3yry7rzj4gwz":["hnnng.de","Henning Krause (he/him) prefers Mastodon"],
 "qffbhnlwc3vfvfuszgif6awu":["hnrq","hnrq"],
 "yhjepiyzv7vbo4m3zf2tm4mk":["hndyoril","аліна||🍓"],
 "fjsmdevv3mmzc3dpd36u5yxc":"hnbot",
@@ -17,5 +17,6 @@ var hn=(function(jsonp){ if (typeof hn==='function')hn(jsonp); return hn=jsonp }
 "3svuljaqezw6ayub23w5hee3":["hns","Handshake (HNS)"],
 "dlz47pxx3vez3te3htsn27l2":"hnsl",
 "6grtxah7ejp3ol72g3ggqnyd":["hnasiri","Hossein Nasiri"],
-"ii4wezelzhi4d2ixougoem6o":["hne","Henri Neusel"]
-}) // 2023-10-21T15:54:12.928Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ii4wezelzhi4d2ixougoem6o":["hne","Henri Neusel"],
+"oinnfwak5gxb2mf6ns2vgpbf":["hnnlie","Hanna"]
+}) // 2023-10-21T19:52:13.572Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

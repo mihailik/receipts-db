@@ -170,5 +170,15 @@ var aw=(function(jsonp){ if (typeof aw==='function')aw(jsonp); return aw=jsonp }
 "bgzwj5uvybji6k46ztl2zuhx":["awfuleye","AwfulEye"],
 "cp6ayljeftpi3k7itnhmwsbp":"awoi",
 "biqgs5ttuoowfrwnfmpravy2":"awscloud",
-"rnvzaldvmiu3jr2hgt5heiqs":["awhalefact","whalefact"]
-}) // 2023-10-21T16:13:06.031Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rnvzaldvmiu3jr2hgt5heiqs":["awhalefact","whalefact"],
+"i4rdtapfsqnfsbdtlzngkxkz":["awhite","andrew white"],
+"ov3yh7f5ear77gs6gshxvxxr":"awildredlark",
+"dqdeii2obx3b3zoezfungtos":"awave",
+"flqubaytfshksrutsdewxcjy":["awerhun","Ashley Werhun"],
+"4oz6l6l3usf6qkykgadxpxaq":["awayberk","Berk"],
+"tb3our3v6j7hs7q62owjy526":"awa",
+"5zact7ckk5jhilui2hwc32fz":["awf.vc","Acquired Wisdom Fund"],
+"sujyfivfcaxktuillnojjrnn":["awelshcorgi","AWelshCorgi"],
+"ln2lmv66cxw3l5fi7zvsk7q3":["awolfeinnj","Matt Wolfe "],
+"tzpnmoekuhczwagwtmydk7vx":["awilcox","Wilcox"]
+}) // 2023-10-21T20:06:28.798Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

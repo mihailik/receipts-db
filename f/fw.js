@@ -17,5 +17,7 @@ var fw=(function(jsonp){ if (typeof fw==='function')fw(jsonp); return fw=jsonp }
 "zsqiktzw7y3l37tu5rgdk44k":["fwucky.art","fwucky"],
 "hvc3t2qrrmg7mogbpvllxlx4":"fwae",
 "rto2py3livx5xlh3icbioscv":["fwd","FWD"],
-"7c262izdb6nu2muwh5gkqahf":["fwouts.com","François Wouts"]
-}) // 2023-10-21T16:08:06.339Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7c262izdb6nu2muwh5gkqahf":["fwouts.com","François Wouts"],
+"zjnufnccmyuanosce5ips6wl":["fwn","Future World News"],
+"rpwlw6yc4hwhpktjurqc45q2":["fwtnb","Fumitaka Watanabe"]
+}) // 2023-10-21T20:04:49.293Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

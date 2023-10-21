@@ -33,5 +33,7 @@ var oe=(function(jsonp){ if (typeof oe==='function')oe(jsonp); return oe=jsonp }
 "uugafrajvo3d6kukevlo52ty":["oeduardu","Edu "],
 "hrojaiqvvy7xealj7znar7sh":["oel","Leo"],
 "egw7cq7jabe3pcyxwkwjjqfb":["oec","roishi2j2"],
-"ilhdanviuzfgvem4itgpkedv":["oermore","오얼모얼"]
-}) // 2023-10-21T15:52:42.168Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ilhdanviuzfgvem4itgpkedv":["oermore","오얼모얼"],
+"lbbh5amcin27jkqrt2uhwktv":["oekora","合唱団お江戸コラリアーず"],
+"h3fgfcpgdrxan6otgsi5tbwo":["oestrich.org","Eric Oestrich"]
+}) // 2023-10-21T19:56:08.376Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

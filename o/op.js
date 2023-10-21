@@ -175,5 +175,20 @@ var op=(function(jsonp){ if (typeof op==='function')op(jsonp); return op=jsonp }
 "7dgshqdwlgqtk6akq4647ize":["opex","OPEX"],
 "5i6zw7xfgulymd4t5djacxs7":["opensauced.pizza","OpenSauced"],
 "4biw5fk57jemuocvxomb74if":"opensourcedefense",
-"5rhied4xhss6dvluxtdjtxud":["opiniannated","Ania"]
-}) // 2023-10-21T16:08:06.370Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5rhied4xhss6dvluxtdjtxud":["opiniannated","Ania"],
+"sietzhvw6ezoi7mrghi2sm2g":["optionsnerd","options nerd"],
+"46tpkg52k22cwecmvk4dtqsf":["opaulofelipe.com.br","Paulo Felipe 🐙"],
+"fsdp5maacz6qxrzf33i5zw5l":"optimismmommy",
+"6il3cnfow52b5maks2fomruc":["opstudios","OPStudios "],
+"oiepnuqw3wux2egcceds4vly":["opiumhum","Michail / Opium Hum / Hyper Real "],
+"akcnt6dm64by65jr3dg6yqwi":["openstack.org","OpenStack"],
+"efgvf2s3rvbchmqsmu3cvz6u":["opinionatedpie","Ingrid Epure"],
+"osy6hfi7ihw6tsljn3wnxzyh":"ophie",
+"yzppf5pzthzfhxyesfgijzko":["opensees","OpenSees "],
+"e6xz5cxdty5vzbtiw3tbshvj":["openlunar","Open Lunar Foundation"],
+"3qqoasoyamvrk7azqz6hesyu":["opb","OPB"],
+"ahaimkoaddw2wq5sjousr7xf":["oparenko.com","Yuriy"],
+"pz5iwqq2jl3ax3idt3rcmiqz":["opp","Jaime Oppenheim"],
+"hmi4vgs3pn6tyvv4ow7qaysp":"ope-thats-a-sla",
+"osmf2fbkmybgjod56koepca5":["optidox","May"]
+}) // 2023-10-21T20:04:49.244Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

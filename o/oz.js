@@ -96,5 +96,7 @@ var oz=(function(jsonp){ if (typeof oz==='function')oz(jsonp); return oz=jsonp }
 "bgsks5eiuqkrbuf2prywkdl4":"ozgur.bulbul.net",
 "cippuw6bg3opmasws7qqhlrn":["oze","Oliver Owens"],
 "7j4ouoepf5sik3dr4pkjjeev":["ozbrv","Özlem "],
-"62uy3d72v22rpb7ekrowevwj":["ozymandias","Ozymandias dos Céu Azul"]
-}) // 2023-10-21T16:13:06.173Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"62uy3d72v22rpb7ekrowevwj":["ozymandias","Ozymandias dos Céu Azul"],
+"oer6zowicvvcvwpmt3i7tjoj":["oz1","OZ"],
+"jk33hbtaqtgnxrdom2zihpzo":["ozgurozer","Özgür"]
+}) // 2023-10-21T19:43:36.755Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

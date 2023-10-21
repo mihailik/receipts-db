@@ -99,5 +99,13 @@ var cs=(function(jsonp){ if (typeof cs==='function')cs(jsonp); return cs=jsonp }
 "f7xlqwymuz2xctfmayn7hf6i":["csw","Chris Swenor"],
 "iioh4je6vkpnoxrutacqhggu":["csharpfritz.com","Jeff Fritz"],
 "l6g6pwzga22xyjl764vavber":["csguimaraes","Carlos Guimarães "],
-"c3wwobutmhqgyopnwsospzde":["csillag","ほしいろといき✨ジェンダーとLGBTQのエッセイ"]
-}) // 2023-10-21T16:03:19.734Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"c3wwobutmhqgyopnwsospzde":["csillag","ほしいろといき✨ジェンダーとLGBTQのエッセイ"],
+"viucwhpnp5626rkcl62jjnnp":"csnguyen",
+"jn6qfmwtj7j3k3i7qrqnb3l6":["csnider","Chris Snider | Social Media Prof"],
+"kzbz4qsltwkq3baxgue7ju4k":["css-only.dev","CSS by T. Afif "],
+"sl5u3ttu3cqicwemgyi4hegj":["csabatino","Carlos Sabatino"],
+"yw2cvk5yrxk2xcoclwamr3nq":["cstott","Cori"],
+"bxdrpjsdusjyp6vsnohusovq":["csu","Christopher Su"],
+"b5tj7qbh5uxwl55vtlr5u3ok":"csoakley",
+"dsv7xhhdmky7doa6ycatlovk":"cschommer"
+}) // 2023-10-21T20:03:09.756Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

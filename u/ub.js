@@ -40,5 +40,10 @@ var ub=(function(jsonp){ if (typeof ub==='function')ub(jsonp); return ub=jsonp }
 "cshf2upwpkbo7xdrfyms27j4":"ubemochi",
 "nwtez322ddfynrc5y6hqyjws":"ubisoft",
 "ku5qjq4hbsveindquoyr4z7y":"ubanis",
-"7wvrnn6u6asc6h6x7cn5dqrl":["ubahright","Ubah"]
-}) // 2023-10-21T16:03:19.730Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7wvrnn6u6asc6h6x7cn5dqrl":["ubahright","Ubah"],
+"dun4hhe3i3woenwyupfv2f76":["uberleah","Leah tries all the apps"],
+"pwrndqmyqfqwbuq3rjrxjnv6":["uban","Alberto Uban"],
+"kayvyz5jqmkwzlbubpygwlhm":["ubimidia","Ubimidia "],
+"ezexagxxxkminjazrnjorzpm":["ubuntu-kr.org","Ubuntu Korea Community"],
+"sf5z5cc2bmnakfezdgbo6co3":["ubucon.asia","UbuCon Asia | Oct 7-8 - Surakarta, Indonesia"]
+}) // 2023-10-21T20:04:49.212Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

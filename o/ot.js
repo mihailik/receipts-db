@@ -228,5 +228,11 @@ var ot=(function(jsonp){ if (typeof ot==='function')ot(jsonp); return ot=jsonp }
 "g6vitvvh3yt2p3c2k6tvhgnp":["otaldebochado","Luciano Carvalho"],
 "5elxk66e3pay5as2akazftih":["otaviofff","Otavio Ferreira "],
 "rzzspxevnpyx4eh2tyzhzxfn":["otaviocouto","Otavio Couto"],
-"desnac3tc4ukt7b6za2vvcfz":["otakuma.net","おたくま経済新聞"]
-}) // 2023-10-21T16:13:06.163Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"desnac3tc4ukt7b6za2vvcfz":["otakuma.net","おたくま経済新聞"],
+"vg3ukghdyvq37gunhr2zlrx2":["ottorabe","Otto Rabe "],
+"piije7uopsozgf3nwr6haads":["otxx","Otxxx"],
+"cwklurqtanjj2egczbcpph25":"otis",
+"ffxexcppg4qflwkpfjlvtccp":"otavia",
+"iagvqthqswk5vdqdfjmzld55":["otterumo","mmmmmob."],
+"3ejmfr74t4kteoxdq3immdyl":["ottmsaso","Ottmsaso"]
+}) // 2023-10-21T20:07:59.833Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

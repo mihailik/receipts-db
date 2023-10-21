@@ -115,5 +115,13 @@ var bs=(function(jsonp){ if (typeof bs==='function')bs(jsonp); return bs=jsonp }
 "jpafdjevqnlkwwwniguhdmvc":["bstern","Ben Stern"],
 "x7eie3miw3kekarurnhlcsbo":["bscott.social","Brian Scott"],
 "o2gxe4dbfa3ys4hgkailed6l":"bsky-net",
-"vgnw6s74o55qpq7tsjs2e33m":["bstract","Bstract"]
-}) // 2023-10-21T16:13:06.078Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vgnw6s74o55qpq7tsjs2e33m":["bstract","Bstract"],
+"hyx2p3tzd3hzik67dfe5ckm3":["bsudersplp","the bryce is right"],
+"ulwjvnjyapax5cxrpqv2yajy":["bsky.ninja","Ninja"],
+"g6w77ikafmcboexqhn5wfg6v":["bsky737","BSKY737"],
+"zwjyy5dcq5jw7y2euq6y5k7z":["bsky.domains","Bluesky Domains"],
+"5jg3f6oybpmsdfp2ho6fmtd6":["bsky.nyc","Bluesky NYC Community"],
+"hqdeowc6tqxv4ftzc4mmqppc":["bsk-7bcn","やまなな"],
+"oqeqvsunhwdnigzf4j2kjsal":["bsky.natureofcode.com","Blue Sky Bot"],
+"cndfx4udwgvpjaakvxvh7wm5":["bsky.flipboard.com","Flipboard Bluesky Topic Feeds"]
+}) // 2023-10-21T20:06:28.799Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -15,5 +15,6 @@ var nv=(function(jsonp){ if (typeof nv==='function')nv(jsonp); return nv=jsonp }
 "7fm7l4rcdu2iilnqejukfvtl":["nvk","NVK"],
 "a6fucxc3r5bjwu4c5lljrayh":["nvd","Navid Salehi"],
 "csipmkpmpgdpsysxnrm65dsq":["nvsofts","NV"],
-"y4gl4se4tb5e2ekt4fvcbi6x":["nvidia","NVIDIA"]
-}) // 2023-10-21T15:38:49.415Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"y4gl4se4tb5e2ekt4fvcbi6x":["nvidia","NVIDIA"],
+"ob6yfb44vukangoeaylhglc4":["nvw.io","Nick Van Wiggeren"]
+}) // 2023-10-21T19:47:27.053Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

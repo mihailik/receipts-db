@@ -108,7 +108,7 @@ var ok=(function(jsonp){ if (typeof ok==='function')ok(jsonp); return ok=jsonp }
 "spzyd2nvpl6jddsjph77w5fo":"okanbot",
 "sqhvk3kplxgzbc5tz373g32v":["oklahomaperson","Oklahoma Map Person"],
 "ssbcdbrqzqvkb7bzzngmuwy3":["okfox","SEXUAL GUMBY"],
-"sv6agriywc4yhjeme5nugbbx":"oki",
+"sv6agriywc4yhjeme5nugbbx":["oki","Naoko Oki  | おきなおこ🎪✨"],
 "t3jjtwkc4lxvaenkkkzqgwir":["okcdsa","Oklahoma City DSA"],
 "u4pr6n2sfa2q6nusec4evhzp":["oksusnim","수스님"],
 "ubnjj6xgqqpw2cwjcb7hqtnk":["okamiwazt","Wazt"],
@@ -159,5 +159,15 @@ var ok=(function(jsonp){ if (typeof ok==='function')ok(jsonp); return ok=jsonp }
 "seq6guffbjfs2obtds5zrbls":["okandavut","Okan Davut"],
 "3v5i62scmf7ghbraojf7v7fe":["okunekop","okunekop"],
 "vp2vrhgk6svhzgbc3ujm6jjb":["okaz","okaz"],
-"isauzqzr3rpl7mhonkhdb2ly":["okayamanda","amanda"]
-}) // 2023-10-21T16:13:06.046Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"isauzqzr3rpl7mhonkhdb2ly":["okayamanda","amanda"],
+"uonhq7slfi73h36jwr7p6ibe":"okm",
+"t2tqk4w65pfvkne47jxwpbed":"okalberto",
+"ugk4ydewyx3ayqe2ok2r76b3":["okt.wtf","okt"],
+"j544w6hshwzbndnmainhtk3u":["oktayevin","Oktay Evin"],
+"objvmth7yvjmkrg64g5dtyw3":["okoy","Okoy"],
+"bmpjn3kp7s55c3xk7vorvhbk":["oknox","Olivier Knox"],
+"gyhsltgq5jpljavocabohpq3":["okanoue1tyoume","紫水ココ"],
+"khqlrvm4o2gnddzymbqf7dbw":"oklqyt",
+"jvmpfvtpihyvya5f3pvpqasj":["okcoker","Sean Coker"],
+"3vvksk7cudkvbefv6nhocp2y":["okaythankyou","jamie"]
+}) // 2023-10-21T20:06:28.805Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

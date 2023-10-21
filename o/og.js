@@ -71,5 +71,14 @@ var og=(function(jsonp){ if (typeof og==='function')og(jsonp); return og=jsonp }
 "5ynwhnlvdzypzol73a6goeej":"ogulcanevirgen",
 "42gitqeazccs3sououctnx7r":["oghenerie","Oghenerie"],
 "nlpb2wjzoc37hyz6wqlyofll":["ogikubokei","ogikubokei"],
-"s3m7d25bwzcnu7uajhrtetk4":["ogbonna.dev","Ogbonna Sunday"]
-}) // 2023-10-21T15:52:42.224Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"s3m7d25bwzcnu7uajhrtetk4":["ogbonna.dev","Ogbonna Sunday"],
+"p6dvdgfik2ivltod5ozexxki":["ogblock.xyz","damien"],
+"3meqd6wed7jnphdjdppjmpov":["ogcrypto","OG"],
+"5442gqvf652g2xpryr7z7jbl":["oguz","Oguz"],
+"ujtpdyasaqnfbeexxycfr7rg":["oguzhanerkol","Oğuzhan Erkol"],
+"g3mi7hiqg4fjv4pvli2n4is5":"ogandzhanyan",
+"oef3jeqrucjt46qvji3yqymr":"oguzhantas",
+"5vzyut5oyhn6qsw2elsd5ypq":["ogulcandev","Oğulcan"],
+"qgryivjiwsjrkodfbee7cu5p":["oglaura","Laura Walsh"],
+"rudsldfb73lfzenaqnxi4dpk":["oguime","lui"]
+}) // 2023-10-21T19:56:08.237Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

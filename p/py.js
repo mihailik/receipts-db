@@ -86,5 +86,10 @@ var py=(function(jsonp){ if (typeof py==='function')py(jsonp); return py=jsonp }
 "6aqcf3i2isuchv7uw7dsgwfr":"pyrrhus",
 "stvqf3zm5eh2k3k5znjdpael":["pyotrsk","Pyotr "],
 "vz2ype6xmhnyxs2pberpojkp":["pyoryu","🌊표류🌊"],
-"shrhp2733gagagne522q54hy":["pyx","Chris Puska"]
-}) // 2023-10-21T16:01:41.872Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"shrhp2733gagagne522q54hy":["pyx","Chris Puska"],
+"gan3qhgeqscv7qtw32fepvvt":["pyrodelic","David Nickles"],
+"dluuauj56oujkkybq3f56kwo":["pyroxiiumn","pyroxiiumn"],
+"kjf4j5r3oqmi7c6uy3umto4g":["pycon.kr","PyCon Korea"],
+"rt6xyzwxx5kak5uoey63mqoa":["pylette","pylette 🏳️‍🌈"],
+"vafcnztn4zyumajm3o2j6zzk":["pyxol.com","Don Wilson"]
+}) // 2023-10-21T19:43:36.714Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

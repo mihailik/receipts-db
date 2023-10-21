@@ -177,5 +177,9 @@ var wr=(function(jsonp){ if (typeof wr==='function')wr(jsonp); return wr=jsonp }
 "4vegytlctnvyw4z6x6hlslwe":["wrdl","wrdl - Your daily game!"],
 "fknznyjgi5wdhgjkne5gxdzu":["writer","Erika Lee"],
 "vuop7ri4lzj35jqgr6pngqny":["wredhyn","André Milton"],
-"duev6m2mn3zcuqm2y452yzve":["wruan","Well 🤠"]
-}) // 2023-10-21T15:47:53.364Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"duev6m2mn3zcuqm2y452yzve":["wruan","Well 🤠"],
+"7pe6tgzmr64rszyqpqbbmyqt":["wright","thomas //"],
+"issjqrrcdo24ujer4r54fadz":["wrd","ورد"],
+"7pjd2czsdg5mtnbtsjjpb5lg":["wraith.net","Matt Wraith"],
+"uynoovff63uvdtkzbimtasuw":["write2munish","Munish Gupta"]
+}) // 2023-10-21T20:07:59.832Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

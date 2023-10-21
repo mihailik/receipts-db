@@ -27,5 +27,8 @@ var ud=(function(jsonp){ if (typeof ud==='function')ud(jsonp); return ud=jsonp }
 "m6ejuveq74i266qiqeucnm3p":["udiverse.social","Udi Wertheimer"],
 "7ze25xsbyzsfjfv2k6tctewx":["udf","UDF"],
 "l3gyjjvtipl4uuvrcpn4ut65":["udaryyyy","udaryyyy"],
-"ufv3s5kksyapjundsn4w4ztp":["udimile","UD"]
-}) // 2023-10-21T15:34:15.242Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ufv3s5kksyapjundsn4w4ztp":["udimile","UD"],
+"tkohrnsht5oqmxw5ig3jfmhd":["udassin","Eyal Udassin"],
+"xzb2nxzw4ry5hozzk6brnruj":["udzura","uchio kondo"],
+"5wyy6plb73ps675swk6ewqcp":["udw.org","UDW / AFSCME Local 3930"]
+}) // 2023-10-21T19:56:08.360Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

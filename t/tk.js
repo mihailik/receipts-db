@@ -86,5 +86,7 @@ var tk=(function(jsonp){ if (typeof tk==='function')tk(jsonp); return tk=jsonp }
 "nwdj4qkpyfnndhijpyqw527u":["tki","tki"],
 "ivm7ebkpmjhyyw6rqdh6z3m5":["tkw77","β材"],
 "t5cvelfm3ei2vcalcy7slrei":["tk.gg","Matt TK Taylor"],
-"bvhwksztkngiv65retmnmwhc":["tkoyama","コヤマ/ライター"]
-}) // 2023-10-21T15:59:37.540Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bvhwksztkngiv65retmnmwhc":["tkoyama","コヤマ/ライター"],
+"3ral6ts36rky4pcra7f4umum":["tky3","TKY3"],
+"biyew4rg7fjl3cvykyi3jcwt":["tktran","Michael Tran"]
+}) // 2023-10-21T19:43:36.753Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

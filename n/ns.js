@@ -39,7 +39,7 @@ var ns=(function(jsonp){ if (typeof ns==='function')ns(jsonp); return ns=jsonp }
 "kfp2x2g7uupgoy7722nc6g2a":"nsfsushi",
 "l3vbx3e2lqnlja7q64wfrrzq":["nsaphra","Naomi Saphra"],
 "l7ewuyt4np7foarc2se22m5z":["nsfw.keska.gay","Keska, at night 🌖🔞"],
-"lksu4kn7yv2unv5emtjzrwgc":"nstomos",
+"lksu4kn7yv2unv5emtjzrwgc":["nstomos","ともしゅ"],
 "lohlc5k7adlyksl3jvwb7kdl":"nspooksfw",
 "lse7s7ycnkvuhxej6mkx4rid":["nslayton","Nicholas Slayton"],
 "lzg2qghg63w3o6zvhrkd6fc2":["nsfwyn","wyn but nsfw 🔞"],
@@ -78,5 +78,10 @@ var ns=(function(jsonp){ if (typeof ns==='function')ns(jsonp); return ns=jsonp }
 "olbnepivfjq74kesomraui4j":["nsa","HI!   IT IS ME ...  THE NSA"],
 "f37n75ryxgbsnz3cya4h26tp":["nseki","Nobuhiro Nob Seki"],
 "y3mwyt6s2ez7v3vk4tgjw2v2":["nst","Nikhil Thorat"],
-"xgjogg5vzbdtoiruf34bxpbo":["nsj","Nate Johnson"]
-}) // 2023-10-21T16:13:06.178Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xgjogg5vzbdtoiruf34bxpbo":["nsj","Nate Johnson"],
+"wi4pbig2n2qvxucne3ms62wl":["nsecmusic","nON sTOP eROTIC cABARET"],
+"73ur6oata22ewersuydlyhjy":["nst.blue","Néstor"],
+"hfzqz6ifwp2guf42c6q2rmtz":["ns0n","Anson"],
+"lngx72ruqedpzhwmiwqaawg7":"nschaeferhoff",
+"bz7zfap5el737a2oeetiyss5":"nsmall"
+}) // 2023-10-21T20:01:28.513Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

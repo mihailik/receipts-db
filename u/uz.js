@@ -25,5 +25,6 @@ var uz=(function(jsonp){ if (typeof uz==='function')uz(jsonp); return uz=jsonp }
 "ctup3fqimbi7uh7cxaxzopzt":"uzuminium",
 "7yufwvlfrpdven33mjx5jrp5":["uzzi","Uzzi"],
 "qluuhd5hq3qdjjw23u6raoq4":["uzimaru.com","uzimaru"],
-"n2wqplvdbboafjfnnl2qdphl":["uzmancoin","Uzmancoin"]
-}) // 2023-10-21T16:09:33.530Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"n2wqplvdbboafjfnnl2qdphl":["uzmancoin","Uzmancoin"],
+"j6u6brgll7w7zjekfih4ebi3":["uzairkhan.ca","Uzair Khan"]
+}) // 2023-10-21T20:06:28.757Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

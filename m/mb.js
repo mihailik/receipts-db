@@ -17,7 +17,7 @@ var mb=(function(jsonp){ if (typeof mb==='function')mb(jsonp); return mb=jsonp }
 "aisjcxmcktxvagrvm75nslbw":"mbulance1",
 "bbs75tqslervx6x6bjpqcy44":["mbengoa","Marta Bengoa"],
 "c5gxrod7s2r6wxcylfcxqtoo":"mbgov",
-"c5tmn5e37wdwduuy4iriarhh":["mbcarr","dottore bad brain (PhD)"],
+"c5tmn5e37wdwduuy4iriarhh":["mbcarr","dottore bad brain (LA arc)"],
 "ce7vs5aii5oxbh46qfgk2jvs":["mbrasil","Mariana Brasil"],
 "ctx7rz6brvakhto6z4cf53fl":["mbing","Matthias Bing"],
 "d4324t32vfi5xzydqbh2qdj3":["mbm","Micah McCurdy "],
@@ -27,7 +27,7 @@ var mb=(function(jsonp){ if (typeof mb==='function')mb(jsonp); return mb=jsonp }
 "felae25tzavy3c3hea7sxwkv":["mblech","Ramba Zamba"],
 "fl2rq7k4l6h7gszxh34en6hf":["mbultman","Max Bultman"],
 "fvj4gwmhrbmadale57csaw2r":["mbrowley","Matthew Rowley"],
-"ghktptobx6w537mreediny2z":["mbhare","M.B. Hare"],
+"ghktptobx6w537mreediny2z":["mbhare","M.B. Hare 🎃💖🎃"],
 "htsp5bpjwvucpcthjzkgzljr":["mbayayangu","My Bad"],
 "ifmzv2gsykopii3vsth272g3":["mbeefmaster","matthew beefmaster"],
 "isilaxjs33wxradkq6vqi43v":["mbg","Little-known Pynchon character"],
@@ -65,7 +65,7 @@ var mb=(function(jsonp){ if (typeof mb==='function')mb(jsonp); return mb=jsonp }
 "xmo3oe7rpfjllbxirukibn6d":["mbcnotnbc","MB"],
 "xymmxjz5sck373amqfi7eqfa":["mbotz","Mary ☽☾ Mary 🩷💜🩵"],
 "yj436z2s2v37rvaw33lc4ryq":["mbkplus","Mike Boylan-Kolchin"],
-"zgwbcnplkz5k4jh7rij4dlx4":"mbhunzaker",
+"zgwbcnplkz5k4jh7rij4dlx4":["mbhunzaker","Mary Beth Hauntzaker👻"],
 "ziohxbaiphma7hcosxfuh2gp":["mbchafin","MBChafin"],
 "zp6bqoywxxsk7jrrpou6ljem":["mbrosiaboris","Krise Johnson"],
 "qvrv2pn4sgp7obpg4d46ruso":["mb","Marta"],
@@ -94,5 +94,13 @@ var mb=(function(jsonp){ if (typeof mb==='function')mb(jsonp); return mb=jsonp }
 "vws6vsirtug66wrnhbkk6enb":["mbelico","Marcelo Belico"],
 "undbcljegxbbtntbo5wvtted":["mblackspeaks","MBlackSpeaks"],
 "ob5skxgbjeketlxm4unu6dnv":["mborges86","Mateus "],
-"ds2xxgdbc746szjughpqrodp":"mbsalone.com"
-}) // 2023-10-21T16:04:47.629Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ds2xxgdbc746szjughpqrodp":"mbsalone.com",
+"hleueoppehtjjssltmpwsjz4":"mbrmr",
+"zx6hspltnvjyh3xnkkq5z5i2":["mbeverett","Matthew Everett"],
+"5myjybctpkkbhbmlfuvbl42n":"mburn",
+"p7hr5oi4ub6nea7bo4nghzha":"mborch",
+"rrx56syiitkjklnnmnvdzcrm":["mbernst","Michael Bernstein"],
+"diud5hvgw7ssqvhwm5zamiwe":["mbanusic.com","Marko Banušić"],
+"b3zjb2uq3vrgnkptwdobrzkz":["mbleigh.dev","Michael Bleigh"],
+"mfeimylkyotqopjlqii5664x":"mbzhad"
+}) // 2023-10-21T20:07:59.781Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

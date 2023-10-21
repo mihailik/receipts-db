@@ -44,5 +44,11 @@ var tv=(function(jsonp){ if (typeof tv==='function')tv(jsonp); return tv=jsonp }
 "squtge6onof7g6xooy6y7yk3":"tvgirl",
 "zbgmtrrp4ygkbmpdgy7kw5oi":["tvglobo","TV Globo (perfil não oficial)"],
 "qeltup33aovyji534rlbjygj":"tv3ditor",
-"ux6oronebsidd4qdyje6joif":["tvenuto","Thiago Venuto"]
-}) // 2023-10-21T15:23:33.054Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ux6oronebsidd4qdyje6joif":["tvenuto","Thiago Venuto"],
+"w6ejez45ksalo56hpyt5zsad":["tvffy","Ennuhi"],
+"6xtlfwi2crg6qcvrv555o2s3":["tvr","Thomas van Ryzewyk"],
+"7xugwfamfybfdbztncbnk4k4":["tvwatchtower","Tiffany Vogt"],
+"cq2wj2uhp6ncjxsqyyqu3ytg":["tv8","Yusuf Danış"],
+"ownqe5uabujprxxsgyje3d76":["tvidas","Tim"],
+"neqmvilswtvyzyi7bgrfzub5":"tvpop"
+}) // 2023-10-21T20:06:28.806Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

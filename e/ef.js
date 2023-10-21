@@ -65,7 +65,7 @@ var ef=(function(jsonp){ if (typeof ef==='function')ef(jsonp); return ef=jsonp }
 "w7mzgillgxriauxznncfi6xc":["efekilic","Efe"],
 "wm4rmgze3yrcwytunrlu2xy2":["efxlve","Efe 🪐"],
 "xo32sqgvpykv4vp65l3jnupd":["effinbirds.com","Effin' Birds"],
-"xzz7ljfshazfqmys55n4bnci":["efrog","An Enormous Frog"],
+"xzz7ljfshazfqmys55n4bnci":["efrog","Iksar conspiracy theory"],
 "ypwnaukfovfn62bebfyceykd":["effinvicta","Effy of Online"],
 "zwdxwposa7bzxpej6gncchga":"efrjr91",
 "jx4fyvfw77rftnsedvwy6xhp":"effbee",
@@ -79,5 +79,10 @@ var ef=(function(jsonp){ if (typeof ef==='function')ef(jsonp); return ef=jsonp }
 "44fnijry6rlxkdrjpritpjo4":["efalcao","Eric Falcão"],
 "yshjzub3yqy2esa5agfohc7k":["efiarts","🌊 efi 에피"],
 "5nl23u2s3gv3jr6yhgheavs5":"efi",
-"w7knwonommrksaywlmv3eoae":"efeatli"
-}) // 2023-10-21T16:13:06.157Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"w7knwonommrksaywlmv3eoae":"efeatli",
+"tfweqby7qb7gctg4xtpyw7ih":["eftekari","محمد ص. افتکاری"],
+"bk7jpewfe2biixip3noqhop4":["effectivepower","☆r☆ksh☆s"],
+"cahy7q6bja2ftuzujkbizjwl":["effiong","Effiong"],
+"xtgkgytq63aj2dk5lqztzx4m":"efp",
+"7xjqajay6wnzjbfg2pm5ezpq":["effmkthype","Efficient Market Hype"]
+}) // 2023-10-21T19:56:08.244Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

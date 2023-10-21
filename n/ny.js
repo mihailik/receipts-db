@@ -237,5 +237,20 @@ var ny=(function(jsonp){ if (typeof ny==='function')ny(jsonp); return ny=jsonp }
 "qynpdg2yavg6j7fwm4kc2gln":"nylarosebeast",
 "puxy67mr53q37zbuinny35nl":["nyfromny","Ny "],
 "2b2eaabnoagv2nir3xo3kr6t":["nyn","NYN"],
-"juy7eaw6md27fppvw6rwrkvs":["nyxthebaryonyx","NYX"]
-}) // 2023-10-21T16:04:47.694Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"juy7eaw6md27fppvw6rwrkvs":["nyxthebaryonyx","NYX"],
+"yljsl5kmgpddhdqpj22wquuy":["nymori.com","berny"],
+"wpiweiwtnbkekb2q5rbzqkk5":["nycbubbles","Alexandra"],
+"gkw44g7kbqkaon4jjzwi76ye":"nyu",
+"i65antqlunilyr3esjxgdppj":["nychange","New York Communities for Change "],
+"ru4nelbt43ho5yz46tlr2k7q":["nykol","bimbo genius"],
+"v6znugioqrmxezun4zkl5dbg":["nyawilde","Nya Wilde"],
+"jb5o6kebnjj7azgl7fq3xiaz":["nyghtowl","nyghtowl"],
+"rmnrb7zfypuukiylsqijpotn":["nysaechao.com","Me"],
+"cacgigflxw3x4hcdv7shads2":["nyoho","Nyoho"],
+"bepb7x2ahrtlqlarrjsanhoa":["nycdsa","NYC-DSA 🌹"],
+"ml7i2x4kiuo5asa5fp5pk3d6":"nycddg",
+"khfxzn5kggzfuu3scf4hnjao":["nyeong","뇽"],
+"r2uaf2lzmf3ojeze4zupubrk":"nycreporter",
+"cktehc24clyo3a5tasz2afue":["nyangnyang","NyangNyang"],
+"ou2tjs4m2wswh3pe6y6t54d6":["nylons","Nancy Lyons"]
+}) // 2023-10-21T20:07:59.829Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

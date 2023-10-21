@@ -153,5 +153,14 @@ var ig=(function(jsonp){ if (typeof ig==='function')ig(jsonp); return ig=jsonp }
 "d4szx3muzsyfrzhigjooijum":["ighor","ighu"],
 "ufelwhqqfmd72l4dtvrmuu6s":["igormoso","Igor"],
 "7fijtbhlxnuiyo7kkzd7fmvx":["igormartins","Igor 💚🧬🌿"],
-"4shrpqkngehph5kymoujrdxk":["igormaia","Igor Maia™️"]
-}) // 2023-10-21T16:11:39.308Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4shrpqkngehph5kymoujrdxk":["igormaia","Igor Maia™️"],
+"xe2xmxklzddq2y4icyhkw5th":["igcostav","ing 📚"],
+"7tkow73ytp2fzea6xz5pmo4i":["igeros","Ígeros"],
+"hu3ufnk44mm7gm7ubyuex3zx":["igu.fi","igu"],
+"ef33lpjktmqm56ym34ryldtr":"igotevie",
+"hlm2b4cjdvt36mrhstyij3xg":["igolf","Golf"],
+"pnqp2yb42p4trnrryxd2er2y":"igatoxin",
+"46uvchms7ea7gcws45zrv4yr":["igleigleigle","Igleigleigle "],
+"xxyuqavpgr3vgbnbckckgny3":["igama","Marco Silva"],
+"l3gxiizzjbgkzba6hfy2ftfw":["iguflips","igo"]
+}) // 2023-10-21T20:04:49.274Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

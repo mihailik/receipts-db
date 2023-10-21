@@ -108,7 +108,7 @@ var ex=(function(jsonp){ if (typeof ex==='function')ex(jsonp); return ex=jsonp }
 "lsjy7vm2hvr4qo4rwe5r66fd":"excelevelyn",
 "luhrrjrbc6i2rqnrh3ygvqaz":["expensivewiggle","Expensive Wiggle"],
 "lydhbgd2uzdllkibnp2txgtb":["ext06","Scott 🇪🇺🇩🇪"],
-"lzrwnp2smtzvbpactyxflmyk":["exliontamer","jessie"],
+"lzrwnp2smtzvbpactyxflmyk":["exliontamer","charles groanin’ (jessie)"],
 "m6swelohmszyjjvi3e5onofw":["explodingblood","nick"],
 "mjsa72jwfwxrurnl6hcgwihv":["extrahotgreat.com","Extra Hot Great"],
 "mp2d2yxdku6pwsgyxcbga5qu":["exocomics","Li Chen"],
@@ -232,5 +232,16 @@ var ex=(function(jsonp){ if (typeof ex==='function')ex(jsonp); return ex=jsonp }
 "pzo5zr7ghxfyi7glgyb5v366":["exosyphon","Andrew Courter 🚀"],
 "s35slje2bk6k2ptne4fzfaud":["exodes","Exo Des"],
 "bglglitlenxcnkt36zhtqic6":["excid3","Chris Oliver"],
-"vj3yo5xmkmg65gvpb764lj5h":["excentricko","Luiz Ricardo"]
-}) // 2023-10-21T16:11:39.420Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vj3yo5xmkmg65gvpb764lj5h":["excentricko","Luiz Ricardo"],
+"rz24vmdktoyq3gvlgooklcsr":["exploringlife","ExploringLife 🇯🇴"],
+"ilkkwajbhmtk7zmm6bvbauba":["exceedthestandard","Chad J. DeWolf"],
+"7agy6jf6kvxur5mux3riyjbb":["exxsohee","luana "],
+"53htzsckuvfcduhxl4prrf2c":"extrapickles",
+"ecbdo2d7hrait5wxbthw535f":["experquisite","experquisite"],
+"yyx3tw73ogecebg7cekjnduy":["explainedbygpt","Explained By ChatGPT"],
+"fhnbusnfjmtnsoyybn5lzx3i":["exoacademian","ExoAcademian (Darren King)"],
+"mlficzafgxsscvhxhqha5fpj":["exvjdamtv","caio"],
+"gztqaep7loustyycz33vxckr":["ex-carioca","Eu fiz o L pra isso"],
+"ssvr5qfezxu2qbxspqkfy22i":["expertplay.net","fórum eplay"],
+"2iuumbcqugveqjh2glnesi3t":["exploramental","Hallgrimsson"]
+}) // 2023-10-21T20:06:28.681Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

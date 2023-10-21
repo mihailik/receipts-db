@@ -14,5 +14,7 @@ var lf=(function(jsonp){ if (typeof lf==='function')lf(jsonp); return lf=jsonp }
 "jkhzv2g7ro6nnangf36zxq2n":["lfmpaes.com.br","Luiz Fernando M. Paes"],
 "xbqaukkaxffiyqzot73zu2ey":["lfg","LFG!!!"],
 "3eabnncupbctf772kn33v4ti":"lfc",
-"u7y4iq6kgihbqtn6e5ci7vus":["lfredo","Alfredo Lopez"]
-}) // 2023-10-21T15:41:07.021Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"u7y4iq6kgihbqtn6e5ci7vus":["lfredo","Alfredo Lopez"],
+"qfjzlx57g4pkxoqg7ocoi6qs":["lfgist","LFGist"],
+"7xxa4z3l4jxr7aghxvhz7udr":["lfranco","Laura Franco "]
+}) // 2023-10-21T19:32:04.222Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

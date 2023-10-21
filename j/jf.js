@@ -64,7 +64,7 @@ var jf=(function(jsonp){ if (typeof jf==='function')jf(jsonp); return jf=jsonp }
 "ye6btccre2dk5tjhhmhso4xn":["jfudge","James Fudge"],
 "yhwb4flopeavzkwbybtojo2s":["jfallows","James Fallows"],
 "yqojrk46rg4nbeu73ejpwhwa":["jfors","jfors"],
-"zflcrtqmb7pcwouiixuf22pq":"jfg",
+"zflcrtqmb7pcwouiixuf22pq":["jfg","jason grinblat"],
 "zhqcxwgaf64x3utbv3sn4kmm":["jfitch","Jason Fitch"],
 "zjc6coyf2wifffep6frotq6c":["jfbeacom","Jenna Beacom"],
 "zlnd7i2zaaxe2624h4ci7is2":["jfriestv","JFriesTV"],
@@ -72,5 +72,12 @@ var jf=(function(jsonp){ if (typeof jf==='function')jf(jsonp); return jf=jsonp }
 "wbqpvgo32v3g7agr3wykeb3v":["jf","JF"],
 "egw3oz6hctior72xb6xfrkfs":["jfiadeiro","Joao Fiadeiro"],
 "hlwfhfa4rtiyisld7tcjx7ck":["jfslicer","James Fields"],
-"yrkucmqujfrynzaig7dunnv6":"jfblucas"
-}) // 2023-10-21T16:09:33.374Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yrkucmqujfrynzaig7dunnv6":"jfblucas",
+"ty7e7ebn27rrplva7jitlgd5":["jfornear","Jesse Fornear"],
+"7k372w4goykra42aa3wcmm2p":["jfryman","James Fryman"],
+"6wlrfyljh25ymq5dp65tihm2":["jfrejnyc","Jews For Racial & Economic Justice"],
+"7xquoqkwbmnuga7lccq7noms":["jfoust","Jeff Foust"],
+"3ztudmwchwxtv27kjyaqudmh":["jfrancis","Jay the Analyst"],
+"bgqs76igbsqrsmsaanx4sbvs":["jfzappone","Frederick Zappone"],
+"q5w6r735cxay4h2u7malgse5":["jfsiii","John Schulz"]
+}) // 2023-10-21T20:04:49.239Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

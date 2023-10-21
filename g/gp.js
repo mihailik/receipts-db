@@ -33,5 +33,6 @@ var gp=(function(jsonp){ if (typeof gp==='function')gp(jsonp); return gp=jsonp }
 "fzcpmja7jfuym5u3dxvj3rgj":["gpg"," "],
 "wvkghng6oe3pzky2xigv5hbk":["gpu","sina"],
 "qxeusgdjzkc2ncjtncoqnw46":["gpborges","Gustavo Borges"],
-"6npiqubbks2wqhnes7pribw7":["gpt.cackles.xyz","cackGPT"]
-}) // 2023-10-21T16:13:06.124Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6npiqubbks2wqhnes7pribw7":["gpt.cackles.xyz","cackGPT"],
+"sw6usxekmwsmhylwusjjetvt":["gpatty","gp"]
+}) // 2023-10-21T19:22:58.161Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

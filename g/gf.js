@@ -21,5 +21,7 @@ var gf=(function(jsonp){ if (typeof gf==='function')gf(jsonp); return gf=jsonp }
 "o5i5koq4alxbdcm2kxy7mtwb":["gfernandes","Gabriel Fernandes"],
 "vkzure452oob2mrezt2xnl3u":["gfbea","nabea"],
 "pjx32io2cibbqpttchyuradp":["gf256","cts"],
-"t6ammrktnrn35xbzs3ojlpqr":["gfro.co","COWBOY PICASSO"]
-}) // 2023-10-21T16:11:39.408Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"t6ammrktnrn35xbzs3ojlpqr":["gfro.co","COWBOY PICASSO"],
+"uklqncf7mg6b4wkuicvkcmkx":["gfelitti","Guilherme Felitti"],
+"t7i7m3dt6ahgb6vkp5gbujdt":"gfrpaac"
+}) // 2023-10-21T19:36:41.550Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

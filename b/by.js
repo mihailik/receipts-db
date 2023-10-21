@@ -133,5 +133,21 @@ var by=(function(jsonp){ if (typeof by==='function')by(jsonp); return by=jsonp }
 "b37kpsbzhwibnv3iyajg76km":["byeongchan","강현제"],
 "3vjz7behkko4oxk5cun2jebo":["byemc.xyz","Bye"],
 "cylci4iyhlviblgpacb346nr":["byong","Byong Bark"],
-"gsftpvtep7xumb3ys5wrsbrm":["byronjayjee","Dr. ByronJayJee"]
-}) // 2023-10-21T16:03:19.867Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"gsftpvtep7xumb3ys5wrsbrm":["byronjayjee","Dr. ByronJayJee"],
+"yqj2k7vqwrwhvgpv7fxrv736":["bydcp","David Carrillo Peñaloza"],
+"4wcifzmvzl4nk7qjbktnkp4x":["bye2.co.uk","bye2"],
+"d4godzasphoadl4dnxkgt23c":["byeskille.no","Øyvind Bye Skille"],
+"q6e747nuc6bxlam7qg2axbjr":["bytebytego","Alex Xu"],
+"dun73dlyqolwxl7ttqwc7wkj":["bytor","Bytor"],
+"jv64eh27o7jgld3oj7tcuphd":["byteforbyte","Joseph Akbrud"],
+"7faxjp5bqypz27wx3twyiptu":["bymicahgause","micah"],
+"jhodasxg36mjo3cs26e3jnyh":["bymattruff","Matt Ruff"],
+"ep2ahkcctvv4hf6nuignf55u":["bypaulshen.com","paul shen"],
+"n44dkb6owfbxgr4hkxdmntjj":["bystander","bystander 🐻🏳️‍🌈"],
+"alozu2wqmtguj7whemteebqj":["byron","Byron Wallace"],
+"khm4xcqcajhgor5f666i7jt7":["byhkh","Hossein Khorshidi"],
+"usloecick2o56sui4orei4ak":["byjacobward","Jacob Ward"],
+"kdvjndiqf5gynyxslats6srx":["bycaraelizabeth","Cara Elizabeth"],
+"4z5o6i2ezwemzx5fucfnj4zo":["bydiegom","🔞 Diego"],
+"sqe75nb5l55pczfzd5efsxi4":"byjsk007"
+}) // 2023-10-21T20:03:09.733Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

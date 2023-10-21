@@ -145,7 +145,7 @@ var ur=(function(jsonp){ if (typeof ur==='function')ur(jsonp); return ur=jsonp }
 "t6wnvldhic6uxh6pmwtruur3":["ursamega.com","Glut Slayer (Accident)"],
 "tlyvjak6cgojsskasyeg6pcn":"ursifors",
 "tnhzla6te3o5frhfih53rw2g":"urrealworldaway",
-"tnvlrgeen4b5y4uzmvnrljb5":["urbanistleftie","hukou analyst 🇺🇸🇩🇪🚊🌹"],
+"tnvlrgeen4b5y4uzmvnrljb5":["urbanistleftie","WEF Socialist 🇺🇸🇩🇪🚇🌹"],
 "u66amv55r3fi2f6jvcbkwnoc":"urbanehexe",
 "ubwcividnn4iwhhpy2rpxogo":["uridev","Uriél Danā"],
 "uwo32ehf3vh4jego3cq7l66z":["urusov","Pól Mac Leoin"],
@@ -196,5 +196,9 @@ var ur=(function(jsonp){ if (typeof ur==='function')ur(jsonp); return ur=jsonp }
 "l33bfjp3mlk7z72gelmvoadf":["urfavoritejane","Ur favorite 💕"],
 "kwljp7br4vvbxwxtszv5bvjo":["urbanf0x","UrbanF0X"],
 "tzolkhwqs76ytuzlgsmkdybg":["uryan","uryan"],
-"rsas37suh6pgaibdfdsxj7ib":["ur4ndom.dev","Robin Jadoul"]
-}) // 2023-10-21T16:11:39.439Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rsas37suh6pgaibdfdsxj7ib":["ur4ndom.dev","Robin Jadoul"],
+"abhkvuzqwqdzgd5rf4epciff":["urilevanon","Uri Levanon"],
+"dlie2dtwjil2rcr5jufdqxzi":"uritau",
+"pjiu4oksux3wkx3vbvixj66i":"urigordon",
+"eqsjclaurpmohebotd47ktrc":["urine.business","sMyle"]
+}) // 2023-10-21T20:06:28.683Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

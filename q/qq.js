@@ -4,5 +4,6 @@ var qq=(function(jsonp){ if (typeof qq==='function')qq(jsonp); return qq=jsonp }
 "rk5j346rxdy27awn5lcd7ksb":["qqlettuce","lettuce"],
 "tmt7nj4notfwz2cdva5s2aen":["qqzm","Stephen"],
 "rfngarc7ayclly7uc5b6e7cy":"qqq",
-"brhnvy47jb642tkilyd3jsyo":["qqcoisateaviso","amy adams vendendo bolsa em the office"]
-}) // 2023-10-21T15:25:45.039Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"brhnvy47jb642tkilyd3jsyo":["qqcoisateaviso","amy adams vendendo bolsa em the office"],
+"4s2dq44kern6qjcjlggh6ipr":"qq0"
+}) // 2023-10-21T19:26:58.930Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

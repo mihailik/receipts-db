@@ -112,5 +112,11 @@ var ss=(function(jsonp){ if (typeof ss==='function')ss(jsonp); return ss=jsonp }
 "ytvdliev3uhpbt4ruiqbg77h":["ssd","Shunya Shishido"],
 "pl3okvototpbt6dv5qebxjvi":["ssouten","S.Souten[jpn]"],
 "eixdvxmv5wl7dzzaozely7jk":["sssinsi","sssinsi"],
-"rlwpstmypgwzaev566g7ankn":["ssssaammii","ささみ(手羽先)"]
-}) // 2023-10-21T16:08:06.395Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rlwpstmypgwzaev566g7ankn":["ssssaammii","ささみ(手羽先)"],
+"p3nlpjdq4r6mxtlstxmjpble":["sshey","ShanieceSaysHey"],
+"kotgtb2cdrdvsmb2ghi7lnjq":["ssa","Sunil"],
+"dfa2q5scngjelkbqtn4dhfdj":["ssb","Sadiq ‘Sameer’ Bhat "],
+"w4zy3cwpltjiaicwkynfwluw":["sshell.co","sshell"],
+"dtd2hhdowxbet5dccyzzxd6k":["ssuyuan","ssu-yüan myles ma"],
+"nwqs4tnm3vuw67rtyhp23y3v":["sstur.com","Simon Sturmer"]
+}) // 2023-10-21T19:49:03.452Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

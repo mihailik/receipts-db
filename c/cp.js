@@ -63,5 +63,6 @@ var cp=(function(jsonp){ if (typeof cp==='function')cp(jsonp); return cp=jsonp }
 "jcllhp2yyouwrv2b3a33tkyb":["cpier","Official cpier.mp4 🌤️"],
 "n24ukiiswkfwi6d5hyaagud5":["cpstl","Charles St. Louis"],
 "sz2d3kbvo2a2rjnlkpsbkitg":["cparrey","Chris"],
-"2lsgdquyghhiinbtbhckbph3":["cpg","Crypto Packaged Goods"]
-}) // 2023-10-21T15:44:23.715Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2lsgdquyghhiinbtbhckbph3":["cpg","Crypto Packaged Goods"],
+"lwaes6bmzxrojj6urgdwhwor":"cpmoser"
+}) // 2023-10-21T20:01:28.386Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

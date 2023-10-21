@@ -137,5 +137,12 @@ var zu=(function(jsonp){ if (typeof zu==='function')zu(jsonp); return zu=jsonp }
 "g6k5j6vr56hgne3fbs44x7oj":["zubinofficial","Zubin Daver"],
 "vlsj3pyxt2nledcb7gvdk5sx":["zumurrud","じゆうたん"],
 "x4v6lebrcpddlgjy7kcv6qax":["zuel","Luiz Felipe Alves"],
-"ctbt56mq2cxh7h3w4gckkemy":["zuko","parth"]
-}) // 2023-10-21T16:06:40.749Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ctbt56mq2cxh7h3w4gckkemy":["zuko","parth"],
+"wsahf55xhjxdksgl5miraasf":"zugzwang",
+"wrnoqyzccgvcvf2pjtmodrlk":["zubair","Zubair"],
+"4w33pfjivmbppp7wdo4m5gnc":["zuhaib","Zuhaib Siddique"],
+"7gq6qagktb5podbqhysfygki":["zuk","ヅキ"],
+"apoomonpsny6gzsex7dsxwx6":["zuha","Zuha Siddiqui"],
+"xb2whbonjf5ps3xiicxfnczq":["zushanhashmi","ShAz | Danketsu 🇦🇺🇵🇰🇦🇪"],
+"3a3gncjne6t4cwbefrqniqlh":["zurich.com","Zurich Insurance"]
+}) // 2023-10-21T19:56:08.381Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

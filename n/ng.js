@@ -44,5 +44,10 @@ var ng=(function(jsonp){ if (typeof ng==='function')ng(jsonp); return ng=jsonp }
 "w53jwbo6jv56fmdiu6c4vwvy":["ngamarra","Nathan Gamarra Ph.D."],
 "hrdq6itkngy7d3wfv72houuc":["ngvrnd","hey it’s ngvrnd from that other place"],
 "gudcw73ybk75dnwylnejcyso":["ngo","NGO"],
-"z3sosb55foumzvo4brjavckb":["ngh","Natasha Hoskins"]
-}) // 2023-10-21T16:04:47.588Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"z3sosb55foumzvo4brjavckb":["ngh","Natasha Hoskins"],
+"xp5qptwnem7kfs7b5ewe553h":["nguyens.co","Jay Nguyen"],
+"dp5bcyrajtxko2t2y2meq44x":"ngamer",
+"bce5szvci35w3tezjzrwec4r":["ngleicher","Nathaniel Gleicher"],
+"ez24og244argi7uqjknqq7az":["nguyenhuudailoc","Nguyễn Hữu Đại Lộc"],
+"2xh3oiclwm3mutjmhl2pdqd3":["nguyen-info","Nguyễn"]
+}) // 2023-10-21T20:07:59.827Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

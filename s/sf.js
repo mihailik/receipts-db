@@ -50,5 +50,8 @@ var sf=(function(jsonp){ if (typeof sf==='function')sf(jsonp); return sf=jsonp }
 "g3tkbdrk4q6plehfxjyfksaa":"sfc",
 "23a4af4yjyowg3eeanrqfmq3":["sftech4good","SFTech4Good"],
 "ug2aklzejp4bcsq4sk42kc6t":"sfcryptonista",
-"oodij4uglceel2ffcyzbtw42":"sforbes"
-}) // 2023-10-21T16:09:33.534Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"oodij4uglceel2ffcyzbtw42":"sforbes",
+"dzyegnzasmc5py2yoozs73wd":["sfvenus","SoHa"],
+"mu62br52uh3jhay4gqyeplqn":["sfaridmousavi","سید فرید‌ موسوی"],
+"fsmib7e6qhri5osrwn2s5t7c":["sfa","Steven"]
+}) // 2023-10-21T20:03:09.747Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

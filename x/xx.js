@@ -38,7 +38,7 @@ var xx=(function(jsonp){ if (typeof xx==='function')xx(jsonp); return xx=jsonp }
 "ujzv4vx2khemi5t55cr6b44z":["xxmissrosearts","✨Miss•Rose ✨"],
 "vhb5ztkeat27igu4k7t3a5yr":["xxxdiggory","Diggory"],
 "vhs5vlt3t2sjgds4iiaxwav3":["xxsethxx","Seth."],
-"wv3jwscq4b7u3zed6fhfvsk5":["xxxcascolaxxx","華月 凛"],
+"wv3jwscq4b7u3zed6fhfvsk5":["xxxcascolaxxx","華月 凛 (Rin KAZUKI)"],
 "xnadns7sqg7hdteyrstab7xa":["xxxhitomixxx","Hitomi"],
 "y2qvyse2prcvwx432vt6akjb":["xxpuppymothskyxx","★puppygirl°sky★"],
 "ycn553gydd45zwec7jp7stwf":["xxxvald","Dumb Dog!"],
@@ -54,5 +54,6 @@ var xx=(function(jsonp){ if (typeof xx==='function')xx(jsonp); return xx=jsonp }
 "5ezaccqaekom67gpugdnx33q":["xxvvvrr","xavier 🕶️👍🏻"],
 "7hmirq6kasu3xmubkyl6lzml":["xxfounder","Cheryl Kellond 🧡"],
 "y3lae7hmqiwyq7w2v3bcb2c2":["xxc","vincent"],
-"mf3yzwnv4irlbggoo36oqu2l":["xxprt","Jay C"]
-}) // 2023-10-21T16:01:41.932Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mf3yzwnv4irlbggoo36oqu2l":["xxprt","Jay C"],
+"zlvijiguph23mtwrnquug7b7":"xxoorita"
+}) // 2023-10-21T20:03:09.699Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

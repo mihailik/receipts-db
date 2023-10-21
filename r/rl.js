@@ -45,5 +45,9 @@ var rl=(function(jsonp){ if (typeof rl==='function')rl(jsonp); return rl=jsonp }
 "jsp77bgan27ns3sobosdm6vz":["rlove.org","Robert Love"],
 "cdqrsppxuhd76kzybvct4ske":["rlipe777.swifties.social","Felps • (Bluesky's Version) 💜"],
 "5qynms2uobkv5cihvysxikfs":["rlnetworksec","RLNetSec"],
-"wwjlot3i34i4qgewiyiu7nug":["rliriano","Richard Liriano"]
-}) // 2023-10-21T16:01:41.929Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wwjlot3i34i4qgewiyiu7nug":["rliriano","Richard Liriano"],
+"ex7bfikwbclyegqidxr6nyub":["rly","Owl Rly?"],
+"poaba7mvqg22ckfq37xcpias":["rlove","Robert Love"],
+"zcuppk3lgiz25e2bvk64ah6t":"rl007",
+"itivsw2fym3ulssgiaf4jnc2":["rlcannata","Rachel ⚡️"]
+}) // 2023-10-21T19:57:35.235Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

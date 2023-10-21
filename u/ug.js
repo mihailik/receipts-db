@@ -45,5 +45,6 @@ var ug=(function(jsonp){ if (typeof ug==='function')ug(jsonp); return ug=jsonp }
 "wplorqpkercxjo2v4d2s5qwo":["ugurcelenk.com","Uğur Çelenk"],
 "vxsnw4h6ietciep2qmz3fes2":["ugen225","朽竹イルマ"],
 "z3karuyabtwporxrti7kd5za":["ugonna","Ugonna"],
-"5f6l6crobs57dqmtosdnhmhe":"ugo"
-}) // 2023-10-21T15:56:26.511Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5f6l6crobs57dqmtosdnhmhe":"ugo",
+"v64dy3k5ydrbykj7bjmnh7xw":"ugmonk"
+}) // 2023-10-21T19:47:27.011Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

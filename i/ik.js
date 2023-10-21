@@ -109,5 +109,7 @@ var ik=(function(jsonp){ if (typeof ik==='function')ik(jsonp); return ik=jsonp }
 "vozahh2juxrnmqx2htqldmey":["ikuokada.net","IKUOKADA.net"],
 "rswtmuhohqobuigf2hrpcwak":["ikisuke","ikisuke"],
 "pru2e2rtvr2ryfiz2c7vayat":["ikethedev","Ike"],
-"5ue2ebfea5numtq42j63upzf":"ikscodes"
-}) // 2023-10-21T16:04:47.692Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5ue2ebfea5numtq42j63upzf":"ikscodes",
+"pnkyxsb7ahhagnp7dvrj3jjq":["ikasumi","わとぽ/ikasumi"],
+"zg5g24n6cij6jkztqgink52l":["ikas9uidcalamar","ikas9"]
+}) // 2023-10-21T20:03:09.747Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -312,5 +312,23 @@ var tw=(function(jsonp){ if (typeof tw==='function')tw(jsonp); return tw=jsonp }
 "cz6npomnhch47mqqdldalhef":["tweedge.net","Chris Partridge"],
 "4pxelctut5pxxspg57uo5bvp":["twtr.co","Seth Davis"],
 "xvsgl5sry54kduprikuab4na":["twistydave","David Villegas"],
-"e2t4efmtiai3yariaxz42hvm":["twine","Twine"]
-}) // 2023-10-21T16:11:39.408Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"e2t4efmtiai3yariaxz42hvm":["twine","Twine"],
+"kxrrdhpi4psmdybm2vy3fj7m":"twinkt1ts",
+"wivivwbfobbaljwpgrkndm2x":["tweetinggoddess","Samantha Kelly "],
+"awqndiu5w3qxhy73cpafmw6m":["twc","Tech Workers Coalition"],
+"45xoy4jej54e6mhkt7zyjkbz":["two-over-one","grayson "],
+"5cntimmoutgomzzviimkeebv":["twunkeverlasting","Himbotwunk"],
+"ofaworru5jtpagpuwetgmsr6":["twp","This Was Prompted"],
+"3n63y35npux67fvi2txpyu7l":["twosjoe","Twos Joe ✌️"],
+"iorum33ozrorfifrgahknwaa":["tweenkie","Tweenkie"],
+"p72xa7hfnzibwccin4xqgoxg":["twinseamus","Seamus Lyman"],
+"aqlpbyy4je2gspou2hjyn3wy":"twintrouble",
+"jdvrixxrke5pxmsaqruqe2dd":["twill","taylor prudhomme"],
+"zftno2yrn22pibtk4xmq5izp":["tweezer","Tweezer"],
+"5aznwqhmj6c53zfykxxofkwh":["twenty3","Chris P"],
+"wcryhwebxh4xbxa7ttoeedad":["tweaklive","tweaklive"],
+"d6pxiwpgpzxiphiqo5brfo6u":["twotasty","TwoTasty"],
+"mffy3z62x6y4og2rhrikjyrh":["twtjogging.cc","twtjogging "],
+"juplixilvrehpyjekwhtk445":"twistedclown",
+"y26dzy2oazo2nqg45qjni4g7":["twizzletay","Tay"]
+}) // 2023-10-21T20:06:28.799Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

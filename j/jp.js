@@ -179,5 +179,20 @@ var jp=(function(jsonp){ if (typeof jp==='function')jp(jsonp); return jp=jsonp }
 "46xslpr5e2p2fvzae744wozq":["jpetazzo","Jérôme Petazzoni "],
 "adsvq2my64lkzjzdnx7zmzkf":["jpedroads","Jabuticaba "],
 "kfdtlt5falutaf5uisljx4ap":["jposhaughnessy","jposhaughnessy"],
-"ajydi7k7jtmtu4h2dbqwkwue":"jpcaillot"
-}) // 2023-10-21T16:11:39.403Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ajydi7k7jtmtu4h2dbqwkwue":"jpcaillot",
+"qja7geoifms6h2chbfiv55lw":["jpaulreed","@jpaulreed"],
+"7rhdbqc5ym4oaex3m3tgic5h":["jpre","Josh Prenot"],
+"tqb5znuy22zr2r2jt34zhz63":["jppinheiro18","João Pedro "],
+"fql4xpopunbjn2pyjyvt6ys6":"jpr",
+"jqz664az6sqixxftadtawd5s":"jpxg",
+"tivvm3ecsmegyd64cfshb5a4":["jpfigueredo","JP Figueredo"],
+"vqdabcjgyhkr2phwn5jrdkgw":"jpfreitas",
+"ecmgv7dd5db2phtjaiq25jnh":["jpavila","Jp"],
+"noyawnaaepvehifoife6yapy":"jpmk",
+"atijhf6bwqj4vzktrkms7in7":"jpchampeval",
+"nu2khwkzkog5mlsfbdgcya2a":"jpgs",
+"fd635xjvjlaurkciubplrvsw":["jpod","Jared Podnos"],
+"zyyqtvh2yz55gdzhknhpivbm":["jpube","Journal of Public Economics"],
+"sffkzdc3batole3sdkosl53b":"jport",
+"2hxevq6hucfj7jaton7t6hnw":"jpl"
+}) // 2023-10-21T20:01:28.454Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

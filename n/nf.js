@@ -33,5 +33,10 @@ var nf=(function(jsonp){ if (typeof nf==='function')nf(jsonp); return nf=jsonp }
 "pqahppud5uixg6su56l2o6w2":"nfu",
 "nc67skihrc7bp24egersjazs":["nf.id.au","adg"],
 "mli4s7dbo5nnw4qwd75vccib":["nftbuzz","NFTBUZZ"],
-"vwhui6tjvb75mzoh5wdjpilt":"nftnow1"
-}) // 2023-10-21T16:03:19.815Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vwhui6tjvb75mzoh5wdjpilt":"nftnow1",
+"meiubm5axm22ty5ktj4vlclp":"nfliu",
+"5dgvi45eo62fxnzsdamdhd2k":["nftyearbook","NFT Yearbook"],
+"eoxqsbzwljds3ksmurchx4wt":"nfranco",
+"x7dxac7fw45qthzwguju2qmk":"nftnurse",
+"c3obfz5pn44vzi6knofs7olu":["nfullside","David Barczak Rodrigues "]
+}) // 2023-10-21T20:06:28.821Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
