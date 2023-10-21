@@ -105,5 +105,6 @@ var jl=(function(jsonp){ if (typeof jl==='function')jl(jsonp); return jl=jsonp }
 "yhuvbwlijmew7zej6vp3xaa3":"jlockwood",
 "z4qzswrxgqpp4w4g4kw67s6w":["jlcomes","J.L. Comes // Joey (he/they)"],
 "ze5ifkvbc73x2jplol5c2zoc":["jlbriere.boats","J.L. Briere"],
-"zk4vcf5nxsphofy7i6peu6vw":["jluisrod","J. Luis Rodriguez"]
-}) // 2023-10-21T13:38:59.550Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zk4vcf5nxsphofy7i6peu6vw":["jluisrod","J. Luis Rodriguez"],
+"q76lbyq2uo7wkru7qfc3dqfh":["jlsgo","Jhon"]
+}) // 2023-10-21T13:46:54.948Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

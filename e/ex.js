@@ -209,5 +209,6 @@ var ex=(function(jsonp){ if (typeof ex==='function')ex(jsonp); return ex=jsonp }
 "ztesbxljq65ot3awlmy7usmm":["exaustaefaminta","Já que li, né?!"],
 "zwvj6eewo3h2dkb6gc4hk2yi":["exavier","Ludo"],
 "zwvvhna4ucqumdxvwqasu5lf":["exgenesis.ingroup.social","❤️‍🔥 xiq, friends"],
-"zxhczs5qa4z6twlevunvmatc":["extrahugebob","Your Dad"]
-}) // 2023-10-21T13:37:33.757Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zxhczs5qa4z6twlevunvmatc":["extrahugebob","Your Dad"],
+"ggqdkwzeqp3cnuilr5qv35p5":["exvuma","Exvuma"]
+}) // 2023-10-21T13:45:46.819Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

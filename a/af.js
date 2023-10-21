@@ -145,5 +145,6 @@ var af=(function(jsonp){ if (typeof af==='function')af(jsonp); return af=jsonp }
 "yxds2n7gxmpvdtmae7rjdorv":["afsulli","Andrew F. Sullivan"],
 "zbpi2od7pdswuo7rjvym54je":["affenkoenig","Dirkules "],
 "zcl6y7bhho7fhwyh5yjbt24t":"afunghoul",
-"zrscxt6rgrvh34ghpg5td5ep":["afterdark.sleepsong.gay","Sleepsong 🌌"]
-}) // 2023-10-21T13:38:54.793Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zrscxt6rgrvh34ghpg5td5ep":["afterdark.sleepsong.gay","Sleepsong 🌌"],
+"2kkphkv6em5avtkcxaqqpdxm":"afrogato"
+}) // 2023-10-21T13:46:54.956Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

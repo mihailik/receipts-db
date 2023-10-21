@@ -575,5 +575,6 @@ var kr=(function(jsonp){ if (typeof kr==='function')kr(jsonp); return kr=jsonp }
 "zohviwc2xboml324lriiwptw":"kresby",
 "zruldwjqkvrzzxdvp5kn6cw4":["krimbo","⛓️ Krimbo ⛓️ Vtuber"],
 "zsrgmc27k4gadebgn2c5fec3":["kristintenor","Kristin Tenor"],
-"zybqvkua6e4pjg4hk663a2mb":["krebleck","Tonka Waikiki"]
-}) // 2023-10-21T13:37:35.184Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zybqvkua6e4pjg4hk663a2mb":["krebleck","Tonka Waikiki"],
+"utatnkj6hgya7xeom2j57m43":["krishna","Krishna "]
+}) // 2023-10-21T13:46:54.948Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

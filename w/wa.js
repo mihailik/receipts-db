@@ -106,7 +106,7 @@ var wa=(function(jsonp){ if (typeof wa==='function')wa(jsonp); return wa=jsonp }
 "6joljvlcctf57wreknkbhwqp":["warpek","Michelle"],
 "6jpkb3umhwxdc3z5bxjujrri":["wallysdad96","Austin Ghost"],
 "6l55on2agne6hqpiybdo5otf":["water","🔥 fire"],
-"6lowz3oa4ctkcuvditg4fb7c":"warpfork",
+"6lowz3oa4ctkcuvditg4fb7c":["warpfork","warpfork"],
 "6nfzf57ca5phcwh6xq7hvwad":["watermosaic","Jacob Wolf Lefton"],
 "6oxkexaug4lixp3fewkfq7xb":["wally","Wally"],
 "6vblgsrxl5rzqtwkbimf4hou":["waluigi","Waluigi*"],
@@ -782,5 +782,7 @@ var wa=(function(jsonp){ if (typeof wa==='function')wa(jsonp); return wa=jsonp }
 "zvkxx5cczkn5ittva5kjyp3t":"warchiefpeebs",
 "zvz6emtu7txqgw2ggem2zdlm":["wanderlustin","saf"],
 "zwmxa33ejbrnebm7xk24rf7t":["wabbit89","wabbit"],
-"zws4duhmknadhnhm3zqetpjf":["waterdragonn","Sean "]
-}) // 2023-10-21T13:36:48.608Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zws4duhmknadhnhm3zqetpjf":["waterdragonn","Sean "],
+"vcwhnyatkpaf2bvno4sz2odm":["walkah.social","James Walker"],
+"y4zdixhlp6sv2sqbsans4kgo":["walkingdeadbr.com","The Walking Dead Brasil"]
+}) // 2023-10-21T13:46:54.955Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

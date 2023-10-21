@@ -69,5 +69,7 @@ var cc=(function(jsonp){ if (typeof cc==='function')cc(jsonp); return cc=jsonp }
 "xznak2ynjjwv6q5ngfqf2n2m":["ccolin","C Colin Cox"],
 "yfirsgk5p3jlhy3huyemvb2b":["ccmhats","Carrie Cahill Mulligan"],
 "yhnzujmhspsiv4qtkoxsbpge":"ccinthecities",
-"ywtgjee2f6tvny3yk2u6lkyv":["ccampbell","Craig ⚡ indie solo startup builder"]
-}) // 2023-10-21T13:38:34.735Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ywtgjee2f6tvny3yk2u6lkyv":["ccampbell","Craig ⚡ indie solo startup builder"],
+"6al5t6ei6z6p4wzpmhpmwmdw":["cc","cc"],
+"ksqhdzl4n4zqv4gqqhfdst6c":["ccheever","Charlie Cheever"]
+}) // 2023-10-21T13:46:54.905Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

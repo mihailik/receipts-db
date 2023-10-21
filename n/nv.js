@@ -11,5 +11,6 @@ var nv=(function(jsonp){ if (typeof nv==='function')nv(jsonp); return nv=jsonp }
 "v5gotc6qu2jc2ekvzeo7yi6b":["nvhaskell","N.V. Haskell"],
 "xbxpdv7nstw5ybmlneupnuaa":["nvpkp","nvpkp"],
 "xhv77f2qf3yt4wdvcl2h7xas":"nvoked",
-"zyivcabze6gwzzctsqywh77d":"nvdpol"
-}) // 2023-10-21T13:39:05.111Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zyivcabze6gwzzctsqywh77d":"nvdpol",
+"7fm7l4rcdu2iilnqejukfvtl":["nvk","NVK"]
+}) // 2023-10-21T13:46:54.889Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

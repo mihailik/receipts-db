@@ -153,5 +153,6 @@ var js=(function(jsonp){ if (typeof js==='function')js(jsonp); return js=jsonp }
 "zbqsvqqlaqhwrsbgnuyf5ib4":["jsapresents","Justice Society Presents"],
 "zprkndxchs3n7psokvep2czt":["jsz","𝓙𝓮𝓼𝓼 𝓢𝔃 🏳️‍⚧️🏳️‍🌈"],
 "zwqwb53ilkaoppdjl5mu4ui7":["jsanderso","Jason Anderson"],
-"zy4rlkataycis3elywibvqmk":"jstobez"
-}) // 2023-10-21T13:39:03.459Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zy4rlkataycis3elywibvqmk":"jstobez",
+"aglxfwspksw4av6onkiz3wtu":"jsr"
+}) // 2023-10-21T13:46:54.870Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

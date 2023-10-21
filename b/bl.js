@@ -1169,5 +1169,11 @@ var bl=(function(jsonp){ if (typeof bl==='function')bl(jsonp); return bl=jsonp }
 "zy246dlhjxaolgufwykoaepm":["bluedemon6","dec"],
 "zy7vovbb55hxxrxagpg5vmnu":["blackkingkofi.ca","Kofi"],
 "zyeqwhgquxetpstwlen6yzmm":["bloops","Bloops"],
-"zzsi5ireywqmuzykrmmqcdzx":["blaauwendraad","Evert Blaauwendraad"]
-}) // 2023-10-21T13:36:49.391Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zzsi5ireywqmuzykrmmqcdzx":["blaauwendraad","Evert Blaauwendraad"],
+"q4jtwizaaqeetfxilujdmnd6":["blog.wyattallen.com","Nick"],
+"z6px7a6yeun7ehx63rlufpve":"blue",
+"c2cq6vrl3seygx5fg3gdebp2":"bluepinkneon",
+"ituklnv2rqorwfmsidyiovrh":["black","Black"],
+"3uluwtpp7vin3e2ndfzs7g23":["blap","BLAP"],
+"pthbueyh4isbg7war6amcq6m":["bluesky.zeroday0619.dev","zero"]
+}) // 2023-10-21T13:46:54.841Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

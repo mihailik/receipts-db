@@ -73,5 +73,6 @@ var md=(function(jsonp){ if (typeof md==='function')md(jsonp); return md=jsonp }
 "xg62npbz5fuiswsa7mxybhiy":"mdelorme",
 "z4vtdiv2syy6fsg5ev4qaleq":["mdx","José David"],
 "zcueezdrfr36lk6nlejd4tg2":["mdefoule","Maman Se Défoule "],
-"zmbz56o5ad5j37rwt3mynu7u":"mdpkh"
-}) // 2023-10-21T13:38:47.552Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zmbz56o5ad5j37rwt3mynu7u":"mdpkh",
+"wecvkbty7nmvposhodkiglwf":["mds.sh","madsushi"]
+}) // 2023-10-21T13:45:46.841Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

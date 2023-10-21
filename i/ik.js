@@ -91,5 +91,6 @@ var ik=(function(jsonp){ if (typeof ik==='function')ik(jsonp); return ik=jsonp }
 "yfnzcjzv3j4gsbx7jyemncva":["iknm","池波"],
 "yqpdecrpn57guyvzwj72k2zt":["ikataro","エギ"],
 "zootl3mr2xigmahfabmtctrf":["iknowplaces.swifties.social","𝙑𝙞𝙣𝙞 ⸆⸉"],
-"zrdl57hpiyq6fizjuz2xq43h":"ikacman"
-}) // 2023-10-21T13:35:39.790Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zrdl57hpiyq6fizjuz2xq43h":"ikacman",
+"m3ypzsr5qa7z3adodk4hp7f2":["iksalkkun","익살꾼"]
+}) // 2023-10-21T13:46:54.935Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

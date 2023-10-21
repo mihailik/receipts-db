@@ -2,7 +2,7 @@ var bn=(function(jsonp){ if (typeof bn==='function')bn(jsonp); return bn=jsonp }
 "2uw6k6gmcpiiv3xviasdxwnn":["bnuy.ie","Reiva✨"],
 "3exysxsdgrnwxbeejpfpnivf":["bndt","하세의 아들 베네딕트 김"],
 "3pairvtuiz2givzjduearj5c":["bnuuy.zip","rory"],
-"44ybard66vv44zksje25o7dz":["bnewbold.bsky.team","bryan newbold (offline-ish for a week)"],
+"44ybard66vv44zksje25o7dz":["bnewbold.net","bryan newbold"],
 "5hz3bnmwhjqjhcthik4wt6li":["bnonews.com","BNO News"],
 "5rkmifpt6lcxzuimw6tfnjct":["bnyyx","ton"],
 "65z7pjsloqhwspuob3j7qmfh":["bnav5","BNA_V5"],
@@ -38,4 +38,4 @@ var bn=(function(jsonp){ if (typeof bn==='function')bn(jsonp); return bn=jsonp }
 "yscmtlvjea33bw6qz462m7ie":["bnjmnblmnthl","Benjamin Blumenthal"],
 "z37zxpcg22ookqjpvmgansn2":["bnrlibrarian","bnrlibrarian"],
 "zizgfeciljmwlz6dkilee2qr":["bnightingale11","B “Human Bean” Nightingale"]
-}) // 2023-10-21T13:39:04.558Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-21T13:45:46.751Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

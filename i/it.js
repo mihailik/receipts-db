@@ -524,5 +524,6 @@ var it=(function(jsonp){ if (typeof it==='function')it(jsonp); return it=jsonp }
 "zxepbngykywmy4winzthklyu":["itshimissy","Issy:)"],
 "zyevt4im5omrnswrtyau2ame":["itsstillalex","Alex? Alex. I am Alex. "],
 "zykue2ej4umj3zkgzjhpchsf":["its.mooceline.fyi","moosh"],
-"zz7m6ydygw2u6rmqyh773qei":["itati","澤倉いたち / Itati Sawakura"]
-}) // 2023-10-21T13:38:34.964Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zz7m6ydygw2u6rmqyh773qei":["itati","澤倉いたち / Itati Sawakura"],
+"ptw6oitiyns6zd5b7b7bnctc":["itst.net","Sascha A. Carlin"]
+}) // 2023-10-21T13:46:54.906Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

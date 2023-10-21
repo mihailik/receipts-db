@@ -1036,5 +1036,8 @@ var cr=(function(jsonp){ if (typeof cr==='function')cr(jsonp); return cr=jsonp }
 "zxmravc2kqgpyqbu6gtxwpps":["creamspeak","Creamspeak"],
 "zyqbami2zrhll5gepcx3mey2":"crossbeats",
 "zyso5avc7vsisiom276cacol":["cruzarzabal","Roberto Cruz Arzabal"],
-"zz6tquh2tdj75kgnrn4nsmi3":["craigtaillefer","Craig Taillefer"]
-}) // 2023-10-21T13:38:38.940Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zz6tquh2tdj75kgnrn4nsmi3":["craigtaillefer","Craig Taillefer"],
+"kgure2ahunysteoeldkwkr56":["crage","crage"],
+"7p43fizq7lgr62fvmne72via":["cryton-capital","Cryton Capital"],
+"kxhqjcfobtoir4gkiio4jpei":["crybaby","𝙁𝙖𝙙𝙚𝙡 Portals 03/31"]
+}) // 2023-10-21T13:46:54.909Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

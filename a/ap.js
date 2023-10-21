@@ -328,5 +328,8 @@ var ap=(function(jsonp){ if (typeof ap==='function')ap(jsonp); return ap=jsonp }
 "zo66hq32eqbtxvzklpywwzl3":["apollog","Apollo 🏳️‍⚧️"],
 "zp5wzt22eq2eaxspja2g3ikq":["appsecbloke","Mike Thompson"],
 "zpjaip2hvjh2b5jcoo2nwlts":"apollolikesbugs",
-"zxv6hafrwmvljmdh27x76i4k":["appointedjester","Court Appointed Jester"]
-}) // 2023-10-21T13:38:52.914Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zxv6hafrwmvljmdh27x76i4k":["appointedjester","Court Appointed Jester"],
+"owiphndnt3l3scfqbgantkgo":"apple",
+"fhohgeduothw3odxkdvxsuov":["apfeitosa","Ana Paula "],
+"jnrru56cctwifg3rm7qaoxzl":["appo","Appoline Reisacher 🇫🇷"]
+}) // 2023-10-21T13:46:54.936Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

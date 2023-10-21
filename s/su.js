@@ -1294,5 +1294,7 @@ var su=(function(jsonp){ if (typeof su==='function')su(jsonp); return su=jsonp }
 "zxbwwszmcf4x3gopycvfz6dc":["supertrashparty","SuperTrashParty"],
 "zy53jy7h6rk6n6wcby37qxfr":"super-weenie",
 "zycb5q6hoivvwhwjrux57g5z":["superm","뷰"],
-"zyj2yu56l4pfjsbud4xe7ol6":"sunnytraegtmaske"
-}) // 2023-10-21T13:38:33.062Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zyj2yu56l4pfjsbud4xe7ol6":"sunnytraegtmaske",
+"oc6vwdlmk2kqyida5i74d3p5":["support.bsky.team","Bluesky Support"],
+"t7taxeilqi6kz4jrva2ce6ei":["susanborst","Susan Borst"]
+}) // 2023-10-21T13:45:46.797Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

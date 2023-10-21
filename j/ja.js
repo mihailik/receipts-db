@@ -2370,5 +2370,19 @@ var ja=(function(jsonp){ if (typeof ja==='function')ja(jsonp); return ja=jsonp }
 "zyojoobejnjmwwce4grdd43l":"jaxxon2905",
 "zyrdjnfjyy5gl5pdpynnsu3l":["jamaistresloin","Jค๓คเรtгє́รl๏เภ"],
 "zz27jonet4pyrnaagbga2fp7":["jakeormrod","Jake"],
-"zzqeztfnaucjy6wnlqlv7nna":["jaolivaostos","Juan Antonio Oliva Ostos 😊"]
-}) // 2023-10-21T13:37:27.480Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zzqeztfnaucjy6wnlqlv7nna":["jaolivaostos","Juan Antonio Oliva Ostos 😊"],
+"qsispj34ogpfpoxodpdrqncw":["jasonbenn.com","jason"],
+"djtyba73gp5np2sy6xtu6vsc":["jasmine.substack.com","jasmine"],
+"gycu7amwg3lp34u4whrozvno":["jamesrisberg","😻"],
+"rh7uk2afo6ag74fyz2wd5v6u":["james","James"],
+"kscqlin25s5cb2cpn54672qk":["jackieivy","Jackie Ivy "],
+"nk4mreuzituzyzfofvgis4fa":["jamesmurray.xyz","James Murray"],
+"c3cg4nv5g7bj42b32w74xybr":["jamescoletti","JΛMΞS"],
+"n5gyjnvoyj36qc4nwtfpx4lx":["jabillama","Jean"],
+"anr4emdjkmhqgsk3udje4k5o":["jacki3lene","Jackie Camomot"],
+"zee4prxdivt2ooxkcalkhki3":["jacob","Jacob McCourt"],
+"fmyjvw7o6l5kugi6ng4ttrwx":["jamestogo","Jamestogo"],
+"qo4mzebjcbrkjlht355ny4go":["jayw","Jay🌻"],
+"itgyhmi3xb334ctoy36kjka5":["jackgavigan","Jack Gavigan"],
+"poyaquyuelmnk65ajk3cq7zv":["jaomello94","Jão Mello "]
+}) // 2023-10-21T13:46:54.840Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -500,5 +500,6 @@ var sl=(function(jsonp){ if (typeof sl==='function')sl(jsonp); return sl=jsonp }
 "zrdsz2sciztwglw7k77rnhyi":"slavamarsu",
 "zredkpu5b5rb4t2l55sogdct":["slimegirl","slimegirl!!"],
 "ztzdbllf5ctc7bzc4rq7ul7r":"slavezeo",
-"zulvvh43e5yw66o4rhzdv4ag":"slowcore420"
-}) // 2023-10-21T13:38:56.431Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zulvvh43e5yw66o4rhzdv4ag":"slowcore420",
+"iyuor6sjixqdyc2shed7pfsb":["slim","Nintendo .DS_Store"]
+}) // 2023-10-21T13:45:46.817Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

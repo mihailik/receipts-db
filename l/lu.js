@@ -1331,5 +1331,20 @@ var lu=(function(jsonp){ if (typeof lu==='function')lu(jsonp); return lu=jsonp }
 "zxgdfirpc7tf2cuagnjyfhll":["lukestepford","Luke Stepford"],
 "zxitgt4jdfliwcpwusrtiwlj":["luizlindroth","Lupa #Gea #BusõeseBoletos"],
 "zxvsd57tfdbdrrfe6eql5eic":["lucymute","Luce✨"],
-"zzbc53ba3q3d2ibjokub72kg":["lufthy","Lufthy"]
-}) // 2023-10-21T13:38:37.069Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zzbc53ba3q3d2ibjokub72kg":["lufthy","Lufthy"],
+"4hivxx2dyvmt7xyxii5m7foe":["lucylw","Lucy Lu Wang"],
+"i65lufv5kta4zhwzh6qjjbmy":["lucasgelfond.online","lucas"],
+"22vk6xgnulavdftyz62ziv57":["lulu","lulu choochoo"],
+"qhwq7t6pfbeqhmfzyqrhuei4":["luccas","𝙋𝙀𝙍𝙄𝙂𝙊 𝙎𝙊𝘾𝙄𝘼𝙇"],
+"hjygymkbonvqrcp4sxzqwyvu":["luiz","Luiz"],
+"2dmg6wlxwml5g3lxi22mive7":["luiscrema","luis crema "],
+"c52tnjs2mgbrikzmmf7ssp6e":["lucasvasconcelos","Lucas Vasconcelos"],
+"zevr3grw47nhnvp3nlwfevqy":["luishora","luis hora"],
+"lavtslhn56idnomffrmpet3n":"ludmilla",
+"heicj4qaf73e23gnp6cmbkn4":["lucasbraga","Lucas Braga "],
+"wy6pqx3zrat63cdyrsla2oud":["lula","Lula"],
+"zg7gni4crnkf5khlgyuzsv4a":["lusca","Lucas Moraes"],
+"2upfjxintrstvlmmbtbt5tkl":"luscas",
+"xzk2udf4kj5j6hrjlqednh7l":["luka","Luka Vujic"],
+"kxdcekqtkowlof75gc3rh22w":["luanlovato","Luan Lovato "]
+}) // 2023-10-21T13:46:54.913Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

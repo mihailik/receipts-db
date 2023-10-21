@@ -1164,5 +1164,14 @@ var sc=(function(jsonp){ if (typeof sc==='function')sc(jsonp); return sc=jsonp }
 "zxikszyiiym5wjg2rpm32hd7":["scowlingmonkey","Scowlin Munkeh"],
 "zyotkithmzgsac5ybegz5365":["scottmendelson","Scott Mendelson"],
 "zzj7p5r57sl4vviqws3e7k4e":["schnumn","Bex Ollerton"],
-"zzqyrr3h57amgypojz5hxtbo":["sciley","Sarah M.H. "]
-}) // 2023-10-21T13:37:01.119Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zzqyrr3h57amgypojz5hxtbo":["sciley","Sarah M.H. "],
+"ndzftkdshpxde5wt33ndpjdg":["scott","scott"],
+"cu2zokgauxep3zt46tmhrmcq":["schwartz","Jonathan Schwartz"],
+"4m5miyhvuicg7czvfyu3th2a":["schreck","Schreck"],
+"oxn5yg7mn2ntlleforrdbzf6":["schier.co","Gregory Schier 🌲👨‍💻"],
+"vwgqkwuvk6i5hvq5urbttt26":["scottedwards2000","Scott Edwards"],
+"uo6whpvssk6mw7k7fakun5hx":["schmidt","Schmidt"],
+"xwchzcujuufv6jaud3x6tmmm":["scottstowell","Scott Stowell"],
+"zuyg6dfphx5eaxq2ka343oks":["scottc","Scott"],
+"df3bcd2v5whji4medmrrhme7":["scarpenterbr","Sabrina Carpenter Brasil"]
+}) // 2023-10-21T13:46:54.874Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

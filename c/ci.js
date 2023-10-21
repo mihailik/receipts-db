@@ -421,5 +421,8 @@ var ci=(function(jsonp){ if (typeof ci==='function')ci(jsonp); return ci=jsonp }
 "zqz4coxhio5wkskfwg5zkfat":["cindychen","Im a girl"],
 "zuhgfrwli2lf4jmhuk6tlnpp":"circew7",
 "zuqejp6nmbupe23sbmsnowk5":["cindycat76","SK"],
-"zybwp5bvuh5ubdwsfjtgqkzk":["cinemas","cinemas 📽️"]
-}) // 2023-10-21T13:39:01.273Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zybwp5bvuh5ubdwsfjtgqkzk":["cinemas","cinemas 📽️"],
+"62d3z6vflqkdk4gatcfnnrho":["cissy","Cissy"],
+"uwhemm53fjmzmklxy3f4hrcq":["cinema","CINEMA"],
+"3tkzov3jsj5cfly4umf3uatl":["ciclopin","ciclopin"]
+}) // 2023-10-21T13:46:54.934Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
