@@ -54,5 +54,6 @@ var _if=(function(jsonp){ if (typeof _if==='function')_if(jsonp); return _if=jso
 "fadxuz2lffodaht3is7eghle":["ifelipesg","felipe"],
 "kiz62wsim67xvxcuai5nwiut":["ifc","iaguito 🦚"],
 "yo23lutzygqrr77qlyen7ini":["ifp","IFP"],
-"3yg2qshodhy5tmxwe2xw2lmk":"ifunanyaolachi"
-}) // 2023-10-21T22:05:27.837Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3yg2qshodhy5tmxwe2xw2lmk":"ifunanyaolachi",
+"7gywxfujenef4qul62ek2nwn":["ifade.org.tr","İfade Özgürlüğü Derneği"]
+}) // 2023-10-21T22:20:37.426Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

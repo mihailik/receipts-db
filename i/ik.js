@@ -128,5 +128,6 @@ var ik=(function(jsonp){ if (typeof ik==='function')ik(jsonp); return ik=jsonp }
 "bddmtfxxgibnd7wzht6s2kkv":["ik-fib.com","ik-fib"],
 "sr5hqe66tvl25feftp7kulbf":"ikamal",
 "mqx2cuh2n5podor42igh5n7h":["ikex3","이케"],
-"kx64tknjfwqamtqplun2cf4d":"ikay"
-}) // 2023-10-21T22:14:52.727Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kx64tknjfwqamtqplun2cf4d":"ikay",
+"27vo27jqgcp7oznavyzyiw3h":["ikada","ikada"]
+}) // 2023-10-21T22:24:57.484Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

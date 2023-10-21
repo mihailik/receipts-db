@@ -109,5 +109,6 @@ var mg=(function(jsonp){ if (typeof mg==='function')mg(jsonp); return mg=jsonp }
 "w3six6zfx43ld2oksrgjficm":["mgoff.in","Mike Goffin"],
 "7k3vnhmq2xa7t4ucdwk7xc3i":"mgolden",
 "sjavuj6bs23idzxpidlusw3u":["mga","MGA"],
-"umfkbdpzdw7eul64evnr74a3":["mgarfink","Michelle Garfinkel"]
-}) // 2023-10-21T22:09:44.596Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"umfkbdpzdw7eul64evnr74a3":["mgarfink","Michelle Garfinkel"],
+"twmezdq4zwjllbzv34bbsgvk":"mglbruns"
+}) // 2023-10-21T22:23:22.081Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

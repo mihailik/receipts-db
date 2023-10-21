@@ -15,5 +15,6 @@ var vp=(function(jsonp){ if (typeof vp==='function')vp(jsonp); return vp=jsonp }
 "2uturqnaaliebj4bq7zw57nz":"vpasquier",
 "sq2pyfd26jsel2fmafjavnws":"vpn",
 "kv6s4peu2jpebri7zqxcnn7j":"vpcowboy",
-"wmst6doz5a3cbuqvcyknjk65":["vps.link","Vattan"]
-}) // 2023-10-21T20:28:37.093Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wmst6doz5a3cbuqvcyknjk65":["vps.link","Vattan"],
+"dcd7fnpo5nex2wepxg52redf":["vpreti","Victor Preti"]
+}) // 2023-10-21T22:19:06.700Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

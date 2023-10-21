@@ -1438,5 +1438,17 @@ var ri=(function(jsonp){ if (typeof ri==='function')ri(jsonp); return ri=jsonp }
 "ma6acnn4cbtbzz5d4u5kep6s":["riotsurvivor","kwïn hüz /blm/"],
 "zhtiugzhxusdptucohusuvfq":"ritafabi",
 "iyblvi3y5osvza6gwkit55za":["riotgoose","ｒｉｏｔ🐰🔪"],
-"mkwihqjbos3kxnxwc7j6dgbb":"rickii"
-}) // 2023-10-21T22:14:52.661Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mkwihqjbos3kxnxwc7j6dgbb":"rickii",
+"cu4kquzaxfueu5ibm2wgn3fs":"rickken",
+"e6ylyqodhqf7vrbbldnffuet":["ricardonobre","Ricardo Nobre"],
+"w4bjxzhs2ttlq6zgnsipa7yy":["richking","RichKing"],
+"2erfviaap76smpl5y6ofqiym":["rinasawayama","R"],
+"2nmw2g5dk6t76c5yivtrfyia":["ritammehta","ritam"],
+"2rszv2t2k5mmpluygcavkn4x":["rickbarooah.substack.com","Rick Barooah"],
+"eylpzkyffvrltv3i5eawibc5":"rianvision",
+"dqw63tuymqeu7t4uepxwlc2r":["richardhuman","Richard Human"],
+"7k2auyd272axcxeo4xi5yboa":["ricardosilva","RICARDO"],
+"sf4cve6p6cxv25x63ekmjmx3":["ricoso","Rico"],
+"fkwl6hj54g4ywbie2symbst7":["ricoliveira","Ric"],
+"672janlqmazowvwnzu4jqnsa":"riskeraser"
+}) // 2023-10-21T22:24:57.525Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

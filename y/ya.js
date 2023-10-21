@@ -708,5 +708,14 @@ var ya=(function(jsonp){ if (typeof ya==='function')ya(jsonp); return ya=jsonp }
 "adfvv47ryelrtdeglbdzgnjf":["yachtpa3","Yoshito Ogasawara"],
 "n2zzshj4mpcnsgtv7jflxucb":["yag-freak","Steffen Jendrusch"],
 "ymmy2w62liy23qni6aphttt7":["yasna","Yasna"],
-"mkjoccfyd4dtj4wf2ft3jtxa":"yananl"
-}) // 2023-10-21T22:14:52.605Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mkjoccfyd4dtj4wf2ft3jtxa":"yananl",
+"hlercc2yr3sw5u4nlhgzhm4v":"yanalita",
+"qteclwvmyjeb3kliqpswxcro":"yasimns",
+"kiew54gty5ptqv2wr7uyna6p":["yatima.me","Yatima 🏴‍☠️"],
+"yfc3y33jx5ia7bmv4465ry5h":["yama2211.jp","やまがみ"],
+"h3ixbuvqsqyilhlwsrnwptdk":["yaeeema009","やー"],
+"beldqw3hm7b2uhyaqdtfmbw2":["yawcliff","Clifford Bright-Abu"],
+"gylj6t4f6jt3ogroeo34jkde":"yamuchan",
+"inamdnsvgmryokuasrlqojzs":["yaallxdda","Yalda"],
+"cmexpbwtbthcjjfsbusvauxv":["yazdan","یزدان"]
+}) // 2023-10-21T22:24:57.542Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

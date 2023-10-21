@@ -1067,5 +1067,15 @@ var wa=(function(jsonp){ if (typeof wa==='function')wa(jsonp); return wa=jsonp }
 "dopvpdpbiawulciapx5wuu6a":["wabennodenkwe","Wabennodenkwé "],
 "l3ngjp65kugzqjv6mfb2gbot":["watelmeron","Watelmeron"],
 "wwdhzxsqnjrfzuiijknp2wqw":["wasang","cro"],
-"4lijpz6i3iaoeopknm6zloqe":["waveformlab","WAVEFORM LAB"]
-}) // 2023-10-21T22:13:25.691Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4lijpz6i3iaoeopknm6zloqe":["waveformlab","WAVEFORM LAB"],
+"36whkbya5g75nhjrt4ess5cj":"walidzayed",
+"xdetndyeo7ydvxqupxe3kdjl":["warrenbuckley","Warren Buckley"],
+"bazcuboamrc4pdmcn4xqeciz":"wafflemonster69",
+"pjf2taqwfvnmyweelm6vedel":["wakastarar","WAKASTARAR"],
+"enxb62qkpbvh6v26ntj5d3rk":"wana",
+"eexvgwlcimh4uqhn6q6ge3qo":["war666beast","Цезієвий дефектоскоп"],
+"xwllpwrqvhdaur73tsn3f6jq":["waleedshah","Waleed Shah"],
+"y5cr4yxjjtqbjqr2o5t2hclf":["walkerking","Walker"],
+"xdtxn66snxcjqucpq5c62cpz":["warmth","warmth"],
+"6bxdeyvug7iuqds5fixn2zuz":["warleyvenancio","Warley Venancio "]
+}) // 2023-10-21T22:24:57.474Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

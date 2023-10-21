@@ -480,5 +480,8 @@ var sw=(function(jsonp){ if (typeof sw==='function')sw(jsonp); return sw=jsonp }
 "mms7hoibqjj7i7m3k6hnqazf":["swink","Michael Norris"],
 "av75oqr4xmw2i23c5vjfzv4z":"swalexint",
 "q7cxis4adyrtiudxwdbvnphr":["swc","Stephen Curran"],
-"w4qfvwlfn4bshk7vwvpf5c7a":"swipewealth.com"
-}) // 2023-10-21T22:13:25.645Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"w4qfvwlfn4bshk7vwvpf5c7a":"swipewealth.com",
+"qjgu2xpny5nw55gwt4ndzley":["swordgf","sword gf"],
+"ldvj4casz5i6prggjljhf27d":"sweelila",
+"wupvm2eqyscxtx2wlsmb3t7d":"swolf"
+}) // 2023-10-21T22:24:57.540Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

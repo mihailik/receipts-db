@@ -1719,5 +1719,7 @@ var di=(function(jsonp){ if (typeof di==='function')di(jsonp); return di=jsonp }
 "2prxi4vjapgva44cd44kd4us":["diegov","Diego"],
 "fjy2r3hoetxslxlydnogg7dl":["divi.gay","Divi"],
 "wz4iqsd7gaphc2epx4ownort":["dionei","Dionei 🌵 reserva"],
-"ry7slh5bixwm62svsyeiaqkf":"dinau"
-}) // 2023-10-21T22:14:52.667Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ry7slh5bixwm62svsyeiaqkf":"dinau",
+"lhbsfctecco2g32psngcigzi":"didier",
+"vug4nf5ivrsa7lfwtzjztx6m":["diamonds","Diamond Doo"]
+}) // 2023-10-21T22:23:22.053Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

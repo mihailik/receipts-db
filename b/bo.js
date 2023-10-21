@@ -728,7 +728,7 @@ var bo=(function(jsonp){ if (typeof bo==='function')bo(jsonp); return bo=jsonp }
 "mpp2j3zstm37j4zmqnl6nzzi":"booksandaxes",
 "mpso3qabvtupgwrqi6wo5hlo":["boingboing","Boing Boing"],
 "mq3tpjozmqnhvnhztb2udoqu":["bouncymouse","BouncyMouse"],
-"mqvpfy5cbk2vy2zarstopclp":"boringkate",
+"mqvpfy5cbk2vy2zarstopclp":["boringkate","BoringKate"],
 "mson5tx762ko4b2fxe464ctc":["bobbymann1971","Bobbymann1971"],
 "mtqmh4qjxg57t2u2q7qbpsgv":["bostonundies","Boston  undies  "],
 "mu3457r2v6i6uu2hwdlzotw6":"boccacio",
@@ -1645,5 +1645,15 @@ var bo=(function(jsonp){ if (typeof bo==='function')bo(jsonp); return bo=jsonp }
 "muetind6xm62zvgo3bturvgo":"bogdan-ungureanu",
 "pprc232germ5ehdeq5u4kvsn":["bon","Bon Surasit"],
 "tswz2yk5w6u5dh4ng3wraal3":"borik",
-"tmgpw4xfcij6tehrmo3gxyeg":["bowlofsoup","Food, the sequel"]
-}) // 2023-10-21T22:13:25.629Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tmgpw4xfcij6tehrmo3gxyeg":["bowlofsoup","Food, the sequel"],
+"vnpkdnmcqhvcozuhdevxs44m":["books.eddsteel.com","bookbot"],
+"ub4gumwuvnaj446dgfhni7lj":["botfrens","BotFrens"],
+"yathxi4cshwwdilrobesqajf":["bobi","Bob ☁️"],
+"p7m3mb4d57x7b4y4eo6ynjwx":["bodziak","Andrew"],
+"nvfyntg5cbc43mmfqzhfthpu":"bobthepenguin",
+"qv2iq7oje5wsgjzmfdj7p5w3":["bogeon","FRFK"],
+"3ndhek3edhuqjqisgqcatxk5":"bovinescatologist",
+"tsyrctjhsy65ek6c3x7sebjc":"bondalovskiy",
+"wiqqpmvbvqyx27x4kxfif3nz":["bookblerd","Ro"],
+"jl2imybda5aytwfvkjb7damx":["boschma.art","Marc Boschma"]
+}) // 2023-10-21T22:24:57.396Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

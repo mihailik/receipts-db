@@ -477,5 +477,8 @@ var or=(function(jsonp){ if (typeof or==='function')or(jsonp); return or=jsonp }
 "hdgb7cxa76mtgipp6fgnrrzv":["oraclebennett","Benny G."],
 "hj5h5tyfoz7mx5ibnkp2mmdp":["orange-creamsicle","Orangen't You Happy"],
 "wyw4bpz7szvvjrz7qwxdenbs":"ordinary",
-"fe43d76ayr7fjhbflgdoyvoa":["orsted","Orsted"]
-}) // 2023-10-21T22:14:52.711Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fe43d76ayr7fjhbflgdoyvoa":["orsted","Orsted"],
+"f43zws3bl7qh3ltun6tyj6em":["orbenure","Onur B"],
+"yzhdhn7n7l2nakgjm3m2uhpc":["oruok.art","光露🥕"],
+"klqmynwmql5xzcqj2eul7jin":["orso","Michele Orselli"]
+}) // 2023-10-21T22:20:37.471Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

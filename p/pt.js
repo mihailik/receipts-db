@@ -78,5 +78,7 @@ var pt=(function(jsonp){ if (typeof pt==='function')pt(jsonp); return pt=jsonp }
 "apl6kilijouu4vs3zha2ayzb":"pttcps",
 "qs7aebxcwvalajld6l4ulkfa":"ptbrindley",
 "s5tdn7tawuxvdhn26dhjxbwa":"pti-p",
-"xzdwuy3x7b5atcksqq344eeq":"ptrehan"
-}) // 2023-10-21T22:13:25.657Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xzdwuy3x7b5atcksqq344eeq":"ptrehan",
+"wvatetpj6ngzf6khayjldpub":["pttrnrcgntn","Dust. Wind. Dude."],
+"ovod3t46yjzmpejxjoutlgop":["ptnik","Carlos Martins"]
+}) // 2023-10-21T22:20:37.359Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

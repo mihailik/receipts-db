@@ -1,6 +1,6 @@
 var au=(function(jsonp){ if (typeof au==='function')au(jsonp); return au=jsonp })({
 "23zwa5kwhh3dqtzvp3a7dv4l":["auntiemar","Марь та що тьотя"],
-"252wjijpgbslyycjoniukouc":["authorgingerlee","AuthorGingerLee"],
+"252wjijpgbslyycjoniukouc":["authorgingerlee","AuthorGingerLee🕯️"],
 "26bbsamttazlsu7tnjjxdqjf":"auroras",
 "2cy5d5byplisur4y7ppkz5nh":["authorizedmusings","Jen Donohue"],
 "2g3i3s2f2mwzbqakq4xdw63d":"augustinb",
@@ -698,5 +698,7 @@ var au=(function(jsonp){ if (typeof au==='function')au(jsonp); return au=jsonp }
 "4jx5ulub4p6nhypqwhwoetm6":"austinmc",
 "uo4dv4cjaon3a5zdfk6gbuqr":"austinflynn",
 "2lrvheiug3p5aannfrikisk7":"autograf",
-"7jztkiz24ugmo3u4zzh3kdll":["aurabritosm","Aura Brito"]
-}) // 2023-10-21T22:14:52.664Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7jztkiz24ugmo3u4zzh3kdll":["aurabritosm","Aura Brito"],
+"czk2czflhzgtczg25rhnhmeb":"austeng",
+"jgz2xqfgdys72yjmqyze7qyq":"aumric"
+}) // 2023-10-21T22:24:57.536Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

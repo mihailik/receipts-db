@@ -164,5 +164,7 @@ var us=(function(jsonp){ if (typeof us==='function')us(jsonp); return us=jsonp }
 "45wo44tuc6g6uzummqdms3zt":["ushironoko","うしろのこ"],
 "yzsqcp3gr2pno5f7yhdl2ly7":"user03",
 "hqp67iyix33hxnant67lhs2w":["usachi","うさち"],
-"g3x7gl37ct5oecld3mfaxep6":"usausa"
-}) // 2023-10-21T22:13:25.624Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"g3x7gl37ct5oecld3mfaxep6":"usausa",
+"qetnep4muade6kyu4wwrhlzp":["usui-chang","うすいちゃん・オブ・ザ・デッド"],
+"tdz6u43tezv5ndwx55ifdmjb":["usayomo","usayomo"]
+}) // 2023-10-21T22:19:06.740Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

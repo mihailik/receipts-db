@@ -819,7 +819,7 @@ var lu=(function(jsonp){ if (typeof lu==='function')lu(jsonp); return lu=jsonp }
 "nfhxh7slkxh2vnotn3q45vus":"lupusdiabolus",
 "nglvtfvbtvrbt3f2m2lqske6":"lucy0124",
 "nhpoefbpg7uhxsmb45avfb2z":["lucastheenby","Lucas"],
-"nhqvuggd6ebasluetrqfab6n":["lukeplunkett","Luke Plunkett"],
+"nhqvuggd6ebasluetrqfab6n":["lukeplunkett.com","Luke Plunkett"],
 "niamsptwqbgs66fwx6io2juz":["lukek","Luke"],
 "nio3p52iqksr6xq6g4t4tssx":["lucas-santtos","Lucas Santtos "],
 "njkz3koptcxiqb4dzviefw6u":["lukiusa","lukiuså🇻🇪🇨🇦"],
@@ -1903,5 +1903,18 @@ var lu=(function(jsonp){ if (typeof lu==='function')lu(jsonp); return lu=jsonp }
 "pzdfyioe65yl5lzvcq5kkikn":["luisdavidromero","DrDavidRomero.eth"],
 "fr27i4vetsnegjcdg3ajnc5s":["lucky888","888"],
 "zhqxd7sbwlbamm2fcprwxmfz":["luciathedragon.lukkan.gay","LuciaTheDragon"],
-"ru27hs66a7v3w5ekx7e7rwwu":["luquinhas","lucas"]
-}) // 2023-10-21T22:14:52.679Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ru27hs66a7v3w5ekx7e7rwwu":["luquinhas","lucas"],
+"fyj7nhtuc7nkhyulxv7473lv":["lucyinthe","ap"],
+"6hmzgezgw7oi4nd5eui3e4kv":"lufadon",
+"wedqn7b3tok2hqm7vlgfpkda":"luismddc",
+"cgqy7tjtutuqlduvd4dro4qf":["lutic.at","るちか"],
+"rtetusdd5munpqesu4v3xlc2":["lucacoralli","Luca Coralli"],
+"orwtzjtw5hax7hdtezjablwr":"lukeabennett",
+"6aqcpenxmkxx6hefdn57w6rr":["lucianomra","Luciano"],
+"d6paqqunybimr6ztph3im3cz":["lucasvandongen","Lucas van Dongen"],
+"qejmcrolpxybrxgypnmwf2bs":["luuizhenriquem","Luiz"],
+"5tsypvbyrhjf4c7w7tgzh2t7":["lucasgomes","Gomes"],
+"2cdrghqjabxmygtoorn52oao":"lumpy",
+"3jbrpumj4n6qnygkluwoevla":["lucasguilherme","Lucas "],
+"htfir7n6goeuyfckgai7pnlv":["lukemccormick","Luke McCormick"]
+}) // 2023-10-21T22:24:57.486Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

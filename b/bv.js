@@ -22,5 +22,7 @@ var bv=(function(jsonp){ if (typeof bv==='function')bv(jsonp); return bv=jsonp }
 "3mgrilf22atyc4mxcj24lljz":"bvk",
 "oi5ryg3gsmvledaynhjvso2z":"bvalosek",
 "rkpudrdmlxwukco6mt6qwqqq":"bvh",
-"jg6kavmcb6ivv5yqcx2rfatw":["bvnnylvx","bun⁷ @Komiket BCD"]
-}) // 2023-10-21T22:13:25.717Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jg6kavmcb6ivv5yqcx2rfatw":["bvnnylvx","bun⁷ @Komiket BCD"],
+"efceqyekilj6kkzbvvczwnen":["bvanvugt.com","Brad Van Vugt"],
+"u3so4s6af6a6j25j6vwgus3j":"bvitorio"
+}) // 2023-10-21T22:20:37.451Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

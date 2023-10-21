@@ -151,5 +151,6 @@ var zu=(function(jsonp){ if (typeof zu==='function')zu(jsonp); return zu=jsonp }
 "2xuvujowvnteseisjhszhcxh":["zuzu","Zuzu"],
 "k7uaechdx63zmw5dv26h5okv":["zutabo","🐸ずたぼろ.🍊"],
 "33afhpodu5pn62cf3kp7yekj":"zurich",
-"epouc7jtubjdv64mum274hv2":["zuzana-k","Zuzana Kunckova"]
-}) // 2023-10-21T22:11:09.137Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"epouc7jtubjdv64mum274hv2":["zuzana-k","Zuzana Kunckova"],
+"adtlgcefrqpspd6fg5pcx4ti":["zuckey","zuckey"]
+}) // 2023-10-21T22:24:57.503Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

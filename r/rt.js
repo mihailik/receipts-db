@@ -54,5 +54,6 @@ var rt=(function(jsonp){ if (typeof rt==='function')rt(jsonp); return rt=jsonp }
 "ueukoiqhkfdjxdyg2zvdg7tc":"rtj888",
 "4ltzku3bfcyjajwq75uzuth3":["rtl","rtl"],
 "hx6d55znvrhk4j6mqmed6bbf":["rtodkelly","New & Improved Schrödinger's Sneetch Belly- Now With More Belly!"],
-"pgsuspleg763mbx544cnehi2":["rtk10","riley"]
-}) // 2023-10-21T22:05:27.860Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pgsuspleg763mbx544cnehi2":["rtk10","riley"],
+"maiovsgesupfpcsmmn56rgfm":["rtaughrin","Ryan Taughrin"]
+}) // 2023-10-21T22:20:37.492Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

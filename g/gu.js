@@ -852,5 +852,10 @@ var gu=(function(jsonp){ if (typeof gu==='function')gu(jsonp); return gu=jsonp }
 "rtub2iyfwmfhazbydmgf3h4b":["guilipem","Guilherme Martins"],
 "epbwookki3bxnfrtd2eujzj2":["gustsax","Gustavo Santos Antunes "],
 "wfpcc5nhkrdugvsdm2xoiffx":["gurbans","Gurbans"],
-"ry6w2vxghctnjpsw5jb7plp3":["gurumdurup","구름두릅"]
-}) // 2023-10-21T22:13:25.775Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ry6w2vxghctnjpsw5jb7plp3":["gurumdurup","구름두릅"],
+"5qfiohy3un6nqxcvy7zwsiso":["guih","gui"],
+"otqn4lcxr5iucx4iviwhwtmw":["gutomalfa","Guto Malfa"],
+"y2fcv53knscx3xhyhbvgdvxv":["guimess","Catalin"],
+"xemldvr3qfnwoiio6uzz75sm":["guilbor","Guilbor"],
+"22qo6o6dm6cwuau5utrdmzlq":["guerratarot","Guerra tarot"]
+}) // 2023-10-21T22:23:21.949Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

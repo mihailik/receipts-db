@@ -5,5 +5,6 @@ var ux=(function(jsonp){ if (typeof ux==='function')ux(jsonp); return ux=jsonp }
 "pemqu3la24dmzfdgfsemhbiq":["uxchord","Lexi~ 🏳️‍⚧️"],
 "i5wbhrs2auyiz42gmstd6ny7":["uxftw","Christian von Uffel"],
 "52nzeyknt6ce4ktwpafg757h":["uxjoni","jonas 🫠"],
-"seztowbvcvzbvn7ifprzz5fg":["uxnerd","Elle"]
-}) // 2023-10-21T21:54:05.301Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"seztowbvcvzbvn7ifprzz5fg":["uxnerd","Elle"],
+"clx4un6skzv24anxo2ajq5ax":["uxderrick","Derrick"]
+}) // 2023-10-21T22:19:06.744Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

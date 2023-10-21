@@ -1450,5 +1450,16 @@ var te=(function(jsonp){ if (typeof te==='function')te(jsonp); return te=jsonp }
 "5wopa2hmyghj2ka6slefrzva":"test.barine.co",
 "xxe4r2rp6f63mc5syitw4bfh":["teasan","테산"],
 "fi32s7dx5vw62eiijapw6lfj":["technews","TechSky"],
-"u7ojqz3wlcsdjrcz2dvlp56l":["tekla","tekla 💜✨"]
-}) // 2023-10-21T22:14:52.701Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"u7ojqz3wlcsdjrcz2dvlp56l":["tekla","tekla 💜✨"],
+"ktw7e6vfmr2ryrex3bp7y4kq":["techwiz","Conor"],
+"i2vyukqg63i4auitu2ajil5d":["teaqueen.io","Cana Le Fey✍️"],
+"bstb7cczp54o45x5wuie3lis":"tei.su",
+"4ml2cx2ckrgtczlfco2amtsh":"teddyross",
+"tu5i72gbkda3l4ntkduwze7l":["teresaone","Teresa One"],
+"aofukh73hnz45sgkgx3cgo66":["tetsuyak","もち"],
+"bfzxnsb2vbkw7z3uqxjzm556":["technologist","Dee"],
+"tx5qywhkkwfqibtg5vpzdy66":["teflonfong","TeflonFong"],
+"iji7asokyvhae4ftpqbebyqo":["tebeppler","Tamy"],
+"exy2ug6gotl3cn6cdlq3tvxq":"tengkorak",
+"kskeucth6zopsrslt2t47nau":["teemee.gay","티미"]
+}) // 2023-10-21T22:24:57.531Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

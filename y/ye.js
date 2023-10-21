@@ -124,7 +124,7 @@ var ye=(function(jsonp){ if (typeof ye==='function')ye(jsonp); return ye=jsonp }
 "knjinwhpqp3dx76hn4yym5g2":"yenaart",
 "kvfxa5ze4o7ygheeruqwzgnr":["yessulyee","예슬이"],
 "kxig3if3quy5bvucg6a6or74":["yetisyny","General Public"],
-"l2wspdc4hfpuz3oqk3et3pi7":["yeyeacorn","Rochelle🐿️"],
+"l2wspdc4hfpuz3oqk3et3pi7":["yeyeacorn","Rochelle🐿️ | Artist🎨"],
 "l5ujblgipmj5uk4d4vfgc6u6":["yeti-detective","Dumb Cumster"],
 "l6togunna7p542kjhuwu46bb":["yetnalsaram","yetnalsaram"],
 "lbjbrvnn4jvpwqprjdnjuodg":"yekiyedone",
@@ -317,5 +317,6 @@ var ye=(function(jsonp){ if (typeof ye==='function')ye(jsonp); return ye=jsonp }
 "pkhms2lyjm7kktoyquygu57m":"yebs",
 "gogddgfszfkhcextfmilgny2":["yemi","Yemi Adegbite "],
 "dhwjhwiizbnd7mu6uz7de3b7":["yeccy","Yeccy"],
-"x3ldid27dakodikyex42royy":["yeoril","여릴"]
-}) // 2023-10-21T22:13:25.590Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"x3ldid27dakodikyex42royy":["yeoril","여릴"],
+"idxsekoknue4yhf4irj6cm26":["yenman","Alexey"]
+}) // 2023-10-21T22:24:57.533Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

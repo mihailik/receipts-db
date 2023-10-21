@@ -99,5 +99,6 @@ var py=(function(jsonp){ if (typeof py==='function')py(jsonp); return py=jsonp }
 "wslbej7xbs5a6fdk5oiomwqt":"pychey",
 "ksxr5wfpzzycm3lipg7fcshb":"pycine",
 "ee7opjzv5xesan4yu7cvifr4":"pyro1121",
-"qydcxxn552v4gtzw2pxp62op":["pypytkn","piyo🐣"]
-}) // 2023-10-21T22:13:25.776Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qydcxxn552v4gtzw2pxp62op":["pypytkn","piyo🐣"],
+"koxtvdazih6pyaqummsghym6":["pyma.uk","Pyromaniac Mariner (Jei)"]
+}) // 2023-10-21T22:20:37.429Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

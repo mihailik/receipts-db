@@ -102,7 +102,7 @@ var mc=(function(jsonp){ if (typeof mc==='function')mc(jsonp); return mc=jsonp }
 "i5l7xqryaxweofhtpjgaeezr":["mckerelkitten","반건조 꼬등어"],
 "iecfp5pwaxc4r74cxgkmaodu":"mcsquared",
 "igchofebqkksgwoxkvr4buin":"mcnyers",
-"iovupivofimilyf56rdab7cf":["mcantuaria","Mile Cantuária"],
+"iovupivofimilyf56rdab7cf":["mcantuaria","Mile Cantuária (revisora com agenda aberta)"],
 "ip4hr5lmljzjzwqe7h6jjaij":["mcnultyrulez","Daniel A. A."],
 "issam5pibqhi7bjborzndhg7":["mcci","maroca "],
 "iwpilavnngvjjwnzx2xgzszo":["mchadley","Michael Hadley ⚾️"],
@@ -365,5 +365,7 @@ var mc=(function(jsonp){ if (typeof mc==='function')mc(jsonp); return mc=jsonp }
 "w3xevyycvef7y4tqsojptrf5":["mcspocky","McSpocky™"],
 "r2ffsv42xhwe22xhdmzkmhtc":"mcfjack",
 "xhoyx2v5z7b63x77bkyjcuoi":["m-c-y-n-h","えくすと！"],
-"hjli3dqxee5jfaagnlynzg2r":["mcwn.dev","James McEwan"]
-}) // 2023-10-21T22:13:25.769Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hjli3dqxee5jfaagnlynzg2r":["mcwn.dev","James McEwan"],
+"d5r2rslpwl3dx43pbiy5iluz":["mcoutts81","Martin Coutts"],
+"ooephefmwn2fw4vmohvjv2xy":["mcianca","Mark Cianca"]
+}) // 2023-10-21T22:23:22.076Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

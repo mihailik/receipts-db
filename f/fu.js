@@ -689,5 +689,12 @@ var fu=(function(jsonp){ if (typeof fu==='function')fu(jsonp); return fu=jsonp }
 "iiesqlhwnvblioxq2f7nh32q":["futureofai","Jeremy Wilken"],
 "mtfwymx4ebsvobqzcqfkyqs6":"fuka",
 "25uvtarqeiksewbuiv6qa65e":["fullstackeric","eric"],
-"jejeppqxf3b7gjnbzybe7rn6":["funkshop1","とっとこカメ太郎"]
-}) // 2023-10-21T22:13:25.751Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jejeppqxf3b7gjnbzybe7rn6":["funkshop1","とっとこカメ太郎"],
+"ey6yofvq3v3vurfvl2tt4kpa":"funkwalrus",
+"meemwzlrnsyw2v4q5ehhhrqb":["fuffy","Fuffy"],
+"xlzi4okmrx57bjhddmhwabmg":["fumiaki","Fumi"],
+"ytffzi5rt3vmoxga4aw3dpfa":["funtail","妖怪帽子"],
+"7xaq4dwiajnagpeaspbixul2":["furkandursun","Furkan Dursun"],
+"74eawkfsxyixyztq7lnxbqql":["fuckbluesky","fuck bluesky"],
+"3l43hdkb5ihwl6sva4y6z5uu":["fujo","rose"]
+}) // 2023-10-21T22:23:22.062Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

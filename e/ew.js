@@ -46,5 +46,7 @@ var ew=(function(jsonp){ if (typeof ew==='function')ew(jsonp); return ew=jsonp }
 "mp3ic75cfokkt5qkr3p2jsml":["ewr","Eugene Roddenberry"],
 "m2ljmjn6xxuzrnmmrztajj4r":["ewilliam","William Albright"],
 "ipabp5zmquggoeqq76szqrnc":["ewoc","ewoc"],
-"m3sanaxpeaztfrxu2ylvex7c":"ews"
-}) // 2023-10-21T21:32:58.460Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"m3sanaxpeaztfrxu2ylvex7c":"ews",
+"wl6lpuyh4ds62ylwzuebuolv":"ewarysta",
+"vxv5ihr472do2sgtvr3igc2d":["ewertonfernandes","Ewerton Fernandes"]
+}) // 2023-10-21T22:23:22.009Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -292,7 +292,7 @@ var ve=(function(jsonp){ if (typeof ve==='function')ve(jsonp); return ve=jsonp }
 "kjeh7hqjirhmpod2x4hwmtmb":["veraformego","rach 👻"],
 "kllffyofecoqxo4d5b3txzwn":["vegettoex","VegettoEX"],
 "knrdyvluyzqdsgbdkv6u7jx5":["verena-xyz","Verena🦋"],
-"kpxj7utcy6mjv4rmzitnnrmv":["ver.ooo","Oliver Gould "],
+"kpxj7utcy6mjv4rmzitnnrmv":["ver.ooo","Oliver"],
 "kqibqgntakqb3w2mwsetoam6":["vendelavrensk","Vendela Vrensk Illustration "],
 "kqppgzic2c42pywnhntesn7d":["venndiagram","guy named Mark"],
 "kqqdzwfn6vjobq2o3cqx3nbm":"vertspy",
@@ -789,5 +789,9 @@ var ve=(function(jsonp){ if (typeof ve==='function')ve(jsonp); return ve=jsonp }
 "5rknbvsm7c2gq7yaklprtkzz":"verooo",
 "zfujcfbdeicfwyflu7zytk4s":["velo","tj"],
 "cnwsf6e5s254kafv4djoev6x":["vertebreaker","Joseph"],
-"u375z5xieq42x7pklvocw7yy":["venomm","베놈입니다"]
-}) // 2023-10-21T22:14:52.690Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"u375z5xieq42x7pklvocw7yy":["venomm","베놈입니다"],
+"viragyw7rhk7dsub7oe3a5bo":"verolero",
+"nkmm55j4wvhcyqgfduqs6mrk":["verakurian","Vera Kurian"],
+"nzj6ieu2jqn2kwrhlfcuzhan":["vermont","Noah"],
+"hqkjez5sooxrp4om3g5j6pxt":["velgard","ولگرد"]
+}) // 2023-10-21T22:24:57.532Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

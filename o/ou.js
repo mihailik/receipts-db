@@ -183,5 +183,7 @@ var ou=(function(jsonp){ if (typeof ou==='function')ou(jsonp); return ou=jsonp }
 "hvoaqo4yzzvvn5et3q6xkmmq":["outoforder.bsky.london","故障中"],
 "pod3hf5hw2vd5pwo34mvg4th":"ouijamuseum",
 "jgro2jm4vurifpdqzanyg7at":["outrageouscat","Outrageous Cat"],
-"jkmutlefcyiivyk6mpz2rppj":["ouweis","Exilé de l’oiseau bleu"]
-}) // 2023-10-21T22:14:52.679Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jkmutlefcyiivyk6mpz2rppj":["ouweis","Exilé de l’oiseau bleu"],
+"zwthwdh27krsy6sknjy67dc5":["outperformance","Seasonality"],
+"tgjlll7jhozo55wjnif5wdu6":["ouroborus","Eric S"]
+}) // 2023-10-21T22:20:37.516Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

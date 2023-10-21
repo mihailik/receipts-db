@@ -81,7 +81,7 @@ var ru=(function(jsonp){ if (typeof ru==='function')ru(jsonp); return ru=jsonp }
 "5gsxtplcjyxcu2ypgpvvnt4v":["russelleupag.us","Russell Kealoha"],
 "5guar4w3guzjxr63jkdaw2qy":"ruffledbygrace",
 "5jtgaihspzggjwh7nidh7pxb":["rumple31","Rumple31 "],
-"5jwzafi4gf3po3sckhcm5frd":["rurugly","ruru ✨"],
+"5jwzafi4gf3po3sckhcm5frd":["rurugly","ruru ✨ twitch.tv/rurugly "],
 "5jzyyw46chwvovx4ywmc6372":"ruxpin",
 "5kn3g5gkgifnfqnicejzhxg7":"russellworthparker",
 "5ktzcbff36eo2im2yrpk2t4z":["ruka","Ruka"],
@@ -200,7 +200,7 @@ var ru=(function(jsonp){ if (typeof ru==='function')ru(jsonp); return ru=jsonp }
 "dg62wrqcqnawcv5api4xbu3p":["russimages","Russimages"],
 "dhgz7j7k7o6oihsrcvp6i4el":["ruedigerrabe","RuedigerRabe "],
 "difsfxub46mdimj7wccloke6":["rullur","RULLUR"],
-"djmmy3mazgiwabdagflqb7kd":"rubyr",
+"djmmy3mazgiwabdagflqb7kd":["rubyr","ruby（本を積むアカウント）"],
 "djxlerzc6ilh33pf4wyd5rqx":["rungemaille","rungemaille"],
 "dn2bsg2krqg77ojjlz5wirtf":["rumblestiltskin","Rumblestiltskin"],
 "doz52imj72n6klb5dh2hxmm5":"runnertobi",
@@ -864,5 +864,11 @@ var ru=(function(jsonp){ if (typeof ru==='function')ru(jsonp); return ru=jsonp }
 "eirflh7ihrpogzkhf3bfik7a":"ruizehung",
 "62dmc3lh3m3onyxqu4am6orn":["ruhee","ruhee"],
 "loe5k6vu5cci26teltnrfwcy":"rugydp",
-"pe7rhpjcweip4fb64lbuvapk":["rumpumpel","Rumpumpel von Err"]
-}) // 2023-10-21T22:14:52.634Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pe7rhpjcweip4fb64lbuvapk":["rumpumpel","Rumpumpel von Err"],
+"qtchs42qs3hrgicxrqjbtba4":["rukes","rukes"],
+"jlfe35dzp27zjzcvdfi6bs7w":"rundull",
+"lr36vjbkidi3jqhlahqokh6d":"ruthpollard",
+"qcbtqdxhgv5wm2bgzh7seqoc":"rustyparker",
+"deul7brthw7s6xxjidv4v6aj":["ruebencarl","Rueben "],
+"r366cp2k42tjtdtadaagn4xr":["rupali","Rupali Bhatkar"]
+}) // 2023-10-21T22:24:57.517Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

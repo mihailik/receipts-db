@@ -25,5 +25,6 @@ var ue=(function(jsonp){ if (typeof ue==='function')ue(jsonp); return ue=jsonp }
 "kuyc64n77bm6rsbaw2gkgq63":["uehara","Masayuki Uehara"],
 "q3ekyimqitxzcn6c23munuyp":["ueda","ueda"],
 "irobcyfedvhw76wlp5dts5cn":["uedagrill","UedaGRILL"],
-"lxrpe3rpeves36rechswiy2a":["ueyayugo","ゆー｜you"]
-}) // 2023-10-21T21:20:14.035Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lxrpe3rpeves36rechswiy2a":["ueyayugo","ゆー｜you"],
+"bxb5scnpjfn6d3rkdyzx7s44":["uemue","uemue"]
+}) // 2023-10-21T22:20:37.415Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

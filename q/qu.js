@@ -637,5 +637,7 @@ var qu=(function(jsonp){ if (typeof qu==='function')qu(jsonp); return qu=jsonp }
 "3nzd73ki56johoi3uqha5m4c":["quotematic","The Quotester"],
 "nvqsxaibcwtcysem3uia3l4b":["queerbillydelux","Brandi Lynn 🏳️‍🌈🏳️‍⚧️"],
 "ap5gt27fz3sqzewcohovjlkn":"quiteriakelly",
-"45kxnm4fmsuufplez4ucdhlg":["quentinvespero","Quentin Vespero"]
-}) // 2023-10-21T22:14:52.681Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"45kxnm4fmsuufplez4ucdhlg":["quentinvespero","Quentin Vespero"],
+"hvsbzche3g2zjhern672gxl3":["quamen","Gareth"],
+"l2lgprq6gfcdbueuuz2mfoop":["quasicomfort","kurwa barbara"]
+}) // 2023-10-21T22:24:57.466Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

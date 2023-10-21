@@ -258,5 +258,6 @@ var ps=(function(jsonp){ if (typeof ps==='function')ps(jsonp); return ps=jsonp }
 "opl7dhof4v43yrz2ylgvznkj":["psychephi","Psyche"],
 "stwpgkmksndwtf2hmrj7zdqp":["psbdc","Theodora (Theo) Lau - 劉䂀曼"],
 "cr2v4a7omuob6fq7rscgxzsn":["psylockheart.com","Pรץɭ๏ςкђєคгՇ 🌬🏳️‍⚧️"],
-"oudlfbfpz5fa2yj62buxtadr":["psy0ch","Psy0ch"]
-}) // 2023-10-21T22:05:27.840Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"oudlfbfpz5fa2yj62buxtadr":["psy0ch","Psy0ch"],
+"b2jpydfxfabwo3e6zjgwzmye":["psanchesjr","Paulo Sanches"]
+}) // 2023-10-21T22:17:41.309Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

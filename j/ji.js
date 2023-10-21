@@ -24,7 +24,7 @@ var ji=(function(jsonp){ if (typeof ji==='function')ji(jsonp); return ji=jsonp }
 "3s4ycir2onfjihppuxfkcep4":"jickle",
 "3tktgxj2kldaszm2og5gpcwo":["jinxykitty13","🖤🐈‍⬛🏳️‍⚧️ Jinxy Kitty "],
 "43umtxxfbzw55tqlzrhacvdj":["jimmydpooper","Jimmy D"],
-"467l27eylqydg353r4fn2rtr":["jimski","Jimski"],
+"467l27eylqydg353r4fn2rtr":["jimski","Jimski (derogatory)"],
 "46dpacu5zhyfclaxtw4bji52":["jinziny","진지니🎗️"],
 "47xfq7oqq5urhmjz342bqmb3":["jinxalleycat","Jinx Alleycat"],
 "4ej6vkni7qttzass5tm5nhss":["jimferno89","JimJam"],
@@ -625,5 +625,10 @@ var ji=(function(jsonp){ if (typeof ji==='function')ji(jsonp); return ji=jsonp }
 "sm5spovp4rvad7jvvlzafank":"jimgucciardo",
 "yhlptaolwrsjf7oymhukbzbj":["jimguerber","Jim Guerber"],
 "kociectrlswtzulgigut3djg":["jiamin","min"],
-"qh37d7ytkfyrftt2nelftgzz":["jigreco","J I Greco"]
-}) // 2023-10-21T22:11:09.185Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qh37d7ytkfyrftt2nelftgzz":["jigreco","J I Greco"],
+"bdongytx55ud4ifhrp5noxbq":"jibby",
+"ebavyr5uu5julzk22v3sgbn3":["jisforjoe","Joseph Kristoffer"],
+"u3tvnmghlj3mtbws6zuga6ed":["jimmybyrum","Jimmy"],
+"2stc25daeuzw5fmfmjxctvh4":"jimbob",
+"lx6qcagir6ujl2vpw4aqo6vv":["jix","z?"]
+}) // 2023-10-21T22:24:57.459Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

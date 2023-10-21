@@ -640,5 +640,12 @@ var yu=(function(jsonp){ if (typeof yu==='function')yu(jsonp); return yu=jsonp }
 "bkxss4aactf7st4ta3qfufpw":["yukinoki","のき"],
 "waup55elzmuvbtgeadtvqbs4":"yutakashino",
 "m7jvh5hldhbea4qwrn3ursij":["yumilus.com","ユミルス"],
-"kpk4zpbqrmbfthiafx2lkiuo":["yume86","ノジオ∣ライフブログ"]
-}) // 2023-10-21T22:14:52.697Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kpk4zpbqrmbfthiafx2lkiuo":["yume86","ノジオ∣ライフブログ"],
+"2dk4dy5kcjntqqowbri7mvlm":"yuyasakurai",
+"gnfyeighasro23os2fv5xovv":"yunartwk",
+"yieqyvnae46lv6rwp5c5p7om":["yuchimiri","yuchimiri"],
+"fdxzlgrq54j34qulnmfjhyum":["yunbluedaisy","ゆん"],
+"s5lb2uth2z7d4abrxdxxaaum":["yurischuab","yuri 🛸"],
+"6ov4qmbi2ydfjve6qarqq2v7":"yulinlee",
+"xe4okf5hh5f4seo6qd7iehpb":["yukaiux","Yukaiux"]
+}) // 2023-10-21T22:24:57.520Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

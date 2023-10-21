@@ -56,5 +56,6 @@ var zy=(function(jsonp){ if (typeof zy==='function')zy(jsonp); return zy=jsonp }
 "xyv3obld7gziy6oef3zmtvho":["zyklotomic","Ethan Kiang"],
 "gtzuddm6ppncotysentpvqkg":"zymocosm",
 "g4vde3bvbgy2uzzaiooehgxa":["zyx2k","Campbell M"],
-"uwxr6zbt3u5vh2u47vum5zuc":["zy.io","sam"]
-}) // 2023-10-21T21:58:31.884Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"uwxr6zbt3u5vh2u47vum5zuc":["zy.io","sam"],
+"ildvuror3smomer2kex6tvkt":["zyuuu","お肉の焼ける音"]
+}) // 2023-10-21T22:20:37.473Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
