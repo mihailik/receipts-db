@@ -91,5 +91,7 @@ var nf=(function(jsonp){ if (typeof nf==='function')nf(jsonp); return nf=jsonp }
 "zaxsz3fimb2xsdxr55jmsema":"nft3",
 "scraep2kgwce3n5fbrqknxa7":["nfc","yousef"],
 "qlmsj5ccgwbf3e7pa2qidumr":["nftsntv","NFTPlusTV"],
-"gdywozki3zshgxauug5liyku":["nflscores","NFL Scores"]
-}) // 2023-10-22T16:28:43.814Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"gdywozki3zshgxauug5liyku":["nflscores","NFL Scores"],
+"wewzqawylcsukps6ka7j3mgy":"nfollin",
+"hxucy45r3bzr3vle22focqpj":"nflxshaki"
+}) // 2023-10-22T18:42:08.106Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

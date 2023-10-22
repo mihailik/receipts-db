@@ -509,5 +509,9 @@ var eu=(function(jsonp){ if (typeof eu==='function')eu(jsonp); return eu=jsonp }
 "zuifre3wdg5zvvtrm67hgwsa":["eugeneugen","Eugen Korda"],
 "nwsaqnptwjekhst3nzhhkdu4":["eueraovini","Vini • hostess del fin del mundo"],
 "ifjxyftjswhy3udx5jozbvr4":["eunews","European News 🇪🇺"],
-"nvl7uifpyw2quw6sl5xlkp6c":["eumeamo","Eu Me Amo "]
-}) // 2023-10-22T17:03:05.490Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nvl7uifpyw2quw6sl5xlkp6c":["eumeamo","Eu Me Amo "],
+"o5kx4uxkrwhuykuhv5g3vaje":["euemviado","Sid"],
+"qhm3f2qr23myovlnwe72jvfp":["eurafabarbosa","rafael"],
+"6wiz62soht7nstayberifcdj":["eujay","Jef"],
+"vjet4gcsehseq3nqyfhxd6by":"euarielg"
+}) // 2023-10-22T18:26:32.943Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -482,5 +482,13 @@ var ts=(function(jsonp){ if (typeof ts==='function')ts(jsonp); return ts=jsonp }
 "muqmeouzzoz2qe2rtiu3ui4o":["tspell","Tim Spellman"],
 "n5s4kxohwvoistjh65mgttqz":"tsugu",
 "3sbhjxdrkkgdn5ts3znjdv7t":["tswitherspoon","Sujin 수진 Witherspoon"],
-"2yrcq4oyd3k3ul3lnmx6ofd5":["tsundokku","tsundokku"]
-}) // 2023-10-22T18:15:16.269Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2yrcq4oyd3k3ul3lnmx6ofd5":["tsundokku","tsundokku"],
+"ku76h2x3l54fq267yw247oip":["tsubasa-nu","つばさ"],
+"n7e2arcdlc52qgm6peuear72":["tsriram","Sriram"],
+"qsu6forqte4eoedmc5skqgv3":["tsukiokka","月丘"],
+"43rwwbmeiptgf7ya55ucfsdf":["tserber","o, цербер"],
+"rt4tjb73nwrds2z43j3ts4ay":["tsuyogoro","tsuyoyo"],
+"7cp5i4mjc2ljw6smji3kstii":["tsukibo0805","ts0805"],
+"vanan4d2uaswsbpb4ccthcrn":["tswagg821","B1G SZN"],
+"gcxgpubosa2ox2s6pykjeymh":"tsm88"
+}) // 2023-10-22T18:37:26.092Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

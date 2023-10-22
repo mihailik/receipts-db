@@ -98,5 +98,9 @@ var bg=(function(jsonp){ if (typeof bg==='function')bg(jsonp); return bg=jsonp }
 "7rczgjsklfanlh3wzhe4c2md":"bguwhee",
 "ijk2lhoqv4cwvmab5en267v7":"bgallas",
 "snrb2ck2rt7y5elf5cpmjr77":"bgalvin",
-"umpq73vby6cpgsfddvasdyaq":["bgxonly","BGXonly"]
-}) // 2023-10-22T17:01:25.597Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"umpq73vby6cpgsfddvasdyaq":["bgxonly","BGXonly"],
+"fy2x6y6rfa6dt4ywrrweevl7":["bgagnon","Bruno"],
+"uyosbb376vbvfsa742nie73q":"bguillaume",
+"4uche7zj5jth45bv7cig2n7y":"bgilmore",
+"ffnhu26iggv5g5excfshcusc":["bgwfans.com","BGWFans"]
+}) // 2023-10-22T18:42:08.166Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

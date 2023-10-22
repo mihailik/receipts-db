@@ -323,5 +323,11 @@ var ss=(function(jsonp){ if (typeof ss==='function')ss(jsonp); return ss=jsonp }
 "e6txylrmvw3lf5axyske25jg":["ssedaaa","SsedaY"],
 "zqdtcc3dt5yphqbbg5wwrakp":["ssomossomo","얌진"],
 "h22kwtz6ct3perjorimgx3z4":["ssapphira","SSapphira"],
-"oeabiaj3u32qswqnnun37zym":["sslucasb","Lucas Barros"]
-}) // 2023-10-22T16:56:06.904Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"oeabiaj3u32qswqnnun37zym":["sslucasb","Lucas Barros"],
+"374ys6bvpdphmionalgw3jfq":"ssafadi",
+"dn2yxvp6eqzcasiyg3tg2saw":["ssugarpinee",".pinecone"],
+"ugol4zptcumz44ooc4swwfpq":["ssjester","Веселковий слимак"],
+"fkz43txfttbl7merqols5kza":"ssx3000",
+"e5v43ca2e3oefyw7e2tbvu6g":["ssaavedra.eu","Santiago Saavedra"],
+"hbx5ezwludpgp5dg74t7xrie":"sskylar"
+}) // 2023-10-22T18:35:48.952Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

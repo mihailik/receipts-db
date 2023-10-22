@@ -236,7 +236,7 @@ var is=(function(jsonp){ if (typeof is==='function')is(jsonp); return is=jsonp }
 "pd4wpwxs4jjlc3nwjovkva2o":["isai76","Isai76"],
 "pdkn7f3ueehsyox5xj5ckjtp":["ishura","Queen Ishura"],
 "pj4ywbxw7blrws7vjj4sxisg":["isawaduckonce","fred"],
-"plxe27lkwv5gelmg7n3wnrdc":"isaacgoated",
+"plxe27lkwv5gelmg7n3wnrdc":["isaacgoated","Isaac (✿ ◕‿◕)"],
 "ppi4cwc4g3varwrgnbsi2djv":"isenbaev",
 "puhesmfj5c7b7lb4khum6565":["iso","이소"],
 "pykb5tgfukyzfiv5ybyzjtlf":["isam","Sam"],
@@ -1019,5 +1019,16 @@ var is=(function(jsonp){ if (typeof is==='function')is(jsonp); return is=jsonp }
 "qfow5l5gpkiqjfyqi625nnqq":"ismetuluer",
 "iew7lerwjoxw7zh7o7gs76me":["isx","Isaac M"],
 "uj6w67t5j7mtnwmg2vdh7m2f":["islayblog","Armin (@islayblog)"],
-"7hprwagt3av2vaxohufjde5j":["isverism.rip","verism rip"]
-}) // 2023-10-22T17:03:05.570Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7hprwagt3av2vaxohufjde5j":["isverism.rip","verism rip"],
+"xzk3zdjs74amffpzzdnbdiiz":["ishnuvalok","Ishnu"],
+"p3gpbn5jtuzhtvseuj5n676x":"isamartinsc",
+"eyp7vl7kxr47xzzwy4inpejx":["isildurs-bae","Mari"],
+"ftdgi3zb2estl5sdbgc5zzji":"isegaro",
+"uyptvxufndtk3e5hg6jugel5":["ishikitokihiko","一色登希彦"],
+"o5fmcwjrhipoxqnvwo5qwzlm":["isturma","Isturma"],
+"hac74jojclbazrd7kiopggos":["isakorede","Isa Korede "],
+"xbmt5qbdezm7lbkiz4zvgitq":["isvdorv","dora"],
+"7xvbcukfgowwg7omdzptbruy":"isthisthingon",
+"osdci4bzmmeazescv5qg2tst":"islander6",
+"zimagidmz5hm76iozoogm6vl":"istiak"
+}) // 2023-10-22T18:40:28.530Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

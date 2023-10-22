@@ -191,5 +191,6 @@ var ct=(function(jsonp){ if (typeof ct==='function')ct(jsonp); return ct=jsonp }
 "re4h474w4xrmkjg64ou45xsn":["ctemi","CTEMI"],
 "xsrbz6wactf5zb4nyqgfyd7a":["ctcat","hyperfocusing on everything"],
 "m2jffi2ixk2q5rny7e5sdi5f":["ctek","cindy"],
-"pl65vmrapqxncuidzvduap4w":["ctyankeesfan","Maggi (l'enfant unique)"]
-}) // 2023-10-22T17:06:42.823Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pl65vmrapqxncuidzvduap4w":["ctyankeesfan","Maggi (l'enfant unique)"],
+"qtjf4dyhw2tmjel27osl277z":["ctucker","Curtis Tucker"]
+}) // 2023-10-22T18:42:08.031Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

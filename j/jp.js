@@ -409,5 +409,11 @@ var jp=(function(jsonp){ if (typeof jp==='function')jp(jsonp); return jp=jsonp }
 "6hxqndqhxjvvsaxl76xvypmu":"jprendergast",
 "gz5dwblhj4qtzecyedxtb6o7":["jpotisch","Joel Potischman"],
 "wywnkdrm35ljd3fjdqib4god":["jpdoane","Jon"],
-"cb6sz5sonqiucjh4mioom7o5":["jpoverington","John Overington"]
-}) // 2023-10-22T18:15:16.327Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"cb6sz5sonqiucjh4mioom7o5":["jpoverington","John Overington"],
+"37ce562q34w5fvftzczrthwv":"jplpereira",
+"geaxaycetzz2kmzlh5vwj6fl":["jpmasclet","JP MASCLET"],
+"u6bi5d3md4f7vbpzhxwlcm7f":"jp4321",
+"lzjicoanp7ujxfwlmweizdd4":["jpescada.com","João Pescada "],
+"6uvdngi6nu6adnmda2lp5cnr":"jpcafe",
+"wf6pywr6i25vfxnztoiuaztg":"jp311"
+}) // 2023-10-22T18:40:28.187Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

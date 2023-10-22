@@ -343,5 +343,15 @@ var jc=(function(jsonp){ if (typeof jc==='function')jc(jsonp); return jc=jsonp }
 "elki7efmzccsur6ac7fooknn":["jcrembao","JCRembao"],
 "w3vdwi7prn2jqqnqf5gqeb5q":"jcb3",
 "ag6pat4ek5j3hazdzmfjujqf":["jctheclemente","JC Clemente"],
-"s3xzxh3jug2kfpiv3kmaguw2":"jcbugay"
-}) // 2023-10-22T16:52:49.133Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"s3xzxh3jug2kfpiv3kmaguw2":"jcbugay",
+"l3mqbemiot6cyjkzc2nahb62":["jcuneo","John Cuneo"],
+"tivr4j6m223m7assotlihp7m":["jcclave","JC Clave"],
+"h2qnisxuf2y6mtwqbspqhyd6":["jcross01","Johncross Moses-Madu"],
+"z47fwnseips7r7kxpmwnh4hg":"jconguy",
+"sqfo3arw5xz4mapotmgmgr5e":["jcbedgar","Jacob Edgar"],
+"uuwb5sfopwkk6o7zpollfpeh":"jcauthor",
+"p7f5khm2ae4pq3tozdg5xqvc":"jchaput",
+"ug652lpbf4l7sa6d5udktmo7":"jcsellars",
+"n3ag5vvgxqbclq2yfmqyobaq":["jcmayartist","Jay May"],
+"y74ej4mlupb6rp2vvctytpb4":"jcrom"
+}) // 2023-10-22T18:42:08.091Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

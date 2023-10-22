@@ -148,7 +148,7 @@ var kh=(function(jsonp){ if (typeof kh==='function')kh(jsonp); return kh=jsonp }
 "vmzuu7fd4flb7gzc3ue2ajn7":["khorax","Khorax Droshammur"],
 "vzy4pxvvmcukreifik7oxmaz":["khorbatsho","☀️"],
 "wapu4afmbv6nxtmwdqamkj44":["khaizen","•°Khaizen°•"],
-"wbbluibiy64q32avrll7b2te":["khamisu","Khamisu"],
+"wbbluibiy64q32avrll7b2te":["khamisu","Halloween Yeen ➡️ BLFC!"],
 "wi72isfxnexewvimytsithfp":["khannadarkcloud","Khanna Darkcloud"],
 "wp4aoqmoetrxcah4jddijme5":"khaledo",
 "wvy36w4de7uxf4tm7ferv62s":["khorish","Audi HD"],
@@ -506,5 +506,8 @@ var kh=(function(jsonp){ if (typeof kh==='function')kh(jsonp); return kh=jsonp }
 "c2kai2cb2eatideh2jw2lxid":"kharliemunroe",
 "flcx3vpxcerijhlfzkrmj4by":["kharris","Moose"],
 "s3uwpyij2gmahjspprukneap":["khengabad","خِنگ آباد "],
-"ncj5q4rok7s6bqlto7l4p7ij":"khobozaur"
-}) // 2023-10-22T16:54:23.350Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ncj5q4rok7s6bqlto7l4p7ij":"khobozaur",
+"qbbncshhnmwd6d5p2cf4uyif":"khay6982",
+"z7z5w6dppbt46zc4ioh4vlrh":["kha","KHALID"],
+"uvxdspcihrqcjb2ngegdo5f7":["khreate","khreate"]
+}) // 2023-10-22T18:42:08.233Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

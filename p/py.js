@@ -160,5 +160,8 @@ var py=(function(jsonp){ if (typeof py==='function')py(jsonp); return py=jsonp }
 "ecdophxenostxukxgr7jfvu6":["pyukumusou","Musou Enthusiast"],
 "55mqhsowc7v4kd4cunxjsdu7":["pyrasterran","PyrasTerran"],
 "4lp5zcsdowctgwkxds5dxm74":"pygmalion",
-"tmwy6vbvsllo6wrmdpgqo5sw":["pyxxie","Gwen"]
-}) // 2023-10-22T16:47:28.903Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tmwy6vbvsllo6wrmdpgqo5sw":["pyxxie","Gwen"],
+"24jmmgnrat5dbiqgq37r6yp5":["pyr","pyr"],
+"pbopbqmg5s6jrs2doyvovhoc":["pyreloop","Pyre"],
+"22ecchew73a7v3x4khtjdvic":"pyromorphyte"
+}) // 2023-10-22T18:30:09.240Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

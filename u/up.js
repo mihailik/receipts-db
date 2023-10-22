@@ -119,5 +119,9 @@ var up=(function(jsonp){ if (typeof up==='function')up(jsonp); return up=jsonp }
 "2plceuyalnx6xoi7exoutv7p":["uprootproject","The Uproot Project"],
 "zkp6cx44auxxc2dv6t757ht3":["upooorv","Rajesh Kirana"],
 "e5bzsryntvrp5t24buogk5tx":["upsteak","UpSteak"],
-"ihdqsc6n3cl5y44jiojbxwz7":["upresence","UPresence"]
-}) // 2023-10-22T16:59:07.944Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ihdqsc6n3cl5y44jiojbxwz7":["upresence","UPresence"],
+"yz52mtobz4n3j5u3dylsl6hv":["updates.mellysoft.com","Updates"],
+"xdjgbq3ozd45sr7cndjxcjxy":"upandrt",
+"samtwb365nhy66qmlzylvuxg":"upandb",
+"saaonr7rceg7fhgzcadk2vnx":["upstate","Upstate SC Web Design"]
+}) // 2023-10-22T18:37:25.910Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

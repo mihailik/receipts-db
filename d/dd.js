@@ -210,5 +210,9 @@ var dd=(function(jsonp){ if (typeof dd==='function')dd(jsonp); return dd=jsonp }
 "zhujghlpnczyr4mq5aicxucg":"ddqq",
 "vodyb24unvum4r6i3ba45isc":"dday0002",
 "6gouomj6f4pafbyb2lerptgk":["ddisciple","D.Disciple"],
-"kyhimi5fziakqbqpt72eq4gh":["ddlocks","Sarian M"]
-}) // 2023-10-22T17:01:25.714Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kyhimi5fziakqbqpt72eq4gh":["ddlocks","Sarian M"],
+"pptlbhbeke2s4l7njlox2nlh":["ddor202.art","ddor202"],
+"xgnxpmkullrtn44hynvp4h5p":["ddmagnas","Dave Brown"],
+"u2bv3slmu3qxsqmtp4auqwmd":["ddtj","dave"],
+"vod7bk7pkmtu5sqnuh2pxjji":["ddwardiswriting","Mx. D. D. Ward (they/them)"]
+}) // 2023-10-22T18:31:41.678Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

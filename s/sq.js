@@ -329,5 +329,7 @@ var sq=(function(jsonp){ if (typeof sq==='function')sq(jsonp); return sq=jsonp }
 "pwpqch6ikk7pu44urvhcvie3":"squad",
 "scplmkqogrlwcu2ncxgu5p57":"squiglord",
 "dtamnh3yxpozg5e76svjibfa":"squared",
-"br2a6t627uz23xhqhhh5pw7i":["sqlsocialite","Scott Stauffer"]
-}) // 2023-10-22T18:15:16.487Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"br2a6t627uz23xhqhhh5pw7i":["sqlsocialite","Scott Stauffer"],
+"gwv7i2gg6a2h7ruzeqautb3d":["squishei","Squishei"],
+"6b3tg2j4gwzpu4ftqdwlrhn2":["sqlmenace","SQL Menace"]
+}) // 2023-10-22T18:35:48.976Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

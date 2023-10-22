@@ -28,5 +28,6 @@ var zd=(function(jsonp){ if (typeof zd==='function')zd(jsonp); return zd=jsonp }
 "zvbzs34nbi7ymzqw5d4t3ksa":["zdanielz","Daniel Zoran"],
 "ltqigvqnkznv3d2kjkfqorqx":"zdenek",
 "dly6lqujpuhilcjz24bnzodt":["zdrojak.cz","Zdroják.cz"],
-"hsz75dix5hzbfdzrmwdc4yes":["zdftop","pedro"]
-}) // 2023-10-22T16:51:13.606Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hsz75dix5hzbfdzrmwdc4yes":["zdftop","pedro"],
+"kqrpaqvgfizgxcncbyosc7b2":["zdrowin","ちよ"]
+}) // 2023-10-22T18:28:16.574Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

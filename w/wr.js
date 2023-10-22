@@ -30,7 +30,7 @@ var wr=(function(jsonp){ if (typeof wr==='function')wr(jsonp); return wr=jsonp }
 "77drn4ucupten7vvxzj2mjzk":["wraithwave","Wraith Wave Radio aka CutieZirconia"],
 "7dkpgwxhlqrcz6aqxhntude6":["wrecklwj","jing 🍆 云深不吃醋"],
 "abfbh4dvdp5wzshlszsg6phr":["writelikeashark","Joe Butler"],
-"af54ik243y4xdqdwo57oy5ns":"wrightworth",
+"af54ik243y4xdqdwo57oy5ns":["wrightworth","🗝"],
 "axhtfjcw7ibcvtolhlvlu72l":"wrightlights",
 "axwikioekwzfuzea2ft7trwz":"wrtlbrmft",
 "ayn4kkufjoibcxekxgjpi5qg":"wrenouttatime",
@@ -357,5 +357,9 @@ var wr=(function(jsonp){ if (typeof wr==='function')wr(jsonp); return wr=jsonp }
 "xteromxdpw5fbiwqfskinodc":"wr19026",
 "l7k5o5pzhieqk5k6nhnmpnfm":"writergip",
 "7kvdtmxmah7z7zf2swwxio7a":["wriley","Wriley"],
-"kummamr7u747e4axacy6qedq":"wraa"
-}) // 2023-10-22T18:15:16.524Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kummamr7u747e4axacy6qedq":"wraa",
+"bv5ol37h5yydqjabepj6ocnd":["wrongheaven","Rebecca "],
+"j5msi5psqyx5iic25n776v2g":["wraithpike","Varuna"],
+"p3hrhigxnev6xoqicejamppm":["wrrb","Walter Rowland Butler"],
+"faerunlvntgqzx6s6fejpucu":["wreath","wyatt"]
+}) // 2023-10-22T18:35:49.028Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

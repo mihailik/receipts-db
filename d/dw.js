@@ -180,5 +180,7 @@ var dw=(function(jsonp){ if (typeof dw==='function')dw(jsonp); return dw=jsonp }
 "lfy3ncuxma3tcaqpam6t3fxy":"dwolsen",
 "naleiqcspkcbusfaeparljr4":["dwponirakis","Dimitri W Ponirakis"],
 "75upqvmq3n32oyikyntrqz7g":["dwyanemiami03","Nao"],
-"qrbx344nuwilub2qyk2ekfbl":["dwang.dwoliveira.com","Pedro (Dwang)"]
-}) // 2023-10-22T18:15:16.525Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qrbx344nuwilub2qyk2ekfbl":["dwang.dwoliveira.com","Pedro (Dwang)"],
+"daeyhsk3i2xds3nck77z7kbc":["dwightfairfield","dwight gaming"],
+"w25usr3i3izoem7qngyhy46u":["dwippo","Dwippo "]
+}) // 2023-10-22T18:31:41.652Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

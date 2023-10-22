@@ -29,5 +29,6 @@ var o0=(function(jsonp){ if (typeof o0==='function')o0(jsonp); return o0=jsonp }
 "utxwd5ouod5ekrmucyyqde7z":"o111",
 "4rmecprlgz3jys6ray2oevm3":"o1mikel",
 "g7qqksj3trakhmlwzx34ag6p":["o3o","가윤루연하설서하"],
-"u5iyjbwsrsy4yw37yjxfsrmk":["o3ekb","🍒"]
-}) // 2023-10-22T17:06:42.713Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"u5iyjbwsrsy4yw37yjxfsrmk":["o3ekb","🍒"],
+"g42siot65sx3gnftuoa2oo5h":["o3x","OHYAMA,Yoshihisa (大山佳久)"]
+}) // 2023-10-22T18:24:58.771Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

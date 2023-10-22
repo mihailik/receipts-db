@@ -6,7 +6,7 @@ var yz=(function(jsonp){ if (typeof yz==='function')yz(jsonp); return yz=jsonp }
 "cyebadbh26ijdg5ne6xgwmsr":"yzza",
 "few3y267nxjc3euisyjp4fpl":["yzermanszn","Beer League Chump"],
 "hxgefdaglez7i2gwkrru7uk5":["yzsdk","ゆず"],
-"rav76o2oghq6nxnj4olcsqcg":"yzaquill",
+"rav76o2oghq6nxnj4olcsqcg":["yzaquill","Aquill 🌸"],
 "5wrfzadmlkkfqhfp25mcp7sp":["yzox","イゾックス（YZOX）"],
 "2h5kkmojeplofbfymbnozwhp":["yzpdx","yz"],
 "6bxg6oodfsmahzlf66gosum4":["yz3ml","ゆずみそ"],
@@ -26,4 +26,4 @@ var yz=(function(jsonp){ if (typeof yz==='function')yz(jsonp); return yz=jsonp }
 "w5l3r33oh3gmbvgzab62o3ya":"yzg",
 "nei4zgu3p42ourcxny4x2rj5":"yzhalia",
 "web77nm3bgxvario252edhyn":["yzmit","有馬"]
-}) // 2023-10-22T14:07:22.766Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-22T18:26:33.121Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

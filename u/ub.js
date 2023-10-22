@@ -81,5 +81,7 @@ var ub=(function(jsonp){ if (typeof ub==='function')ub(jsonp); return ub=jsonp }
 "6hwfkahuidxrcr6p4coutjh7":"ubeeubeeubee",
 "feekdnrz5hyld3ejflq5vlab":["u-b","U-B"],
 "tzakqd2q76xl6ldk6k5em227":["ubdc","Urban Big Data Centre"],
-"jeogb5aaq3r3s7je6jy2v5m6":["ubereats","UberEats"]
-}) // 2023-10-22T15:35:54.550Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jeogb5aaq3r3s7je6jy2v5m6":["ubereats","UberEats"],
+"lnlxcajkwv6ihxos3rri63rd":["ubersolver","Meeko Comma Sneeko"],
+"ftp4frddtbsv56m3f42ks2ma":["uberbot","Ben"]
+}) // 2023-10-22T18:22:48.302Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

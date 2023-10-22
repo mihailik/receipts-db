@@ -177,5 +177,7 @@ var jf=(function(jsonp){ if (typeof jf==='function')jf(jsonp); return jf=jsonp }
 "4amlasu3yzy5aj55dnv2nuul":["jfclare","clare"],
 "6kpq4n2ploaesvsivm3cpms3":["jfchagas","joão"],
 "rrqsnvudg5a6jfetjo66c2is":["jft","JFT"],
-"myhib6gis55hz3vomtc6oysx":["jfc3","John F Croston III"]
-}) // 2023-10-22T18:15:16.468Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"myhib6gis55hz3vomtc6oysx":["jfc3","John F Croston III"],
+"34egq76qfeeo5r2xbscmbxkj":["jfetspeaks.com","JFET"],
+"yn7bbwxhks4y4exv3ph3xso2":"jfoote02"
+}) // 2023-10-22T18:40:28.511Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -316,5 +316,14 @@ var us=(function(jsonp){ if (typeof us==='function')us(jsonp); return us=jsonp }
 "pvwtmd3vmibb5g5r75zwntt5":["ustinangelo","Sangelo"],
 "ymvau2xdnrd2wzihkfxpgi4g":["ustaiwan","US-Taiwan Business Council"],
 "uskoxffp27gfrhqxgufjgftc":"userless",
-"f6mlikztmvwig2znaeldtxte":["usokibear","Tahure 🏳️‍🌈"]
-}) // 2023-10-22T16:57:37.402Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"f6mlikztmvwig2znaeldtxte":["usokibear","Tahure 🏳️‍🌈"],
+"qe6flrh6ccblfflwm3wdwhu6":["ustornadoes","U.S. Tornadoes 🌪️ "],
+"y3xwchrnzeviinc4gqvoqp7q":"usagi-bunhead",
+"yrekdnx2xpenhorccqkqyibp":["userexperience","UX/UI"],
+"izuuoz22wu6ybhdgunltyszm":["usuallygloomy","Vee Liddell"],
+"zaqzosekkc5mrgewbtp6zwpz":["usefulwords","Karl Turner"],
+"2j2itsakajj2gonidi4box6b":"user52312234",
+"fqhe7pokyevuhydeolgg424v":"uso",
+"vy6b5alasop2wiierr77d5as":"useryara",
+"e64djj77r2wrsm2mf2jy62z4":["usabo","うさぼう"]
+}) // 2023-10-22T18:37:26.084Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

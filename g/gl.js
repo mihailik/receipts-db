@@ -790,5 +790,16 @@ var gl=(function(jsonp){ if (typeof gl==='function')gl(jsonp); return gl=jsonp }
 "r7xajtg22b72klej344u5rc7":"gliu",
 "dngfnhnazoeu4umpi2oyetnf":["glasscieling","Marcos Madrigal"],
 "5xwipeulspdnuhbhy4awnsp3":["gl1tchiron","Gl1tch."],
-"shjatdioldrvksrbntkhzgfy":["glaucoleal","glau✨"]
-}) // 2023-10-22T17:06:42.838Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"shjatdioldrvksrbntkhzgfy":["glaucoleal","glau✨"],
+"mrq3poufpukwjoce5dx5jjov":["glitterandgrime","Glitterandgrime"],
+"i7p5j7lyypdznorfxv7usbpd":["glasscoyote","X 🔜 Denfur"],
+"hggjdy6uox7sr66v3mrkqjy4":["glooomy","katie"],
+"ecexyv3j5rgk3vx2bqtzxsuz":["glhiro","It's Hiro! Raffle/commissions!"],
+"qkrtcjqut4keu7fu3ouai7wq":"glenn-sandoval",
+"jrvuon6xzswbfsifi56kenv7":["gleesonjack","Jack Gleeson "],
+"3ldmnxkl2estjmkoptp4mgjc":["glyul","구율"],
+"qofnwb3jh7myhgqtri5zng2r":["glinner","Glinner"],
+"jbs4dz7dbfechhsly76wmiqx":"glennh",
+"omsy5fqnfwplw2nfgurbykqx":["glasshanen","Arild \"Glasshanen\" Braathen"],
+"voh263xye3eqylal26pao4hu":"glimmergirl"
+}) // 2023-10-22T18:42:08.010Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

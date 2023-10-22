@@ -23,7 +23,7 @@ var kb=(function(jsonp){ if (typeof kb==='function')kb(jsonp); return kb=jsonp }
 "n2bjsulepmln7bjxbaohul7p":["kbtibbs","Sorry, recent years have made me real weird"],
 "nheuvonqbfjzyhgfsxp6aizr":["kbbirdy","Kbbirdy "],
 "no26hwkrejhjtd6bbo72tnpl":"kbabyscribbles",
-"ocicp7qslht756ydi6fjloyy":"kbriggs",
+"ocicp7qslht756ydi6fjloyy":["kbriggs","K. Briggs"],
 "pxlcfosztbhs434j4a3p4tne":["kbwolf04","Kayla Battle"],
 "qjdo2dtv4u45opeyrmhlqw44":"kbaroja",
 "qxagah6a4esoacpdgqf2k37p":["kballestrini","Kevin Ballestrini"],
@@ -125,5 +125,7 @@ var kb=(function(jsonp){ if (typeof kb==='function')kb(jsonp); return kb=jsonp }
 "fbiyxhsn3n4o3kpwyu7rbtld":["kblair","K. Blair"],
 "n3v7skzexhzbcimgpcs3hwct":["kbash","KBash "],
 "p36llkd6tffnaccygfwtu4g3":["kbys","ナショ林"],
-"wnlwyr2r5ibcsshokswjcncy":"kberberoglu"
-}) // 2023-10-22T16:21:36.645Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wnlwyr2r5ibcsshokswjcncy":"kberberoglu",
+"y4zt7nxojhedzdwlx3kqdrlf":"kbearart",
+"ml2pbam7iqzytn2mjwk527ik":"kblaes"
+}) // 2023-10-22T18:21:15.455Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

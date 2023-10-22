@@ -11,7 +11,7 @@ var dn=(function(jsonp){ if (typeof dn==='function')dn(jsonp); return dn=jsonp }
 "axr6erb3qa3ti2qezj2mjfvo":["dnlmc","@dnlmc"],
 "bqactizp2fgnzxe54ab5iygb":["dnpmkn.work","でんぱみ"],
 "c7orz6ycsmtaycssvgnqvss4":["dnapl","Dr. Elisa Bergslien"],
-"cndhueerlmi5hr3phaswatle":"dngrs",
+"cndhueerlmi5hr3phaswatle":["dngrs","\"Anatol\""],
 "cxlcemdvi63g7nmqschjlwsp":["dnslycnnctd","Alex Pittman"],
 "d4vce7es3n6imiulkrczxkza":["dnloportela","Cônsul de Pernambuco em São Paulo "],
 "dekcamj33b4raprbyvflrzkd":["dna50505","DNA-Five"],
@@ -147,5 +147,6 @@ var dn=(function(jsonp){ if (typeof dn==='function')dn(jsonp); return dn=jsonp }
 "ouz6zrfkn6yvpk7c4w3paq5l":["dnaeri","dnaeri"],
 "6ylfk55w3ulosmjovzbsgfce":["dndiscussions","DnDiscussions"],
 "qidpchr4ztqcoppf3zifn2b3":["dniproandkruchi","Dnipro & Kruchi"],
-"lamjpxxksfdhlphqtb3ni7tm":"dnaindy"
-}) // 2023-10-22T16:54:26.075Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lamjpxxksfdhlphqtb3ni7tm":"dnaindy",
+"2of2nqcqcxphstr43x33fj5m":["dnkin","dnkin"]
+}) // 2023-10-22T18:30:09.254Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

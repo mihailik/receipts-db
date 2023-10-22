@@ -15,7 +15,7 @@ var wd=(function(jsonp){ if (typeof wd==='function')wd(jsonp); return wd=jsonp }
 "v3jusx3zfulqnnd7gwexjnl2":["wdazayka","каруся жоска"],
 "wu6lizmtpfw3lvgpfz73v46v":["wdoomboy","Walter - doomboy 🐽 #pacifista #antifa (he/him)"],
 "x2olmtf7n6ju6cbjvwpqh53x":"wdncnu",
-"xcbksayppbefre5pbxsnr4z6":"wdclarke",
+"xcbksayppbefre5pbxsnr4z6":["wdclarke","Dubyedee Clarke"],
 "xd5ieiau3rynq5ay423sa5cu":["wdrptv","WDRP TV"],
 "xq3xwiwdha7325ucqg6hz2w3":["wdudatlonfa","Duder Dudre"],
 "yrqmsenafehhze56ojjcii6r":["wdormann","Will Dormann"],
@@ -50,5 +50,6 @@ var wd=(function(jsonp){ if (typeof wd==='function')wd(jsonp); return wd=jsonp }
 "wmtlvjcvszr3o637o3yiikr7":["wduque74","WillyD"],
 "ahrnnczbr42mdjtsfgkzduki":["wdoami","William D."],
 "nocuqg5c6znrmos2vkywt5f7":["wdforty","WDForty"],
-"vezk23ziubhyv4bp4r32tadm":["wda","Will Abr☭ms (Blue Arc)"]
-}) // 2023-10-22T16:42:32.727Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vezk23ziubhyv4bp4r32tadm":["wda","Will Abr☭ms (Blue Arc)"],
+"7kvmlp3zwui7gduavoj4kk3i":["wdave","\"Wandering Dave\" Rhee (he/they)"]
+}) // 2023-10-22T18:31:41.726Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

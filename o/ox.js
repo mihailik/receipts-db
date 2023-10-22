@@ -99,5 +99,7 @@ var ox=(function(jsonp){ if (typeof ox==='function')ox(jsonp); return ox=jsonp }
 "nyzet47k67ezysyk3qmyy33f":["oxo-yung","(튓터처럼 정보 업로드 중) 융@YUNG"],
 "mco5frfpmzrrr66zzx4ugc7b":["oxonium","Oxonium"],
 "6hihc3omvouiwixtynsh3kkf":["oxboxer","oxboxer"],
-"6jq7dp3l7cmbzkvofymxsdde":["oxefagner","Fagner"]
-}) // 2023-10-22T15:01:24.347Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6jq7dp3l7cmbzkvofymxsdde":["oxefagner","Fagner"],
+"kl5rl6jev2rrox6qjb2n3n7i":"oxyg8n",
+"36qq4i5tsigwftljlvthhxox":["oxyttocinn","lian"]
+}) // 2023-10-22T18:28:16.512Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

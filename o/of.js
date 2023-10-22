@@ -5,7 +5,7 @@ var of=(function(jsonp){ if (typeof of==='function')of(jsonp); return of=jsonp }
 "2vr7zbwhycy4y2nl4oon4agr":["offendedcyclist","TheOffendedCyclist"],
 "2z7yio3ak6yxglwn5d7efj2e":["ofernandoreis","Fernando Reis"],
 "3jvn24kieuoyzmqtqlthialx":["ofx360","ofx360"],
-"3oic6u3tecjiqpcodrnwlugh":"official2600",
+"3oic6u3tecjiqpcodrnwlugh":["official2600","2600 - The Hacker Quarterly"],
 "3zosw45jq7nuf2jds4qpzcoe":["offendedshadows","Jami Mumma"],
 "4nds6jeky7n77h5c7qtsv76t":["offbeatworlds","Stephanie Brown ✨ Artist on Patreon"],
 "4nolkh46olxzcjgm4q32wdda":["ofsuspensions","G"],
@@ -228,5 +228,8 @@ var of=(function(jsonp){ if (typeof of==='function')of(jsonp); return of=jsonp }
 "av34xvarxymk5walyuhpgaql":["officialkaro","KARO"],
 "xamhfkmbhh4u5xbrirfmdplf":["ofthewhale","Jonah"],
 "5kcsxracjuxiep6ddg4jnt4b":"officepinokichi",
-"ymupgsnpr47jxtyal3gyagz4":["officeact","Yasuhiko Makita"]
-}) // 2023-10-22T17:06:42.738Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ymupgsnpr47jxtyal3gyagz4":["officeact","Yasuhiko Makita"],
+"l2fge6s5oogeafz64jhbisfz":["ofird","Ofir"],
+"kkjpsasiw4vak7jxqpyyrflb":["officialmohamdy","Mohamed Hamdy"],
+"bhg4avoxsjthzjeubtazpg6e":"offpol"
+}) // 2023-10-22T18:35:49.038Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

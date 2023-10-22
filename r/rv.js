@@ -61,5 +61,7 @@ var rv=(function(jsonp){ if (typeof rv==='function')rv(jsonp); return rv=jsonp }
 "okf2f3awgpw3zpa3vmwubzr7":"rvdm",
 "3wdzgzfqbyorhrgxirsx7dr2":["rvmaika42","RV Maika"],
 "e2wqnd7vj433kpjky5lvgx5l":["rvbarber","Rick Barber"],
-"o7tij5nwijhcj7eoif7itymr":"rvncmd"
-}) // 2023-10-22T18:15:16.327Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"o7tij5nwijhcj7eoif7itymr":"rvncmd",
+"gnmke3ldlk7zefe2qiwrp6dm":["rvdinator","Reece is a Blue Sky User"],
+"gjslkymwut7qsnflkec6sdnz":["rvdh","Rens vdH"]
+}) // 2023-10-22T18:35:49.033Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

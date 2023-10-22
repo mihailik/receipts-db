@@ -434,5 +434,12 @@ var kn=(function(jsonp){ if (typeof kn==='function')kn(jsonp); return kn=jsonp }
 "vtdpxjbxyj6myck2clngdkhy":["knobknosher","Knob Knosher"],
 "fub6pmuursbn7onvfhm3t4bv":["knightofthelp","Knight Of The Living Podcast"],
 "js2we2pq4yizthkluhmoarxh":["knflct","Kev"],
-"l2dllefrd4rykkfdiktwn4kr":["knotbyte","Knot Gate"]
-}) // 2023-10-22T18:15:16.508Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"l2dllefrd4rykkfdiktwn4kr":["knotbyte","Knot Gate"],
+"f5l4y3qzqtf5kvf4xo3k7poj":["kng0","きんぎょ"],
+"wf6usxcwvgsmfduxxbhpyhgc":["kneena","Nina"],
+"sd4yfzse7rc56ufkhgy7dh6i":"kneutch",
+"uxh4mhhvlghbixlx4kf45mgy":["knightryder","Adam Knight"],
+"sxv46bmh6vee7zbd6zmcd6xi":["knightthehusky","Knight~"],
+"ranqcmujmr7srvnshemcr5rg":"knapptime",
+"hlrggswm3g23sk7fjwjql5no":"knightlamp"
+}) // 2023-10-22T18:37:26.095Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

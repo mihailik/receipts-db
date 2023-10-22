@@ -442,5 +442,10 @@ var js=(function(jsonp){ if (typeof js==='function')js(jsonp); return js=jsonp }
 "zm2o3wdm4cuo5u5eofnixtzf":"jseesel",
 "ykldnupdbt6ru6u57irxl53h":"jsson",
 "gtpqq3t6le65vwfz2obep3v4":"js48",
-"eddhixzqlm5x5tupck3e7ueb":["jsummersauthor","Jeni 🏳️‍🌈🏳️‍⚧️"]
-}) // 2023-10-22T18:15:16.350Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"eddhixzqlm5x5tupck3e7ueb":["jsummersauthor","Jeni 🏳️‍🌈🏳️‍⚧️"],
+"mevneflxikwszpcncu3x2muo":"jskii",
+"ebhtfh73272orhyv63b62c7h":["jsstevenson","james stevenson"],
+"wcofrqfjdngoh3pwu4ihkvfq":"jstutte",
+"zvxqs2qi4dxoicbbb6sacuw6":["jsdaily","JavaScript Daily"],
+"ubf7ga3ynodtbb6vd5oy3ibp":["jsouzaprimo","Jota "]
+}) // 2023-10-22T18:35:49.029Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

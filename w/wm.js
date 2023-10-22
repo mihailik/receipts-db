@@ -54,5 +54,7 @@ var wm=(function(jsonp){ if (typeof wm==='function')wm(jsonp); return wm=jsonp }
 "4fzw4vfbpsdy77d6jvtmpxgk":["wmata-incidents","WMATA Incidents"],
 "biy5yseufnpr6xqqjl4rpaac":["wmorgue","Nick"],
 "ctkychx23x7vma3cagakmzvy":["wmyspite","lari"],
-"7l5bxxumwjddsbgib6t3zjqe":"wmp"
-}) // 2023-10-22T15:09:30.127Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7l5bxxumwjddsbgib6t3zjqe":"wmp",
+"zzucnv7jtvywqvsahzm46xxx":["wmau","Wikimedia Australia"],
+"poej2e7ghrqestfqpj2uny2u":["wmg1","WMG1"]
+}) // 2023-10-22T18:26:32.966Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

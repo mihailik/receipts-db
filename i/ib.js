@@ -174,5 +174,7 @@ var ib=(function(jsonp){ if (typeof ib==='function')ib(jsonp); return ib=jsonp }
 "377djfjcqi6oc63o6mfckslv":["ibraheemsulay","𝕀 𝕆 𝕊 🃏"],
 "h2ymz3qwpulqsekrhdn6xqtp":["ibflorea","Ioana"],
 "zyzejo6rqvzjbqymqsdy3idd":["iban.gay","iban"],
-"znazpvdb4qf24vpcwyufnqbp":"ibuuf"
-}) // 2023-10-22T17:03:05.030Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"znazpvdb4qf24vpcwyufnqbp":"ibuuf",
+"wfvpofnoiujcnvcro22hahzi":"iban",
+"fg25rnwu7ucpgriipysnjqw6":["ibebrian","Brian Varvel"]
+}) // 2023-10-22T18:35:49.037Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

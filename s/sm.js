@@ -943,5 +943,15 @@ var sm=(function(jsonp){ if (typeof sm==='function')sm(jsonp); return sm=jsonp }
 "ympbldmvths2xk5cjzfws3kh":["smallyellowbird","Literally just a gay bird"],
 "s3ah2oosfrqlvu5khgx3ko75":"smashpansy",
 "ofgh44lkuf24dgsax3uruay6":["smokeweed","stupid dumbass"],
-"n7hkoledc3vjpc4p7zsza5sa":["smaldo","Samantha Maldonado"]
-}) // 2023-10-22T17:06:41.540Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"n7hkoledc3vjpc4p7zsza5sa":["smaldo","Samantha Maldonado"],
+"c5wyjqbwg566y7472k6s2uja":["smwordsmith","Sara Smith, TL & Reviewer"],
+"vjoth3a6ebem5sdvznpkxhum":"sml555",
+"awoayeuwxdthkreuyhsyonmh":"smorean",
+"cjd35ypxjupse6g6btgbmmke":["smadus29","늠연"],
+"lwaqhgxohcmboldvn7c5jap4":["smoshclips","Smosh Out of Context"],
+"gewpkvdirwlf6mdwcab2tzr5":["smellyc","すめりc"],
+"vtjptswe4ockwjg2qpzfgdkk":["smershpod","Smersh Pod"],
+"ljpakvnoplhiyhs5uzlkkuir":["smherndon73","Scott Herndon"],
+"m3m4pcnvrd5eh2ashq27ygej":"sme11yke11y",
+"e6iemhxwgn24cm6jfeptsmot":"smabey"
+}) // 2023-10-22T18:42:08.087Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

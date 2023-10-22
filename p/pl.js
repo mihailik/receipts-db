@@ -54,7 +54,7 @@ var pl=(function(jsonp){ if (typeof pl==='function')pl(jsonp); return pl=jsonp }
 "5ad6nbxifmxsn52z5r7qzfoa":"plasmas-king",
 "5b7msx2tmxprdqgnrttqoqlo":["platinumlucario","Platinum Lucario"],
 "5dez4kej67l5fwvr27trhfwx":"planet-vicster",
-"5eongyi6afcnuoahikubm4lj":["plisnyava","лека"],
+"5eongyi6afcnuoahikubm4lj":["plisnyava","лека ﾟ✧"],
 "5fighjah334ypihmpv7ac76s":"plasticmantalk",
 "5fxgbteg7tnj5jzxgrxn327m":["plantkingboy","PlantKingBoy 🌱👑🧒🏽"],
 "5ntqpdo6hlin4qlhxlstmkyk":["plutopri","Zoe <3"],
@@ -207,7 +207,7 @@ var pl=(function(jsonp){ if (typeof pl==='function')pl(jsonp); return pl=jsonp }
 "kxenibx2boc3tvlhmt3jnqdo":["playdoh","goomy"],
 "lbab7zs42cftjzi7uhtbugtp":["plc69","≋ P ≋ a ≋ u ≋ l ≋"],
 "lbybvkrkyl2vi32kykzmpgz7":["plutonicmind","plutonic mind"],
-"ldpqa2qlaizr7sjl7umodubb":"plantgoodseed",
+"ldpqa2qlaizr7sjl7umodubb":["plantgoodseed","Plant Good Seed"],
 "lg7pfdtancqkeicdnjigqyaa":["planetsmudge","SATAN"],
 "lhojw366wrppnabb4uanlxo7":"placebodominguez",
 "li6hsr3ira2alfantn4e2fhy":["plusonerabbit","Rabbit"],
@@ -886,5 +886,18 @@ var pl=(function(jsonp){ if (typeof pl==='function')pl(jsonp); return pl=jsonp }
 "tshiab2gzwjiy3fofduqujj7":["pls","ぷらさ"],
 "c7bcst75zux23vyx3utataor":["plorf","⚇"],
 "3idxywpa4esvnv6ojeipcqbd":"placardabuse",
-"zk4i3rku6crgtay5pt7fushh":["ploddish","Owain"]
-}) // 2023-10-22T18:15:16.452Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zk4i3rku6crgtay5pt7fushh":["ploddish","Owain"],
+"god2pjqio6u2antlfrylhjuw":["planetjoseph","Average Joe "],
+"oihdgirasggzx2qripytsfck":["plpbs","predo, mas pode chamar de pedro"],
+"4h7a3lhzjgsqku4z72wvmhwz":["platinumchoco","ぷらち"],
+"mrfqj5bj53tcam4hmrzcxv2z":"plowman",
+"tw3tsggqnavrd64w5u66cicj":["planetpatman","Patrick McGovern"],
+"2xtp6ilsdqt4tv2uw6szqukm":"plloydm",
+"pwflpkzmofyrrgjjhx2bfkkn":["plox","pluto."],
+"v2u5wyjdfv5ad7o36tlah3rs":["plw","유메마쿠라"],
+"b3egudlxlbi4fo7o6m3inwwf":["planetlike","JH"],
+"lfc6am4q433oojmxngofccff":["pleasurevictim","𝔓𝔩𝔢𝔞𝔰𝔲𝔯𝔢 𝔙𝔦𝔠𝔱𝔦𝔪"],
+"v77cf2cj737652zgugj2ysht":"platka",
+"nlsxqxu2ajdk2gg2ftaqaxyy":["plaz","David Plassmann"],
+"bw722zvjhi3i6lcny5utspkk":["plikuhn","Mari Plikuhn"]
+}) // 2023-10-22T18:37:26.049Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

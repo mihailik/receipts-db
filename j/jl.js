@@ -265,5 +265,8 @@ var jl=(function(jsonp){ if (typeof jl==='function')jl(jsonp); return jl=jsonp }
 "tjco7244g5x6ffsatwo3qsrc":["jlgloveco","The J.L. Glove Co.  "],
 "hv3442zhlw2ql462vyo7jq3y":["jlyndelia","frank “grimey” grimes"],
 "ho76aekd7vjcqsz5mkpkukgt":["jleo","Leonardo"],
-"xjmqdlrxz2puvbrzi5p6idfu":["jlsummerset","JL Summerset"]
-}) // 2023-10-22T17:01:25.375Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xjmqdlrxz2puvbrzi5p6idfu":["jlsummerset","JL Summerset"],
+"c4ncnkp4q2jiyubctp22lku5":["jliikanen","jliikanen"],
+"tc545mhg726iwpd25vstmfdu":["jlspillane","JLS"],
+"yp4bibr667kodsijctjoxipt":"jlorenz"
+}) // 2023-10-22T18:37:25.950Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -109,5 +109,6 @@ var wt=(function(jsonp){ if (typeof wt==='function')wt(jsonp); return wt=jsonp }
 "pr6fu3z4eoslg6ecc7shgang":["wthrihrdlyknwhr","ev, cornhusker"],
 "o2gpt6hblygtaugchyhhjyzr":["wtfguei","vitu "],
 "r5xc65zai4cqp2is6k4xy3af":["wtfsong3","cosmic"],
-"pqeo4k7nkjtuc2kk5vi5atib":["wtvbrasil","WTV BRASIL"]
-}) // 2023-10-22T18:15:16.455Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pqeo4k7nkjtuc2kk5vi5atib":["wtvbrasil","WTV BRASIL"],
+"3usfmjcmtqhco7xolxwz2mha":"wtfigo"
+}) // 2023-10-22T18:26:33.065Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

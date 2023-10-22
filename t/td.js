@@ -128,5 +128,6 @@ var td=(function(jsonp){ if (typeof td==='function')td(jsonp); return td=jsonp }
 "jwsg6qndyqrqbdwrghtunbn3":"tdeux",
 "y5mtlcsq3uufabhi2x33ap4i":["tdpmendes","Tácio Mendes"],
 "ynw5rhgsajj5xxtawiacrzck":"tdeb",
-"jhfrkcayesrx6nc3hw3q25gp":"tdubs65"
-}) // 2023-10-22T17:03:05.549Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jhfrkcayesrx6nc3hw3q25gp":"tdubs65",
+"enoi6apohioovfsw3dr7cpdi":["tdk-dofu","津月どうふ"]
+}) // 2023-10-22T18:40:28.529Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

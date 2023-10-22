@@ -93,7 +93,7 @@ var os=(function(jsonp){ if (typeof os==='function')os(jsonp); return os=jsonp }
 "le3atypvpslzamou5rs7ylsq":["osamadorias","Osama Dorias"],
 "luciqpvf32gpwkmlpxwexoqo":["oswako","Allie Syrena"],
 "m5oy42hhdixudr4ee2v4c7z6":["osint69","BroSINT 69"],
-"mafqruxzvkdc66qarteioirh":"osakanasan0602",
+"mafqruxzvkdc66qarteioirh":["osakanasan0602","𓆜𓆝𓆞𓆟𓆝𓆞"],
 "mst4dcvnav7bhkuycvfhcsoy":["ossialaura","Adassa pure qua"],
 "mympzgm4uuunjzhqads7wcdf":["oswiener","Stefan Rahmsdorf"],
 "mzr25l6vzd75ua7suzf23fzk":["ostralha","Rivotril no aqüífero Guarani"],
@@ -479,5 +479,19 @@ var os=(function(jsonp){ if (typeof os==='function')os(jsonp); return os=jsonp }
 "yafvhvsp2tk6qupwk2amgeqi":"osamam",
 "tkyr2zdl6tft7tsvu6bjqot7":["osigbeme","YAGASORO "],
 "idjptop6uxiupggudqfko2rv":["ostxra","Olivia ⭐️🍎"],
-"wkcy2elzjel6gwdpp2v5jcbw":["oslodangles","Jaret Olson"]
-}) // 2023-10-22T18:15:16.535Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wkcy2elzjel6gwdpp2v5jcbw":["oslodangles","Jaret Olson"],
+"wpskrtjqdg4fydrk5pwszdcr":"ossuaria",
+"s6m36p4vpaonkfo73owqa5an":["oshiinfo","推しinfo / OSHI INFO"],
+"2vdlyiuod7m7eecytif6i3wd":"ostorh2023",
+"qb33pnw4ygshmt7smkafms2r":"osmjp-kumamoto",
+"frmq63vbfgfcjgvrtoacg6ec":"osmjp-osaka",
+"cxdfncwikhwwzmcmxzddymxf":"osmjp-hyogo",
+"dm6g3fckinx6sqamv3gzo7c2":"osmjp-ishikawa",
+"6y3nc5fvjqvyvjva5yxbzarn":"osmjp-fukui",
+"3ygnueywuxh4cjyfu7h2chrs":"osmjp-toyama",
+"yyeevfsyvh7kgk4zux7trjns":"osmjp-niigata",
+"ftosvelk6asffwg3x2zhqx6g":"osmjp-gifu",
+"ss7gzz4jsgkup3g5ym6bp2k4":"oshio",
+"tod5hcbwm6upt64tsxutw67d":"ose",
+"v5qcortylcawcyzha372fxyx":"osemi"
+}) // 2023-10-22T18:40:28.473Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

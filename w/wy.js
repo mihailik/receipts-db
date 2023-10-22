@@ -182,5 +182,7 @@ var wy=(function(jsonp){ if (typeof wy==='function')wy(jsonp); return wy=jsonp }
 "u354svtskokptcltijtjy7y6":["wyattbeard","Wyatt Beard"],
 "77o5yty4oon4koywrbztlyzy":["wydmindfeersart","Wide Mind | Fierce Heart 🦓🥄"],
 "tkq3shgxu4vzz4y6m3vhpxwf":["wyattwayn","Wyatt"],
-"2l4jxwp3ef7jjvrdp3ugmynv":"wymsicalwyvern"
-}) // 2023-10-22T17:06:42.548Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2l4jxwp3ef7jjvrdp3ugmynv":"wymsicalwyvern",
+"obr2zrdwl726gaf6libkuy5u":"wykkid-sic",
+"o3jsaamficbq26wzpk3aubai":"wymiot"
+}) // 2023-10-22T18:34:13.413Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

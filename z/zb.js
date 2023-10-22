@@ -36,5 +36,6 @@ var zb=(function(jsonp){ if (typeof zb==='function')zb(jsonp); return zb=jsonp }
 "bc333w4jvkb2aywuvgholqlg":["zboson","Хогвартський асенізатор"],
 "umvyqksnamsxkqwiuy3cmcfc":["zbl","Bela is the new Iza "],
 "xcrptevdrnhgwftbtv5m7f3b":"zbrox",
-"qt3fjjcsgbvjtvkyuq5ydbtn":["zbwmusic","ZBWMusic "]
-}) // 2023-10-22T16:11:16.364Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qt3fjjcsgbvjtvkyuq5ydbtn":["zbwmusic","ZBWMusic "],
+"v4p5su5um5d62xnut5odb56y":["zbutterz425","Zack Butterfield"]
+}) // 2023-10-22T18:19:41.897Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

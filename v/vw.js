@@ -1,5 +1,5 @@
 var vw=(function(jsonp){ if (typeof vw==='function')vw(jsonp); return vw=jsonp })({
-"7zskweaf5tjndpn3ym3xfgxe":"vwidar",
+"7zskweaf5tjndpn3ym3xfgxe":["vwidar","Vidar Winje"],
 "cavkvvz3zeuqqkt5jd34fybp":["vwgame.dev","𝐕𝐀𝐋𝐄𝐍𝐓𝐈𝐍"],
 "i2eeyhfhln72ltoy73dwipvw":["vwoodhull938","Victoria Woodhull"],
 "p6nntht2wtiiv2xdak5f7qlf":["vwrideout","Vincent Rideout"],
@@ -15,5 +15,6 @@ var vw=(function(jsonp){ if (typeof vw==='function')vw(jsonp); return vw=jsonp }
 "24rsxqawuqhaz77llwfmqiyo":["vwilkins","Vicky Wilkins"],
 "4qut2zrtnw6l5mjphwl4dlrv":["vwhid","VWhidde"],
 "ztni2g2oafdiu7a7gxj3fttt":"vwdank",
-"4lwfjr2x6uqicychs4nynzvt":"vwolfmd"
-}) // 2023-10-22T13:04:21.337Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4lwfjr2x6uqicychs4nynzvt":"vwolfmd",
+"dmmdbg5jngs4yzz5dinq3zdy":"vwv"
+}) // 2023-10-22T18:34:13.364Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

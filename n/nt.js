@@ -128,5 +128,7 @@ var nt=(function(jsonp){ if (typeof nt==='function')nt(jsonp); return nt=jsonp }
 "z5qhgen36c4vxlpmcsrdtzcb":["nt3rp.io","Nick T 🐇"],
 "t5jxpavmnwhlqin5wvz34nji":"ntvpara",
 "yewtztpe6pmh5sroap42hmvy":"ntroot",
-"wtvt4iv7aau46u6w5p4soxlr":["ntos.tech","ntoskrnl 🔜 MFF?, FWA"]
-}) // 2023-10-22T17:03:05.409Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wtvt4iv7aau46u6w5p4soxlr":["ntos.tech","ntoskrnl 🔜 MFF?, FWA"],
+"bs2vg7ezftqotvmwkcnfd4bg":"ntkufreak",
+"laskom56pcq6h5zxmnmx6wa6":["ntan1110","すごい△ (さんかく)"]
+}) // 2023-10-22T18:40:28.376Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

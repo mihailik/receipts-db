@@ -78,5 +78,6 @@ var uc=(function(jsonp){ if (typeof uc==='function')uc(jsonp); return uc=jsonp }
 "xigkt3jm2ll5stq3l2vbbk32":"ucsfmedicine",
 "ic4joy6antgk5h7sdb355dqu":["uchujin","Uchujin"],
 "bmkmnbmxaelcoydqxaiihz6h":["ucmarxistinstitute","Marxist Institute for Research"],
-"7rd7spacwu5xnk63wavo2irh":["ucfsix","CZ"]
-}) // 2023-10-22T15:08:00.712Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7rd7spacwu5xnk63wavo2irh":["ucfsix","CZ"],
+"q5xg2quxrdwkgnmh4qsyi2oh":["uchachacha11","ui"]
+}) // 2023-10-22T18:28:16.593Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

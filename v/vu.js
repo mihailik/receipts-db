@@ -132,5 +132,7 @@ var vu=(function(jsonp){ if (typeof vu==='function')vu(jsonp); return vu=jsonp }
 "lnp5i5qmpbpx7hmtyqs7oa5n":["vun8vkn","vun8vkn"],
 "c6dskkidphb2xcaqlvch7j5k":["vulferam","Vulferam the Grey"],
 "axvygmknno5serwpekyllea4":"vuvuduke77",
-"tyjgp7zlo3yvwhjybmd75r53":["vugarblx","Vuga 💎"]
-}) // 2023-10-22T16:59:09.164Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tyjgp7zlo3yvwhjybmd75r53":["vugarblx","Vuga 💎"],
+"qf6qtv5riiat2uvbhe6brln2":["vulcanwitch","Eléna "],
+"dowd32x5rh3nqqkqeseayutn":"vulpido"
+}) // 2023-10-22T18:40:28.487Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

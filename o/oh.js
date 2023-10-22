@@ -447,5 +447,13 @@ var oh=(function(jsonp){ if (typeof oh==='function')oh(jsonp); return oh=jsonp }
 "m5wcuy7w7zu4azxfzhk5zfgi":"ohthreesixfive",
 "s3ijbd2hst4qgpawizvllivz":["ohlaboday","Henry ✭"],
 "vv6qtyojpwsu7u5plsyvnaec":["ohiyuh","Ohia"],
-"ezkvhwsmo2mcuh6zskkujlmz":"ohf"
-}) // 2023-10-22T17:06:42.531Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ezkvhwsmo2mcuh6zskkujlmz":"ohf",
+"34adqrhc7gvculiifocialld":["ohshit","one time i saw a dog vaping"],
+"nbhkaiesxpsexpm7tteyz6ec":["ohnocomputer","shaun"],
+"32jdoklburtb2e6kvyqfuk26":["ohharsa","творча криса"],
+"n42cbovewzqtyaupcnt24ry7":["ohbamanem","オバマ"],
+"s6nt2ytdapfporcht2afcmal":["ohheyitsdevin","OhHeyItsDevin"],
+"yqh3smb3omfjawxlginemsq5":["ohashem","Omar"],
+"pew3iqnpvnl6lpkonojr4kf4":["ohiorespecter","St. Ignatius of Loyola Respecter Bot "],
+"jlyqjeivg5rkeeaujumrpkpn":"ohnixx"
+}) // 2023-10-22T18:40:28.499Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

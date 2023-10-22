@@ -1,7 +1,7 @@
 var wv=(function(jsonp){ if (typeof wv==='function')wv(jsonp); return wv=jsonp })({
 "6ebxj5sz54335g6rfrwbjwtf":["wvtvr","z"],
 "hkcjtqisjrzonehioic3bfva":["wvredlegs","WVRedlegs "],
-"ifrbaxbs4ljkdi2ue65eldel":"wvandenberg12",
+"ifrbaxbs4ljkdi2ue65eldel":["wvandenberg12","Will VanDenBerg"],
 "qtinjzlsw62bugn7vwesuzhy":["wvschaik","Willem van Schaik"],
 "zj5hb657azec4zwhb72jdegl":"wvincentl",
 "womcekkjcjlpufl6ef2qmmsq":["wvxii","WVXII"],
@@ -14,4 +14,4 @@ var wv=(function(jsonp){ if (typeof wv==='function')wv(jsonp); return wv=jsonp }
 "giwhzpiws5hhrkz53f73ykt2":["wvdirectaction","West Virginia Direct Action"],
 "5crqsiia6fk3tp7fv52o6uku":["wvrld.sh","wvrld"],
 "j7ur3b56nkahl5s7ewkgqv6n":["wvandoorn","Wilco van Doorn"]
-}) // 2023-10-22T18:15:16.512Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-22T18:34:13.326Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

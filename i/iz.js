@@ -236,5 +236,7 @@ var iz=(function(jsonp){ if (typeof iz==='function')iz(jsonp); return iz=jsonp }
 "f4xieohjaap4qprzprpljhnb":"izziegoes",
 "xy6geouu3spna4gbgyso2qrn":["izmshou","翔"],
 "i2kisflczdpn2so4jnagtvvh":["izacluna","Izac Luna"],
-"exk6ispyumovimutpafh6oqp":["izzygnosis","hey liz, what in the immortal fuck?"]
-}) // 2023-10-22T18:15:16.302Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"exk6ispyumovimutpafh6oqp":["izzygnosis","hey liz, what in the immortal fuck?"],
+"7h32vinywatj5gwfbqw35a7j":["izumizu31","いずみ"],
+"kvgtj27xununxyqkgmafhky7":["izziel","Izzy"]
+}) // 2023-10-22T18:35:49.036Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
