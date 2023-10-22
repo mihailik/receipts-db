@@ -2976,5 +2976,14 @@ var dr=(function(jsonp){ if (typeof dr==='function')dr(jsonp); return dr=jsonp }
 "h6tmecioaxli5fil3kjhz2it":"dragos-mitru",
 "3lardyfi4yvekckscaimkp3p":["drsnax","Sam Solomon"],
 "oqn3nznegqroivpr42i2igvq":["drsammcmaster","Dr Sam McMaster "],
-"v4nsacmqacdlrm7dvhux47lg":["druidcitygames","Druid City Games"]
-}) // 2023-10-22T16:57:37.361Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"v4nsacmqacdlrm7dvhux47lg":["druidcitygames","Druid City Games"],
+"ji5lnb73tw6qyh6l4tv3uw6y":["drunkydluffy","Smarter than Every Economist"],
+"6m2gvlzovmrodzfues45o63j":"drewrphoto",
+"xgd7ndweefuozmobng23rotg":"dreamlike",
+"dcktfzpexr2emoifzzx3w4jy":["drmario","Dr. Michael Mario Albrecht"],
+"k2zj6fdk3nnjdms5a4nzywq6":"dreidj",
+"5wxjmdzrgqrjtwishcxczwca":["drhonor","honor sachs"],
+"hhgwxiqb7555qchhj4erqrtq":["drnickw","Nick White"],
+"26re27y3a72dwtnkqejepqcc":["drjohnrichardson","Dr John Richardson "],
+"akjgs7x7lfh2s5g3hlqvr5il":["drkimiww","Dr. Kimi W. W. "]
+}) // 2023-10-22T18:15:16.468Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

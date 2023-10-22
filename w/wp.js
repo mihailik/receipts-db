@@ -33,5 +33,6 @@ var wp=(function(jsonp){ if (typeof wp==='function')wp(jsonp); return wp=jsonp }
 "pv2jekwtem53zyhohclzsv26":["wpudian","Detective Dean"],
 "mpk6hjhnf2yr2vgqdgyz6t5c":["wpfflql","범인류사를 지방화하기"],
 "rwlbsrgxradn7fwcjdpgnfrg":["wpaulcarter","Paul "],
-"2jo2gz6ydb7vvyrfm4wzxmsj":["wpaneque","walter"]
-}) // 2023-10-22T15:38:10.319Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2jo2gz6ydb7vvyrfm4wzxmsj":["wpaneque","walter"],
+"vvuaaqup73vxn2okdooxulwa":["wpeeling","Whitney Peeling"]
+}) // 2023-10-22T17:01:25.743Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -328,5 +328,6 @@ var sq=(function(jsonp){ if (typeof sq==='function')sq(jsonp); return sq=jsonp }
 "d34ppi3lgdjs56cf7e2sqmgc":["squadalaguy","SquadalaGuy🔞🇦🇺"],
 "pwpqch6ikk7pu44urvhcvie3":"squad",
 "scplmkqogrlwcu2ncxgu5p57":"squiglord",
-"dtamnh3yxpozg5e76svjibfa":"squared"
-}) // 2023-10-22T16:57:37.385Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dtamnh3yxpozg5e76svjibfa":"squared",
+"br2a6t627uz23xhqhhh5pw7i":["sqlsocialite","Scott Stauffer"]
+}) // 2023-10-22T18:15:16.487Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -314,5 +314,7 @@ var um=(function(jsonp){ if (typeof um==='function')um(jsonp); return um=jsonp }
 "a4sy6hpmgo5ptesl7kjefbzf":["umbigbry","[Umbigbry]"],
 "b77ggaavcc7owfoqvywulqiu":["uminnpress","University of Minnesota Press"],
 "f6znunbzuh6qhkiqox2frmpk":["umakarma","Uma Karmarkar"],
-"kzqpojkc4jhsoaxl6tpwbdw4":["umenyaokami","うめにゃ"]
-}) // 2023-10-22T16:47:28.985Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kzqpojkc4jhsoaxl6tpwbdw4":["umenyaokami","うめにゃ"],
+"yd7kaysy72deuawevmxmhtas":"umuttekin",
+"jnyvmpmcnitjou7cjob5mome":["umaspotocas","Umas Potocas"]
+}) // 2023-10-22T16:59:08.001Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

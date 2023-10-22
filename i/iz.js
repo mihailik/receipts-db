@@ -233,5 +233,8 @@ var iz=(function(jsonp){ if (typeof iz==='function')iz(jsonp); return iz=jsonp }
 "otfq6thcogedrc3fi73efscd":["izt","Y"],
 "ts57sj475fkexyuugkfajppy":"izloop",
 "zmqoceumhwdfe3vkdkwijlno":"iz3flg",
-"f4xieohjaap4qprzprpljhnb":"izziegoes"
-}) // 2023-10-22T16:56:06.382Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"f4xieohjaap4qprzprpljhnb":"izziegoes",
+"xy6geouu3spna4gbgyso2qrn":["izmshou","翔"],
+"i2kisflczdpn2so4jnagtvvh":["izacluna","Izac Luna"],
+"exk6ispyumovimutpafh6oqp":["izzygnosis","hey liz, what in the immortal fuck?"]
+}) // 2023-10-22T18:15:16.302Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

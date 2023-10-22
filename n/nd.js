@@ -113,5 +113,6 @@ var nd=(function(jsonp){ if (typeof nd==='function')nd(jsonp); return nd=jsonp }
 "intl2td4zcdmczlni2fripz6":"nd2cuo4",
 "vchrgxvzkykszpzj3shubpbe":["ndriana","Ndriana"],
 "hm2dqe3sydttqilptmksehye":["ndsteve","Stephen Gerding"],
-"lksb322gjkix6cmnczl5equ2":"ndesquiress"
-}) // 2023-10-22T16:07:07.630Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lksb322gjkix6cmnczl5equ2":"ndesquiress",
+"nirhelrk7a634d3w56lmov2q":["ndethics","Notre Dame de Nicola Center for Ethics and Culture"]
+}) // 2023-10-22T17:06:41.512Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

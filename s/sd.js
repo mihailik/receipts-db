@@ -1,5 +1,5 @@
 var sd=(function(jsonp){ if (typeof sd==='function')sd(jsonp); return sd=jsonp })({
-"3mjaz3yy66bht4igjpup3g4o":"sdswhite",
+"3mjaz3yy66bht4igjpup3g4o":["sdswhite","S. D.S. White"],
 "3wbg5xmebbtsjh4eagzm4mgn":"sdenaro",
 "4whyfl7uzr3o4qlay74uy32k":["sdebakker","Suzanne de Bakker"],
 "57kmv326bgjuaxlxhr3vzvkr":["sd-eclipse","「ＹＡＳＥ」 eclipse"],
@@ -166,4 +166,4 @@ var sd=(function(jsonp){ if (typeof sd==='function')sd(jsonp); return sd=jsonp }
 "uug5wkhc55mwofmtiick5bnb":"sdubois",
 "3hajqrip74a5jusaigiz35uv":"sdtks0404",
 "imvyxzwibjp3idz4qqr5fkxm":"sdefoe"
-}) // 2023-10-22T16:51:13.406Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-22T18:15:16.495Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

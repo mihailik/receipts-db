@@ -298,7 +298,7 @@ var au=(function(jsonp){ if (typeof au==='function')au(jsonp); return au=jsonp }
 "lamjrufb4kabavnm4jojmbre":["augurmag","Augur Magazine"],
 "ldkra6ffhmznoxjqovti2n4z":["aura.dog","Luc"],
 "lglysw5cdik6bmmbbds2ppem":["austinj","Austin Johnsen"],
-"libcmnoo4kr6izapkdeh2vdy":"austinfcireland",
+"libcmnoo4kr6izapkdeh2vdy":["austinfcireland","Austin FC Ireland"],
 "lig6t3kaeirdfbep7d4gxocj":"augersmonster",
 "lka4b5xstoiz2tqwogvzcida":"audreyzano",
 "lmmjrzindv4agfku75unuy4z":"autodi",
@@ -313,7 +313,7 @@ var au=(function(jsonp){ if (typeof au==='function')au(jsonp); return au=jsonp }
 "m2wtiwhflzv7ijhem7gimqqz":["austinkelmore","Austin Kelmore"],
 "m5iaryex4cvch5mpsig6sgxl":["autarkishobbies","Autarkis - Commissions Open"],
 "m6veonpklevvntrcxs6jr2o4":["audurosp","Auður Ösp"],
-"md2i6gdzixub4bwqjbycapox":"aunhana",
+"md2i6gdzixub4bwqjbycapox":["aunhana","𝔥𝔞𝔫𝔞 🪷"],
 "mdg4qiksfet2qpeaus6pq3lr":["austinbytts","AUSTIN BYTTS"],
 "mfkjzzoikhq6qaqmf3fftwzc":"autoplatephile",
 "mic4bzjmj7t2cik6vjp4iuw5":["aunthortense","Aunt Hortense (acquitted)"],
@@ -1202,5 +1202,9 @@ var au=(function(jsonp){ if (typeof au==='function')au(jsonp); return au=jsonp }
 "ahbo3ww3hgqppoozbpe73spl":["autumnqueen","Autumn"],
 "ls4sjgcwfkmvnuo6uvy4u2r7":"austindavid",
 "ntmfjphucba5mrsnmljxjic2":["austinrtatum","austinrtatum"],
-"g55gyusei5dy7zg3mthi77q3":["aurekero","Aureけろ (Kero)"]
-}) // 2023-10-22T16:57:37.391Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"g55gyusei5dy7zg3mthi77q3":["aurekero","Aureけろ (Kero)"],
+"2o2ponmxkc52m3a53bu253j4":"auronj90",
+"ha6qdm2mlqdtdpogqr7eiybi":["aurelius229","Aurelius"],
+"zbhkhtxibd7bqbcahb6kwo4l":["audireastra","Audire Astra | Starship VTuber"],
+"oafspzhpgzerdtquhqwt5wwu":["audiobrain","Efrain García Mora Vásquez "]
+}) // 2023-10-22T18:15:16.486Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -107,5 +107,6 @@ var pc=(function(jsonp){ if (typeof pc==='function')pc(jsonp); return pc=jsonp }
 "lzv4wlxqtmunuiwxbxfq3hhk":"pchadha",
 "h2ataqkfhejqhlkmmdknshxb":"pcbuildwizard",
 "77hmlrnx5xfqrjq4zuwqdzmw":["pcs033","○3"],
-"edyqfaiecaeahq7phrq3zucx":["pcyhogyu","катруся🇺🇦"]
-}) // 2023-10-22T16:51:13.516Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"edyqfaiecaeahq7phrq3zucx":["pcyhogyu","катруся🇺🇦"],
+"mgh6tmqvgwlk3oosmwuqjsg2":["pcarvalh0","PF ☭︎"]
+}) // 2023-10-22T17:06:42.650Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

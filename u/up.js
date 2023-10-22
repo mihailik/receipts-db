@@ -118,5 +118,6 @@ var up=(function(jsonp){ if (typeof up==='function')up(jsonp); return up=jsonp }
 "rxt2l3pzmijhhnvoligv67uq":"upset",
 "2plceuyalnx6xoi7exoutv7p":["uprootproject","The Uproot Project"],
 "zkp6cx44auxxc2dv6t757ht3":["upooorv","Rajesh Kirana"],
-"e5bzsryntvrp5t24buogk5tx":["upsteak","UpSteak"]
-}) // 2023-10-22T16:40:55.772Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"e5bzsryntvrp5t24buogk5tx":["upsteak","UpSteak"],
+"ihdqsc6n3cl5y44jiojbxwz7":["upresence","UPresence"]
+}) // 2023-10-22T16:59:07.944Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

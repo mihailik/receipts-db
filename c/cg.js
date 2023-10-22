@@ -128,5 +128,6 @@ var cg=(function(jsonp){ if (typeof cg==='function')cg(jsonp); return cg=jsonp }
 "trfhso46kssog4bbmdxhfxwr":["cglasley","Cece Lasley"],
 "srfkhxrthzrorpy5svqpd34y":["cguillaume","Guillaume C."],
 "inx6vvbzxwzi5s3mrkan66hl":"cgmagazine",
-"pxdcsc5ibe47aesnni6vq6av":["cguythebi","the chase collective 🔆"]
-}) // 2023-10-22T16:57:37.785Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pxdcsc5ibe47aesnni6vq6av":["cguythebi","the chase collective 🔆"],
+"revcobkl5pprfhzblppn6dt2":"cghaydon"
+}) // 2023-10-22T16:59:09.113Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

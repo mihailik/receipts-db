@@ -403,5 +403,7 @@ var ur=(function(jsonp){ if (typeof ur==='function')ur(jsonp); return ur=jsonp }
 "j32xgd34nja5owgrnrb3apxk":["uririi","うり🐗"],
 "deb2rw5ll645dpuldckodz3r":["uran","Uranus"],
 "4eq5hkr6wnihc6iyyplkjrxh":"urgentjarl",
-"7cj374j6vdkubibrtnsm3fkb":"urbanplastic"
-}) // 2023-10-22T16:57:37.702Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7cj374j6vdkubibrtnsm3fkb":"urbanplastic",
+"mhckn6wwjm7sdvmpymfap3fo":["ursulawyss","Ursula Wyss "],
+"7cg7cyriwf6nlpnpgmuslncv":["ur0","うろ"]
+}) // 2023-10-22T17:06:42.697Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

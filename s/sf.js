@@ -119,5 +119,6 @@ var sf=(function(jsonp){ if (typeof sf==='function')sf(jsonp); return sf=jsonp }
 "7phr7ikgt6qawwz3q7d4fhdw":"sfritz",
 "w62asz4zamxu5cgna7bwjaof":["sfgamerbabe118","🇲🇽Sabreezie🇮🇪"],
 "rmoggf5fdk7fhzjcgiy6lgna":["sfedalliance","San Francisco Education Alliance"],
-"r5qdlpt3hja53pct4kjq4y45":"sfim"
-}) // 2023-10-22T16:23:03.706Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"r5qdlpt3hja53pct4kjq4y45":"sfim",
+"6qwwiahqwdcw4zwbikzreyoa":["sfermigier","Stefane Fermigier, PhD"]
+}) // 2023-10-22T16:59:08.761Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

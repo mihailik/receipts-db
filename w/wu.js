@@ -79,7 +79,7 @@ var wu=(function(jsonp){ if (typeof wu==='function')wu(jsonp); return wu=jsonp }
 "yct7tykuprprmdqbolr2oab6":"wumpagem",
 "yftl3figuepwpei66s347pgk":["wunzur","wunzur"],
 "yuj63nfqju6lbdoi5oyt2w3j":["wudus","WuDuS - Дитина 35 рочків"],
-"zbeg3gayazgtevfk4lwvysj6":["wutangjoebiden","Conway's Guy of Wife 🐀"],
+"zbeg3gayazgtevfk4lwvysj6":["wutangjoebiden","Conway's Guy of Wife 🐀💨"],
 "zedfkz7gshlyjuwiyyz63ywr":"wulfyroxas",
 "zh62veeatodqjvv7ch256jza":["wutjc","Jean-Claude"],
 "nnfwi2mhmrj76ncz5cpmmsj2":"wuyufeng",
@@ -157,5 +157,6 @@ var wu=(function(jsonp){ if (typeof wu==='function')wu(jsonp); return wu=jsonp }
 "edxwv435z5ba5ilcuijgwcmd":"wuland",
 "algcr6oui2e2o3vrvhllmewn":["wuff.dad","Kyzie"],
 "ydqopphnjnqw7ixkrsscskom":["wubbywubby","WubbyWubby"],
-"vpcz4adzjjhnk5ddfrcbpn3d":["wuodaboge","Churchill"]
-}) // 2023-10-22T16:46:02.558Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vpcz4adzjjhnk5ddfrcbpn3d":["wuodaboge","Churchill"],
+"osnyw3yytzf7rq35q7j2luvh":["wubbo","Wubbo"]
+}) // 2023-10-22T18:15:16.433Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

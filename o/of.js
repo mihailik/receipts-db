@@ -20,7 +20,7 @@ var of=(function(jsonp){ if (typeof of==='function')of(jsonp); return of=jsonp }
 "6y22ymb7lhw2vw3glmtov7n2":["ofestivaleiro","O Festivaleirro"],
 "72mgrz3aqbuyroi2buzbwhd7":["officebynx","girlfriend"],
 "732vnh5dgyvtveavuzebueqp":["offgridteacher","Gretchen"],
-"7ez7irewiwwwlbcsxk5chq3m":"ofmenlik",
+"7ez7irewiwwwlbcsxk5chq3m":["ofmenlik","palikarya"],
 "7wgu5x2hoqjcjngw46oi6bon":["offmysoul.me","Pix"],
 "a54stfttv2ejztwsalhxwchq":["offizinschnuspel","OffizinSchnuspel"],
 "atnlaqc6guzlxzqmtdawk5mv":["offigsandferns","Ry Ⓥ"],
@@ -227,5 +227,6 @@ var of=(function(jsonp){ if (typeof of==='function')of(jsonp); return of=jsonp }
 "jzh5mpia5lbid37dhfjcuoxe":["ofelipemarson","Felipe"],
 "av34xvarxymk5walyuhpgaql":["officialkaro","KARO"],
 "xamhfkmbhh4u5xbrirfmdplf":["ofthewhale","Jonah"],
-"5kcsxracjuxiep6ddg4jnt4b":"officepinokichi"
-}) // 2023-10-22T16:46:02.731Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5kcsxracjuxiep6ddg4jnt4b":"officepinokichi",
+"ymupgsnpr47jxtyal3gyagz4":["officeact","Yasuhiko Makita"]
+}) // 2023-10-22T17:06:42.738Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

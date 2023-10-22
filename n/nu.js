@@ -781,5 +781,8 @@ var nu=(function(jsonp){ if (typeof nu==='function')nu(jsonp); return nu=jsonp }
 "nuqc2vwt5uxifdff6fskelfu":["nuuliforged","Nuuli Forged"],
 "uzlvlg6t52mjbgiv3jftlfvb":["nushutu","я тільки спитать"],
 "55zwrkxeptpd73xe4fm45wp3":"nullstring",
-"otffjmds4k2qta5male3eiz2":"nutjo"
-}) // 2023-10-22T16:57:37.535Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"otffjmds4k2qta5male3eiz2":"nutjo",
+"fngm5lhliunmmedevmt2v35q":"nullean",
+"f467uu33z4e74zad7okhzy5l":["numpy","NumPy"],
+"l3m74dzvqpmiwitcgnmif3en":["num13ers","まさ吉"]
+}) // 2023-10-22T18:15:16.404Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

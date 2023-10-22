@@ -345,7 +345,7 @@ var ky=(function(jsonp){ if (typeof ky==='function')ky(jsonp); return ky=jsonp }
 "zfjj4lq6zxuys2txmskyqem5":["kyabaha2","kyabaha2 "],
 "zpf4pxriujfli6762eajsyqg":["kyuubethe3rd","Kyuu3@Madoka 4 hype"],
 "zscynrj2fyqh5e7lvjh46uhr":["kylelowe","Kyle Lowe"],
-"zxfx7yr5dg6h36yiv3txugnm":["kyanos.bigkitty.club","kyanos"],
+"zxfx7yr5dg6h36yiv3txugnm":["kyanos.bigkitty.club","kyanos🔜MFF"],
 "ollvwnsgpy3tu2gtehkmegtc":["kyle","kyle"],
 "f3agonnpd5pav3kc37uqigb6":["kyleb","Kyle Bashour"],
 "rhtyzsipvpjpheo4brmfdp4r":["kylie","lua"],
@@ -846,5 +846,8 @@ var ky=(function(jsonp){ if (typeof ky==='function')ky(jsonp); return ky=jsonp }
 "ujnm2nk46umjhv67j2kk7lo2":["kyookiis","Kyo 꽃 '莲 Poirot daughter 🔎"],
 "qeopwiddcwwqsn2gqxng4hfh":"kyw",
 "z4ooll4gayb6ldvvwqpd4qlx":"kylla",
-"mbatbfknsnc644qzxuwpbxzw":["kyublitz","Kyublitz"]
-}) // 2023-10-22T16:57:37.726Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mbatbfknsnc644qzxuwpbxzw":["kyublitz","Kyublitz"],
+"yjwiikrge6op7teqap5d75ld":["kytegaming","Kyte"],
+"yq5jio35svoy5mmr4vkjvmc3":"kylebrennan",
+"tkk5d3jphujne2wyuejh4u2m":"kynikki"
+}) // 2023-10-22T17:06:42.456Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

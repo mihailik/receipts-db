@@ -124,7 +124,7 @@ var aa=(function(jsonp){ if (typeof aa==='function')aa(jsonp); return aa=jsonp }
 "l2k2ywi4s2b7g2dgzeulsb3q":["aako728","すごく弾みぴかぴか光るあーこ"],
 "l4hy2s5ef65nhyxoc4crju52":"aarongrowlithe",
 "l7jvw2sngsgnfjq4mtks76pn":["aaronkraemer","Aaron Kraemer "],
-"lcn3dwmi7wbnoivlqlsiik5c":["aaronsofaer","Aaron Sofaer 🏳️‍⚧️✡️✍🏽"],
+"lcn3dwmi7wbnoivlqlsiik5c":["aaronsofaer","Aaron Sofaer 🏳️‍⚧️✡️"],
 "le7d6v5ez7gaxo7fn5v2bpga":["aaronmorgan","Aaron Morgan "],
 "llbonqtbghgxrqmpuhzj2bbi":["aaronbornstein","aaron bornstein"],
 "lmmefy23yukyubs7u6tkpy5s":["aachenerweiher","Max Globus"],
@@ -731,5 +731,6 @@ var aa=(function(jsonp){ if (typeof aa==='function')aa(jsonp); return aa=jsonp }
 "ttot43a2wu5k4a6gsnyjzvrq":"aaroncincy",
 "dvlpdpi4iwqg4esy6xnfu7ki":"aaronlevin",
 "jf4boscvje2dmfkrrb7r3gdo":["aaronlarson","Aaron Larson"],
-"d7uem7w3dkhayewo6iy5ti7n":["aaronlyons","aaron aaron aaron aaron aaron aaron"]
-}) // 2023-10-22T16:57:37.306Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"d7uem7w3dkhayewo6iy5ti7n":["aaronlyons","aaron aaron aaron aaron aaron aaron"],
+"woplwzf2pqmlv7n2wnjq5exx":["aandeloucas","Andrew A.N. Deloucas"]
+}) // 2023-10-22T18:15:16.378Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -568,5 +568,7 @@ var az=(function(jsonp){ if (typeof az==='function')az(jsonp); return az=jsonp }
 "vd7mincm6rqlf7krneylvqko":"azoriusmage",
 "fhhe2ntunfzfvleop2jmtdzw":"azgirl",
 "j2wdcmhxgs5yhskfep4ieh2l":["azeqsd.fr","Yann"],
-"5nt7dmpftn3pnk5rj4h37ggh":["azu-soundworks","AZU"]
-}) // 2023-10-22T16:54:22.506Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5nt7dmpftn3pnk5rj4h37ggh":["azu-soundworks","AZU"],
+"3qgxqdqbvf3lx7x72cxg76bz":["azuraer","Azi"],
+"35fz3tl5ofm64kzkb7fg7t63":"azadman7"
+}) // 2023-10-22T17:06:42.551Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -2558,5 +2558,19 @@ var ri=(function(jsonp){ if (typeof ri==='function')ri(jsonp); return ri=jsonp }
 "hyputspxbjgr4afz3e4unqwi":["riffic","riffic"],
 "odlc4t3kboyptdg2mkejie5t":["riach","리아츠"],
 "rvmoczmyn7x2h4phj2busqnb":["ricardofsjr","Ricardo"],
-"sxvub2zldeqf3u6o5begdeb5":["ricardodelvillar","Ricardo del Villar"]
-}) // 2023-10-22T16:57:37.382Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"sxvub2zldeqf3u6o5begdeb5":["ricardodelvillar","Ricardo del Villar"],
+"titnaoogftz5iwalpbalm5wu":["rikkisundae","Rikki, V. Alice 🏳️‍⚧️"],
+"ysi7ibni2hvsti77ftf7itgm":"rickbn",
+"yyreky3vqqyfge6lbl7ph6x6":["rishiwrites","Rishi Agrawal"],
+"s2iktbz657d2m6g5nywqfg66":"rizea",
+"oinyhoj3ilm2llkb2t5oaxdg":"rich-k",
+"5i7hzrpgd7b2mmddnjbvfgkk":["richardman","Richard Man"],
+"vqsjrsjflziwrbnci6h3unak":["ringtails.cc","Faye"],
+"yuvahsgm6jcazxdrlicgbwlv":["richardcory.taidum.org","Richard Cory"],
+"oo4jqrmu3wfasftpzadbpxrs":["rivathaart","Ambi"],
+"ijgkhvxpubqao7yiwtbzpyrm":["rijdendetreinen.nl","Rijden de Treinen"],
+"dgmiaalsa4xl2xn7igx3yua2":"rianld",
+"5j4qfrf32hvilowzumohkman":["rikukitty","Dr. Prof. Mara 💥🥦"],
+"vclyimbyppifj7oqvykwfjou":["riverdalebrasil","Riverdale Brasil"],
+"jpcuwdqxftx3joxibiwpujaj":"riqspicious"
+}) // 2023-10-22T18:15:16.414Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

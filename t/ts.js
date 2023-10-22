@@ -479,5 +479,8 @@ var ts=(function(jsonp){ if (typeof ts==='function')ts(jsonp); return ts=jsonp }
 "n4i74unxdeczflbuxzlggipz":["tsuvida","Tsuvida"],
 "xznglg5v4upeo3cyt7vxzety":"tshirtpants",
 "ra7kziqjhjjpceeassuxk6pp":["tsugumihazawa","Riane"],
-"muqmeouzzoz2qe2rtiu3ui4o":["tspell","Tim Spellman"]
-}) // 2023-10-22T16:57:37.667Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"muqmeouzzoz2qe2rtiu3ui4o":["tspell","Tim Spellman"],
+"n5s4kxohwvoistjh65mgttqz":"tsugu",
+"3sbhjxdrkkgdn5ts3znjdv7t":["tswitherspoon","Sujin 수진 Witherspoon"],
+"2yrcq4oyd3k3ul3lnmx6ofd5":["tsundokku","tsundokku"]
+}) // 2023-10-22T18:15:16.269Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

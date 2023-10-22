@@ -27,7 +27,7 @@ var os=(function(jsonp){ if (typeof os==='function')os(jsonp); return os=jsonp }
 "7zy6icawskw34fdgbiwugyws":["osiwahn","Osiwahn"],
 "aadz3vflvsh77rbru7axlfjx":"oslokramer",
 "akcl6oy3mjbskuni6smf7uiw":["oswegowilly","Oswego Willy"],
-"aq3qtb6wgydzt2d5snhkcfek":["ostrich","Ostrich says trans rights"],
+"aq3qtb6wgydzt2d5snhkcfek":["ostrich","✝️ Answers In Neon Genesis 🙏"],
 "aqkjiehaykuvbowzlrop4bym":["oshie","oshy"],
 "auoekb4lqlovehwvab5wegtv":["ostap-chereshnya","artist formerly known as leckie"],
 "awdyc7wp3kmxo26ikkijrxvt":"osonnia",
@@ -476,5 +476,8 @@ var os=(function(jsonp){ if (typeof os==='function')os(jsonp); return os=jsonp }
 "a3thdzfj2dv4opkryfvsqkj2":["oswaldormarques","Oswaldo R Marques"],
 "gmiurbvww3lczazztvzvvlnn":"osas",
 "rfekbaxzdpit6yv5diaitbc6":"osvaz",
-"yafvhvsp2tk6qupwk2amgeqi":"osamam"
-}) // 2023-10-22T16:54:24.470Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yafvhvsp2tk6qupwk2amgeqi":"osamam",
+"tkyr2zdl6tft7tsvu6bjqot7":["osigbeme","YAGASORO "],
+"idjptop6uxiupggudqfko2rv":["ostxra","Olivia ⭐️🍎"],
+"wkcy2elzjel6gwdpp2v5jcbw":["oslodangles","Jaret Olson"]
+}) // 2023-10-22T18:15:16.535Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

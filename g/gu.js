@@ -1653,5 +1653,16 @@ var gu=(function(jsonp){ if (typeof gu==='function')gu(jsonp); return gu=jsonp }
 "3j6ofo45aijdeodm25xevj5y":["guidvieira","dante"],
 "peczt632pzqw4q3kvmljg5go":"gustavolinari",
 "edoy3rh7qdruys2wn77itkd4":"guisito",
-"oodgnqyk4c3q24niqnol45vn":["guyfurry","Guy Furry"]
-}) // 2023-10-22T16:57:37.634Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"oodgnqyk4c3q24niqnol45vn":["guyfurry","Guy Furry"],
+"dnfji3caucbd34434prqinmi":["gulfstream","R."],
+"uphkbbx3dwem5wufaxireq2y":["guinz","Amanda Guinzburg"],
+"rbxpf7tfhtq6adarxipiaerj":["gustamociaro","Gusta Mociaro"],
+"abw3pxob7j3ngwnrcd7apkde":["guisantana","Guilherme Santana"],
+"wkvz5fnjsqade2k36fcxtuci":"gulcesozen",
+"z7cuwnqockeymokgvxcsnqu3":"guacsokc",
+"wxn3jx2mziwytho73g2ri7hp":["guillotinequeen","Guillotine Queen "],
+"pf7oxbgo3ns6vfxoposgt6qr":["gustavohil","Gustavo Hildebrand"],
+"47eobp32ltemqng4bcj3yu67":["guga.haxixe.net","fã clube hans donner - peruíbe, sp"],
+"a5vsf46gcqwwcp3aetj4ax6a":"guillaumedefaux",
+"4pnlsvm4hkyjfpzslhaapivp":["guitadura","guitadura "]
+}) // 2023-10-22T18:15:16.374Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -44,5 +44,7 @@ var uf=(function(jsonp){ if (typeof uf==='function')uf(jsonp); return uf=jsonp }
 "rabxel5xh3vc4i2y4jb6rgh4":"ufukuzunoglu",
 "yg2qo2x5ljgq3txynj5gsw6j":["uftteachercenter","UFT TEACHER CENTER"],
 "clbt4orqwzi62wnxjma3pyqc":"uffe",
-"t3o66m7p54jy4swr6hsqhwyz":["ufukart","UfukArt"]
-}) // 2023-10-22T16:47:29.013Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"t3o66m7p54jy4swr6hsqhwyz":["ufukart","UfukArt"],
+"hp6exxbbcaimqfce3hjgizyo":"ufuk34",
+"omnjch4genfzaqno2qp3iocx":["ufobean","Lexi // Ufobean"]
+}) // 2023-10-22T17:06:42.608Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

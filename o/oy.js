@@ -78,5 +78,6 @@ var oy=(function(jsonp){ if (typeof oy==='function')oy(jsonp); return oy=jsonp }
 "wbzbgg6jzf3kanyfpwmdqn3x":["oysterclub","오이스터"],
 "fdcx63ofhbdtr5di7fztxc2x":["oysmoysm","曇"],
 "dkznreloi6ncogzclzpxte3l":["oyasumisekai","治安悪化の原因"],
-"nhfxqogowkinbevzvm43xrr4":["oyajinchi","おやじ(Oyaji)"]
-}) // 2023-10-22T16:52:49.321Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nhfxqogowkinbevzvm43xrr4":["oyajinchi","おやじ(Oyaji)"],
+"dqvodpdqd7lzeu7opycrdwdm":"oyagum"
+}) // 2023-10-22T17:06:42.729Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

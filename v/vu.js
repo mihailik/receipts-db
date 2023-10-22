@@ -35,7 +35,7 @@ var vu=(function(jsonp){ if (typeof vu==='function')vu(jsonp); return vu=jsonp }
 "jopjrviyrtccx6kztcx4lit2":["vulpesmedicum","D(g)r. Lex Vulpes"],
 "kdnk5ov3zmihr7lknwi42clb":["vulfhause.net","MATT ==> FURPOCALYPSE "],
 "kocotbep32ouhzmqj6j7inl4":"vulkanwinkemoehre",
-"lqidlox4gjhoij23pecxyvz2":["vulpine","🔞 OllieTheFoxy 🔜 LFM"],
+"lqidlox4gjhoij23pecxyvz2":["vulpine.gay","🔞 OllieTheFoxy 🔜 BarkadeFurs, CFz"],
 "ltesepbpagykxujyrkfzg24z":["vustex","Vustex"],
 "lzs7wmlgllvnrefissminsud":["vulpsie","Vulpsie"],
 "muoa2xtnxbu6sg72xrnpje5y":["vulni","vulni"],
@@ -133,4 +133,4 @@ var vu=(function(jsonp){ if (typeof vu==='function')vu(jsonp); return vu=jsonp }
 "c6dskkidphb2xcaqlvch7j5k":["vulferam","Vulferam the Grey"],
 "axvygmknno5serwpekyllea4":"vuvuduke77",
 "tyjgp7zlo3yvwhjybmd75r53":["vugarblx","Vuga 💎"]
-}) // 2023-10-22T16:56:06.844Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-22T16:59:09.164Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

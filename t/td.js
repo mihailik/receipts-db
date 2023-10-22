@@ -28,7 +28,7 @@ var td=(function(jsonp){ if (typeof td==='function')td(jsonp); return td=jsonp }
 "mlou5f4qk52dbrha2kw3vsyv":"tdjfr",
 "mmaqcbxi5cfco4o476lm7ah5":["tdf.wtf","Tyler but spooky "],
 "owjm2clannkvmddumtjiz3yl":["tdbem","aline"],
-"p4v4y2cl6ix2bumkdhxvf55z":"tdenton",
+"p4v4y2cl6ix2bumkdhxvf55z":["tdenton","T. Denton"],
 "psnkbtdbkzfz66u7yvqi42gt":["tdlowe","TD Lowe"],
 "pzgaa6i3zmmyvmyavl5oy4wn":["tdelphos","Ted \"Cis is not a slur\" Delphos"],
 "q3d4rk5ya5b77nfzkjmjz373":["tdcosta100","Tiago Costa"],
@@ -129,4 +129,4 @@ var td=(function(jsonp){ if (typeof td==='function')td(jsonp); return td=jsonp }
 "y5mtlcsq3uufabhi2x33ap4i":["tdpmendes","Tácio Mendes"],
 "ynw5rhgsajj5xxtawiacrzck":"tdeb",
 "jhfrkcayesrx6nc3hw3q25gp":"tdubs65"
-}) // 2023-10-22T16:54:26.070Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-22T17:03:05.549Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

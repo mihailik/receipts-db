@@ -95,7 +95,7 @@ var jl=(function(jsonp){ if (typeof jl==='function')jl(jsonp); return jl=jsonp }
 "wisai76hp5lzxdf6pwfyqwhx":"jlavery522",
 "wo3v7ys7hfnrpgb34valxoqz":["jlobiafra","Bri-O-Degradable"],
 "wqv5vk4nvsxcfarrpi2xcqbc":["jlrees","Logan Rees"],
-"wrc2lwmvdywfd2trnnypdpzo":"jlhenker",
+"wrc2lwmvdywfd2trnnypdpzo":["jlhenker","J.L. Henker - Author"],
 "wsqzdmpb76275fjqiut47twh":["jltvar","Jacques🤖🐙🌐"],
 "x2h43k65tomz5m2bmbppf3tb":["jlilycorbie","J. Lily Corbie"],
 "x4wwdjibggmad2pqvrufpkax":["jlrmarin","Jorge Rivera Marín"],
@@ -264,5 +264,6 @@ var jl=(function(jsonp){ if (typeof jl==='function')jl(jsonp); return jl=jsonp }
 "rx3v6x4vdzamb4ntjz7fhws4":["jlray","JLR"],
 "tjco7244g5x6ffsatwo3qsrc":["jlgloveco","The J.L. Glove Co.  "],
 "hv3442zhlw2ql462vyo7jq3y":["jlyndelia","frank “grimey” grimes"],
-"ho76aekd7vjcqsz5mkpkukgt":["jleo","Leonardo"]
-}) // 2023-10-22T16:57:37.740Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ho76aekd7vjcqsz5mkpkukgt":["jleo","Leonardo"],
+"xjmqdlrxz2puvbrzi5p6idfu":["jlsummerset","JL Summerset"]
+}) // 2023-10-22T17:01:25.375Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

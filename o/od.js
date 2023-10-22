@@ -70,7 +70,7 @@ var od=(function(jsonp){ if (typeof od==='function')od(jsonp); return od=jsonp }
 "klrylaj4dbblc7ohyb7pyxbj":["oddgoblin1312","7 ✨"],
 "km43r6pfut7qbzooeobybbet":["oddbeat","Paul"],
 "km4hzxiwnib7xgnhe6prtdcv":["odilon","Odilon"],
-"kqzdk5qneot3h7pm3out327i":"odantas",
+"kqzdk5qneot3h7pm3out327i":["odantas","Dantas"],
 "l2s2r5v2eunhvrx4cyaw7pak":["odarkao","булочка без маку/підзгорівша/"],
 "lg7s24zjttijggvlvkqffgpl":["odetojamie","Jamie✨"],
 "lwejo6rub3wzvgg4yuvmi6wx":["oddsola","Solana"],
@@ -304,5 +304,6 @@ var od=(function(jsonp){ if (typeof od==='function')od(jsonp); return od=jsonp }
 "5k4yqjycoyffqeyumazxz4ol":["oddish","you're not a \"little guy\" you're just an onion"],
 "e77orew4ogkq43wiuefjsx4s":["odinnsonn","OdinnSonn"],
 "k6bfyjzf7pnwq4m6czsl6pqd":["oddlazdo","odd lazdo! 🔞"],
-"g7xz2wxbxhvnubji7zpnnbc2":"odex"
-}) // 2023-10-22T16:52:49.440Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"g7xz2wxbxhvnubji7zpnnbc2":"odex",
+"zazxcge2dlsiggveamei6jhp":["odiumchloride","dani"]
+}) // 2023-10-22T17:03:05.547Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

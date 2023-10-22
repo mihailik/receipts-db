@@ -1018,5 +1018,6 @@ var is=(function(jsonp){ if (typeof is==='function')is(jsonp); return is=jsonp }
 "2esgl2zgxmgoboxqzvuizepf":"isaacmurall",
 "qfow5l5gpkiqjfyqi625nnqq":"ismetuluer",
 "iew7lerwjoxw7zh7o7gs76me":["isx","Isaac M"],
-"uj6w67t5j7mtnwmg2vdh7m2f":["islayblog","Armin (@islayblog)"]
-}) // 2023-10-22T16:57:37.724Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"uj6w67t5j7mtnwmg2vdh7m2f":["islayblog","Armin (@islayblog)"],
+"7hprwagt3av2vaxohufjde5j":["isverism.rip","verism rip"]
+}) // 2023-10-22T17:03:05.570Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -507,5 +507,7 @@ var eu=(function(jsonp){ if (typeof eu==='function')eu(jsonp); return eu=jsonp }
 "e3qsy52aiszbrfai33bn5itu":["eugostodlaranja","Doug"],
 "x422yi2r5uubhi7ssviulhgm":"euthanos",
 "zuifre3wdg5zvvtrm67hgwsa":["eugeneugen","Eugen Korda"],
-"nwsaqnptwjekhst3nzhhkdu4":["eueraovini","Vini • hostess del fin del mundo"]
-}) // 2023-10-22T16:57:37.393Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nwsaqnptwjekhst3nzhhkdu4":["eueraovini","Vini • hostess del fin del mundo"],
+"ifjxyftjswhy3udx5jozbvr4":["eunews","European News 🇪🇺"],
+"nvl7uifpyw2quw6sl5xlkp6c":["eumeamo","Eu Me Amo "]
+}) // 2023-10-22T17:03:05.490Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

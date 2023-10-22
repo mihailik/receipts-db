@@ -440,5 +440,7 @@ var js=(function(jsonp){ if (typeof js==='function')js(jsonp); return js=jsonp }
 "ukevqwlc7c3z3xjr6lqz25fr":"jstoker",
 "o36pcck6zo72bdoa5get4nml":["jsuretteacheson","Jeannine Acheson"],
 "zm2o3wdm4cuo5u5eofnixtzf":"jseesel",
-"ykldnupdbt6ru6u57irxl53h":"jsson"
-}) // 2023-10-22T16:54:26.210Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ykldnupdbt6ru6u57irxl53h":"jsson",
+"gtpqq3t6le65vwfz2obep3v4":"js48",
+"eddhixzqlm5x5tupck3e7ueb":["jsummersauthor","Jeni 🏳️‍🌈🏳️‍⚧️"]
+}) // 2023-10-22T18:15:16.350Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

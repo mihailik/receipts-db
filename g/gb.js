@@ -145,5 +145,6 @@ var gb=(function(jsonp){ if (typeof gb==='function')gb(jsonp); return gb=jsonp }
 "mz6vy4i34vz6ya7eso4cdrtz":"gblrfgr",
 "shwa7cqe33u2jh57vfge2ixm":["gbrlpssrn","Gabreu"],
 "s5fewubjrlsziz5i3aiqnr6j":"gboersma29",
-"sfpvpyxtbog5nqurcgdywqf5":"gbenuola"
-}) // 2023-10-22T16:52:49.298Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"sfpvpyxtbog5nqurcgdywqf5":"gbenuola",
+"xzjxydxu5veocwlgieatqp5l":["gbruze59443","gameSHOWgb"]
+}) // 2023-10-22T17:03:05.444Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -861,7 +861,7 @@ var go=(function(jsonp){ if (typeof go==='function')go(jsonp); return go=jsonp }
 "wneganfmzocbc7la57t47w4a":"goodnewsish",
 "woqgrj7yaulx6vfenbvvsj4z":"godqueenofblood",
 "wph2ljga5rtpiytc7d6ntuga":["goldscalewolf","Gogo ●⟐○"],
-"wpw3zkeatmhqv2kylzlntfc3":"gojiray",
+"wpw3zkeatmhqv2kylzlntfc3":["gojiray","John Killilea"],
 "wqddaerh4vj5ya46rolryxe6":["goddesstabrasa","Tabula Rasa"],
 "wqxmim3qimm3uckip7xoi4o7":["goose4heisman.whitecanof.monster","Ligma, Bofa, and Updog, ICUP, LLP."],
 "wrldeuqnhewxtfblgkgc7jqr":["goguenharvey","GoguenHarvey - Scott"],
@@ -2256,5 +2256,11 @@ var go=(function(jsonp){ if (typeof go==='function')go(jsonp); return go=jsonp }
 "ovj42wzthwfrerbhn4i2jkhx":"gozdeibicioglu",
 "caiw7b4fupxffupqeqmp3s6n":"goog",
 "oatabbamo6xs7nuio2rwi32z":"goatman",
-"m6q7of2w5fs2pnb5ssxttvtj":["goldwingangel","lena"]
-}) // 2023-10-22T16:57:37.311Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"m6q7of2w5fs2pnb5ssxttvtj":["goldwingangel","lena"],
+"tlunqfzdqrjwxzdi4nhz7a76":"goldenhearts",
+"rduhibcyucs4tu6bnjrxxz22":["gordonramsay","paths"],
+"5fucoi25qsnfek5pbb6bj7zo":"goudaman",
+"4ckoetvy3ehm36gb6b5gd6d3":["gordonmacmillan","Gordon MacMillan "],
+"mxu7zwmc5tyz5t6esptzfwtm":["goblinlaundromat","Goblin Laundromat"],
+"zkvyhzkfhmrlb5xgthda35fm":["goblfc.org","Biggest Little GM"]
+}) // 2023-10-22T17:06:41.835Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

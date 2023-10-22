@@ -1233,7 +1233,7 @@ var lo=(function(jsonp){ if (typeof lo==='function')lo(jsonp); return lo=jsonp }
 "xmm2e7nmvtrg2b3u3o6fckzd":["louluxia","Lou🫧"],
 "xmmowwotoai5s6gubu4cvmpq":"louiere",
 "xmy7yhvxpopmamx2m6j26gcv":["lopez","Oscar Lopez"],
-"xnzqowdazwco34plm22sn5dc":["lordovich","Лордеч 🇺🇦"],
+"xnzqowdazwco34plm22sn5dc":["lordovich","Лорд Лордович 🇺🇦"],
 "xpz7olocriammszfzyrqncxz":["louisklamroth","Louis Klamroth"],
 "xsueqcbcyqlv77ykobhkgcbf":"locker-thatside",
 "xsuuflcsotugzhk3ibypdryt":["lobbyspider","Nikki Blonsky from the movie Hairspray"],
@@ -3036,5 +3036,14 @@ var lo=(function(jsonp){ if (typeof lo==='function')lo(jsonp); return lo=jsonp }
 "tprhwbapn6w3pprcfwtdmoem":"lordlowry",
 "46gwpr6u7xga3wvssu3mpxbq":["localpickins","Local Pickins"],
 "lzjpcep7e5frmwwrvkg3w4jm":"louie2drinks",
-"zebwk4quai7nptjou4n7jpnv":["lobsterveggies","Omar Khodr"]
-}) // 2023-10-22T16:57:37.396Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zebwk4quai7nptjou4n7jpnv":["lobsterveggies","Omar Khodr"],
+"n5n5eibqnccftefkkl43wzyh":["lovelyxnya","Nya V. Kuma"],
+"hxgj3has42fdtkchrtqdry67":"lookout",
+"ll2xvpzknozncgxrd3ovwlui":["lordkristine","Lord Kristine"],
+"3brsy4e7o5euc72t4icgzjcy":["lordebrasil","Lorde Brasil"],
+"z3vetozrvnzqua4c7clau5mx":["lok","Ben Lokshin"],
+"r4kkqyfwdp5hpxx75l46bfor":"lovebuggles",
+"h7u3nwfgcarfwxwglb3nuem6":["louloukolteski","LouLou ~ Mama Bear 🐻 🇨🇦 Support WGA/SAG-AFTRA "],
+"ljf7rthur2o5ke27z2wtr7xe":"lordhook",
+"55vqeqnwfnql4djkvxb5hwjo":["loose-leaves.com","Hunter (Night of the) 🎃"]
+}) // 2023-10-22T18:15:16.527Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
