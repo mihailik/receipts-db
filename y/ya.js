@@ -1454,5 +1454,22 @@ var ya=(function(jsonp){ if (typeof ya==='function')ya(jsonp); return ya=jsonp }
 "deagqejmuviygfnmlkmus4h6":["yaleman","yaleman"],
 "rn2anx7zekom7xaynccw774p":["yashicadutt","Yashica Dutt"],
 "uogypbhkef5oz7yczshczgw5":["yaninho","Yann"],
-"y26ojpkim3hy6fjhxzlinsm4":["yalensky","Yalensky"]
-}) // 2023-10-22T16:38:44.155Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"y26ojpkim3hy6fjhxzlinsm4":["yalensky","Yalensky"],
+"v5f7r5wkbqpuxbcut7vkv3nk":["yasinersoy.com.tr","Yzl. Ersoy"],
+"dqemfyfrwpvxecd3jxlvbyyn":"yassihm",
+"t33oo5crpxdcgf4xg4sshx7f":["yano6038","Yano"],
+"rs3gwfx7b55jjseyzxvvap33":"yakup61",
+"r4jj4knbrokytn6ikh6x5afi":["yagihash","Yu YAGIHASHI"],
+"4mfdvfb2j5mfn47uomy7wpdw":["yabaojidotcom","ミゾグチ"],
+"ppwuyjsros7jz2jbwtz3dvnb":["yasya","Оленка"],
+"fdut4buqj6cqdcynqpirn5x2":["yarkaty","Кеті"],
+"ofkx5gsplhqbf7qdvymyemqi":["yagurock","矢口華江"],
+"hlo4mtaw3ppr7wdftzdccith":"yanjp",
+"uxt5bvmea3k3tscootfq77cp":["yashrajd","Yashraj"],
+"tgiobfixexcjiyxrgvg7i77t":["yagsotol","Yagi"],
+"7ohdqcn7owiitkl2szsrb4ab":["yanconstantino","Yan Constantino"],
+"q34thd6ipnityertk5maggbl":"yabelion",
+"xiojfgm7unlyeeq5oalc7qpy":"yaubriot",
+"y6hysm2wfgqgj4t2le5ces24":["yasminerana","Yasmine Rana"],
+"rptyxyolfgpjlblgoh6xih6c":["yamin","ysmin"]
+}) // 2023-10-22T16:57:37.789Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

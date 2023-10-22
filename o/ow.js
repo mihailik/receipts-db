@@ -202,5 +202,9 @@ var ow=(function(jsonp){ if (typeof ow==='function')ow(jsonp); return ow=jsonp }
 "dzamxn2u24ohayn654iticmk":["owa","Owi"],
 "ueu2w3hgzvnvtlj7jyv4wuih":["owligatorstudios","OwliGator Studios"],
 "u5ioh4dinrklr7ksqh6lr3n2":["ownutopia","Portal Own Utopia Ϟ"],
-"nr5pci7xwzqokq236i3eh7uh":["oweeobit","✨Wemoo✨"]
-}) // 2023-10-22T16:12:48.896Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nr5pci7xwzqokq236i3eh7uh":["oweeobit","✨Wemoo✨"],
+"3w7yglqybt6cetekw6kbfogw":["owcaa","Beata"],
+"gvdkgkufe6lgsywh5vpy5sl5":["owlspotter","OwlSpotter"],
+"54ysyujz5tnobvjco7kncgrq":["owencolling","Owen Colling"],
+"e6gkeyr27j5h2kyyz7o7wodl":"owlishdev"
+}) // 2023-10-22T16:52:49.111Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

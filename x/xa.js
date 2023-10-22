@@ -8,7 +8,7 @@ var xa=(function(jsonp){ if (typeof xa==='function')xa(jsonp); return xa=jsonp }
 "2hyyv3ajlb6f54uuf7j2nkwz":"xanmyrparallax",
 "2ssy3sday6k5hcq2r2kimfyw":"xaviercormorant",
 "3b4q6qnarlh47gzuee23zphr":"xanthi",
-"3ddxval4fhn3we6cy2uc2bwb":["xannitheblue","Xanni the Blue "],
+"3ddxval4fhn3we6cy2uc2bwb":["xannitheblue","Twitch.tv/XanniTheBlue"],
 "3kykifaw3guzsnoi2nrlo5he":["xakana","Sam (he/they)"],
 "3lsh6etvxh3uewhjks75tktf":["xathiag0","xathiag0"],
 "3md43q4q4e2w2mygoaie6vlz":["xantra","Xantra"],
@@ -320,4 +320,4 @@ var xa=(function(jsonp){ if (typeof xa==='function')xa(jsonp); return xa=jsonp }
 "5ylfrteo26q6q7gjqiig37qs":["xandyzx","ANDY Z (Supervisor)"],
 "7koesnasvciac3cleml52eyu":["xagafinelle","Mike Buland"],
 "4t7lkyh65me2zbiq6adongt7":["xavierwzef","Xavier.W"]
-}) // 2023-10-22T16:35:34.629Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-22T16:57:37.785Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

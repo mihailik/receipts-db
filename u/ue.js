@@ -43,5 +43,6 @@ var ue=(function(jsonp){ if (typeof ue==='function')ue(jsonp); return ue=jsonp }
 "h7tvsj2kl347reaavgo4epbi":"uemicael",
 "ghubnqlwx376zn6xs4w6ftjz":["ueiku15","Eddie "],
 "gvtinuszd4jik7weaefvnwtj":"uelbergey",
-"4pnh4ywyibiyqr4ejedslztd":["ueglena","삘릴리뺄롤로"]
-}) // 2023-10-22T15:29:06.380Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4pnh4ywyibiyqr4ejedslztd":["ueglena","삘릴리뺄롤로"],
+"uxxnurpacxdzluelx7cozv2n":["uesugi","上杉真人"]
+}) // 2023-10-22T16:57:37.749Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

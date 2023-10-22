@@ -108,5 +108,6 @@ var rk=(function(jsonp){ if (typeof rk==='function')rk(jsonp); return rk=jsonp }
 "unqpzw6phe734jwhoflaypoy":["rkdvanguard","Grinning Owl- EN_Vtuber GOBLIN and Artist!"],
 "nj2efzovgrfkw7plctkyghjn":"rkotscho",
 "srx3o73d6ehsbpxuyf2cde6e":["rkaqksb","깜빠뉴"],
-"avsjf4t2oojyhh6j67k64xrt":["rkrieg","Kreatur der Nacht"]
-}) // 2023-10-22T16:12:48.745Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"avsjf4t2oojyhh6j67k64xrt":["rkrieg","Kreatur der Nacht"],
+"a2uu6vsquqm5x5wm6ngbb2h5":["rkvie","njmania"]
+}) // 2023-10-22T16:52:49.429Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

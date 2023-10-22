@@ -43,5 +43,6 @@ var uf=(function(jsonp){ if (typeof uf==='function')uf(jsonp); return uf=jsonp }
 "mqwogtyxgxnv2hydc6y4ygqu":["uffmugger","Uffmugger"],
 "rabxel5xh3vc4i2y4jb6rgh4":"ufukuzunoglu",
 "yg2qo2x5ljgq3txynj5gsw6j":["uftteachercenter","UFT TEACHER CENTER"],
-"clbt4orqwzi62wnxjma3pyqc":"uffe"
-}) // 2023-10-22T16:31:58.605Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"clbt4orqwzi62wnxjma3pyqc":"uffe",
+"t3o66m7p54jy4swr6hsqhwyz":["ufukart","UfukArt"]
+}) // 2023-10-22T16:47:29.013Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

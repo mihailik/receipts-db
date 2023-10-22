@@ -166,5 +166,6 @@ var mn=(function(jsonp){ if (typeof mn==='function')mn(jsonp); return mn=jsonp }
 "36prjsvjlw6igbb2gtwfm2xv":["mnzbrg","moonz"],
 "7parqdqwyuxacj3acf6ogjfg":["mnchc","Erwan Mnchc"],
 "6twttdrifmr53i5jhah7qnkr":["mnk","David"],
-"ylrn27hntr7et72nwq7jszqg":["mnbennetauthor","MN Bennet"]
-}) // 2023-10-22T16:38:43.943Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ylrn27hntr7et72nwq7jszqg":["mnbennetauthor","MN Bennet"],
+"5gzj3j6gmwmxmqsrg4emfkxm":["mncbaorg","Minnesota Comic Book Association"]
+}) // 2023-10-22T16:47:29.013Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -98,5 +98,8 @@ var tn=(function(jsonp){ if (typeof tn==='function')tn(jsonp); return tn=jsonp }
 "7ibd23zv5jqfysw2i77q3tq6":"t-nut",
 "ghsxrzgc33nn74lwpg2ot2qg":["tnggrl17","🐈🐾☆ амбасадорка слова няшка ☆"],
 "nzouijvvctqzrhomxegljsic":["tnprime","David Bryndal"],
-"4bqdsjcgi4vtbsntckq3znv2":"tngaston"
-}) // 2023-10-22T16:37:10.047Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4bqdsjcgi4vtbsntckq3znv2":"tngaston",
+"d7dmifikloo2xt6vhyd7qybx":["tndsbd","시금치"],
+"fyygr65iomd467rsjhpdybwk":["tnprogrammer","Ray Walters "],
+"3kcnbb4cowjrybelqfrj7hpi":["tnwk","mason"]
+}) // 2023-10-22T16:56:06.887Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

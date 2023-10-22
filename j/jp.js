@@ -403,5 +403,8 @@ var jp=(function(jsonp){ if (typeof jp==='function')jp(jsonp); return jp=jsonp }
 "n7npq6bmkjrbfcnaoarsoj6d":["jpmartin","JP"],
 "7quw55scnjyem3pbvl3i3brg":["jpassarella","John Passarella, Author"],
 "f6xdulhwcycqd5uzxzwfgf22":["jpraup","Jordan Raup"],
-"o3k7purd5de5vkqfbstj5aye":["jptaku2","jp_taku2"]
-}) // 2023-10-22T16:38:44.168Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"o3k7purd5de5vkqfbstj5aye":["jptaku2","jp_taku2"],
+"2fmn36qxyv2k6nxv5hfu753h":["jpferx","Jorge Fernandez"],
+"zpsktvprnfwgh4jxb3nlgvs5":["jpgoncalves","João Gonçalves "],
+"6hxqndqhxjvvsaxl76xvypmu":"jprendergast"
+}) // 2023-10-22T16:57:37.726Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

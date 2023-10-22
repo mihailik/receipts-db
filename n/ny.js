@@ -64,7 +64,7 @@ var ny=(function(jsonp){ if (typeof ny==='function')ny(jsonp); return ny=jsonp }
 "cvh5djbtfxosimcwel2uiu5f":["nyniamhsedai","Nyniamh Sedai 🤎 The Irish Nynaeve"],
 "cyvv56cg4xdcuupong7bx6dx":["nyulbi","녈비"],
 "d5e5odwag6arvtlrtmqtlqgr":["nyoungparadise","meg"],
-"d7l5ckznqkp5ed3wxdzpxvtq":"nyzpapila",
+"d7l5ckznqkp5ed3wxdzpxvtq":["nyzpapila","pap."],
 "d7r7w7qcfnjummd2odurupwa":"nyomilouise",
 "dalmqfgvnklphdhrs3fy6aar":"nyovyo",
 "dikjblygmx2udzfg46h33kzz":["nyxsyn","⭐Lisa⭐ 🏳️‍🌈"],
@@ -131,7 +131,7 @@ var ny=(function(jsonp){ if (typeof ny==='function')ny(jsonp); return ny=jsonp }
 "nre5ma4bnqqdrbdwfplptedt":["nyanyanyangc","여기서도 그냥냥씨"],
 "ntbehujpfbybxkqauuhlhwnx":["nyrox","Nyrox"],
 "nwxbybz4wsbfuymmcvomveym":["nygaard","1:1 scale Ogre (he/him)"],
-"odqgbn2fsxxxhoqagsa4zy53":"nylanfs",
+"odqgbn2fsxxxhoqagsa4zy53":["nylanfs","Paul Grosse"],
 "of2zhhb3cvtcb7yobqmyoam7":["nyasagi","にゃさぎ。"],
 "ofqrev4u7aayesr4isfi57a6":"nyhiljm",
 "ohdiafym3dpktbol6nzwxl5u":"nyaaruto",
@@ -487,5 +487,9 @@ var ny=(function(jsonp){ if (typeof ny==='function')ny(jsonp); return ny=jsonp }
 "zrbzobq6dn7swmwcvcwf5rmj":["nyleveplays","Nyleveplays"],
 "nordgwcejb72mzga5e3lnj2v":["nyaaatto","Nyatto"],
 "lfgctb46l6wvhr2fjgy3ctgp":["nyaa.network","ANGEL444EVER"],
-"hwrl5mmbufx4thsis5ynqwds":["nyanderful","Nyanderful"]
-}) // 2023-10-22T16:37:10.047Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hwrl5mmbufx4thsis5ynqwds":["nyanderful","Nyanderful"],
+"n4zep5min34nljb6du5zpafk":["nyong-choi","최뇽자"],
+"e34o6sqmngq2w5b4oq5tle7q":["nylaisntreal","nyla ♡"],
+"mohycqukbj4fpx6yuaegwgw7":"nyquilpapi",
+"3632u2iiehkkflz3uyfhta4r":"nyaal"
+}) // 2023-10-22T16:52:49.298Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

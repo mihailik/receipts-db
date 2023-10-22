@@ -564,5 +564,9 @@ var az=(function(jsonp){ if (typeof az==='function')az(jsonp); return az=jsonp }
 "c446367h4fgdr2xgfs53p357":["azzar","Rasmus Hartvig"],
 "k2oz246yt52cu7aehcfmencz":["azucaster","Azu!"],
 "j7jvr4zqw2uncieqfd7bj77o":["azureplz","azure"],
-"yavpaf765aueqvo4bcu4iv7h":"azuraiis"
-}) // 2023-10-22T16:38:44.210Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yavpaf765aueqvo4bcu4iv7h":"azuraiis",
+"vd7mincm6rqlf7krneylvqko":"azoriusmage",
+"fhhe2ntunfzfvleop2jmtdzw":"azgirl",
+"j2wdcmhxgs5yhskfep4ieh2l":["azeqsd.fr","Yann"],
+"5nt7dmpftn3pnk5rj4h37ggh":["azu-soundworks","AZU"]
+}) // 2023-10-22T16:54:22.506Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

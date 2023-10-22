@@ -161,7 +161,7 @@ var du=(function(jsonp){ if (typeof du==='function')du(jsonp); return du=jsonp }
 "d73nk3p4jsjgqqqrwvomckdx":"dutchlassie",
 "d7cvj56tl6ywgujvdcyhv2dm":["duygu","Duygu"],
 "da5jru5tv2v75caywbzn767g":["duff","Duff aka GirlReaction"],
-"dadzotjqozglr2shxfddvuxd":"dustintransigent",
+"dadzotjqozglr2shxfddvuxd":["dustintransigent","Col. Slurve Splinker"],
 "dfuunaidc4cjiy4ycq7a35pf":["duvelmandice","DuvelmanDice (He/they)"],
 "dgieuogsdx366uili53hqid2":["duncanmackenzie.net","Duncan Mackenzie"],
 "dikykecfth5vbivbrv4v7xl6":"duaneste",
@@ -348,7 +348,7 @@ var du=(function(jsonp){ if (typeof du==='function')du(jsonp); return du=jsonp }
 "mum7ecnlhpu2w6zvpfmiwfef":["duncansmith","Duncan Smith"],
 "mvlpewzohzhtgdwlu233ghvn":["dubiousca","Dubious"],
 "mw54bsycggfb2n25pbx4kmcr":["dudaweizenmann","TOT Duda do Trans Histórias 🏳️‍⚧️ 🇪🇪 ☭"],
-"n2qxupyadpuna33g6ipny2ea":"duxfeminafacti9",
+"n2qxupyadpuna33g6ipny2ea":["duxfeminafacti9","Alicia Matz"],
 "n2twragnlkypchfsctfotysv":["dunkindognuts.gay","Dunkin Dognuts"],
 "na2snuaw4nobghtblfbjp7s7":["duckyk","FancyCaterpillar "],
 "na7vytvsczowzglavctdeoyj":["duhthomass","Duhthomass 🌱 "],
@@ -1349,5 +1349,13 @@ var du=(function(jsonp){ if (typeof du==='function')du(jsonp); return du=jsonp }
 "ciucy5wwl3v6w57rq3yiappa":["duumxh.me","Den Chornyi"],
 "6kut3z3htcdvlhj266yqmt5h":["dungeonturtle","Dungeon Turtle"],
 "ilhpuapugdmoquv4kx63xlnq":"dugaldingue",
-"3sq7om2c6g34pkbkzn6uh6my":"duckxn"
-}) // 2023-10-22T16:40:55.551Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3sq7om2c6g34pkbkzn6uh6my":"duckxn",
+"xthpxluy2z75mnliuwnktbn3":["dustox","jakku"],
+"3a444u7gknxf24mcsuc37vg2":"dunderpatrullen",
+"7ujmgrjokvndcs54m3jrlay4":"dukeinminor7th",
+"ji4ohw6wjpiz223ate6ike4t":"dunloptired",
+"osumozztnvvoossd6kpvjd5w":"duduferraresi",
+"p444rkjlu4goyrweatdnhtjt":["duvaldude","Go Jagrs"],
+"zt5vk5bj2r7pxhtf3plfd7pg":["durkburk","durk"],
+"zwg5eqvkjdgftij6yztepzd5":"dustinhaning"
+}) // 2023-10-22T16:56:06.395Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -161,5 +161,7 @@ var oi=(function(jsonp){ if (typeof oi==='function')oi(jsonp); return oi=jsonp }
 "2lk3zsycr7q5b5biltt2e5ai":"oimoi",
 "7nh5p5uegxv4luf3o36avyz6":["oisam","sam"],
 "pinvujadbygrgfytc3lwu4nh":["oizo","Oizo"],
-"axlq4uyz7s46gux3l37coljz":["oishii","おもち"]
-}) // 2023-10-22T16:38:43.816Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"axlq4uyz7s46gux3l37coljz":["oishii","おもち"],
+"rjgd2h57h5h66sj6m3yuihxq":"oilpanic",
+"lmimp6cyx2qyvulzgwqrlmyb":"oidsman"
+}) // 2023-10-22T16:57:37.801Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -58,7 +58,7 @@ var eu=(function(jsonp){ if (typeof eu==='function')eu(jsonp); return eu=jsonp }
 "ge7k4bmcmmrydekyq7ptoez3":["eumarcelo","Marcelo"],
 "goviihr7mfy5lzyytldtdhix":["eubielnery","Gabriel "],
 "gsqplgcoemyxmk2ar2qolg3m":["eufaleifarao","Ê, faraó"],
-"h2tjrphevc7gab4pgstrnejx":"euroscanner",
+"h2tjrphevc7gab4pgstrnejx":["euroscanner.net","Simon G4NZG 〓〓"],
 "h2wokfln3fmpefosewvb4viv":["eusouumcesar.xyz","Cesar Cardoso"],
 "hdbufxdarnaluujazzcyk7ih":["euenzo","enzo"],
 "hj7wnc4jtihzgyelalnqgjby":["eugene-smelyansky","Eugene Smelyansky PhD 🇺🇦"],
@@ -499,5 +499,13 @@ var eu=(function(jsonp){ if (typeof eu==='function')eu(jsonp); return eu=jsonp }
 "5obv7logur7jqrh45zllgkae":["euan.net","Euan"],
 "jh4v54jinvqy77zw6bkroetj":["eubean","Eubean"],
 "ykk6iurmbbypk55k3pttu4aj":["euprapeace.org","EuPRA"],
-"funqyvfpznmjs66yemglbl5i":"eudoxus"
-}) // 2023-10-22T16:38:43.890Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"funqyvfpznmjs66yemglbl5i":"eudoxus",
+"kc3owsuoo2afl3rncjwxm6ws":["eunick","Eunick"],
+"y3sjfrozo5kzadsrc4y4en44":["euijong","이의종"],
+"x4dlddyzohvsk6lptftj47nr":["eufobico","Manoel Tavares"],
+"5pd42tuptefs5d3m5twix6np":["eugenehuffmanart","Eugene Huffman "],
+"e3qsy52aiszbrfai33bn5itu":["eugostodlaranja","Doug"],
+"x422yi2r5uubhi7ssviulhgm":"euthanos",
+"zuifre3wdg5zvvtrm67hgwsa":["eugeneugen","Eugen Korda"],
+"nwsaqnptwjekhst3nzhhkdu4":["eueraovini","Vini • hostess del fin del mundo"]
+}) // 2023-10-22T16:57:37.393Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -154,7 +154,7 @@ var yu=(function(jsonp){ if (typeof yu==='function')yu(jsonp); return yu=jsonp }
 "fjfij7s5q2je2wgd2mybvs6l":["yunom8","Yuno"],
 "fnljz6s4kxatkopts6f3wtpc":["yuzuho","yuzuho"],
 "fnow3k3an7lkodotrjfvlr6c":["yukigoomba","Yuki 🌰"],
-"fqqif6ovzkleem3oplvcvza5":["yuriitut","Юрій Батькович"],
+"fqqif6ovzkleem3oplvcvza5":["yuriiruy","Юрій Незрівнянний "],
 "fr6i2keqsn5gsssm2mdqolmm":["yungrosetta","Roz"],
 "fus5bahxpdeitjah42tw6o6t":["yuval.lol","Yuval"],
 "g3hnuaic3heon74hbdc2gnfl":["yuniiverse","Yuna"],
@@ -323,7 +323,7 @@ var yu=(function(jsonp){ if (typeof yu==='function')yu(jsonp); return yu=jsonp }
 "qrxchrehs2sr7uysmapmamq4":"yungblocki",
 "qw3hro6wquu2quqom6faybs6":["yumesyuusei","yumesyuusei"],
 "qx4isyuxr644r5hwsf2cotku":["yuhya","ユウヤ"],
-"qxsmn2zq6jtizbsfcbfh27jh":"yugoalman",
+"qxsmn2zq6jtizbsfcbfh27jh":["yugoalman.eu","YugoAlman"],
 "qz7w4apk5iktpajxblvl7xyq":["yulzh","Yul Zh"],
 "r2davw77u32fe23cl6dab26x":["yukihito.yaji.ma","やじま"],
 "ralgf67h6p5pvsl7gehljfxe":["yupiistar","Yupii Hunie ⭐🪽 Commissions OPEN"],
@@ -1344,5 +1344,14 @@ var yu=(function(jsonp){ if (typeof yu==='function')yu(jsonp); return yu=jsonp }
 "owmbfccdc4h3e33skppkwkrg":"yuksel",
 "bfjgfdpokeporby2g5wkryqz":["yuukina","yuuki"],
 "j7wvr4obqo2uq3slxz5n66tm":["yuuichirou","item 19"],
-"q4savrmk5o6bmcaftazpbvw6":["yunabooon","なぼ"]
-}) // 2023-10-22T16:40:55.794Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"q4savrmk5o6bmcaftazpbvw6":["yunabooon","なぼ"],
+"e4xiorfuz3sa4p2q4aadwk2h":["yuka-catherine","キャサリン"],
+"jwhksnu6dcsxm2hgnxqyuonz":["yuyasvx","Yuya👨‍💻"],
+"62wsszps26jkuyvsxehza5ll":["yuiponkotsu","ゆい︎︎☺︎"],
+"gln52lcpypr5q4qnchwwwuwx":"yubo",
+"cqei4njz67kdvfetu3o7w5il":["yurnforturn123","Turn Yurn"],
+"xx7nnwyhqh7hy6i4x7t5bz7o":["yunstred","Yunstred"],
+"6y7u6nirfi5ech64o5rnrxxk":["yuuki2539","YuuKi_2539"],
+"karid6w3t7i5cpbl2xupntml":"yuking",
+"tuxxqy7hy73r3fmnuv2kvsel":["yugatakadera","Yuga Takadera"]
+}) // 2023-10-22T16:57:37.549Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

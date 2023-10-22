@@ -68,5 +68,7 @@ var rw=(function(jsonp){ if (typeof rw==='function')rw(jsonp); return rw=jsonp }
 "qn4dady5b7f6wo3juhgoqk3j":["rwxaari","Aari"],
 "aoxbzxkoxj32w5cp7iktesyv":["rw-history","Robot Wars and BattleBots History "],
 "zcjed3nnpqphtw3v46kjsj24":["rwhitwam","Ryan Whitwam"],
-"lbrbh73jf3tto7vo3occov2q":["rw-access.dev","Ross Wolf"]
-}) // 2023-10-22T16:40:55.810Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lbrbh73jf3tto7vo3occov2q":["rw-access.dev","Ross Wolf"],
+"aosjos3wstpd6reqwx3i7dfh":"rwild",
+"zigewfqtyk6yjcwf3vgfvogv":["rwjblue","Robert Jackson "]
+}) // 2023-10-22T16:57:37.702Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

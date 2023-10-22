@@ -43,7 +43,7 @@ var jg=(function(jsonp){ if (typeof jg==='function')jg(jsonp); return jg=jsonp }
 "sctkky7s5vftyphhyf7iaeep":["jgarcia","Jason Garcia 📷"],
 "spjv5jhwj4blnclc5a6eadcw":"jgrass4596",
 "t675ixxfufovc5zv6k7mzk7y":["jgreen2896","Jgreen"],
-"wcxxgxwxc3vc4lyhwx4c46va":"jgarthwilcox",
+"wcxxgxwxc3vc4lyhwx4c46va":["jgarthwilcox","J Garth Wilcox"],
 "wdgsactldqnvbx6ammxld34b":["jgulner","Jethro"],
 "wthx5rfk6szun4n6s4atynyi":"jguelker",
 "x2hpotxg7632e657qdixusii":["jghiraldini","Jan ⚢︎"],
@@ -151,5 +151,6 @@ var jg=(function(jsonp){ if (typeof jg==='function')jg(jsonp); return jg=jsonp }
 "ytlrtgfl6e3hyfe7nlnfi546":["jgull","Jason Gulledge"],
 "4a5f26bmxvxc5tr76nvxo2q2":"jgjg",
 "fqflw5dajtkejm4gnwlpongg":["jg1pvd","ゆきつく/Yukitsuku"],
-"m24jfmqihczyjywx2647kur2":"jgarzten3"
-}) // 2023-10-22T16:25:32.054Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"m24jfmqihczyjywx2647kur2":"jgarzten3",
+"gdxjq23r4lznxvioohiusmcb":["jgrient","Jesse van der Grient"]
+}) // 2023-10-22T16:51:13.602Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

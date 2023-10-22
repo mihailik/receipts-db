@@ -151,7 +151,7 @@ var nu=(function(jsonp){ if (typeof nu==='function')nu(jsonp); return nu=jsonp }
 "h47xrc6juma7latu6scr7z5w":["nuibella","Nui"],
 "h6jgmkx6lbmjjrrwlq3wfyml":"nurinha",
 "ha2ct6ckrbhrjgvqf7gy2cvq":["numbereighty3","Obi-Wan Jabroni II"],
-"hfjaxxyupcdv2pp23hq745fx":"numbat",
+"hfjaxxyupcdv2pp23hq745fx":["numbat","Georgia  "],
 "hgpc6ex6ssbiaxpw6jc35hig":["nutsling","𝖇𝖑𝖔𝖔𝖉𝖞 𝒏𝒖𝒕𝒔𝒍𝒊𝒏𝒈"],
 "hicrf2xidufft42ma2bwsxpl":"nuitsdeyoung",
 "hlvgpruw3q7lhu247sjfkmj7":["numetal-alchemist","Andrew Nice Clay"],
@@ -212,7 +212,7 @@ var nu=(function(jsonp){ if (typeof nu==='function')nu(jsonp); return nu=jsonp }
 "mz6bd2446huc6hcogckdw5el":["nurilicious","NURI MOON 🪐🌒"],
 "mzlyhzptk5gidqxgxakysy66":"nuuxie",
 "n2lvqgc3brwodjddbkhya7e2":"nullgirl",
-"nifusyhsszqmeplpzdm5stoq":"nui2011",
+"nifusyhsszqmeplpzdm5stoq":["nui2011","nui"],
 "nkfzdecflcb6umubcaesdsks":["nudistfur","Nudist Fur"],
 "nlmgjrkjztcrbg5xqwhuokln":"nutov",
 "nobu5cfjgsxd5gzbbm2jkoc6":"nudechs",
@@ -778,5 +778,8 @@ var nu=(function(jsonp){ if (typeof nu==='function')nu(jsonp); return nu=jsonp }
 "ik4wm2svtvrduz7ymoznumwm":["nukerfox.net","NukerFox"],
 "dkkjj35azciskg5uqehq3t27":["nuclearpigeon","Nihilist Art Studio"],
 "furvto2xnq22xldhg7pnzezj":["nuggetzsz","nuggetzsz"],
-"nuqc2vwt5uxifdff6fskelfu":["nuuliforged","Nuuli Forged"]
-}) // 2023-10-22T16:40:55.787Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nuqc2vwt5uxifdff6fskelfu":["nuuliforged","Nuuli Forged"],
+"uzlvlg6t52mjbgiv3jftlfvb":["nushutu","я тільки спитать"],
+"55zwrkxeptpd73xe4fm45wp3":"nullstring",
+"otffjmds4k2qta5male3eiz2":"nutjo"
+}) // 2023-10-22T16:57:37.535Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

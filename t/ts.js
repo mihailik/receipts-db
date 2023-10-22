@@ -471,5 +471,13 @@ var ts=(function(jsonp){ if (typeof ts==='function')ts(jsonp); return ts=jsonp }
 "zuyji7u7k3vuuxvmxhx5b4vi":["tsudesu","Tsu Desu"],
 "oioygnjkq74zfj5rl5uegp53":["tsukuyomi","Nyx @ 6.4 Spoilers"],
 "ail5wccipixhkiajx6khb6cy":["tspawn","Taro Sugihara"],
-"rrry3csyzicqdknvkydu6xny":["t-sol","T-sol_the_tiger"]
-}) // 2023-10-22T16:37:10.044Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rrry3csyzicqdknvkydu6xny":["t-sol","T-sol_the_tiger"],
+"g63f2qajzrnw6gwexkjhcdh6":["tsigariukas","Tsigariukas"],
+"ziome22qxrjjzjhj6r5wgfn3":"tstrk",
+"mip4epezchdupddjvx5rsksm":["t-sk","てしか"],
+"bfe6rtraimquklnv5wtd2vsq":"tsuyoshizawa",
+"n4i74unxdeczflbuxzlggipz":["tsuvida","Tsuvida"],
+"xznglg5v4upeo3cyt7vxzety":"tshirtpants",
+"ra7kziqjhjjpceeassuxk6pp":["tsugumihazawa","Riane"],
+"muqmeouzzoz2qe2rtiu3ui4o":["tspell","Tim Spellman"]
+}) // 2023-10-22T16:57:37.667Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

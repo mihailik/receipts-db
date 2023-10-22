@@ -1193,5 +1193,14 @@ var au=(function(jsonp){ if (typeof au==='function')au(jsonp); return au=jsonp }
 "uqegfnwmrr47srkxpml4nyuz":["autumnorcricket","𝕬𝖚𝖙𝖚𝖒𝖓 !"],
 "plglfxu6sezrmnhf5sk3t7mz":["authorstevenfarkas","Horror Author Steven Farkas"],
 "lg2adfvzvgsral2esftrbioo":["authorehallowrey","E. Hallowrey"],
-"54id7tuxchv23cdpeexpdpxt":["audrey.dog","audrey"]
-}) // 2023-10-22T16:40:55.592Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"54id7tuxchv23cdpeexpdpxt":["audrey.dog","audrey"],
+"hye6xgrsrgvd6habffd5xm6u":["autisticenbynerd","Ace"],
+"xfe6n3ynjuzmdp3twbykqpzw":["aurozephyr","AuroZephyr"],
+"hwjyyt3myckaoevhxpmuwljf":["augmented-alex","augmented.alex"],
+"zsq5sakmcna4g62djsjpzrwl":["augustdrake","augustdrake"],
+"bgbkbe4ubwivd4u45zc7vngw":"authormarktedesco",
+"ahbo3ww3hgqppoozbpe73spl":["autumnqueen","Autumn"],
+"ls4sjgcwfkmvnuo6uvy4u2r7":"austindavid",
+"ntmfjphucba5mrsnmljxjic2":["austinrtatum","austinrtatum"],
+"g55gyusei5dy7zg3mthi77q3":["aurekero","Aureけろ (Kero)"]
+}) // 2023-10-22T16:57:37.391Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

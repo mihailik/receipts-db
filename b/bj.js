@@ -158,5 +158,7 @@ var bj=(function(jsonp){ if (typeof bj==='function')bj(jsonp); return bj=jsonp }
 "532vaazzwonhhf36dx22p2v2":["bjornteits","Björn Teitsson"],
 "7qcbjpi42swkpxtwnyhcxgc5":["bjarnipeturs","Bjarni Þór Pétursson"],
 "kpmpbjyk2qf44qnpckjn3srm":["bjarniolafur","Bjarni Ólafur "],
-"7vhxgrzvmxgnexyqb65wukmi":["bjeromy","Brandon Johnson"]
-}) // 2023-10-22T16:20:09.487Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7vhxgrzvmxgnexyqb65wukmi":["bjeromy","Brandon Johnson"],
+"v6mxfqiuztpdpa4utaddic22":["bjohnson","(((Mr. Brian D. Johnson)))"],
+"ijqt4xwv4jfdsdkuwkmamqcv":"bjlarsen"
+}) // 2023-10-22T16:51:13.621Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -301,5 +301,8 @@ var od=(function(jsonp){ if (typeof od==='function')od(jsonp); return od=jsonp }
 "pqmw6keaxehmidk5wlsv5tf5":["oddman54","Chad"],
 "s3xtrsnsqqkxche5yyodeuh4":"oddmemories",
 "wqkp5wj7gmwou7jt7r3t2524":["odorupan","🍞"],
-"5k4yqjycoyffqeyumazxz4ol":["oddish","you're not a \"little guy\" you're just an onion"]
-}) // 2023-10-22T16:28:43.768Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5k4yqjycoyffqeyumazxz4ol":["oddish","you're not a \"little guy\" you're just an onion"],
+"e77orew4ogkq43wiuefjsx4s":["odinnsonn","OdinnSonn"],
+"k6bfyjzf7pnwq4m6czsl6pqd":["oddlazdo","odd lazdo! 🔞"],
+"g7xz2wxbxhvnubji7zpnnbc2":"odex"
+}) // 2023-10-22T16:52:49.440Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

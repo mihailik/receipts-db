@@ -179,5 +179,7 @@ var kw=(function(jsonp){ if (typeof kw==='function')kw(jsonp); return kw=jsonp }
 "jsy7kblfxyeumhybjuigx5wx":"kwid",
 "kah3cgwzqocl3jog6pa2442y":["kwill","Kaiser Williams"],
 "g4yc3vdczeao2ilexmhkejf3":["kwam","Kwam"],
-"strjngaulb23cnfcbp4udle7":["kwekutech","Kweku Tech"]
-}) // 2023-10-22T15:54:04.454Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"strjngaulb23cnfcbp4udle7":["kwekutech","Kweku Tech"],
+"mqotlxbnpi35ccjda2sbx6aq":["kwakm","Kıvanç Akman"],
+"3t3vt6lkus7kgm6es6a27ana":["kword","Kyle"]
+}) // 2023-10-22T16:54:26.207Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

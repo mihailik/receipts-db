@@ -333,5 +333,7 @@ var oc=(function(jsonp){ if (typeof oc==='function')oc(jsonp); return oc=jsonp }
 "tx56osqy4cwbtoxeq6fqxjo7":["occothefalsepanda","Occo"],
 "czpd75sagag3jmdgtmchx63y":["octa-ex","Octa EX"],
 "44wvwb6csxowooncau4ox2wl":["ocarin-gaming","Ocarin Gaming & Publishing"],
-"wju7hp5izockowr2oenewef3":["ochanomizu","Ocha"]
-}) // 2023-10-22T16:37:09.712Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wju7hp5izockowr2oenewef3":["ochanomizu","Ocha"],
+"dggzft2fj44xmqfuiknbvahd":["oc8","수달"],
+"sqzlm3unlflsvot7t3xjt5vz":["oceanin","Oceanin 🌊"]
+}) // 2023-10-22T16:57:37.741Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

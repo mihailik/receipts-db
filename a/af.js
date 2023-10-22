@@ -444,5 +444,9 @@ var af=(function(jsonp){ if (typeof af==='function')af(jsonp); return af=jsonp }
 "653p62xfi6ftxku5usqww3yy":["afterdark.firon.net","Firon"],
 "y6zf7h2hw65i2h6lvngfo7cd":["african","african"],
 "zo6nzhaotsn5pexygr3lrh75":"afifi7",
-"f7hisktxa3y3lxl2niunnbud":["afoolishfigment","JJ"]
-}) // 2023-10-22T16:40:55.787Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"f7hisktxa3y3lxl2niunnbud":["afoolishfigment","JJ"],
+"kfkovvyndqvr6yix4tpkvrw2":["afghanistan","afghanistan"],
+"g6lykysptfkqx2wz7psbcqvh":["afford","afford"],
+"ekrrynai2uvx34of7kwc3w3y":["afrocaminhao","Lívia Ferreira, Afrocaminhão "],
+"zyjxmdupazl6dwa35bc7gdky":"aftrglow"
+}) // 2023-10-22T16:57:37.293Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

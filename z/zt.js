@@ -5,7 +5,7 @@ var zt=(function(jsonp){ if (typeof zt==='function')zt(jsonp); return zt=jsonp }
 "gmjtbcwgpvu347mzcycknwb2":["zteng","ZTeng"],
 "hmsgasfc3qjg7oiew37y5oqq":"zthefox",
 "jlalfsmzsiogvc7cn7suyqm7":["ztein","Ztein"],
-"jn2wcyl33tbulgt2cms3lgb3":["ztevery","Zteve Ze Burr"],
+"jn2wcyl33tbulgt2cms3lgb3":["ztevery","Ztevery"],
 "jshiknldxwmxqqonykf57xm7":["zt98","ZT"],
 "lvwpnlruf3umi4rwusnj6yo6":["ztolikomzastolikom","З Толіком за Столиком "],
 "tybcmufjclmndigqp3burklb":["ztul","michael lutz"],
@@ -31,4 +31,4 @@ var zt=(function(jsonp){ if (typeof zt==='function')zt(jsonp); return zt=jsonp }
 "55yeu6suzj6mnuyez72qjlys":["ztmodarchive","Zoo Tycoon Mod Archive"],
 "rc3532ky7omphvvfyvgllb7r":["zturchan","Zak Turchansky"],
 "rewnu2oirdgyhyys4xzczac6":["zthestranger","Z the Stranger 🦐"]
-}) // 2023-10-22T14:54:09.225Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-22T16:42:32.535Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

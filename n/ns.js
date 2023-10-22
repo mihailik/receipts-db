@@ -34,7 +34,7 @@ var ns=(function(jsonp){ if (typeof ns==='function')ns(jsonp); return ns=jsonp }
 "hoe5vifwvu72ms5a4z7ju3kz":["nsfw.lugiaberry.art","Kinachi"],
 "hvlm3e6ng5uxgb52kw6chzq4":["nsfw-oats","Michael, but nsfw"],
 "ihkabu53lraprbpci7nnoo2d":["nstrbka","настічка"],
-"jmtj2dk5vit2vsxhhqchre34":"nsensei",
+"jmtj2dk5vit2vsxhhqchre34":["nsensei","Чия то думка "],
 "jz73io5ubgae7bdct2unl2zt":["nsymmes","Ancient Woman"],
 "kfp2x2g7uupgoy7722nc6g2a":"nsfsushi",
 "l3vbx3e2lqnlja7q64wfrrzq":["nsaphra","Naomi Saphra 🟣"],
@@ -188,5 +188,6 @@ var ns=(function(jsonp){ if (typeof ns==='function')ns(jsonp); return ns=jsonp }
 "w52flukwrzbsmzibaidy3trk":["nsfwspaceskater","rife subspaceskater 🔞"],
 "zscymesstfbk4a67whmsdcqj":"nstnhk",
 "jwcypeuhmhv2nyzoueuwzoev":["nsotracker","NSO Tracker"],
-"h4vri36h62knzhhiitndxf2q":["nsfw.mrbl.dev","Marble Starry (NSFW)"]
-}) // 2023-10-22T16:31:58.576Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"h4vri36h62knzhhiitndxf2q":["nsfw.mrbl.dev","Marble Starry (NSFW)"],
+"mfvqklpd5rrn6c5jxbdt6gas":"nsiinu"
+}) // 2023-10-22T16:51:13.638Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

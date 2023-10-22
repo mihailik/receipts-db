@@ -55,5 +55,6 @@ var gf=(function(jsonp){ if (typeof gf==='function')gf(jsonp); return gf=jsonp }
 "t434ixv3znkj2cqp76gisnos":["gfaranjuez","George Aranjuez"],
 "jtpas3sp3y2lpimi6hbqtctj":"gfxnico",
 "tzdkbfwlspvii2u4l7ic6hyu":["gfun","Gareth Funning "],
-"zeu5b5uphgpx6ndsijeexaie":["gfngfn","画力・博士号・油田"]
-}) // 2023-10-22T16:40:55.787Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zeu5b5uphgpx6ndsijeexaie":["gfngfn","画力・博士号・油田"],
+"ele5qzot3v3b6rxrfe3ji5d4":["gforse.au","GFORSE"]
+}) // 2023-10-22T16:54:26.074Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

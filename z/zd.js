@@ -27,5 +27,6 @@ var zd=(function(jsonp){ if (typeof zd==='function')zd(jsonp); return zd=jsonp }
 "g4d4ep5zcpvldqwspdxa6fjn":"zdot",
 "zvbzs34nbi7ymzqw5d4t3ksa":["zdanielz","Daniel Zoran"],
 "ltqigvqnkznv3d2kjkfqorqx":"zdenek",
-"dly6lqujpuhilcjz24bnzodt":["zdrojak.cz","Zdroják.cz"]
-}) // 2023-10-22T15:41:16.877Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dly6lqujpuhilcjz24bnzodt":["zdrojak.cz","Zdroják.cz"],
+"hsz75dix5hzbfdzrmwdc4yes":["zdftop","pedro"]
+}) // 2023-10-22T16:51:13.606Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

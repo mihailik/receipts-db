@@ -147,5 +147,7 @@ var hm=(function(jsonp){ if (typeof hm==='function')hm(jsonp); return hm=jsonp }
 "z6mvfb37nsrevw3bj27lsm3j":"hmmmintristan",
 "rrmug3b2v36o4pm5jr4mg4j2":"hmlp",
 "chw676e7iy3eqhhvveghb6xj":["hmnk.me","はまなか"],
-"fguj7y6hbmkthqs47llvtiwq":["hmthyl","HMthyl-here!"]
-}) // 2023-10-22T16:35:34.651Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fguj7y6hbmkthqs47llvtiwq":["hmthyl","HMthyl-here!"],
+"rrvqfmqavsyentq4dk33xfcu":["hmshale","Stephen Hale"],
+"vy3rds2hvkui5co6qgghwum6":["hmr-makes-art","HMR"]
+}) // 2023-10-22T16:57:37.591Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

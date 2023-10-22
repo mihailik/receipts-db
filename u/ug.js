@@ -27,7 +27,7 @@ var ug=(function(jsonp){ if (typeof ug==='function')ug(jsonp); return ug=jsonp }
 "otnmfp3szl2yti2dtr65lkr2":["ughitsanjali","🎃Failed Myres-Briggs👻"],
 "oty6b4z4ljbars5rrynxhsf3":["ughwhatnow","Katie"],
 "pdwn6l6piqt6usvtvt4oe2hu":["ugri-la","ゆーぐり"],
-"po3ll63trufgyd3eqo452fkf":"uglyshagcarpet",
+"po3ll63trufgyd3eqo452fkf":["uglyshagcarpet","Nate Frog"],
 "pqc3z4spdxoqaad65n6sfrs4":["uglyduckling71","Roger"],
 "qmhdpnftaknni6i5zwy4uhf2":["uguh","ぐれさん"],
 "qmwinvrxoboakee3jh3m7oil":["ugaritnoosphere","🚣‍♀️The Sea🔥Peoples🌋"],
@@ -109,5 +109,6 @@ var ug=(function(jsonp){ if (typeof ug==='function')ug(jsonp); return ug=jsonp }
 "e4k3bxvszjqlnqanvfam3kyc":"uguruygan",
 "6jjle2tfna6oeiu4r56qp5nv":"ugitoh",
 "kn2bws3j46dewz3qdzjkxwdv":["u-gtr","ぽこにゃん"],
-"6ct4f4jc2ppgizofumhjbjo5":["ugurturan","Ugur Turan"]
-}) // 2023-10-22T16:35:34.639Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6ct4f4jc2ppgizofumhjbjo5":["ugurturan","Ugur Turan"],
+"frha4frvscpjjudneidrwtks":["uguryagan","Ugur Yagan"]
+}) // 2023-10-22T16:57:37.599Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

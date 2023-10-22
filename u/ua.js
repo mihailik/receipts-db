@@ -7,7 +7,7 @@ var ua=(function(jsonp){ if (typeof ua==='function')ua(jsonp); return ua=jsonp }
 "4shhoppgnyqxbixwfyqsykje":["uaimiga","Maura"],
 "5atnnf2m57b4vdromkrmeyfe":["ua.aveteam.org","Ave Team Україна 🇺🇦"],
 "6dlywqqpyt4dfoxw2hfdmcqz":["uassan","gabriel"],
-"6q2suyiwc4npc7izxsz2pi2u":"ualex",
+"6q2suyiwc4npc7izxsz2pi2u":["ualex","Alex!"],
 "77hidy5qzzlvtquxigy3aa2i":["uahistory","Ukrainian History"],
 "7bum3xigoqdpf4kovtucmilz":["uawasborn","UAWASBORN🇺🇦🐾🌫️"],
 "7w4ctr74g2yuaq6ny3gwyuqh":["uarmyhope","dani"],
@@ -103,5 +103,6 @@ var ua=(function(jsonp){ if (typeof ua==='function')ua(jsonp); return ua=jsonp }
 "7iiu3j7xv7szdn565qc4gqh3":["uafbum","Michael Szidloski"],
 "di5fy4mgkzopsalu45c4nmte":"uaibrunno",
 "tmhuqiyekclzn7zxzwstz5ik":["uarenotsolucky","Germano Lorenzett"],
-"kyn4qktg5he4o4fqzx57l44z":"ua3"
-}) // 2023-10-22T16:30:27.399Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kyn4qktg5he4o4fqzx57l44z":"ua3",
+"ukicweb2cdbcc555argoamds":"uallas"
+}) // 2023-10-22T16:52:48.986Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

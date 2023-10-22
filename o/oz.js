@@ -250,5 +250,8 @@ var oz=(function(jsonp){ if (typeof oz==='function')oz(jsonp); return oz=jsonp }
 "rwfxg3ixvhgjd7vuxc2gdz5m":["ozgunzeki","ozgunzeki"],
 "gpmdpu3xuqcmab6yrkgu357t":["ozderseyda","Özder de Şeyda da"],
 "npmlyk3c3lsshpqjt6yok3t2":["ozuma5119","Osumi, Yusuke"],
-"25ezyvkn4ymo2apxhsctkwr5":["ozcivitcagkan","Çağkan Özçivit"]
-}) // 2023-10-22T16:16:21.251Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"25ezyvkn4ymo2apxhsctkwr5":["ozcivitcagkan","Çağkan Özçivit"],
+"sojflefo5afctlezjycwd7uz":"ozc",
+"3lv5n2uom7ztow56wvbb64hu":"ozubko",
+"a76rqxs3bmrkyo5pp5qbmzxe":"ozzycevik"
+}) // 2023-10-22T16:56:06.845Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

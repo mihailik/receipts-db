@@ -751,5 +751,14 @@ var ai=(function(jsonp){ if (typeof ai==='function')ai(jsonp); return ai=jsonp }
 "dgv65qz4qnw7farq5ahvbgvq":["aimeekgunther","Dr. Aimee K. Gunther"],
 "ymouwwaj5xsq22navawostd6":["aidashpy","Aidashpy"],
 "265r6rldna6u4lja5kskih6b":["aidandoyle","Aidan Doyle"],
-"n75y2xxa3mstginnl2sdri22":["airshipchronos","Airship Chronos says TRANS RIGHTS"]
-}) // 2023-10-22T16:40:55.577Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"n75y2xxa3mstginnl2sdri22":["airshipchronos","Airship Chronos says TRANS RIGHTS"],
+"2i6mboggz52b2bkm7zllb4ko":["aisu","Aisu"],
+"pms56v6xckg6acpmzjvctkyt":["aisuru","Aisuru"],
+"qdxmsqaqt2wbhslvujmd2wcd":"aimeew",
+"ryvggsecwoy3w7h23jumvdjf":["aimafidon","Anne-Marie Imafidon"],
+"iyy4ywwurteanosfoqogdb2w":["aistud","AI Studios"],
+"g6xwa66al3kkp26ew66ctwwf":"airsinclair",
+"a7qsaqpnuo6osapvotpdwfwc":["aiko-dayo","😺"],
+"42hxrpfjmqfyej7szjugrtm4":"aiesjiii",
+"zhmv62j46ayssfkbyyhj6tlc":["aiirplanez","B!"]
+}) // 2023-10-22T16:54:26.009Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -144,5 +144,6 @@ var vl=(function(jsonp){ if (typeof vl==='function')vl(jsonp); return vl=jsonp }
 "zwmrjdm2rg66r6fjfa4uktqc":["vlordgtz","VLord Reads Too Much Manga"],
 "4lz2te6jz433cuk2w5vgd4rx":["vladyzhets","Viktor Ladyzhets"],
 "k5adwtpndvwztlqcm35ettw5":["vla.ms","Vlams"],
-"kbek3l7322pbvhh5zh3dtyj4":"vlade"
-}) // 2023-10-22T16:30:27.616Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kbek3l7322pbvhh5zh3dtyj4":"vlade",
+"3qnhd4xv5q75k33cjou3p73z":["vladb","Vlad Burca"]
+}) // 2023-10-22T16:54:22.496Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

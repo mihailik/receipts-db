@@ -123,5 +123,10 @@ var cg=(function(jsonp){ if (typeof cg==='function')cg(jsonp); return cg=jsonp }
 "qtxtci6hylrzlfobntlj4pk2":"cgpotts",
 "w5dvzgkxbb2rcs6i426ak2xk":["cgh","Chris GH"],
 "m6dzp37kc6frlu4d6ay7sd5g":"cgdf",
-"ailwqugjl4hpjs5uy3kr6eyk":"cgull"
-}) // 2023-10-22T16:40:55.739Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ailwqugjl4hpjs5uy3kr6eyk":"cgull",
+"jctov6ewgdyx3qwwyb5gmlqo":["cglgndgn","Dr. Çadi"],
+"trfhso46kssog4bbmdxhfxwr":["cglasley","Cece Lasley"],
+"srfkhxrthzrorpy5svqpd34y":["cguillaume","Guillaume C."],
+"inx6vvbzxwzi5s3mrkan66hl":"cgmagazine",
+"pxdcsc5ibe47aesnni6vq6av":["cguythebi","the chase collective 🔆"]
+}) // 2023-10-22T16:57:37.785Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -74,5 +74,9 @@ var oy=(function(jsonp){ if (typeof oy==='function')oy(jsonp); return oy=jsonp }
 "4vvqwbgt5ew6kyhmvw54t7wl":["oyu3nukui","お湯です"],
 "g3n22bvxbqjzd6oiflkwz645":["oythebrave","Oythebrave"],
 "c3af2n4lt3hfyvrohtlnkh2w":["oyonok","Tai"],
-"kfpcez37pkkdeh3pmbwwqqpg":["oyajifever","Magic ways, my friend 🔞"]
-}) // 2023-10-22T14:51:16.658Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kfpcez37pkkdeh3pmbwwqqpg":["oyajifever","Magic ways, my friend 🔞"],
+"wbzbgg6jzf3kanyfpwmdqn3x":["oysterclub","오이스터"],
+"fdcx63ofhbdtr5di7fztxc2x":["oysmoysm","曇"],
+"dkznreloi6ncogzclzpxte3l":["oyasumisekai","治安悪化の原因"],
+"nhfxqogowkinbevzvm43xrr4":["oyajinchi","おやじ(Oyaji)"]
+}) // 2023-10-22T16:52:49.321Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

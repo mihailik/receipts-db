@@ -151,5 +151,6 @@ var bd=(function(jsonp){ if (typeof bd==='function')bd(jsonp); return bd=jsonp }
 "wn2rl5lrwxktqsg66vky4jnh":["bd.nadena.dev","bd_"],
 "a3iep54jdpui4i5uon5hytwz":["bds","Andreas Thorstensson"],
 "pfp7eekm75zsbatgsgzxlm4f":["bdanahy14","Bdanahy14"],
-"y57unb7wnwittgg3nykphjqd":["bdc","ayumi"]
-}) // 2023-10-22T16:38:44.071Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"y57unb7wnwittgg3nykphjqd":["bdc","ayumi"],
+"vrdtpfz25phtxfhfdtjpzm7y":["bdew","Barbara Dew Rupert "]
+}) // 2023-10-22T16:44:03.322Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

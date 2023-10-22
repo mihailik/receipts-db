@@ -1082,5 +1082,16 @@ var ku=(function(jsonp){ if (typeof ku==='function')ku(jsonp); return ku=jsonp }
 "5jrg3jedk6rl4xvvpdwravf7":"kuku999999",
 "plp6rrqpd533ybjl3d3ggg54":"kuryas",
 "46uk7qew7k5vummaplm6rda4":["kuarkland","Kirky"],
-"7cjxadorzcy32zhex4znovd7":["kurgy","Kurgy"]
-}) // 2023-10-22T16:33:31.354Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7cjxadorzcy32zhex4znovd7":["kurgy","Kurgy"],
+"tgezm5evvkg425etxu3bc33a":["kusazh","kusa"],
+"z2rpzbdkc7wkx2u7yi7olqh3":["kumanekomimi","くまねこみみ"],
+"ph6vpfk24k3ngdkp7yx6drik":["kurtankeny","Kurt Ankeny"],
+"eq52hu7vyhkfolbjhzxcrl7s":["kungfucanuck","Kung Fu Canuck"],
+"3wltwlypqpyc6g6vbsauboqr":["kurute","kurute_oort"],
+"qdgrs5voha74z2sqqgx2dg3x":"kurtalexandr",
+"uc3q7tv7khc26szn43pageyr":["kurtdonaldhanz","kurtdonaldhanz"],
+"6d2pxsj2eu67g5preme7zmen":["kulur","KULUR"],
+"g7os4guvslsq5ztya7cr3byo":["kurtwoolley","Kurt Woolley"],
+"44t6sofeoyb7s5ofmgfcqjfd":"kursatgunduz",
+"ccv3zxenzgoway2nztn4dnc7":["kuromy","Kuromy"]
+}) // 2023-10-22T16:57:37.237Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -319,5 +319,9 @@ var ss=(function(jsonp){ if (typeof ss==='function')ss(jsonp); return ss=jsonp }
 "xtn7m4m6racile2wh3bnra4y":["ssomm","솜"],
 "ksz4xk47zhqp7w5t4pmenh7s":["ssw","Stella-Sophie Wojtczak"],
 "3fjeeavwyytdq5fqurwoljhs":["ssbmars","mars"],
-"75o74yamrd4mcmyuchxbsrzn":["ss-illustrator","櫻井彰真(SAKURAI SHOMA)"]
-}) // 2023-10-22T16:35:34.653Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"75o74yamrd4mcmyuchxbsrzn":["ss-illustrator","櫻井彰真(SAKURAI SHOMA)"],
+"e6txylrmvw3lf5axyske25jg":["ssedaaa","SsedaY"],
+"zqdtcc3dt5yphqbbg5wwrakp":["ssomossomo","얌진"],
+"h22kwtz6ct3perjorimgx3z4":["ssapphira","SSapphira"],
+"oeabiaj3u32qswqnnun37zym":["sslucasb","Lucas Barros"]
+}) // 2023-10-22T16:56:06.904Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

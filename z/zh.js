@@ -156,5 +156,7 @@ var zh=(function(jsonp){ if (typeof zh==='function')zh(jsonp); return zh=jsonp }
 "l4hbb3dkpczdscdbgkuedyh7":["zhaneel","Zhaneel"],
 "segnu4rrc5l44dn4qnly62lr":["zhmyshek","zhmyshәk"],
 "wkw3a6rs2np55h7lweuqg6y3":["zhenderen","Zhen🌐🤍💙🤍🇮🇪💕🇺🇸"],
-"yhxmzozbd27xcy6zyvbeecxs":["zhyvchykamb","Lisa"]
-}) // 2023-10-22T16:27:09.181Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yhxmzozbd27xcy6zyvbeecxs":["zhyvchykamb","Lisa"],
+"gzcbnjdd7bxhnvtgjwxa2rs5":["zhabkapyshe","пані жабка пише🦋"],
+"ta3bjnc3braammkhfitlvdpi":"zhuravel"
+}) // 2023-10-22T16:48:58.666Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

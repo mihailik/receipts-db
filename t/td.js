@@ -126,5 +126,7 @@ var td=(function(jsonp){ if (typeof td==='function')td(jsonp); return td=jsonp }
 "qfgan7vibieaz3nniwwijfek":["tdtoastervt","Toaster ☀ Vtuber"],
 "lovwrytvvnt76hdgrstwrj5h":["tdotboogie","T dot BOOGIE"],
 "jwsg6qndyqrqbdwrghtunbn3":"tdeux",
-"y5mtlcsq3uufabhi2x33ap4i":["tdpmendes","Tácio Mendes"]
-}) // 2023-10-22T16:25:32.168Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"y5mtlcsq3uufabhi2x33ap4i":["tdpmendes","Tácio Mendes"],
+"ynw5rhgsajj5xxtawiacrzck":"tdeb",
+"jhfrkcayesrx6nc3hw3q25gp":"tdubs65"
+}) // 2023-10-22T16:54:26.070Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

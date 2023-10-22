@@ -115,5 +115,8 @@ var rp=(function(jsonp){ if (typeof rp==='function')rp(jsonp); return rp=jsonp }
 "fxca3cycj7uyjsd7dknxqqwm":"rpaula",
 "gkopt6d2lmmlr4hjez2zfyce":["rpgfan","RPGFan"],
 "bmpdu5u4ouleezbcew4qjs6h":"rpalma",
-"b7av3xt2klrovrkbyqw2ylqa":"rpyatt"
-}) // 2023-10-22T15:38:10.344Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"b7av3xt2klrovrkbyqw2ylqa":"rpyatt",
+"4wppg7dnqpoioklplodfvejg":["rportnoy","Ramiro Portnoy"],
+"cvo6cvhy65feataaebmbaymp":["rpdelk","Richard Delk"],
+"zcesggofc3oas5slxbtnirnk":"rpupkin"
+}) // 2023-10-22T16:57:37.656Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
