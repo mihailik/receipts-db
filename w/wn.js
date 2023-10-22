@@ -1,6 +1,6 @@
 var wn=(function(jsonp){ if (typeof wn==='function')wn(jsonp); return wn=jsonp })({
 "2qoat2r4gfplbpvrb7ghvzsr":["wns-at-ksf","Wednesday Night Sessions Reading Series"],
-"3gftjhxovla4oux7ivqvw3nt":["wnwagner","Wendy N. Wagner 🎃"],
+"3gftjhxovla4oux7ivqvw3nt":["wnwagner","Vendy N. Vampire 🎃"],
 "5usbc7f3wtfs567dpqijjev7":["wnomikos","William Nomikos"],
 "ach3u2adjfl6zjwn67cp6om4":["wnikeartist","Terri (wnikeartist)"],
 "fgm5bf2dfhand26r6pwthaim":["wndrtsy","The Lone Masker"],
@@ -16,5 +16,12 @@ var wn=(function(jsonp){ if (typeof wn==='function')wn(jsonp); return wn=jsonp }
 "g7cmomipqaklxrmsiyin4ta7":["wnalu","𝐚𝐧𝐧𝐚𝐥𝐮¹³"],
 "agj3bidtqlmelmom75ikfmxu":"wnct",
 "dfmhwxvy5xbyn3ocxgywyoe3":["wndxlori","Lori Olson"],
-"pajmhs2apaijosvei7jx4p7w":["wncts","N"]
-}) // 2023-10-21T22:13:25.748Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pajmhs2apaijosvei7jx4p7w":["wncts","N"],
+"6mumpvfd7mej2lb3gcec2yhc":["wna","wna.bsky.social😎"],
+"7fiu6xvtn6wifed6hhwahvuc":["wnba","WNBA News"],
+"cozs4l5vsdrmr6kslhgemebf":["wnfffff","완완"],
+"24ngknnnphgm4rkaleoy2a2w":["wnbawife","Tina Sieben"],
+"75rhlbslkbxkxy4wc7xdm6dl":["wntr","WNTR"],
+"zeqsd6g2zjochmjxbko6h3vx":["wnderyrs","I wanna be a cowboy baby"],
+"qwghebieru5imow6ndxz37mi":["wnsipl0l","André"]
+}) // 2023-10-22T07:21:58.186Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

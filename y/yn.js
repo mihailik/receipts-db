@@ -7,7 +7,7 @@ var yn=(function(jsonp){ if (typeof yn==='function')yn(jsonp); return yn=jsonp }
 "aswb6qc7d4q6m3giklomk7gw":["yngimint","Mint🥀"],
 "au3rzf2oudc7vxfcfbdd62qs":["yn971106","윤"],
 "b2pmq4xcrio35omfvty2jv33":["ynwa","Пан Володимир"],
-"eiar4lmme62krddb6ozg73wt":["ynmhm","ヤナミ"],
+"eiar4lmme62krddb6ozg73wt":["ynmhm","資料作成"],
 "fdn5ilmigg34qvy3m5ibroos":["yndranth","🏳️‍🌈 Yndranth 🏳️‍🌈 The God of Gayness 🏳️‍🌈"],
 "fvuxncmd3ekk534xyy2ncfa6":["ynnead","l2aFeTa"],
 "gxu5oxmhk2wx27q4mkcvtvng":["yns","YNS"],
@@ -23,5 +23,16 @@ var yn=(function(jsonp){ if (typeof yn==='function')yn(jsonp); return yn=jsonp }
 "utsr5ck73wsdktnngqd53rms":["yngjcb","thicc saban "],
 "b7stwbf5cluagxyiwyakadpp":"ynk",
 "o3554zogtf4h3omnwd5yx53n":["ynohara","沖縄のノラ犬"],
-"ej4vbhrcmi6em257zszwnxd7":["ynotdraw","Tony Ward"]
-}) // 2023-10-21T21:55:30.554Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ej4vbhrcmi6em257zszwnxd7":["ynotdraw","Tony Ward"],
+"cm7hzp2wmvhofg4h53mefaxu":["ynot","Tony.jgp"],
+"nfcftvlzxotkrytlxaakrsxq":"ynad",
+"odeukj252ld2tllxo6zfgprc":["ynsk","Yunosuke"],
+"l6aze27ii4zt47syi37fiscc":"ynsdmrhn",
+"qo2zicgh67ljesxfbzibg3e7":"ynniv",
+"yofoiqeoaue4zwmpaykngbiu":["ynomura","ynomura"],
+"445xbqtebjztk4vnsjm3yuju":["ynhika","히카(ひか/ヒカ)"],
+"tw46jx4tyaejh3zmvkw7w2lr":["yng-on","おん"],
+"lnt54j2zud47gdp2wylqngbh":["ynot13","Tony "],
+"dfxoahehn4quaszuol6vefgu":["yni","yni"],
+"fjwgx2dmfvlw6dib4s5zipkk":["yng-hr","やなぎぃ"]
+}) // 2023-10-22T06:40:59.192Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

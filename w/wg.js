@@ -12,5 +12,11 @@ var wg=(function(jsonp){ if (typeof wg==='function')wg(jsonp); return wg=jsonp }
 "prflqj5flpilbdclvd3uzgdp":"wgrootonk",
 "a3ejo5f3ei4y7aftcruhf5bn":["wgmeets","WG"],
 "fgn4fiqtpbr2wkmutrnr43s3":["wgcastro","Waltinho"],
-"d5f4uobdwkaqeifgjtrwxqlf":["wgbh.org","GBH"]
-}) // 2023-10-21T21:14:14.883Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"d5f4uobdwkaqeifgjtrwxqlf":["wgbh.org","GBH"],
+"j25ad3urq5wcnp7xtrcfzfk2":"wgnrwltr",
+"uw4zl7zoxean3emazqlivj3c":"wgilmore",
+"ywdjcw5v5q7hlnwnhu3kqfjp":"wgp",
+"z4aqtqfsdkrcxhosd7r4ebxn":["wgreaves","Will Greaves"],
+"gu7p3kug64twiv4h5adts4jy":["wgelyjr","Liam "],
+"3nnsgogv5zqa4ipetbkgnzii":["wgfbruin","W Grant Fleming 🏳️‍🌈☮️"]
+}) // 2023-10-22T07:43:34.466Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

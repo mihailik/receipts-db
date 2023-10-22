@@ -22,5 +22,11 @@ var vk=(function(jsonp){ if (typeof vk==='function')vk(jsonp); return vk=jsonp }
 "gnla7zxbjglj5opklzudjjnx":["vkon1","Vass Koni"],
 "q7eaatbcowfvvr2uhqocgfpz":["vkesari.org","Vinay Kesari"],
 "hwpwkietm3uvdiw3c3ov4lsy":"vkes",
-"el2qzlfqvyzl5tgx4ejzdljp":["vkaniv","かに"]
-}) // 2023-10-21T21:34:29.226Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"el2qzlfqvyzl5tgx4ejzdljp":["vkaniv","かに"],
+"su3lgcairy4oe5leq2ya63er":["vksmith","Virginia K. Smith"],
+"4i3thud7l77nhnhsoa46zclv":"vkuber",
+"ykyckt2f6gpmqrsec4wtnskp":["vkdlswm","🕺느✨루(🎗"],
+"p4vlbc7t6e3vwi3ukcsn45wy":["vkoeler","Audrey Hepburn da shopee"],
+"o3dlycve2b6osc5oas2t642k":"vkriauciunas",
+"mj6pnjkbijbslnm42cddxrfj":"vkato"
+}) // 2023-10-22T07:24:43.505Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

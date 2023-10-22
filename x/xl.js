@@ -16,5 +16,14 @@ var xl=(function(jsonp){ if (typeof xl==='function')xl(jsonp); return xl=jsonp }
 "ceyu4sysotf2lr3523d4avwa":"xlvii",
 "dq6guzbsxa5k62sn55ovtswq":["xlsx464","달땡"],
 "7efvin6gjzgv5gge4ok6fb7m":["xlaszlo","Laszlo Sragner"],
-"ra5ig5rtvtbecw2efgp5eauf":["xlovelila.com","Lila 💗"]
-}) // 2023-10-21T21:31:22.641Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ra5ig5rtvtbecw2efgp5eauf":["xlovelila.com","Lila 💗"],
+"yf2f3nf4hhxnagi365y465lo":["xlovelyadrianax","🍒Adriana🍒"],
+"ru47b7e2nvalswbppm5rq2zy":["xlovaleo","August 🖤"],
+"52zljqoftnbefch3kr3unwvv":["xlipe","Lipe :)"],
+"xksugaa7nejzoyeyl4r7ze4w":["xlr","Armin Töpfer"],
+"l4xktu7hh23ifqdannrjrgr6":["xllnyafullx","xll-nyafu-llx"],
+"zyr7lrr5ipyvd62rb7cwddrt":"xleorochax",
+"slqxqgp5gdspzu23tj5m3oci":["xladygagarinx","Shakespearsstepsister on X/Twitter. "],
+"3yuw5edqzfaf62vpgubngp22":["xlem","Dan"],
+"x7bazk7s73nmldmryrxqhz34":["xlun","千夜ちゃんを養って幸せな避難所を築く"]
+}) // 2023-10-22T08:02:56.330Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -3,7 +3,7 @@ var ud=(function(jsonp){ if (typeof ud==='function')ud(jsonp); return ud=jsonp }
 "26mw43e3u74wx67lqiqscou3":["udarnik","Udarnik"],
 "2clk6gkwdxlaxanusgzee7pb":["udonly1","유디"],
 "3adikoiy7nhb62rvwtcrmbn2":["udzu","Uri"],
-"3ctqfmhuo7ruxvaxja5x2pas":"udoncat",
+"3ctqfmhuo7ruxvaxja5x2pas":["udoncat","Caroline"],
 "6fbllyfemwmo4atfqfmcxltz":["udon-tea","udon🍵"],
 "7michvanovgfxcljfnn4ihn5":["uduki3-63","羽月さん"],
 "bkyqzrr7yudrfcmavizqaxtt":"uda",
@@ -33,5 +33,19 @@ var ud=(function(jsonp){ if (typeof ud==='function')ud(jsonp); return ud=jsonp }
 "5wyy6plb73ps675swk6ewqcp":["udw.org","UDW / AFSCME Local 3930"],
 "rejjdl7cxipjf5d5pdxgwcqk":["udntknwwhoweare","UDntKnwWhoWeAre"],
 "gwcqgkhpbuzsu3ynyzr7y3cc":["udcmrk","Martin R. Kalfatovic "],
-"6bp7glelqtpsuscydyexnb5m":"udimion"
-}) // 2023-10-21T21:58:31.897Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6bp7glelqtpsuscydyexnb5m":"udimion",
+"7pkcbtcgkzkff2bkwhttzqxx":["udollfusi","Brian Winters"],
+"srssidufpvegvj5eubfw25tw":["udo-woodo","うど"],
+"nt7jddsx7slujleif6fbc4gu":"ude2u",
+"iaoh35ago3zsiglrs3ow326i":"udhesh",
+"k7e3uafg7sebpwlws5bp2gej":["udon","harusme"],
+"ndmzch5nyuaf6pvuea6zxrnu":["udo","Udo #gamedev #lfw"],
+"ujghtl2snwviean6jcglcuan":["udsofficial","University for Development Studies "],
+"vee37txgmy5f5rri5xwldo4y":["udbhav-tiwari","Udbhav Tiwari"],
+"6sgfswqlfejcoap3kw3dasya":["udonyoriramen33","うどんさん"],
+"iushhqdzho7zbzdx3ccleytw":["udaudaututu3","桶狭間"],
+"hbqhki3ouvk57kjkxzm5kxk4":["udney","Udney"],
+"t4572ndumjhiw6aucvntltvn":["u-dt-cy","zuo"],
+"k66yv35rhegsv5pwstnbd5n7":["uditthakur","Udit Thakur ('oo-d-ih-th,' or Uday is fine too)"],
+"byceup6sp4bpjunxozrmxukm":"uditk"
+}) // 2023-10-22T08:22:33.696Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

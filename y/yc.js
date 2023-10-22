@@ -1,7 +1,7 @@
 var yc=(function(jsonp){ if (typeof yc==='function')yc(jsonp); return yc=jsonp })({
 "3wf4qjc6smcyeagekbhhb5dz":["ycanela","Arroz con mala leche"],
 "72mjt2tfdr6izojdq4rk7yri":["ycmmat","ycmmat"],
-"73ly3kzxndr7vw3xfsbmrlf4":["ycck","ben is me"],
+"73ly3kzxndr7vw3xfsbmrlf4":["ycck.site","ben is me"],
 "jryyrtme3yczngyu4hg7a27q":"ycbernier",
 "psjekraygwxrxhkxmwpphpt2":["ycnynt","AfroBeagle"],
 "rofpnohyza2vvbvyxwubgikl":"ycyuncn52",
@@ -11,5 +11,12 @@ var yc=(function(jsonp){ if (typeof yc==='function')yc(jsonp); return yc=jsonp }
 "t7rsj3apjav5fqv5y7swdkjv":["ycsemerci","Yusuf Can Semerci"],
 "qp2hieefc2wi7o566fhap7ee":"ychen",
 "3i2p7ohhaxncgoo3h3g66e75":["ycombinator","YC"],
-"zthl4jbshvg56mus3qeaejsm":["yc718","yc"]
-}) // 2023-10-21T22:00:07.414Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zthl4jbshvg56mus3qeaejsm":["yc718","yc"],
+"fpdhi4uatnas6z5espysf2rb":["yc0727","YC"],
+"q7wbqms2drf4jggzv3uvhwme":["ycsm1n","yasmin"],
+"jkmulmk2fa4hfiqkfai3y5rk":["ycaro","ícaro"],
+"anrirrccc5mogfqt7xire4iz":["ycbetpi","хлоп у светрі"],
+"yl5xlabchbhr3fqzo7s4l625":["ycoluccii","yasmin 💙"],
+"o3bx2hvhx45caw7eweesjclm":["ycrydev","Ycrydev"],
+"42s2zbnwslltsxsmdvcgq33e":["ycastromaia","Yara Maia Hirakuri 😘"]
+}) // 2023-10-22T08:02:56.261Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

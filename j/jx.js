@@ -21,5 +21,12 @@ var jx=(function(jsonp){ if (typeof jx==='function')jx(jsonp); return jx=jsonp }
 "lpldrl2fj64ai45psz7kembq":["jxhn","Johnny Vee"],
 "4z4er7blc6gxat4qawjeanzv":"jxu",
 "t4s4fggq3d3mxepbl7rcg67w":["jx2lee","jx2lee"],
-"itj7y6hwftlj44nmv3b7wxxh":"jxm"
-}) // 2023-10-21T21:38:14.244Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"itj7y6hwftlj44nmv3b7wxxh":"jxm",
+"22klvxm4yyq4kp62l6t5agfg":["jxcxsubversivo","Revoltado Com Causa Ⓐ"],
+"wmydtkw65eijbu26lfezorz5":["jxkjessica","Jess 💘  findom | femdom | fetish Goddess"],
+"6xvsixqddams5m3zznwup3yo":["jxpric3","Josh Price"],
+"b2gkwmuqmz74rjwbuyx52ngp":["jxe","JxE"],
+"ofax7w6nzqll6je5jujfkivp":["jxvier","Jxvier"],
+"naldtow6xzzvn4bpzl3ibess":["jxnw","Soymoder"],
+"tnr4ihybyshtibht7j5mmxbp":["jxmiefern","jamie fern 🌿"]
+}) // 2023-10-22T06:20:51.695Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

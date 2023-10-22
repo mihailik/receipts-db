@@ -20,5 +20,21 @@ var fd=(function(jsonp){ if (typeof fd==='function')fd(jsonp); return fd=jsonp }
 "5uyihyub3yqrshrcr7uhjhmx":["fds.srt.pub","FDS / nonefffds"],
 "chvwpwlbfofjbxlynd3dhzab":["fda.gov","U.S. Food and Drug Administration"],
 "p4tyhpy3zkqaaiwxcrzcc2eh":"fduek",
-"crb2x2xc633urzlivjitj2hp":["fdsignifier","Grumpy dad energy "]
-}) // 2023-10-21T21:09:42.734Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"crb2x2xc633urzlivjitj2hp":["fdsignifier","Grumpy dad energy "],
+"yscdag62m4jm73gjnp5evoox":["fdouble","FdoubleOne"],
+"hf4pdgnec4xjoqvbggwzkd33":["fdi","TheDevYouKnow"],
+"hsoeckj7w2ktlh4eug6xwwfn":"fdai",
+"orl6idx5kk57zcq2w2rj2yhc":["fdibrahim","Fareed Ibrahim"],
+"635s4auodmo2utgvf6kbni7x":["fduffy","Fran Duffy"],
+"iudznyfv5hnjrzuq4wtgfinh":"fds",
+"xe5bhptnqjvzpq4shy5lzbvc":"fdlancas",
+"t4shmxx6e7krnbvxwmlrubyj":["fdejonng","larocs"],
+"uv4ytgwrgt5yyhhxiocrdwnb":["fddwmk","FD（えふでぃ）"],
+"dzfpnrmb7hj6o3asldluyzys":["fdl1668","호이파"],
+"qlkbeacwxzlpurmgm6qookna":["fdanesh","Fdanesh"],
+"6uca2liwb5xckjrk4x2pxo2o":"fdmnofs",
+"t4iv4vvrucviebngxekr7zhv":["fddlr","d1337"],
+"mfxytxbt2efqekpkt2bg5gzu":"fdsl",
+"zbyyfbt2sbfjbiyfadxqrnyt":["fdegir","Fatih Degirmenci"],
+"a6s2ieyfl6k4h46xsptmrmfr":["fd0","いけむらさん"]
+}) // 2023-10-22T07:00:41.135Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

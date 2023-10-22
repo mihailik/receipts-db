@@ -20,5 +20,20 @@ var xb=(function(jsonp){ if (typeof xb==='function')xb(jsonp); return xb=jsonp }
 "ajhdet5v2jbgd7tohcn5yoac":["xbeem","ghveem"],
 "3p26f4cb76xanubddbmvhipb":["xboxonereece","🎮AbominationGaming🎮"],
 "mwfjh5ccusm2ldwrq5bvjrpu":["xbahramx","Bahram Hemmati"],
-"uso4gdqjminx35veqkezdchf":"xboxera"
-}) // 2023-10-21T22:08:20.753Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"uso4gdqjminx35veqkezdchf":"xboxera",
+"wrmcx2jiwo7cwni7g2s4vlf3":"xbello",
+"vxaol6oxp32zhw4cz32pztpv":["xbiscaynebaex","Shabba hanks"],
+"ln3i5xsc4amfzqsycse2varz":["xbeautyxtruthx","KCK"],
+"xsue6mfyolxtt5rctf7jibif":["xbellajade.com","bella jade "],
+"szjmjmqulezv732mozlt6fdw":["xbk","Суворий Капібарин"],
+"dmxwbw4pqeaau7mutml3sukx":["xbloodsuckerx","⚔️bloodsucker⚔️"],
+"otnvcqer5cfendsladcholhc":["xbabykangaroox","Le Bœuf"],
+"uh7i4hk7ywofkpkjwmj4w7cg":["xbeatrez","beatriz"],
+"jq4wv7v7m7faocupfsonek4x":["xbilinmiyor","Ugur"],
+"wcbmx4l4fx5unvuvdj3iuyak":["xboxnews","Xbox News"],
+"glg7u3kzpuftd2ypscstsoil":"xbxnkx",
+"7cfrrcdbppz56wobz2mvkxew":["xbennyboo","benedict nguyễn"],
+"vnss2mtj6q62tfkwbsurlbm2":["xblw","BLW"],
+"sfdbnm5riq72ytwuqftdbcj7":["xbehemothx","Jared from Subway (No Relation)"],
+"2p7eylpogwxh5xsv7vplubwt":"xbianca"
+}) // 2023-10-22T08:22:33.398Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -24,5 +24,24 @@ var nw=(function(jsonp){ if (typeof nw==='function')nw(jsonp); return nw=jsonp }
 "hwowug6uys2g2rv7xdyyezsv":["nwanu","E"],
 "eem626fepdgjjpugrzfhbnlb":"nwromantic",
 "vnjd353sxyddaqzdg2y23coy":["nwt","nwt_ogw"],
-"fbifkartqiso3ephoqtsudy7":["nwquah","nick quah"]
-}) // 2023-10-21T21:17:20.555Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fbifkartqiso3ephoqtsudy7":["nwquah","nick quah"],
+"gl3qx42pckoot43twim2ws7j":"nwretired",
+"o2bov3hhygvvr3fuo5bdujxe":["nwsm","eric"],
+"k3vx2ikin4pvgfoi5unuekii":["nw612","nw612 🦆"],
+"ya2wn6n6oh7okxd6avm64ilz":"nwest",
+"spixcnyuj5dsm3erm5owbf2a":["nwabuwise","Nwabueze Wisdom "],
+"fo7tn7adlqzy5tuarqm3h5ec":["nw3st","Nick West"],
+"2dwpec22dzo3cysa642gs5n6":["nwparsons","NWParsons"],
+"rudwp3x4fkp7mix4id66cxqm":["nwhusker","Caryl Terry"],
+"ju3ngqd7f7v47laumhw7sn67":["nwoko","Anthony Nwoko "],
+"yarzc2drk2orpzkbka7uneqq":["nwakibeya","NWAKIBEYA"],
+"dgbcii7mrrcai5ucccmy5x3q":["nwakibie","Nwakibie "],
+"fxyguie52j2rzp2gtjsd6jmj":["nwlynha","nely de paula"],
+"fhjeut2c7ixui75kplp2x4nr":["nwh","LoudButtons"],
+"a42hdu7yxe3ccrvlbdeeug2d":["nwrntcs","mar ☆"],
+"dlx4kofl4wwfgsr3o3y66qsj":"nws",
+"romnecujdfpwsxj5vnsiny4d":["nwaka","n_waka"],
+"diyk7tpgpfop2ygshvsuyaq5":["nwerquin","Nicolas Werquin"],
+"3rznzqmtbhatlnemisuqtdel":["nwspodunk","NWS Podunk"],
+"jrquadrnhvobbqssn3xrdgoy":["nwohanayo","Hanayo"]
+}) // 2023-10-22T08:14:25.249Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

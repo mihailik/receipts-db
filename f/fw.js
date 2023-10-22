@@ -21,5 +21,15 @@ var fw=(function(jsonp){ if (typeof fw==='function')fw(jsonp); return fw=jsonp }
 "zjnufnccmyuanosce5ips6wl":["fwn","Future World News"],
 "rpwlw6yc4hwhpktjurqc45q2":["fwtnb","Fumitaka Watanabe"],
 "ajz73sdzdnvkgjbx6uykdbmv":["fwiz","Ryan “Fwiz” Wyatt"],
-"njzrr65q5yy7tmyp32ek54e4":["fwgj","Frank Griffith"]
-}) // 2023-10-21T21:28:13.077Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"njzrr65q5yy7tmyp32ek54e4":["fwgj","Frank Griffith"],
+"dh6twoblpebom6ilmwfuqjaj":["fwgraham","Francis Graham"],
+"gmbe6q7jq4ewxyokxcyezlsm":["fwizy.xyz","Gabriel Correia"],
+"saz4gks46dq2wer7pp22yqmt":["fwrdaxis.com","Fwrd Axis News"],
+"5bilwn2gxxy5wo4iasrqldo7":["fwdale","Frank Dale"],
+"7rnztlhgkomyjolyvergthha":["fwrs","Ilya"],
+"2ttq4spbgdmw62rflkstnhlx":["fwarg","fwarg"],
+"bnte5vkrph3wrlhxsxkoilqt":["fwarymi","𓆩♡𓆪"],
+"3eoc3klweimajuwxyee6xyi5":"fweno",
+"2sew2457hjhjzxlxktobpv2i":["fwmj","Frank William Miller Junior"],
+"v4janjhlkdandpdjrmfraycx":["fwwank","Frank L. Do"]
+}) // 2023-10-22T07:38:28.966Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

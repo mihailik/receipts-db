@@ -14,5 +14,13 @@ var hf=(function(jsonp){ if (typeof hf==='function')hf(jsonp); return hf=jsonp }
 "7g3qr47dem2nivqgtxtsybbs":["hf0","HF0"],
 "rgwcvjzomho4wrc2qpyc4vjg":["hfsp","Have fun staying poor!!!"],
 "4dvamdakhjgzrzs73vddx4jv":"hfiz",
-"554cgok5zlrn7vb6m4r2kwnl":"hfa"
-}) // 2023-10-21T20:39:21.405Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"554cgok5zlrn7vb6m4r2kwnl":"hfa",
+"hqaqu442p6d4nypbbdvtmccr":["hfxzoe","Zoë :)"],
+"y3uo7o22nnakeqqdckjqpf36":"hfmas",
+"6c6b5jhnshtkx4h7rlr7arbp":["hfmkongming","Kong Ming"],
+"34fykwnobc4ncgzzba5kh2pm":["hfnthna","thayna"],
+"rzalzh246jfi533m6o5ucn7l":["hfr","Heavy Feather Review"],
+"kmrllxdrhgp6bhlbf3zwbleg":["hfxgov","Halifax Regional Municipality"],
+"idpan7zoavmxgciqqeastadx":["hfhr","Hindus For Human Rights"],
+"ntbbfkl3quwvzyanno2u24wt":["h-fukuoka","Hidey"]
+}) // 2023-10-22T07:55:29.606Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

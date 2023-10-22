@@ -13,5 +13,15 @@ var iy=(function(jsonp){ if (typeof iy==='function')iy(jsonp); return iy=jsonp }
 "mqgjst6ckmrqcflebu5a6qlk":["iyiparti","İYİ Parti"],
 "d5lym5bjpf6ngvjnw3vgaeqo":["iyimser","the iyimser"],
 "eghjco5oozixkbnyn3qjk6eq":["iyilikemektir","aman gül ali"],
-"jl6ki4jemvri3joe7sh3bvvp":["iyaja","Ajay Arasanipalai"]
-}) // 2023-10-21T20:21:58.457Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jl6ki4jemvri3joe7sh3bvvp":["iyaja","Ajay Arasanipalai"],
+"2x2rzob75ktbjbgha3v65pcy":["iyaz","iyaz"],
+"6f65eumgox2swfktrfapfkev":["iyazuin","𝚂𝚊𝚖𝚞𝚝𝚝𝚑𝚊𝚛𝚊"],
+"mg2qy7ldif6m33sf7b7vanhs":"iyigun",
+"3bj2v47mphtq3g6gh4255wm3":["iyuki","iyuki"],
+"m5qh4nwvo4ic44nwiy4abuty":["iyadelbaghdadi","Iyad El-Baghdadi"],
+"rzvs7ncn7wkch52dhqhovpay":"iyokusz",
+"ijipj7ryn62lvihgejbgi3ci":["iy7bn8","ゆぴ"],
+"r57q65w5wsfqehf33ly5zc5n":["iyegoone","Yegoone?"],
+"743oalxy3re3qmf6iilre5du":"iyon",
+"dt4tlzbfznvzrphe734gzja2":["iyou","i_yo_u"]
+}) // 2023-10-22T08:00:54.886Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -25,5 +25,19 @@ var yr=(function(jsonp){ if (typeof yr==='function')yr(jsonp); return yr=jsonp }
 "lkxwxjr7y43ft7y2vipf2afr":["yrik","kawai takashi"],
 "pqcvlz7wyklpxvq4yzavf3no":["yrcncld","yourecancelled"],
 "trnuj4skea63mkk2j5chduqj":["yri-so","de jesus"],
-"c5n7dssbfdme5lu32rsiwybv":["yrkes","Malmö Yrkeshögskola"]
-}) // 2023-10-21T21:43:19.945Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"c5n7dssbfdme5lu32rsiwybv":["yrkes","Malmö Yrkeshögskola"],
+"7emhxesf3e2exzkmym33urtw":["yranirdas","صدرینری"],
+"5gtbh4udhi2lazqxikcxx6qn":["yrathbone","Yvonne Rathbone"],
+"vp6dmf2s5b5vj67za6yo5duv":["yreynhout","Yves Reynhout"],
+"r7cujozobutn2nm4xirt7dp6":"yrnovzzz",
+"p6z2erw6v74lqqcnhdo557it":"yrc",
+"yyethomitr724qqs3emnhfum":["yrangole","Yash Rangole"],
+"e6o4gmu2cobwvz2tzgfqr6ga":"yrmts",
+"gpv2zivrv256bcqm4i7snkab":["yrokaz","Zak Brown"],
+"7igd4aaqpe6u5gtucaw4irhp":"yrel",
+"gvr4ewjwgb7uw6a7yhgkftcb":["yrchna","yrchna "],
+"zpbik45ukwewsrxa6ygmltq6":["yrkmm","ゆりかもめ"],
+"mtwogrnu75intraxuvoqxj7u":["yruu21","るう"],
+"nohggt76i5lp6vqylulvhhya":["yrp","bernardo"],
+"rvncc5pi5zpew33xo6yx6ovm":["yramt","Mary Tagler "]
+}) // 2023-10-22T08:23:59.548Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

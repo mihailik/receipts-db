@@ -14,7 +14,7 @@ var ub=(function(jsonp){ if (typeof ub==='function')ub(jsonp); return ub=jsonp }
 "diczxb6tyrk37kspuv6bukd6":["ubiquitousbear","Ben 🎃🐻"],
 "dkmrqobdwzsb5jzus63hns55":"uberpaul",
 "f5kqvujnbmuyzvjxx7f5x54b":["ubikh","Yves Le Yaouanq"],
-"fdbks7ugpy5i6nweuhffho4b":["ubergreen","the lictor of thrash"],
+"fdbks7ugpy5i6nweuhffho4b":["ubergreen","🕯️🪦𝔱𝔥𝔢 𝔩𝔦𝔠𝔱𝔬𝔯 𝔬𝔣 𝔱𝔥𝔯𝔞𝔰𝔥🪦🕯️"],
 "fk2bcjizlhvzymyjmn7dlhat":["uberdorkgirlie","UberDorkGirlie"],
 "fv256ijb3ftgb6hewcujshxw":["ubiquity75","Sarah T Roberts, PhD"],
 "geowgfovqu6i75ahh7rao3p6":["ubirajara","Ubirajara"],
@@ -51,5 +51,20 @@ var ub=(function(jsonp){ if (typeof ub==='function')ub(jsonp); return ub=jsonp }
 "katzqcoopy4ydww7y5d56lkw":["uberleeto","Uberleeto"],
 "ak3xfxe5e6is3dedjczfnrxz":["uberbrady.com","Brady"],
 "t2tjblkqo3z724dtdow2jsc5":["ubergeek.me","Zaid"],
-"idlqr4mnhawbwf3s5ljlhmj4":"ubergeekgirl"
-}) // 2023-10-21T22:11:09.211Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"idlqr4mnhawbwf3s5ljlhmj4":"ubergeekgirl",
+"pgdp74clunj4t6tprzkzxrsy":["ubmit","Guilherme de Andrade"],
+"ye7iq3ckjtrh5zle36ncwcvr":"ubyu",
+"lffqgrnu7qbcdux55ijalws6":"uboa",
+"q6qjzwvcbhmvhjoxpkuhibei":["uberneath","Uberneath 🔪"],
+"nkcrbtb3fc6quwsrc5perlvb":["ubf","salah slaila "],
+"anx7j4peqydrqc6yf6jccqpj":["ubertenorman","ubertenorman "],
+"f7lx34f6k63geid5sfzyodq5":["ubatheone","Positively Improper"],
+"gxrleevu3svaixa5uk5hnxca":["ubaidu","Ubaidu"],
+"o3nenwdqxbfsbn4ptvmkaz3q":"ube",
+"m5cfb6y42krdmlqbrizlndhj":["ubki","うぶき"],
+"lqptdl7i2i5cnhsvpxcfdc7t":["ubcdrbench","Benjamin Cheung | 張煦 | 장후"],
+"ui6exrtxjt32a4afbnygfver":["ububele","Ububele Kopo"],
+"puokyxdo72oqsanktwjrs7hq":["ubagami","ubagami"],
+"2j6vblpjdqw344xqwzfgu7jr":["uboot1906","uboot1906"],
+"hl76mq2ttsbkl6dcvxqq77qi":"ubuwaits"
+}) // 2023-10-22T07:27:12.385Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -16,5 +16,17 @@ var uu=(function(jsonp){ if (typeof uu==='function')uu(jsonp); return uu=jsonp }
 "3apumfs3tfbkqkljvmcqvjvj":"uunisavant",
 "de2i5tf52oy7xshqkye6cbr2":"uuuno",
 "e2nvtotazfrjcqaap45r2nvw":["uuuzuka","卯塚ウウ(uu uzuka)🎈metaverse Balloon Artist JPVtuber🎈"],
-"inbdotdlbuxc2ygaqbvzhkie":["uurs","Uurs"]
-}) // 2023-10-21T22:00:07.407Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"inbdotdlbuxc2ygaqbvzhkie":["uurs","Uurs"],
+"ngpzxec4czcleq54cil6tfjv":["uunnddeerr","Under Pressure"],
+"2org2namuubwbmwj2dmmjvfp":"uubbbrr",
+"yzbwzqrl5nrmjp6hdkvdotk6":"uuy",
+"ohy4wt7g7unkop2p7ce5wche":["uuh","Sergio Sarcagian \"The Desert Diva\""],
+"kxhjwcila447ufmtlepbagwl":["uuords","devin kharpertian"],
+"fsgkuz4t2riw4d3zjlpf6s3t":"uuuhrd1408",
+"66ey6dccselkjr7m6bw2qnwy":["uuyhum","💙햇짜부윰🖤"],
+"l6v7it4i43wgngxz6tw4lzmx":["uuuu","uuuu.to"],
+"qwofc5abhmy5wpoatgestsqm":["uulasg","Nemo"],
+"lekb67f6dnx42himlxlvl4dt":"uurstci",
+"v7u2hpjhh7zvveib6bmsefsa":["uurhelo","helo"],
+"2xi4iebjmaoe46i2db6sxsii":"uues"
+}) // 2023-10-22T07:44:54.809Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

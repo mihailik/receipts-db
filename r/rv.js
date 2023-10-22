@@ -26,5 +26,23 @@ var rv=(function(jsonp){ if (typeof rv==='function')rv(jsonp); return rv=jsonp }
 "2vjzwr3gomturybzrogcmmvq":["rvig.art","rvig - generative art"],
 "2vgc7tvjcnpnmveqkhq625gn":["rvawonk","Caroline Orr Bueno"],
 "tp2xhkb6cnlntbfqeywkc6o3":"rvazquez",
-"z6yab4gejsy3wq4b5lgzzoof":["rv3en5","Rubens Menezes"]
-}) // 2023-10-21T21:39:40.438Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"z6yab4gejsy3wq4b5lgzzoof":["rv3en5","Rubens Menezes"],
+"tzes7avxzurikjnnmveoz6nf":"rval",
+"jve4bev6alftpa7tlh5x4fku":["rvlr","Raf"],
+"5dwhmgzqwb3bt5cfl7epd2ar":"rvz",
+"qvqpbn6xgch5dul5acswhw2c":["rvrs","CherryFlavouredMusic"],
+"37ewwkdb2srmiyqsxn3fqu3b":["rvidal","Ricardo Vidal"],
+"ot7xzgddd6btlatiq4f7ws2s":["rvinegar","赤酢"],
+"ly4kqa2ywh2vmlot2pzn4mw6":"rvnx",
+"64tpo33pkjwvpfhupmrimbpc":["rvroo","RvRoo"],
+"6j5frdju2qz2qjalmr7di2bh":["rvc330","Dimes Square Holdings LP"],
+"x4hnswliqxpttdn7mtnpbji4":["rvamom","Courtney O’Hara"],
+"m525rrtgzyoxqljq6ws3ue7e":"rvaan",
+"i5qzhmidcpxclgd37zi4tzoy":["rvchvrd","richard araujo"],
+"yddhwfttqv3jnl7wwak7rfs5":"rvalienteboy",
+"6ibnzycyykpjkwxgfs2rlmcx":["rverse","RVerse"],
+"3svfql7sjhuysldhn6uxcmv7":"rvk",
+"ben2bpynauquadyybkr3hh66":["rvs","Roman Shaposhnik"],
+"e2iwqwiclnx3la57kelo3yag":["rviscomi.dev","Rick Viscomi"],
+"7pyknspigplg2abz47lkhuuq":["rvfa","rafa"]
+}) // 2023-10-22T07:38:29.039Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

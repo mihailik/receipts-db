@@ -19,5 +19,21 @@ var uf=(function(jsonp){ if (typeof uf==='function')uf(jsonp); return uf=jsonp }
 "7lxhftph6qrngsynih3txift":["ufo-shane","UFO-Walrus"],
 "blph45qhwkl26u3gvn2tmfmv":["ufoclub","UFO"],
 "zbwfi5intf3x7cbqf2bxagso":["ufonft2","Lolipop Mary"],
-"crnjk5chuslrer3dxstollbf":["uffeux","Jeremy Boone"]
-}) // 2023-10-21T21:56:58.446Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"crnjk5chuslrer3dxstollbf":["uffeux","Jeremy Boone"],
+"fxtcwcxcttummgk5mgzkwrda":["ufimtsev.me","Konstantin Ufimtsev"],
+"kund4j4yw5sd4eegw2ta2w76":["ufukgokhan","MEG"],
+"lq6hbhtmaokrvfw4zbltrbzn":"ufojim",
+"vuv57odsagvpgslwkcuttzna":["ufukozer","Ufuk Özer"],
+"ctjkoixvu7peziwwfodtr5a4":["ufofairy","🧚🏽"],
+"5ygvjumqtdv5ptx4ifeff2i4":["ufos","ufo"],
+"5rttmka2ve5uho3ate5rcrdw":["ufukdogan","Ufuk Dogan"],
+"5wkxv45txtbqqvkledxsosph":["ufinexa","Joseph"],
+"obzqof3aqn22purkgvo4gsv7":"ufak",
+"7cvvjkcbqbqaxetiftrc35ws":"ufuksfk",
+"ib5mhtwpboeryv6jwflfnvvc":"ufodesign",
+"yq6qvuiajeernz4khlfg6rv6":["ufoapostle","Trevor Butler "],
+"j4jyighubcfkxicwa3lrczx7":"ufepuf",
+"yh7rk2rzk5wndtzjeyfdtxqf":["ufe","UFE"],
+"vkxfmu7735ysk7mkhnwgqwwp":["ufal.my.id","Ufal Salman"],
+"dczljgnfaycvphvpqgyq36qu":["ufo2020","UFO_2020"]
+}) // 2023-10-22T07:55:29.633Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

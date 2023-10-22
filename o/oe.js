@@ -8,10 +8,10 @@ var oe=(function(jsonp){ if (typeof oe==='function')oe(jsonp); return oe=jsonp }
 "bf7jutberwpqeejkynb2ih4m":["oenkazas","Тайтаке"],
 "c7koaruh464ygwnsudpo5ro2":["oegmecfs","Ö. Ges. für ME/CFS"],
 "d6u6hhkhjelopkshcas53t7n":["oetmoon","oetmoon"],
-"fajwawoqgqtfntcevj2u5jpb":"oekanuki",
+"fajwawoqgqtfntcevj2u5jpb":["oekanuki","Owen Tanuki - Tired hyena dad edition"],
 "fdkv7kjoq2tiqmpk4lbseppq":"oeshar",
-"fidsk74i4wq2ygdo5wrvsrqo":["oekakiuba","オエカキ＠ウーバーイーツ福岡"],
-"fmjqxrgeoo42we4ggdfyiras":["oeglefaen","Øglefaen"],
+"fidsk74i4wq2ygdo5wrvsrqo":["oekakiuba","oekaki"],
+"fmjqxrgeoo42we4ggdfyiras":["oeglefaen","Cubonefaen 🦴🦎"],
 "izbkjvalcjgl3krvvhoeixqc":"oeyajedi",
 "jdehabeqapxwai2tfre4tybb":["oetzi76","Sandra_SCF"],
 "jjmxqprw7mdyjyoj7qtabt2q":["oerdersascha","Sascha oerder"],
@@ -40,5 +40,16 @@ var oe=(function(jsonp){ if (typeof oe==='function')oe(jsonp); return oe=jsonp }
 "c4w7jwbipdntxdq43sxgmpy7":"oekkalta",
 "4us75r5tesoz4xzmf4udgou6":["oeduardovictor","Dudu"],
 "c5o43ur7vwwrzomcxfjzoies":["oecaio","caio"],
-"nq776jzilfsdmiymod2nkauz":["oehlkers","oehlkers"]
-}) // 2023-10-21T21:51:24.821Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nq776jzilfsdmiymod2nkauz":["oehlkers","oehlkers"],
+"dig7c4etxxkdvntfju3giohc":["oenigma","o enigma"],
+"yekzp2obghtluv4ztabmmhww":"oen",
+"6tbaegx4dug45fdv2f2ez4i6":"oeilminamin",
+"go52sbpuhvkbuuqq4sdq42xd":["oeduardoccruz","Eduardo Cruz"],
+"3doth5dbgjscqbquoaswnfig":"oelawure",
+"mijpo6bbyy6ws7lo43yp4sfo":["oekaki","お絵描き初心者"],
+"qnpcnubtt7biad2ixvjk3igv":["oemmi","emmi🌼"],
+"f4tznhagwazyx5ncouxqstmq":"oegedijk",
+"ketzubu57mdnffxpnavrpsfz":["oemmanuelsouza","Emmanuel Souza"],
+"ex4pjkhnkq7trxk5qnxskzgn":["oeo","すたん"],
+"thrim7ftxralwaxjb66hsgig":["oegsh","Oegsh Oamen"]
+}) // 2023-10-22T07:59:32.767Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

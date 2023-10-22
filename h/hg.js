@@ -5,7 +5,7 @@ var hg=(function(jsonp){ if (typeof hg==='function')hg(jsonp); return hg=jsonp }
 "5nawww2u23bv3y5poowotnte":["hgriffeart","Hubert Griffe 🌈"],
 "bdnlqhnnvefspz6knr7zg4tm":["hgot07","Hideaki et al."],
 "ep27ipyqlpgng3rs2gezdc7b":"hgraves64",
-"erxb5j26bgwhevbkzvakwghk":"hghydra",
+"erxb5j26bgwhevbkzvakwghk":["hghydra","Hydra"],
 "hc7573aeg4aao2x2n6fj7u2r":["hgrobo","HG Robo"],
 "io7wmliaoc62d7fb7hq4xujb":["hgrdlmn","hgrdlmn"],
 "jmysgpxaphdu2q3lg4sodfkc":["hgokie","Hannah"],
@@ -20,5 +20,22 @@ var hg=(function(jsonp){ if (typeof hg==='function')hg(jsonp); return hg=jsonp }
 "r3odyufip3pr7762kopdlowd":["hgtvdeathdrive","alice"],
 "2zw66zafwjlgouksjs5rfmn7":["hgh","hamid"],
 "x2x5vzf6mroz34ol2zauby3c":"hgm",
-"sxdzwtflv4g75pfehsq734sl":"hgarantes"
-}) // 2023-10-21T22:08:20.726Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"sxdzwtflv4g75pfehsq734sl":"hgarantes",
+"qtxs3oe2v7maylptocob7luc":"hgeberg",
+"u5bncwbydedtpcczdddicfpa":["hgzt23678","hgzt23678"],
+"eyjzifmiuamai4ddabsn3q5f":["hgty222","ひげ"],
+"gijvxmitfqfaky3tvalyrhm5":"hgf",
+"xjvqdr3zue2nzvdu3qmr5l6y":["hg101","Kurt @ Hardcore Gaming 101"],
+"6hfs3qqcg5x4u4hyv36dfaai":["hgym","おはぎ"],
+"pynwmbinyhykemronvt4hg2r":["hgmn","Andreas Hagemann"],
+"7vgz64x747cfdpn6lkexnpej":["hghchk","금현"],
+"y3snnz4ommzlnv6g3gdppxep":["hgargan","Henry Gargan"],
+"i5rvkljwjrn2fkwx2yzdzbt3":["hgr","hgrandall"],
+"jxgnh7q5kj7ttjwdzq7gwzle":["h-grasso","Hi, I'm H "],
+"swwlo4faie4etifydoxxv2p3":["hguarderas93","Hernán"],
+"ydmfm2v42okvxlkbpiaoqqwb":["hgshiraii","シライ〜"],
+"pjw56ge4x7sxfwxyifftztix":"hgaudet",
+"kgsnh2pbjsblx5df42gwh3zj":["hgchuck","Chuck"],
+"o2u7k5akrapv5yemc6zegsyy":["hgalanoy","hgalanoy"],
+"v2nuh3xuwnlfdybyqvhyemn2":["hgrossmann","Heather Grossmann"]
+}) // 2023-10-22T08:20:02.989Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

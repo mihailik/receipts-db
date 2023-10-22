@@ -15,5 +15,17 @@ var wp=(function(jsonp){ if (typeof wp==='function')wp(jsonp); return wp=jsonp }
 "gostelfmrd2rpjhafyrynwgk":["wps","Whitney Snyder"],
 "ozn5w4vtgbcoqydvbkthvdel":["wperiyasamy","Winn Periyasamy, JD, MPH (They/she, அசுவினி)"],
 "5kn3tn6yp3gy26g3vmqddmn7":["wpyzone","peiying wang"],
-"gvh77t5skrl5zteouabg5qcx":["wpdlem","𝙅𝙖𝙙𝙚"]
-}) // 2023-10-21T22:03:04.025Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"gvh77t5skrl5zteouabg5qcx":["wpdlem","𝙅𝙖𝙙𝙚"],
+"g2h6u3xuprccokyp4daxvxii":"wpetty",
+"x7l7br3z5zijj2feypglb2hs":["wpaulsmith","W. Paul Smith"],
+"venxsmnl5wgp6y753annxxsq":["wprat","Will Prat"],
+"ml26lzy66a25xfuh2rhxmybk":["wpmcgee","Patrick McGee"],
+"rk2snywlcmsncnpck72e3tig":["wparker","Wil"],
+"l7kxreszsu7jjsoieii5u7qn":["wpsk","わぷ"],
+"2o6kdvgxekuwkox7y7ptnhqu":["wpgml","제희"],
+"wvzlbxjeukjigqoltxmtgavc":["wpark83","Wpark83"],
+"3zbs37tdtp6xaxurslxaubxi":["wpgpoliceharm","Winnipeg Police Cause Harm"],
+"f54jamgjv4nhyt73c27rrccw":["wpmcquaide.com","Will"],
+"lwmkem4vjgxttouit4oc2q5t":"wpengine",
+"rpqlg6otkfskcu6y3yq2q6kf":"wpa"
+}) // 2023-10-22T08:22:33.615Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

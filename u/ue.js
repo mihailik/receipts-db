@@ -9,7 +9,7 @@ var ue=(function(jsonp){ if (typeof ue==='function')ue(jsonp); return ue=jsonp }
 "emduec23w65o6q7vhfdk3wmq":"ued",
 "fjvqiueg4mkthbxtluq5mj26":"uekoillustration",
 "hr4s4wl3kebrkiq3i37g64kl":["uenoebisen","えびせん"],
-"jwelsp2rgolsl3sumiafreq2":["ueowen","Ursula Elf-shred Owen"],
+"jwelsp2rgolsl3sumiafreq2":["ueowen","Ursula Hell-Press'd Owen"],
 "kcwgv5kh3eauvhfn4zdpf7ld":"ueberschwall",
 "kfkv4mqy7tt6o4i7zhcmjosj":["ueharamiu","上原ミウ"],
 "lggx3lmlmhchn6do7lt3glje":["uesnonema","UesnoNema"],
@@ -26,5 +26,16 @@ var ue=(function(jsonp){ if (typeof ue==='function')ue(jsonp); return ue=jsonp }
 "q3ekyimqitxzcn6c23munuyp":["ueda","ueda"],
 "irobcyfedvhw76wlp5dts5cn":["uedagrill","UedaGRILL"],
 "lxrpe3rpeves36rechswiy2a":["ueyayugo","ゆー｜you"],
-"bxb5scnpjfn6d3rkdyzx7s44":["uemue","uemue"]
-}) // 2023-10-21T22:20:37.415Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bxb5scnpjfn6d3rkdyzx7s44":["uemue","uemue"],
+"coo7yusr7eh3eazjjeddua6b":"ueblog",
+"jfj6ff4nstrxrpyb4razoxaw":["uekibachi","🪴"],
+"tyrno3ip3nigrekzb64lidss":["ueli","Ueli"],
+"vcwdncpk33orphl3lmdf5uje":"uematsuatsushi",
+"yinjl5dd4pn7i6f2dtzfmskt":["uenitty","Ueni"],
+"rnkkruwhvtcyw5sblzv33hln":["uelington","Uelington"],
+"e3mgfr2bermtkxet3vrlqokz":["ueveraldoc","Everaldo Cavalcante"],
+"ji3kgofut7w3lzl5jwhal433":["uezzlei","linguiça nordestina"],
+"oz3oisjrc4obtea3qeb7s7yh":"uescdurandal",
+"odqyz2skzo2fyw26ykdw7jxe":["uenoyama","Natsuki"],
+"c2tdiuoeeed4pkvfu6yz7gqo":["ueland","Tor-Henning Ueland"]
+}) // 2023-10-22T07:28:33.514Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

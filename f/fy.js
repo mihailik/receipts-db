@@ -30,5 +30,18 @@ var fy=(function(jsonp){ if (typeof fy==='function')fy(jsonp); return fy=jsonp }
 "rnewx4hvzesxaddelnhmo5tf":["fyrashid","Fahmida Y Rashid"],
 "l77eqnwuuiiyrxum3myesjng":["fyi","RexPect"],
 "hzusb5dp4a3nief4qoe6zvlq":["fyrie","Fyrie"],
-"t7abelppwxxqpfmvq5y2hjcw":["fyz","FYZ"]
-}) // 2023-10-21T20:58:09.877Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"t7abelppwxxqpfmvq5y2hjcw":["fyz","FYZ"],
+"6jljnd7xiriqujdy63csqpu5":["fyka","Fyka"],
+"nqx24xy5m42la4dnct3eh7ub":["fyn","fall guys lover (they)"],
+"725zliepmgyztoenjvmjog5z":"fyzxnerd",
+"vhafduvo3kzzryxui3tsbf2c":["fyrfli","@fyrfli@fyrfli.social:~_"],
+"3jljzblksl6wfxwis5zhikaz":"fyrifant",
+"nlhmzyogjnyq45ntgtqoitf4":["fye","FYE"],
+"pxcqqbvcnlbroo6iud4uncsj":["fyahbrand","Fyahbrand "],
+"icq6rgpagbvve6sm4jxi6t6b":["fy64","Fy64"],
+"lwojhin2jmklxqozvcf6tt7o":["fylklore","Aline ✨"],
+"qox4jhbr6b2gy6iodax7ojkp":["fyordr","Хведір"],
+"4cmknag3maa4vhboeabihpfd":["fyasko","Fyasko Sharkyeen"],
+"xydix2xzkwb6xudx5smoj57k":["fynnmorro","Fynn"],
+"gsopmhwthqqcsv4ywzuuhciz":["fyc","Fadi Yaacoub"]
+}) // 2023-10-22T07:58:11.399Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

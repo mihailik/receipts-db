@@ -28,5 +28,15 @@ var fn=(function(jsonp){ if (typeof fn==='function')fn(jsonp); return fn=jsonp }
 "xyn4rpewkkb23utkup2velaa":["fntlnz.wtf","Lorenzo Fontana"],
 "tsw2foftkvhdgmuqkpxvzha3":["fnthawar","Farhan Thawar"],
 "4htrpxkf76izwxh56s5vffpj":["fnsad","FNSAD"],
-"hjko4s4tyczc55uxpkixwmdu":["fnando.com","Nando Vieira"]
-}) // 2023-10-21T21:41:54.982Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hjko4s4tyczc55uxpkixwmdu":["fnando.com","Nando Vieira"],
+"7ajd6r2nzzrmjgfel2zk5h4z":["fncore","Fncore"],
+"l27dfw7rr5g3krbdvo4vydyr":"fnaito",
+"xzqvntqcbwkim3cc3phbg44w":"fnlnd",
+"3khfpvarngrzonyfhe22xzw7":["fncischen","Francis Chen"],
+"p5puiipke6kbxzojx7iozb74":"fnf",
+"27kfall3g3ogyd2nnlvxrpsg":"fnoji",
+"566gi3zcllef66gltr6if5og":["fniephaus","Fabio Niephaus"],
+"n3fjq5kdqwrios3ev6pu3eyq":["fnrightchicago","E"],
+"xtjgabvrbmmetf6n5namngo6":["fnnda","Fernanda"],
+"mjnddaoa4wlxxtyz4pau2u36":["fntri","Rit"]
+}) // 2023-10-22T07:54:06.581Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

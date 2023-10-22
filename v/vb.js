@@ -20,5 +20,14 @@ var vb=(function(jsonp){ if (typeof vb==='function')vb(jsonp); return vb=jsonp }
 "kk6fn3nlrp2575wdh5sgr7zr":["vbaby","Natural Born Quitter"],
 "nvwqrbl4sye3ft5cbl3szuwg":"vbvalenzuela",
 "hifbquvzlhdswzoyuc44dkft":["vbsrra","V"],
-"6sydu6ckcuh2k4pf662kvypc":"vbdad767"
-}) // 2023-10-21T21:31:22.719Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6sydu6ckcuh2k4pf662kvypc":"vbdad767",
+"lgjpywuagkk5c5u2e5av3dou":"vbag",
+"r6yzr2irmcjeenmpuvasbnfy":"vbk24",
+"nj62nbbqpyzers6cx2fnusks":["vbc","Vir"],
+"fmcaz7375l3dmhnfbbcldjs3":["vbrownbag","vBrownBag"],
+"3vr5ju6ijjjxrvn7a64v3osi":["vbandi","András Velvárt"],
+"czcjdcjvd7w6yead24yehnlf":["vballin","Vballin"],
+"pdggilwhww3urilyjy22p7lr":"vbenvenutti",
+"faiabszqs7qr7tsrixtws5zb":["vbp","William Vambenepe"],
+"ti5shctmxqnuawdtuikyw45g":["vbeld","퓨딩"]
+}) // 2023-10-22T07:24:43.528Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

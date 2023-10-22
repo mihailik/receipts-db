@@ -22,5 +22,18 @@ var qo=(function(jsonp){ if (typeof qo==='function')qo(jsonp); return qo=jsonp }
 "gliny2dlprx6x2oaph2mygtz":["qomnews","Qomnews قم نیوز "],
 "wb3whcxr2ep3qcno5hdrxv43":["qojoqupid","Demigod Qupid "],
 "heo57zi6jxkgmok5hfrfnjuz":["qousqous","dr. qousqous tsziar"],
-"5qolfwi26v5bpjtz27mjrfbm":["qosacay","Marshall "]
-}) // 2023-10-21T22:19:06.769Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5qolfwi26v5bpjtz27mjrfbm":["qosacay","Marshall "],
+"hd7acvqvmzqyxdabt3bpi7ga":"qorquiq",
+"q6pi4nbpjx4k62ghoidqtzvt":["qookins","Q M Kuhns"],
+"lcs5ww42zjozekrva2wosukb":"qoo",
+"fgfjncyqtxjyjbzj2jgykw32":["qos","QoS"],
+"zlqfpkhps5ns645xnf3vlbwx":["qondoem","権／ドエム"],
+"3tbmvjur3a4z6uwbf4veued5":"qo7x",
+"nkytnabm5uluaiyymxjzkaub":["qooseul","yun"],
+"yori7kt4432nb7xx5ksq46ez":["qodselahi","مصطفی هستم ."],
+"shwtgcmwz44lvpnclaexbj23":["qordk","백아"],
+"fg6wnip4zgzz3277lz7djpet":["qotdct","Quote Of The Day, Connecticut 🌎"],
+"b7thfje7nzna2fb63x7jknf6":["qooxx","B"],
+"mkpliaz36ui25x5urkkrjhnx":["qoomingjs","くーみん"],
+"dovti6i43levgha4k25axdmh":"qotile"
+}) // 2023-10-22T08:22:33.395Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

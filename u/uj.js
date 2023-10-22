@@ -3,6 +3,22 @@ var uj=(function(jsonp){ if (typeof uj==='function')uj(jsonp); return uj=jsonp }
 "ayct6rs6ffuunzknl2gbtgxe":["ujm","ujm"],
 "hhj2b7rqtaffsbd7a52dhf4j":["ujj","Julien \"uj\" Abadji"],
 "ridyel75k5nqfhxiohzemc6u":["ujinart","우진"],
-"uk4qf2omxwsar6k4u7mcel6i":["ujojow","Jow Z"],
-"d5pgg7hkjnzb6ojg7xjzcg6s":["ujval","ujval"]
-}) // 2023-10-21T20:14:43.106Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"uk4qf2omxwsar6k4u7mcel6i":["ujojow","zé goiaba"],
+"d5pgg7hkjnzb6ojg7xjzcg6s":["ujval","ujval"],
+"37vtoqrkdr3npatdy7ui4use":"ujji",
+"cxnnrz4ljkdtgqmm352cyhpg":["ujajajajojojo","ウージャージャージャージョージョージョー"],
+"ga7b5l6w5zplgpzagos2rvyv":["ujjwalchugh","Dr. Ujjwal Chugh"],
+"65vav67uo3cirla2f3qosrag":["ujuanya","Uju Anya"],
+"znwt7dthswezvtutrxb6rvmp":["ujesh","Ujesh"],
+"qeyetwo53q2yyxzuso56zken":["ujiarmy","UJIARMY"],
+"mvfbjodd43wlszult5nltudg":["ujo","Ujo"],
+"yvwjnolfohbmybctaqdlqdfz":["ujay68","John Ulrik"],
+"v27lt3nze2ia3clojwkwoctl":["ujeong1","Ujun Jeong"],
+"cgamo7r7kxwzufkvb3o5kgvz":"ujkooe",
+"b3mx7yaf5gcjenrwz6was2ri":["ujungc","붉은"],
+"tifydyfddv7je423xngosgqm":"ujae0205",
+"3yeujhex5mzaqhluzz572u5h":["ujochi","ujochi"],
+"gz7jfbh2ijtyc5nnbahkxl6r":["uju","uju"],
+"oo3rjyceycfculrmhs247yzh":["u-jinn","U_jinn"],
+"cx5vig6tzh6kbujsiqeey2az":"ujliano"
+}) // 2023-10-22T07:33:27.887Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

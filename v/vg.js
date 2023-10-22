@@ -26,5 +26,12 @@ var vg=(function(jsonp){ if (typeof vg==='function')vg(jsonp); return vg=jsonp }
 "bqettoxwotmyfkzigccjlnuv":["vgrafe","Vincent Grafé"],
 "4yn3mmbqfth2zqawjvixan3s":["vgracie","Victoria Gracie"],
 "mmencbhkaifzjx2fkqmctakw":"vgv",
-"jux6yqtljiri4gkujw575ip4":["vgsn","しあ"]
-}) // 2023-10-21T22:20:37.454Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jux6yqtljiri4gkujw575ip4":["vgsn","しあ"],
+"fzwk6x4xclrkcubrxf5o6yn2":["vgokarn","Varun Gokarn"],
+"5lzsxxacx4dgp74ngywe54po":["vgnsh","Vignesh"],
+"hrbcyzifs4efpv2c7c37myul":["vgwschutte","Virginia Schutte"],
+"5jaeeit7japwlxqoaablnbft":["vgatwtoe","Video Games Are The Worst Thing On Earth"],
+"y56zbvox3fgvkisvbxmjvblu":["vgrasta","VIBEGOD"],
+"qiaq7fvuubaq26a7442apxdn":["vgc.name","vgc"],
+"innxj5xmb7n5lu5ohzisin5e":["vgandhi","Vikram"]
+}) // 2023-10-22T08:18:41.785Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

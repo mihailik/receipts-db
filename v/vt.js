@@ -34,5 +34,24 @@ var vt=(function(jsonp){ if (typeof vt==='function')vt(jsonp); return vt=jsonp }
 "sa53e7aakgnavwngdpq2p52u":"vtawosi",
 "avimm4qvzaeqhd4dz6qjfilt":["vtsipol","Vasilis Tsipolitis"],
 "wi3vtn6osh2ro45lzinnrvgx":["v-tuber.dev","Virtualsky"],
-"g4ppivsdcobzjl3jo4hovuyg":["vtanger","Victor Tangermann"]
-}) // 2023-10-21T22:09:44.600Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"g4ppivsdcobzjl3jo4hovuyg":["vtanger","Victor Tangermann"],
+"xws3boxzii6hgrcll7yc42dc":["vtuber","野沢ネク@マネージャー👓"],
+"x67q5zyqmle7ahypwu67uwvv":["vtardif","Vicki Tardif"],
+"m5ojhgmlw4k42vmaz72isxgy":"vtuber-bot",
+"t5xbdliiqiwpxvgmsu4g7gj5":"vtopgroup",
+"je7woctywzrx3lw5qft5if7j":["vtflab","セツナ🍰VTF　🐳"],
+"wli76yrerxnurn4znimstay4":"vtjawo",
+"kto3kkbsblwtvudsycznejel":["vtkz7","takuzo(たくぞー)"],
+"5moj7zhvhw3z5k5tsefg5dey":["vtrbrn","vítor bruno "],
+"27gg6mb67dxtm4ay7ge2fezj":["vtrzarc","vitor"],
+"bkl34fyblqsr7a4ofgv3ni7f":["vtoplenyk","Хтось там||🇺🇦||grape vine "],
+"wkoupzxtflaamey4i73qp5yr":["vtryo","VTRyo"],
+"sku4ggf2tohjbkzkqvmn44dh":["vtg2","Victoria Guida"],
+"ukijiiwriphvnhugyzd3sz5x":["vtecpapi","Proposition Moe"],
+"tjbfe6xpse3khveb7ghkqlw5":"vtor",
+"dkotg7zwsh6eqqp3gaotewe2":["vt-pharma","pharma@virtual pharmacist"],
+"rmtfzhrzxo2ddllly62wyndb":"v-to-the-k",
+"npftyshk7jojzebureeakl5w":["vtexan","Tommy vTexan Trogden"],
+"yzay2rsg4bw7usvet5p42nnf":["vtrosa","Signorelli"],
+"wd5ooh7v4totvfdkvzjglfzs":["vtchalakov","Velin"]
+}) // 2023-10-22T06:28:43.284Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

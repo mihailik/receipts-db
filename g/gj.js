@@ -16,5 +16,17 @@ var gj=(function(jsonp){ if (typeof gj==='function')gj(jsonp); return gj=jsonp }
 "yhvfmbzdyojjl6e4t5tcy6kx":["gjgunit.com","Guillermo J Guajardo 🌎"],
 "4xfssuoajwxo6tr2hbv6kigp":["gjahjah","Giovanna Jahjah"],
 "sa6t24r7e4ktnbvcehuhukuc":["gjustjuve","GJustjuve"],
-"p4obig7z7cz2jmpozpkurvwq":["gjcharlet","GJ💀"]
-}) // 2023-10-21T22:09:44.482Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"p4obig7z7cz2jmpozpkurvwq":["gjcharlet","GJ💀"],
+"utd5cyrgsrw6d3le7qzgt7nd":["gjtiquia","GJ Tiquia"],
+"yy7jjg5jonbngef43qmffphg":"gjhoekman",
+"ukfbe2ljeqiwpsgsrwvfecbs":"gjtempleton",
+"plwzx6qlaw26xvn7s2aq6uuo":["gjwalk","Greg"],
+"276cszsvlpiu3hwkolgikik7":"gjohnson309",
+"lhtels4dptxwp64d5hdffllf":"gjeffrey",
+"h5kw7ba5lnt627kov5punkv3":"gjn",
+"zmdolp367tvlv3rxxp4e36yi":"gjmarie",
+"hjurull6ilifm2z7ldqth224":["gjoto","صلت قصیده"],
+"z4jvcbwagjviogxbshszv46p":["gjaskin","Jordan"],
+"425iwgf4nhatdbkuqt7t6cf4":"gjstache53",
+"7ayc4rjwg2vnemqyzwdpdycl":["gjo","gjo"]
+}) // 2023-10-22T07:44:54.890Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

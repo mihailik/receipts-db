@@ -24,5 +24,16 @@ var iu=(function(jsonp){ if (typeof iu==='function')iu(jsonp); return iu=jsonp }
 "d5etqpafo66v45touzemgpvm":["iure","iure"],
 "7zjindekx364ksqfdciomfh6":["iurydias","Iury Dias"],
 "q6d7acj67mbss5j5mlnzjlo3":["iumair","Umair Mehmood "],
-"5nj2xjrrq5phmqzqkkofhkak":["iurygarciia","iury"]
-}) // 2023-10-21T22:24:57.514Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5nj2xjrrq5phmqzqkkofhkak":["iurygarciia","iury"],
+"5x22aqnimkfo4qa5pkdmthf4":"iurii",
+"vbo357svte425ow2e4gslurs":"iurysouza",
+"awyjkgwwbmsgsadnsps445ek":["iuribelmino","Iuri Belmino"],
+"2x5hat6uibnq7r6vawopktim":["iurylima","Iury"],
+"y4bu5v3w6i4aaqdl5w4clx26":"iuu",
+"vdzyynhwl43xdnf7j7co3kx6":"iustsaeed",
+"nxuyzl7a7uub6lvkomycwz7s":["iugah","Lucas Takashi"],
+"g3akbovxe4pwbkqmkk7jevnf":["iun","Iun"],
+"cvcca5mmwdvjadpdzvh5zq4a":"iucasg",
+"hpy57344tahksbcghu2gqy6l":["iuciferic","Kyou"],
+"lsmfx6vtc3zqozsnpvtmnrwn":["iuckaz","Lucas Gomez"]
+}) // 2023-10-22T08:07:54.985Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

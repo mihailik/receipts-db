@@ -10,7 +10,7 @@ var vf=(function(jsonp){ if (typeof vf==='function')vf(jsonp); return vf=jsonp }
 "ig7tnbd4iundnbgavm7r55l5":"vfray",
 "lcq6w2ryxufglhft62e34wps":["vforv","VforV"],
 "phpphktp4cnbonkab3udzh4j":["vforvashaw","Austin Vashaw"],
-"rea3amxwqfkfzhilivubtrib":["vfo","Valerie Forrestal"],
+"rea3amxwqfkfzhilivubtrib":["vfo","vAHHH!erie HORRORstal"],
 "tvxmzopxsqv5c7wtfkbbnh4q":["vforvalentine","Average Signalis enjoyer"],
 "u2osyrp7exyu57dqbfdk2lrm":["vfariajr","Omi do funk rave na ota rede"],
 "uicombzall4cxt5w4zyt4l5x":["vfoxtailarts","Foxdee"],
@@ -19,5 +19,13 @@ var vf=(function(jsonp){ if (typeof vf==='function')vf(jsonp); return vf=jsonp }
 "qewbeuomnnlaj6hxvzemoayt":["vfs","Valley Forge Security"],
 "cmo7axdc5leulwqgksseqbsm":["vfxsup","DoRe"],
 "nkuhkldvt2vtqj2bqj5hgxfj":["vfranko","Vanessa Franko"],
-"ukymntw4xjqo6txtbrvr5ihb":["vficeis","Vito"]
-}) // 2023-10-21T21:22:29.202Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ukymntw4xjqo6txtbrvr5ihb":["vficeis","Vito"],
+"zr7s55r6czbxipuqdxk5adge":"vfyavuz",
+"m4qscdz5auugc3swok4g5nmn":["vferraz","Victor Ferraz"],
+"x4xgwgnnsiqlk7jddohroxf2":["vflonts","Volodymyr Flonts"],
+"hhk2sngw4udm5ao4j3tsz4mo":"vfraser",
+"zu424ielqigjl6qfjtsbncez":["vfic","Vinhetas Fictícias"],
+"rxdzubbginbugsx2jnkfebfn":"vfabricio",
+"subzf4jvg7tjstd4u7sr4hpl":["vferman","Victor "],
+"ckhzf23ocmn2ta4dpzgbo4cz":["vfrankyb","Franky Barragan"]
+}) // 2023-10-22T07:48:41.718Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
