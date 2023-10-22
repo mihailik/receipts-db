@@ -23,5 +23,6 @@ var hf=(function(jsonp){ if (typeof hf==='function')hf(jsonp); return hf=jsonp }
 "kmrllxdrhgp6bhlbf3zwbleg":["hfxgov","Halifax Regional Municipality"],
 "idpan7zoavmxgciqqeastadx":["hfhr","Hindus For Human Rights"],
 "ntbbfkl3quwvzyanno2u24wt":["h-fukuoka","Hidey"],
-"rjnoit7t4oypkiqzkjj2fvz4":["hfxlibrarian","Sara Gillis"]
-}) // 2023-10-22T09:16:06.582Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rjnoit7t4oypkiqzkjj2fvz4":["hfxlibrarian","Sara Gillis"],
+"rm6sbkxsc527um36b267b4ky":["hftinus","Martijn"]
+}) // 2023-10-22T12:36:57.540Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

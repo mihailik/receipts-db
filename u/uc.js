@@ -71,5 +71,12 @@ var uc=(function(jsonp){ if (typeof uc==='function')uc(jsonp); return uc=jsonp }
 "yeuamw625foifynaxv57cu4l":["ucanherif","Vecihi Hürkuş"],
 "xabsk7o3kic4vyiphnv6j6q4":"uchimama",
 "2cn7xrdgpfk74vczpqgdta5u":"uchyt",
-"rlvmqgcwd46afgaazn4f3eui":["uchy","uchy"]
-}) // 2023-10-22T11:30:40.699Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rlvmqgcwd46afgaazn4f3eui":["uchy","uchy"],
+"v2sdx4issfcpawzzrjgmtmts":["uc-yuk","夕子"],
+"7vfuby77aotknmtxps7ivspq":["uchiyoshi","uchiyoshi"],
+"3cltftvz6ifm3ipwot5zkfqq":["uca2022","憂花 / うか"],
+"xigkt3jm2ll5stq3l2vbbk32":"ucsfmedicine",
+"ic4joy6antgk5h7sdb355dqu":["uchujin","Uchujin"],
+"bmkmnbmxaelcoydqxaiihz6h":["ucmarxistinstitute","Marxist Institute for Research"],
+"7rd7spacwu5xnk63wavo2irh":["ucfsix","CZ"]
+}) // 2023-10-22T15:08:00.712Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

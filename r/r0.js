@@ -5,7 +5,7 @@ var r0=(function(jsonp){ if (typeof r0==='function')r0(jsonp); return r0=jsonp }
 "42nfacd62nkdfasefxehlatt":["r3tt0","ᴿᴱᵀᵀᴼ"],
 "4gosb5sdpka3ejhyul3jajtn":"r4dr0b1n",
 "4mb3w6dscopqbswfwkyykg62":"r3dical-radish",
-"4nqhjo3hjh7waw3g2swkvasf":"r0bb0",
+"4nqhjo3hjh7waw3g2swkvasf":["r0bb0","Robbo"],
 "54k5p7nhc63xladhpulixxx2":["r1ngbanana","R1ngBanana (she/her) "],
 "5dhtrhmgda2vkhwx2qe77jfb":["r0nny","Ronny"],
 "5rge2esu55fbb3auz76tlcap":["r0cc0","R0cc0"],
@@ -155,5 +155,20 @@ var r0=(function(jsonp){ if (typeof r0==='function')r0(jsonp); return r0=jsonp }
 "ztco67gwbgkwwo7hd3wmhron":["r3-n","r3n"],
 "tnnduhna5eiahd74xm2slacy":["r41n","rain caliber"],
 "e7sy2lrulgt64ahoac7i6ttz":["r0pchain","r0pchain"],
-"wu7dwmlgm3j7ciy73ilmccjk":"r0wb0t"
-}) // 2023-10-22T12:05:40.804Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wu7dwmlgm3j7ciy73ilmccjk":"r0wb0t",
+"2gyxhquadheuw7etxrberqcn":["r0b.wtf","rob"],
+"tbgv4ifhymub6viufudvzrgl":["r4ds.io","R4DS Online Learning Community"],
+"aaija6i5czjk7kkt6ph3i4lw":["r2boulitreau","R2"],
+"t5s7pymdn46hpqy5pzbedzdv":["r00k","r00K"],
+"6w67rjo7bnakizbvhd7yamps":["r25th","R25th 🔜 Bit Bash"],
+"efqyk5mm4laxj4pifotkfjzb":"r1nce",
+"ijbfryhmmqwg3cxbn4rqll5g":["r0ma","만못"],
+"glkqvaak5lczlpumu774v7ys":"r1gt3",
+"lwsivzbuqvc3zqquc4cseih5":"r2dr",
+"qbpoalbgbmadn66z3kqumykc":["r1nt4r0","rintaro"],
+"dufpx2j3oubcx2j33p6nbg4v":"r0sh",
+"yi6ygr6omqh7izcefznnpumc":["r2new","리뉴"],
+"6bippkafzkayasxnnxe5bjc6":["r27","Roberto Branni"],
+"jvdogkdesxivf43ipp7sirg6":["r29-d2","りゅーきち"],
+"nprgv6izewzooykz7vdql3js":["r1v3r5","Rivers"]
+}) // 2023-10-22T16:11:16.385Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

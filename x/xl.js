@@ -28,5 +28,12 @@ var xl=(function(jsonp){ if (typeof xl==='function')xl(jsonp); return xl=jsonp }
 "x7bazk7s73nmldmryrxqhz34":["xlun","千夜ちゃんを養って幸せな避難所を築く"],
 "l3xifhewvoxxatq3ncatpxlk":["xl-husband","大旦那"],
 "gdudnkaxssc2732dye54ujsg":["xlvvm","Mr L"],
-"tbqdxuyhlvfe6lwjxef4tjth":["xlenc","Xander Lenc"]
-}) // 2023-10-22T11:22:36.912Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tbqdxuyhlvfe6lwjxef4tjth":["xlenc","Xander Lenc"],
+"gm77jqvflwrpd3eob7s5oppy":["xlarica","Luquinha"],
+"o5nwjiitp6p6x2o5k47yakrp":["xloner12","xlr12"],
+"sda4fcsiwmj6rlb7pjqds6z6":"xlm",
+"63lkwpv2qfgxkcwg76eykygy":["xlo","CHRISTIAN LORENTZEN"],
+"ondhm2trrqoib4ana22qwpvp":["xlusky","☕️"],
+"66w76kvd4lyhzrxetdlk6txw":["xlemonx","청레몬"],
+"aksmvj3jji5j4fwpi46udyun":["xlx.world","xlx"]
+}) // 2023-10-22T16:04:13.809Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

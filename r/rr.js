@@ -21,7 +21,7 @@ var rr=(function(jsonp){ if (typeof rr==='function')rr(jsonp); return rr=jsonp }
 "leu56k2bcskhxci3gp77kq3e":"rrrrrogerio",
 "lofh226srmio2f5axeoflngu":"rrho",
 "lvxv6rtjrhwqrcahhid4o5er":["rrremu","Remu ☆*:・ﾟ"],
-"mwktvtf3tsmcojh3zbr5r5sy":"rrookstudio",
+"mwktvtf3tsmcojh3zbr5r5sy":["rrookstudio","Richard @ R. Rook 🔜 Metatopia"],
 "pkzt5mk76dc3fnd7w7l7veyr":["rreverser.com","🇺🇦 Ingvar Stepanyan"],
 "prgioromg5lp5svjmrhx52gs":["rrrrohan","rohan :*"],
 "qrwjamv6qeononfdtutk5ae3":["rruth","Rabbi Ruth Adar "],
@@ -99,5 +99,20 @@ var rr=(function(jsonp){ if (typeof rr==='function')rr(jsonp); return rr=jsonp }
 "dpbkve2z5eq42tlg7tmom3nz":["rralian","Bob Ralian"],
 "4mexeb74bbygtdwjgs2wpknc":["rrrokio","路木ろきお"],
 "xcreucmml5dab4j67qmjwkod":["rrayred","ray 💭"],
-"2gccjlkyuwrj2pslbg5ufrdf":["rruubbeenn","Ashley Ruben"]
-}) // 2023-10-22T12:05:40.788Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2gccjlkyuwrj2pslbg5ufrdf":["rruubbeenn","Ashley Ruben"],
+"p62o3abpmkopbhgssacrxc4g":"rrice",
+"eentansvzm3r3xrmznohkfb6":["rrrrrrrruiko","だだだ"],
+"lhjyjxydszmwdjl5ikwotztg":["rrnjk","rurinojiko/瑠璃野路子"],
+"hcl7gpfhvnwl2a2aacv7vace":["rroio","Rodrigo Miwa"],
+"drxu66cjmaq47fz3exculniv":"rrh",
+"lgzrccs563x6uruzmw47cyfl":["rrgarver","Rob Garver"],
+"hprjxfuvfjgbxudt4mvjfhs3":["rrspear","Rebecca Spear"],
+"zselitlf3hbmzutfhh4v4umt":["r-ray","얼"],
+"f3jli66iw4fdwkw7nnozqglp":["rrebekkaa","Rebekka Dunlap"],
+"bx2seo4hcf2tjivhn3o4fgsr":["rreynolds","Ryan Reynolds"],
+"zlmyo6kyfrzheon7xnflcvoa":["rrrrrin20","rin"],
+"5wovvv2gyryc5sctgoec5bci":"rrenno",
+"pdnve3rg6zfgghzch5ynb3xl":["rrogeriomiranda","Rogério "],
+"vpyrp3ws5xdop4eqccit7ax5":["rrelvis","Michèvre"],
+"3mtxrb6a474xpcalo7zxvtrb":["rraahaa","Raha"]
+}) // 2023-10-22T16:16:21.214Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

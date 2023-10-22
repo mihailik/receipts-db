@@ -40,5 +40,11 @@ var uw=(function(jsonp){ if (typeof uw==='function')uw(jsonp); return uw=jsonp }
 "yc3ibcocqn76vmevsklwadtg":["uwed","Uwe D Schildmann "],
 "rp55gcj5lqnksp72gebutntv":["uwokichi","uwokichi"],
 "b4tdp2y36hi3gcdnht2mcwis":["uwumintyyy","mint!"],
-"mz3fk5vt6cxponkidskbonoi":["uwa2000","Uwa Scholz"]
-}) // 2023-10-22T11:44:51.648Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mz3fk5vt6cxponkidskbonoi":["uwa2000","Uwa Scholz"],
+"6kejxum74hf4xrpsk7bngx3k":["uwu-cowboy","dan 🤠"],
+"doinz7o2hujaetlnhjcszn7k":["uwugazi","Average Miu Watanabe Enjoyer"],
+"g3eehmxqrnyygy4fn6klbdgu":["uwakiojosan2","☁️"],
+"plyjkqjccynifj2fjdsd6yjq":["uwasabanashi","噂話"],
+"kenngvya7bo7fbucuuuidjwd":"uwo",
+"ezqhcay4hpb5achsekwzibrq":["uwuist.com","g."]
+}) // 2023-10-22T15:50:08.511Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

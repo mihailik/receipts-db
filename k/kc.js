@@ -1,5 +1,5 @@
 var kc=(function(jsonp){ if (typeof kc==='function')kc(jsonp); return kc=jsonp })({
-"3o7pms5hyuijkolwutxduuwc":"kcook700",
+"3o7pms5hyuijkolwutxduuwc":["kcook700","Kris "],
 "3rrj227q3luyujb2oncyysbf":["kcm74","Kevin Murphy and Use a Scary Font"],
 "3xxapztcvecjx5tdhrfblmpi":["kcarriere","Kevin Carriere"],
 "5fczeiecevydwqllubx5ohwn":["kcmcd","KCMcD"],
@@ -60,7 +60,7 @@ var kc=(function(jsonp){ if (typeof kc==='function')kc(jsonp); return kc=jsonp }
 "yna34al4qk22gyuikcpcjola":["kcdoos","KC! 🌈"],
 "yrhzvyqwmsh4b2soxcyt4gql":["kcalderw","Kyle Calderwood"],
 "yx5ldthcm42xwmgce46mnjaf":["kchoudhu.anserinae.net","Kamil Choudhury"],
-"zfwm3n5qssypersh3e3itp3e":"kcgooner",
+"zfwm3n5qssypersh3e3itp3e":["kcgooner","Butlerian Jihadist"],
 "knqbcdfqwnw36mh35bttz2ft":["kcjoyce","KCJoyce"],
 "mb5g533wccntuhn7vmovqsfe":["kchaiag","Kevin"],
 "awxygkzrz4tavkmcucclgtks":["kcr","kate"],
@@ -148,5 +148,24 @@ var kc=(function(jsonp){ if (typeof kc==='function')kc(jsonp); return kc=jsonp }
 "bvbt22scgkjlv7reoh4rjbji":["kcbrickley","Kim Brickley"],
 "nk5j442n72kca7ue4yhokpzy":["kcjuwils","Julie Steenson"],
 "djupmnmcrag26eqyqz5nb3uo":["kchelly","포"],
-"4nfl4h6ocwxjxq46aj2siiis":["kconnor","Kristin Connor"]
-}) // 2023-10-22T11:50:05.842Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4nfl4h6ocwxjxq46aj2siiis":["kconnor","Kristin Connor"],
+"bxu6agvqurhwammtzlb3mfqh":["kcsnotor1ous","RushHourOnVHS"],
+"jrkbzss5wntmc6yvkenvvzcn":["kcfocus","Kcfocus"],
+"ezioemjeqfjoahb3lv3oxxhy":["kcamargo","Calebe Camargo"],
+"p6plloqaxjuvlf7k3bw3w3zb":["kctaylor","KC Taylor"],
+"lqw5m2eqnocir6yitid5clyx":["kco678","KCO"],
+"targdw5mzibxc44orvu7znpb":["kcduk","kcduk_io"],
+"melpehmzwfbnoef33cl57exf":["kckji","kckji"],
+"4wjvzcatzrbvhnxguux65trk":["kcshortn","Mrs. Burnout"],
+"2rcqtqs7prho3n4svpzftndg":"kcrobwrites",
+"qbzawg6sjeruttygylywtcfv":["kcdodger","KCDodger ᛫ ᚹᚨᛚᚲᛇᚱᛁᛖ"],
+"yl77kwvl5psqfwiss5ir4lig":"kchoksi",
+"rhhnr532lugyafmfo7odqxkm":["kclassscenario","Elfodido"],
+"r5oypvvlhqsh3vguqzjukhdp":"kchcucumber",
+"yhcvs6yqx4qsaabsxohoacbn":["kcjordan","KC Jordan"],
+"f3gtbaefr6jacgtrukqlkvpi":["kcassoen","Dasul"],
+"e3ewgn733qvqfbh2ezyqpcvr":["kcl.jp.eu.org","Lê Phạm Anh Tuấn"],
+"qcmoj3wz6gc4ejzdadvlgykg":["kcallop","Cam Pollack"],
+"xrtywxd7il4pedxlga3ecyr5":"kclough",
+"uktwuw5uw3sq3dbj2d5lvu5n":"kcdyer"
+}) // 2023-10-22T16:33:31.227Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

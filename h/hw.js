@@ -58,5 +58,18 @@ var hw=(function(jsonp){ if (typeof hw==='function')hw(jsonp); return hw=jsonp }
 "agpwjtoysowxfnqlbiekglop":["hwkd","Heka"],
 "gkhb3zhaw4nvhfd2wbqoaukz":"hwhistler",
 "glbqw6wnzyba6qizdyes3tqx":["hwashinnf","《 화 신 》"],
-"ljeyzkjq5d6cp5nlmodwnadv":["hwchugh","charlotte :)"]
-}) // 2023-10-22T09:19:41.091Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ljeyzkjq5d6cp5nlmodwnadv":["hwchugh","charlotte :)"],
+"m5arb56htjmfa6pm4o4hzrmw":["hwp","신명진"],
+"fzzocj5ahhyom2rrdg4pk5ji":["hwilliamsnz","Henry. "],
+"ewzkab3sllxs5issxd2wjdlk":["hwestergaard","Harry Westergaard "],
+"wccepb2yl64hk6cu4fic5du6":["hwangks","alice"],
+"mo7mfxxebxms7xud6ltogu55":["hwangts","황태산"],
+"ilvesn33gjev7mxo2yhrcpyq":["hwafinyangnyang","화비냥냥"],
+"elkledamxy7tsctjhciscbs6":["hwhomersley","Harry Whomersley"],
+"kop2yt6cfr3xlwa33zaae5vr":"hwscolleges",
+"mtmxpab6op5lidpsyscrcmjh":"hwkns",
+"mxuppclcv5wrn4sievxs4shf":["hwildmist","Hayley Wildmist"],
+"4vlmaomoawondyxko3arxaya":["hwickline","Heath Wickline"],
+"geqr4xna5i62sol6abf2islq":["hwp.com.tr","Hardware Plus"],
+"ztxqqt5dpqzoz6ohujpt6dve":["hwasantato","감자🥔"]
+}) // 2023-10-22T16:21:36.442Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

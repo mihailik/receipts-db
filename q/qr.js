@@ -18,5 +18,6 @@ var qr=(function(jsonp){ if (typeof qr==='function')qr(jsonp); return qr=jsonp }
 "m6hap3phnbbfrlbo4eo7vqjj":["qrbeatriz","Beatriz"],
 "wcwjnrvdnphunylpgjmj7s6f":["qr.dev","Chris Quamme Rhoden"],
 "hxnmcwbuj4izpuveg42e43zr":["qrakatoa","Qrakatoa"],
-"wh66taru6je3ulw2faltxjfw":["qraaal","Batounet de Poisson"]
-}) // 2023-10-22T10:04:08.571Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wh66taru6je3ulw2faltxjfw":["qraaal","Batounet de Poisson"],
+"tbdqcjsqpunlr5edkxjpgfqe":["qrys","CEO of Bimboy💗✨️"]
+}) // 2023-10-22T14:16:45.896Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

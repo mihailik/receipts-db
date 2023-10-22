@@ -67,5 +67,21 @@ var tg=(function(jsonp){ if (typeof tg==='function')tg(jsonp); return tg=jsonp }
 "xv7bss6nljvbarsajhaldley":["tgzin","tgzin não vai na the eras"],
 "eszjgeru7dn7jlxb27srt4cq":"tgemi",
 "vrd3tkbijxehubd7d7xem2na":["tgwl5747","TG"],
-"l3pngbntn5zva7yeo7h3a3s2":"tgaff"
-}) // 2023-10-22T11:59:08.334Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"l3pngbntn5zva7yeo7h3a3s2":"tgaff",
+"riy5pbml3jsmwyenlquhomaf":["tgleon","TGLeon"],
+"pbypr7aqbxzis2z6qsnmh4r4":"tgl",
+"nsweo2u7daqcfkwntebhjrst":["tgregger","Tyler Gregory"],
+"smnlalw6x5krwlxutskmlnue":["tgthorley","Tom Thorley"],
+"pwvdto5i4cfqbgfswb3j43lm":["tgifui","ふい"],
+"btexqccosif4n6ibyzzdssdr":["tgbmdior","TGBMDior"],
+"dsk3umrypc63clnjfsxkh3pw":["tgr","TheGreatRambler"],
+"i3geavhtljfmjgmwkvud2qfn":"tgardnerh",
+"rn6lll45xtl7scfp5pe2r2db":["tgois","Tiago Gois"],
+"ydn7g3epgk5rsmew3ol742ks":"tgrant20",
+"fhcmonvzxtshgomon35o6fdh":"tgradinarov",
+"exufczlmqdngshajon5onpzb":["tg306","TG"],
+"kpvd7zfj6nr4ak4mstuj76st":["tgd","TGD"],
+"hzu4ipfvqqr2mx3aqk4wmpqj":["tgpangolin","Kaileywins"],
+"hvbfea4ytiy4bxdomsa23o5h":["tg1","sisimaru"],
+"ta7vczlqdybycflm32fkgj6h":["tgatte","Treb Gatte"]
+}) // 2023-10-22T16:31:58.655Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

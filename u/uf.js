@@ -9,7 +9,7 @@ var uf=(function(jsonp){ if (typeof uf==='function')uf(jsonp); return uf=jsonp }
 "mktwt4q6iwm5tfstfgw5gbmu":["ufoho","nell"],
 "owgadmjzvi6mptdxzicpnhay":"ufo-taffy",
 "sb4jelwh6ddicn6zbedizuwv":["ufoh","Ufoh"],
-"ttftfqwkk7lim7bli4uqwmzg":"uffdada",
+"ttftfqwkk7lim7bli4uqwmzg":["uffdada","Uffdada"],
 "xyibikzxshvrygzfd4dkunu4":["ufomedia","𝔤𝔦𝔬𝔳𝔞𝔫𝔫𝔦"],
 "weno4k663zjmd6epz4pztuwh":"ufc",
 "u4xdnengdqkdtpjjpjs2hile":["ufo","Ali vatani"],
@@ -36,5 +36,12 @@ var uf=(function(jsonp){ if (typeof uf==='function')uf(jsonp); return uf=jsonp }
 "yh7rk2rzk5wndtzjeyfdtxqf":["ufe","UFE"],
 "vkxfmu7735ysk7mkhnwgqwwp":["ufal.my.id","Ufal Salman"],
 "dczljgnfaycvphvpqgyq36qu":["ufo2020","UFO_2020"],
-"dhnl735smirizegh6ad3a6e3":["ufelipe","Luiz Felipe"]
-}) // 2023-10-22T11:54:03.593Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dhnl735smirizegh6ad3a6e3":["ufelipe","Luiz Felipe"],
+"gktrkxrokfqp6oi7qs7st3gj":["uforeportbot","UFO Report Bot"],
+"cao4slobrjnr3i3wsnf3d7yz":["ufabinh0","Fabio Nunes"],
+"pxa27y2obml4kvrvvwpkmshn":["uffdajen","Uffda Jen"],
+"mqwogtyxgxnv2hydc6y4ygqu":["uffmugger","Uffmugger"],
+"rabxel5xh3vc4i2y4jb6rgh4":"ufukuzunoglu",
+"yg2qo2x5ljgq3txynj5gsw6j":["uftteachercenter","UFT TEACHER CENTER"],
+"clbt4orqwzi62wnxjma3pyqc":"uffe"
+}) // 2023-10-22T16:31:58.605Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

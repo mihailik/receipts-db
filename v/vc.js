@@ -50,5 +50,16 @@ var vc=(function(jsonp){ if (typeof vc==='function')vc(jsonp); return vc=jsonp }
 "pkipcurb5urv76icgbyf3znq":["vcrhone","v.c. rhone"],
 "qkui2xg4bnhzihn5fnnbbkeo":["vcommunity.io","vCommunity"],
 "ci2qmyrmrjc2fua3fibcow47":"vcgannon",
-"vvavgxv5eg5usq24cgs3jn6c":"vchinnick"
-}) // 2023-10-22T12:00:33.723Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vvavgxv5eg5usq24cgs3jn6c":"vchinnick",
+"t42kzyjcvdp33fwaomnu3kpr":["vcasa","Victor Casagrande"],
+"43xnezzn7zkyq7zuwmvucywn":["vcle000xxx","oLeo"],
+"m3xwj56mbxrnbktoe3u2ib4q":["vcio","Daniel B from Fountain City, TN!"],
+"wtadknzmwyweiktwppdywovq":["vceze","Dr VC"],
+"n4gabakzqajbog3jqsyhbvbw":["vchytelka","Мар‘яна"],
+"c5qh4xoss4j44kp253zm6fnv":["vcholerae","V cholerae"],
+"nzgbdu7lrrpqwlqcdsop3umh":"vcanozzi",
+"ydyfve3tzcxiwfymtiv477rf":["vc2janet","Janet"],
+"3wrias7zuzio5hlt35aqxk2h":["vcook","Victoria Cook"],
+"5yqy3yxhzkp2juhdnbeogwbg":["vcarneiro","Victor Carneiro"],
+"evjz3zj7bry5kdfkb56kvcbz":["vcwiet","Victoria Wiet"]
+}) // 2023-10-22T16:35:34.425Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

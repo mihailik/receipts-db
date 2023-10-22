@@ -12,7 +12,7 @@ var vg=(function(jsonp){ if (typeof vg==='function')vg(jsonp); return vg=jsonp }
 "lql24sh4bz3wag6pcvtzbdba":"vgonly7",
 "seajq4u4d2eftbjfumivwiwj":["vgaxol","Axol"],
 "tm4xkr7gv5pzyq4dwirch52o":["vgfeather","L. G. Plume"],
-"vfutz6zl3mpx2oyczksscpsy":"vgmuseum",
+"vfutz6zl3mpx2oyczksscpsy":["vgmuseum","VGMuseum (ReyVGM)"],
 "vhptwqh6db73662hlxy3xgqm":["vgplaysgames","VG 😎🍌"],
 "xkzgysgrsns6f26uj7sbqnku":["vgr","Venkatesh Rao 🔹"],
 "xndvyx4wuboggxmzygmkjtss":"vgdvgirl",
@@ -38,5 +38,12 @@ var vg=(function(jsonp){ if (typeof vg==='function')vg(jsonp); return vg=jsonp }
 "xh7x7szmmksdst3vwixn4pkw":"vgaran",
 "npmydpmb3owv4tlolodlmsmp":["vgadv.com","Video Games Advance"],
 "sdohlq3iqvni5qbi6axavop7":"vghrk",
-"2q4b67yus2ps7blkjpjgscnq":["vgraphics","V.Graphics (ꜩ | Ξ) 💎"]
-}) // 2023-10-22T11:26:54.036Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2q4b67yus2ps7blkjpjgscnq":["vgraphics","V.Graphics (ꜩ | Ξ) 💎"],
+"l44iyhgbgdnzelrsgtr5jjjk":["vgenealogy","V Genealogy "],
+"kkswyls3hff2nwbz24j5ioyu":"vguerrero28",
+"udi5cqdsuhu55agzykpvmdgv":["vgchronicle","VGC"],
+"wpco74ry7mlsr3ama2zidwds":["vgirl9097","Virginia Jones"],
+"wmbpdiznsus5ibmumxpo5vsb":["vgiangrossi","Virginia"],
+"cilkib5mr3um4j66pnzib4k2":["vg247","VG247"],
+"mxmfl2cvaywkc36qb62olmxf":"vglorioso"
+}) // 2023-10-22T15:48:42.619Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

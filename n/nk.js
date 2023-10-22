@@ -16,7 +16,7 @@ var nk=(function(jsonp){ if (typeof nk==='function')nk(jsonp); return nk=jsonp }
 "muslnzxqartd66kckkqem6qs":["nkjemisin","N. K. Jemisin"],
 "mwukyjnrkikjvkb6bre6pcf5":"nknkftg",
 "okixfx2tekq3xzjcyksopnbf":["nkryptedmusic","nkryptedmusic"],
-"oqddlgapz6kgcl62mc2vx4mz":["nkenk","이사 온 케너프"],
+"oqddlgapz6kgcl62mc2vx4mz":["nkenk","슬슬 정착한 켄"],
 "pdsf4fagtobuwuuj5jcyfuiv":["nksm","nakashima akira"],
 "pjrumfirfjrftst7igfe2dtj":["nkd-dizastar","Diza-star"],
 "pqzuuyjrppqnl2p74jieurvn":["nkkrms","absurd barbie"],
@@ -84,5 +84,14 @@ var nk=(function(jsonp){ if (typeof nk==='function')nk(jsonp); return nk=jsonp }
 "l7qs6j7bdoebejqeks4vbzfr":"nkngbtchrst",
 "hncgce2esaopy2kssu2qttop":["n-kki","Nikki"],
 "dhowmzk7qi5yyvj5wdei7j5k":["nkanada","Canadian"],
-"7htffpmasp475xejfspg3deu":["nkun","n군"]
-}) // 2023-10-22T11:56:58.382Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7htffpmasp475xejfspg3deu":["nkun","n군"],
+"uvv376lgll33sbb46tcsbrh3":"nkemp",
+"o3y4op4btrrxjpzpadus7iox":["nktn8","ナカタニエイト@漫画原作＆脚本"],
+"um3zar435o4as4ao3wv6bdbq":["nkn740810","猫乃"],
+"opwaetnrp7nbsnymkkny2l7k":"nkuler",
+"adlhjwe2h25yjyncg76dw3vu":["nkinneweng","NKinNewEng"],
+"riww3j4lnd4mxe7xc5qzu7bw":["nkrovetz","nkrovetz"],
+"dbemhw2jbtgptaf2xove6wbn":"nk9",
+"kw6gejz45oec7ncmlmtpi2ml":["nktm","ナカノ"],
+"enhspyhc3vkvkm4aftg2m4df":"nkikka-ff14"
+}) // 2023-10-22T16:21:36.414Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -57,5 +57,11 @@ var vt=(function(jsonp){ if (typeof vt==='function')vt(jsonp); return vt=jsonp }
 "l4f7pxb3ax34ge7vqoccwmz7":["vtrizonis","Vassilis Trizonis"],
 "65udddkf5p7i3xjs55pffjxn":["vtmjustice","Vampire: The Masquerade - Justice"],
 "e4ntkr2eolnewkodnic6ceyp":"vthecross",
-"jzw2bekaryrp443xwjkd7xpw":["vteodosio","Vitor"]
-}) // 2023-10-22T09:56:17.113Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jzw2bekaryrp443xwjkd7xpw":["vteodosio","Vitor"],
+"rq27e2vm54hibvfuyl6x3zga":["vtuss","Vince Tuss"],
+"mfz32fiumki4q43yjof375fp":["vtdscglfr","VTDG"],
+"bk75lrxhit525diwhzrm3e4d":["vtxrzn","vtxrzn"],
+"ljgawnpxlp65ttj2wuii3vt2":["vtubernewsdrop.com","VTuber NewsDrop "],
+"xsxyv7j3dvwqyaxcgeajwvhw":["vtrainbow","VT_Rainbow"],
+"kfoedsa3hpzyoz5x6mhpyaf7":"vtkach"
+}) // 2023-10-22T15:51:41.053Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -8,5 +8,6 @@ var yw=(function(jsonp){ if (typeof yw==='function')yw(jsonp); return yw=jsonp }
 "76rqdq5atggitxdktt3c4q5c":["y-watanabe","Yusei Watanabe//綿鍋幽生"],
 "45ptww7xl564jyjloz6bpb7w":["ywc","cdigames"],
 "afozs2ilmgsm626jywm6ayw6":"ywbranca",
-"wue5lpwuezc63v6f3apdwuaw":["ywssimp","змійка 🐍"]
-}) // 2023-10-22T07:28:33.485Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wue5lpwuezc63v6f3apdwuaw":["ywssimp","змійка 🐍"],
+"b4sfq3dcnp7ndzyrhivr7tlo":["yw99","한량"]
+}) // 2023-10-22T14:15:12.837Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

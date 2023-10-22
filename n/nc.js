@@ -5,7 +5,7 @@ var nc=(function(jsonp){ if (typeof nc==='function')nc(jsonp); return nc=jsonp }
 "4ldlajeoau2hv3lvdavyrh5o":["ncksmth","Nick"],
 "6nvz65ea23powe22lv5eu5tp":["nct127","jj"],
 "6wym6kxkztbq3v7rlkzsb2qg":["ncfckeith","Keith A"],
-"agenvo6mnex2oay4g5jnyci3":"nchestnut",
+"agenvo6mnex2oay4g5jnyci3":["nchestnut","🌰🌃"],
 "ahzkstw6uz4rciw2742glzyy":["ncc-aus-nrw","ncc"],
 "akfs47isq7tk4ejyexrgummn":["ncshusterman","Noah Shusterman"],
 "b4m3yxtpsgpf6zubhgid7x46":["ncha","N'Cha"],
@@ -27,7 +27,7 @@ var nc=(function(jsonp){ if (typeof nc==='function')nc(jsonp); return nc=jsonp }
 "lcl2hd7hmp2hvfcx53bwbebt":"ncsox",
 "nc3lnpb2gvkxcqa7lvggffgx":["ncampusturkey","North Campus Turkey"],
 "nniva46avp36ysiumxvuhhee":"nckat53",
-"nwpl54iuov76ugwtglece6hx":"ncc826",
+"nwpl54iuov76ugwtglece6hx":["ncc826","Nathan C"],
 "o4rdtp3je3wkd5orv6v7qlut":["ncs","NCS 💕"],
 "o6vkbwapghznqlqbs4eqlay6":["nc35","なっちゃん"],
 "olnsmdnzqcxaxmssv2l7fl6k":["ncjw","National Council of Jewish Women"],
@@ -81,5 +81,17 @@ var nc=(function(jsonp){ if (typeof nc==='function')nc(jsonp); return nc=jsonp }
 "p2sqhvvmrokonvzrmxntfvvl":"nchia",
 "wfx6wmmdnfw7cpjyt543r7bb":["ncsoft","Ncsoft"],
 "pdxvurtcxs2j7tkmh4tisifr":["nchanter","Nchanter"],
-"uadwcogogm62m6xnbdmbhqhm":["nchlebowski","NChlebowski"]
-}) // 2023-10-22T11:50:05.360Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"uadwcogogm62m6xnbdmbhqhm":["nchlebowski","NChlebowski"],
+"hteahdwxaucudykdyhlxozic":["ncruz","Nuno Cruz"],
+"ug32gfdabjqy7cy5hycruset":["ncnc99","nachi"],
+"gn4ac5whc66k7nqqpp4svbsp":["ncstate","NC State University"],
+"t3jv4ojkgf3ckw6w4bva7qxw":["nchh-kimbu","kimbu"],
+"sg4efnevzulx4vy3w7cistr3":["ncad-latex","nCaD Latex"],
+"4dskofl4hon53subahjzzu5a":["nc879","Nicky Freeze"],
+"vtdyzpbw7zdpbdzrurvg63id":["ncdeimos","DEIMOS"],
+"wnu2d4cvcfzs3pzpuhxplij7":["ncburnham","Nick Burnham"],
+"nuasghe3llcbh5kinyaqs25e":["ncg","Naf"],
+"ipzedjcythm6mzkr27c6zfjz":["nc163","のん"],
+"znhtbhajoufvi7mdlegqtqvq":"ncouraud",
+"z7ov7efudpic3lycquq5xszd":["ncwit","NCWIT"]
+}) // 2023-10-22T16:35:34.357Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

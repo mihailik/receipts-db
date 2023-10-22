@@ -15,7 +15,7 @@ var yr=(function(jsonp){ if (typeof yr==='function')yr(jsonp); return yr=jsonp }
 "vpmbak6rtbysgm5gomdcrdod":["yrcnr","Colin"],
 "vwdphlz6en4u5nx4wifsfqpa":["yrpretendfriend","Jules "],
 "wbsrumaonfm7phi574lfpq2z":"yrafs",
-"wmqiy22u5ov74tekdzojhgt3":"yrfrenbren",
+"wmqiy22u5ov74tekdzojhgt3":["yrfrenbren","Brennan Bestwick"],
 "wqow324c64ooldystdy43v6z":["yrreug.ch","☼Yrreug☼ 🇨🇭🐕"],
 "wtqwemcv5fjxwzdr32tk7mf2":["yrieithydd","Dr Ieithydd (Carys)"],
 "yh4r7kbivd434rbxz66fqxxh":"yrauntielola",
@@ -42,5 +42,9 @@ var yr=(function(jsonp){ if (typeof yr==='function')yr(jsonp); return yr=jsonp }
 "rvncc5pi5zpew33xo6yx6ovm":["yramt","Mary Tagler "],
 "5j2mvvp3dkeuahl6oliehc7o":["yrr04","ゆりり"],
 "vu3zeq6m2rcnesltpwshrxgw":["yrano","제로"],
-"bs5jqe2v2v4yifnkjwtwiemg":["yr57v","よる"]
-}) // 2023-10-22T11:51:34.711Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bs5jqe2v2v4yifnkjwtwiemg":["yr57v","よる"],
+"lbqdpirolp4vj64ilu7ttj2d":["yro","Ryo"],
+"xgy346rln76dbiukli2dck32":["yrself","ryder"],
+"h55wuhnkhqsxoyr65jljlt7o":["yrmm","віка must die✧"],
+"z3kr2icjxold33na7goou2ig":["yrfriendnat","nat"]
+}) // 2023-10-22T16:40:55.813Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

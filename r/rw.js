@@ -60,5 +60,13 @@ var rw=(function(jsonp){ if (typeof rw==='function')rw(jsonp); return rw=jsonp }
 "5jkvk7kewubpyjm6it22htch":"rwxryan",
 "6a4r5yw7yz6xv7pwdrc2yim4":"rwgp",
 "ifhh2mmwe2tdxmdbb5bd5rsh":["rwa","rwa"],
-"lp6pifz3bqqlwwx3njtejhjw":["rwmeadors","R.W. Meadors"]
-}) // 2023-10-22T12:01:59.132Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lp6pifz3bqqlwwx3njtejhjw":["rwmeadors","R.W. Meadors"],
+"cgdhsoi52dmrkyfihns76hgx":["rwbeichner","Ryan W. Beichner"],
+"5wnioholipe73seis6iyf27o":["rwalens","Rachel Walens"],
+"w3gtgdiknrmgrqlds6ptqag6":["rwgarvey","ryan w garvey"],
+"64uhg6chmwnjw3faqcfbaqkx":"rwell",
+"qn4dady5b7f6wo3juhgoqk3j":["rwxaari","Aari"],
+"aoxbzxkoxj32w5cp7iktesyv":["rw-history","Robot Wars and BattleBots History "],
+"zcjed3nnpqphtw3v46kjsj24":["rwhitwam","Ryan Whitwam"],
+"lbrbh73jf3tto7vo3occov2q":["rw-access.dev","Ross Wolf"]
+}) // 2023-10-22T16:40:55.810Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

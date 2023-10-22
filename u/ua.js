@@ -9,7 +9,7 @@ var ua=(function(jsonp){ if (typeof ua==='function')ua(jsonp); return ua=jsonp }
 "6dlywqqpyt4dfoxw2hfdmcqz":["uassan","gabriel"],
 "6q2suyiwc4npc7izxsz2pi2u":"ualex",
 "77hidy5qzzlvtquxigy3aa2i":["uahistory","Ukrainian History"],
-"7bum3xigoqdpf4kovtucmilz":"uawasborn",
+"7bum3xigoqdpf4kovtucmilz":["uawasborn","UAWASBORN🇺🇦🐾🌫️"],
 "7w4ctr74g2yuaq6ny3gwyuqh":["uarmyhope","dani"],
 "bcznfjhmu4rsr2ulyk2haspp":"uapquestions",
 "bk3njpmpm2zapzeymja7szgq":["uavibes","Ukraine Vibes 🎧🌻"],
@@ -93,5 +93,15 @@ var ua=(function(jsonp){ if (typeof ua==='function')ua(jsonp); return ua=jsonp }
 "smnv72vkez5dmqqf6ak7hn3q":["ua1400","Make better life for all "],
 "i7ncsd2sj6ijsoqmyttguzs3":["uarmyg","mimi"],
 "2yic2bxa557tc4zggmychukj":["uarfnyc","United Against Racism and Fascism - NYC"],
-"pxm7yq4ra2mvnq3ygycmewsn":["uasi.jp","uasi"]
-}) // 2023-10-22T09:38:02.463Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pxm7yq4ra2mvnq3ygycmewsn":["uasi.jp","uasi"],
+"op42c7fjymvm2a6n3fpghp45":["uawilk","joshua wilkerson"],
+"f4wsbikyaqnzw7c5h3plu7jl":["uaiu","Ryan Massey"],
+"lnapyutsv7oqkztkzps3skel":["uaisa","Raisa Urribarri"],
+"f57bc5vvd5w3d5et6nyl4y7i":"uapapa",
+"2etbqurhyytlksh3ce3hppwr":["uaponi","Apo"],
+"wxmlhvecit7swe6wqcyvvh3s":["uaxxel","리아"],
+"7iiu3j7xv7szdn565qc4gqh3":["uafbum","Michael Szidloski"],
+"di5fy4mgkzopsalu45c4nmte":"uaibrunno",
+"tmhuqiyekclzn7zxzwstz5ik":["uarenotsolucky","Germano Lorenzett"],
+"kyn4qktg5he4o4fqzx57l44z":"ua3"
+}) // 2023-10-22T16:30:27.399Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

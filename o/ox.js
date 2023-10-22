@@ -92,5 +92,12 @@ var ox=(function(jsonp){ if (typeof ox==='function')ox(jsonp); return ox=jsonp }
 "wvdrgt4isg43fql7hji23dpg":["oxfruit","Hans Tseng"],
 "vzbgajgq66ysn3qemnepoicb":"oxisaque",
 "ivicxmetvxiocwoh3merrwhk":"oxdottir",
-"vchaceq3fknjiwy26chmocuc":["oxford","oxford"]
-}) // 2023-10-22T11:42:34.072Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vchaceq3fknjiwy26chmocuc":["oxford","oxford"],
+"joludpppzyvjz2hvmpoqc2od":"oxkft",
+"vhobjt4tjbdpaaaixhhxzlr2":["oxlip","oxlip"],
+"xxydso5ex2d5pqlrxuknixpi":["oxo","ミ"],
+"nyzet47k67ezysyk3qmyy33f":["oxo-yung","(튓터처럼 정보 업로드 중) 융@YUNG"],
+"mco5frfpmzrrr66zzx4ugc7b":["oxonium","Oxonium"],
+"6hihc3omvouiwixtynsh3kkf":["oxboxer","oxboxer"],
+"6jq7dp3l7cmbzkvofymxsdde":["oxefagner","Fagner"]
+}) // 2023-10-22T15:01:24.347Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

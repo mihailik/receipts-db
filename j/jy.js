@@ -28,7 +28,7 @@ var jy=(function(jsonp){ if (typeof jy==='function')jy(jsonp); return jy=jsonp }
 "lrgtxvolgwtrwmtxolgkgtmt":["jygglypuffdaddy","André/top 0.1% bsky 💅 blocked by 144 accs ✨"],
 "lsfe4z4ndmvmmgr72q32kt5g":["jyrnalist","Атиповий журналіст"],
 "mix52o6it5gkb7g3puzmwttj":["jyoonki","Yuyu"],
-"mou5atpyoqvagfnhqu27i3vv":["jyosubii","JYO 🔞[NSFW]"],
+"mou5atpyoqvagfnhqu27i3vv":["jyosubii","JYO [ Semi-Hiatus ]"],
 "mraw6qzr4ga4ib7nnz665dti":["jynxierose","Jynxie Rose"],
 "n75342rmxf6qbmkaxs4xrq7i":["jyroreal","Jyro"],
 "ofhioexxrbtw4oga7hmgzrcr":["jynirage","jynirage"],
@@ -85,5 +85,19 @@ var jy=(function(jsonp){ if (typeof jy==='function')jy(jsonp); return jy=jsonp }
 "p2xdgu5eyns2ox25qdqiyj7w":["jyggy.live","Jyggy"],
 "csdncu33qlms3vfvptqaoluu":["jyh","jyh"],
 "pnniiqqzeqgk6pd4fyzdkd7i":["jyupachi18","十把一からあげ"],
-"kkad4fkz5khyjnajvhlpj2mq":["jyagabee","じゃがびぃ"]
-}) // 2023-10-22T11:30:40.837Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kkad4fkz5khyjnajvhlpj2mq":["jyagabee","じゃがびぃ"],
+"sk44l2xlfe3tfzryw452egju":"jyun",
+"ktae6wc6bkuf2ugfpjvq5kvk":["jyjd","JYJD"],
+"5otfgzu26adnaswi66k2tim5":["jyuska","Joe Yuska"],
+"vmrcfxiraay42xosaxcotzgu":["jyi","Jung Young-in"],
+"w2ooyszvd326xaxrnr3yge2e":["jyaag","JustYourAverageAsianGuy"],
+"x2fdozr3b4efvindiabnx2uc":["jyoungb","Jennifer Young"],
+"yr6bag63diheru5serxooogm":["jyinxx","Jyinxx"],
+"eo2pn7h6pywvsbfpsuwhlk74":["jynastiealazai","jynastie ➛"],
+"bxbkwzakdakfp7hyzneopakg":["jysmusic","Justin Shin🎻"],
+"m22eqfeqxa65b3shc4a3poap":["jyv","Jyv fait sa Veille Social Média et IA"],
+"tofrqh3pmb23qh5oxdcempxd":["jyujyubar","쥬쥬바"],
+"bz6mjcn7gpvcu4ssxfctamwt":["jynerso","deb "],
+"o6vyew53y2smpdtem527llwa":["jyngrey","Jeynne Carrillo"],
+"byf4h4wvjytcagyhiyhrfbut":["jydawn","Jydawn"]
+}) // 2023-10-22T16:38:44.296Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

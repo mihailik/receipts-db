@@ -12,7 +12,7 @@ var td=(function(jsonp){ if (typeof td==='function')td(jsonp); return td=jsonp }
 "ced3557xudmbglktnhnasdhq":["tdward","Wardy"],
 "ctxgurlhtkaxq5ci7at5nhpv":["tddayton","td "],
 "dkqe6dxwywmgfwptzlxqhe5c":["tdesseyn","taylor desseyn"],
-"dsw63epj7glkxu3l4jjgivjy":"tdyoma",
+"dsw63epj7glkxu3l4jjgivjy":["tdyoma","Taras Demchuk"],
 "emgovzwlow6tqfyrlmiitnnl":["tdeuce92","Tyler"],
 "f5subtkpfamyxc23k77eomvh":["tdx","Teridax"],
 "f6hmu5jpyp7gjg5wtkrvs2e7":["tdomej","Tanja Domej"],
@@ -48,7 +48,7 @@ var td=(function(jsonp){ if (typeof td==='function')td(jsonp); return td=jsonp }
 "yksrkx66iztpfgbupybbhyac":["tdoernb","Tybalt Burke"],
 "yunaj7527yyzzftrzptce4sy":["tdub2217","tdub2217"],
 "zsbql5yleiywwu3jq44a4ccu":"tdubya321",
-"zuzo75oz44cnmkddr2ii4dyc":"tdebenetti",
+"zuzo75oz44cnmkddr2ii4dyc":["tdebenetti","Tommaso of the Endless"],
 "33detxxpvaq423hdbjov6vly":"tdmackey",
 "iykgjvtyuquncznj2epz36xd":["tdelpit","Thierry Delpit"],
 "lwywbs7vv6fr6ky3jm2gcbze":["tdhopper.com","Tim Hopper"],
@@ -115,5 +115,16 @@ var td=(function(jsonp){ if (typeof td==='function')td(jsonp); return td=jsonp }
 "am5vafb6u6odmr5vewhomfnk":["tdw","tdw"],
 "grbtm25u5ym7ezpsio53zoug":"tddb",
 "kb7trq7spoofsspefcc4vkaw":["tddstrgzer","tddstrgzer"],
-"mexqpvbhtd4cz5xcquvx6wl7":["tdjorgensen","Trevor Jorgensen"]
-}) // 2023-10-22T12:05:40.806Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mexqpvbhtd4cz5xcquvx6wl7":["tdjorgensen","Trevor Jorgensen"],
+"kd47s34enkfo7q6ebja6rkkg":["tdias.pt","Tiago"],
+"337vzzhn2tdstljy7gllk2cc":["tdaaron","Tom Aaron"],
+"prsvrevzl3mqrogigl473tc3":"tdesantiago",
+"rt42tyawbpxg3tai57d7bxiz":"tdeniston",
+"44zibm5qjcvtyura7piimgcd":["tdanielian","Thomas Danielian"],
+"rsyqlrronaipdswseongwoiw":["tdam","Thomas MacKay"],
+"65fzdguqy2ru7oyw6p2rour4":["tds101","Tim"],
+"qfgan7vibieaz3nniwwijfek":["tdtoastervt","Toaster ☀ Vtuber"],
+"lovwrytvvnt76hdgrstwrj5h":["tdotboogie","T dot BOOGIE"],
+"jwsg6qndyqrqbdwrghtunbn3":"tdeux",
+"y5mtlcsq3uufabhi2x33ap4i":["tdpmendes","Tácio Mendes"]
+}) // 2023-10-22T16:25:32.168Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -162,5 +162,22 @@ var kw=(function(jsonp){ if (typeof kw==='function')kw(jsonp); return kw=jsonp }
 "wuy47r3omvtyieo6jlr7tqna":"kwancho",
 "byxghy3pqm467v65gql52fxu":["kwangya","kwangya"],
 "gtiie5inwwenhlf6pprg5kdt":["kwakgwak","곽미미"],
-"d3evi5spszrjiwyec4z4fojn":["kwontae","권태"]
-}) // 2023-10-22T11:56:58.447Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"d3evi5spszrjiwyec4z4fojn":["kwontae","권태"],
+"uiqmmsis2lwbf2yvtpfvwnnu":["kwiper","Kwiper"],
+"nwlpv4f2s3n5qyrlskt6ayzf":["kwm","kwm"],
+"nbprulvy3vpjastpawi3rff6":["kwh","Ken Hudnut"],
+"b7owmleihif3zlxi2eyiayvg":"kwipsta",
+"vxhpxjsqtburf5et6xuxdsnw":["kwang","광님"],
+"3mayxm5vedvhzfsgf2ktuttq":"kweenwealth",
+"zsdlk7da7koiupdtath5qxn3":["kwunyam","does not wish to be perceived "],
+"7253ahmh6atcytgw3vxgqnhy":["kwikdog","a Kwik doggo"],
+"mizsrknrlqi2oai2lmry7ibp":["kw73af","kw73af"],
+"j3ilywqytzk2hvi7m7r7js4t":"kwsk",
+"z3i2cioq32xnm24iodjlbywc":["kwntnt","kwontent"],
+"v7qnxj5dewodyi5paxvr4jeq":["kwkn19","かな"],
+"apjkw356dyy2sl54aaj6ufj4":["kw2","Takuya Kawatsu"],
+"jsy7kblfxyeumhybjuigx5wx":"kwid",
+"kah3cgwzqocl3jog6pa2442y":["kwill","Kaiser Williams"],
+"g4yc3vdczeao2ilexmhkejf3":["kwam","Kwam"],
+"strjngaulb23cnfcbp4udle7":["kwekutech","Kweku Tech"]
+}) // 2023-10-22T15:54:04.454Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

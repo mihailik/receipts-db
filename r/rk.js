@@ -11,7 +11,7 @@ var rk=(function(jsonp){ if (typeof rk==='function')rk(jsonp); return rk=jsonp }
 "75awnr4svrojoi4tcd6qx4b4":["rkawtr","川手 遼一"],
 "7ffhv54c76iwvpfgdbt75er3":["rkddkwl001","용크"],
 "ax7bvf3yeeo6duba3yhdvtv6":["rkhusk","⭐️Robin⭐️"],
-"c7ifq2ae3xtezbrmeq7p5o77":"rkhvsk",
+"c7ifq2ae3xtezbrmeq7p5o77":["rkhvsk","фіолетик 💜"],
 "ciepca7iocp7ycwx3ivkhydk":"rkrutzmann",
 "cv7v4zpvk6mhuu5t5cgicwcz":["rklau","Rick Klau"],
 "d7u7ag2xzppe4u67cpb4m5b2":["rkt2600","rkt2600"],
@@ -26,7 +26,7 @@ var rk=(function(jsonp){ if (typeof rk==='function')rk(jsonp); return rk=jsonp }
 "orqdxfrqk57lzfuselaw4s6i":["rkave","Kavé[illeaux]"],
 "qmws7xgeipxtli54cgl4ovto":["rkay","Rk"],
 "qqplxeslzda5cioqdret37s7":["rkopatryx","RKOpatryx"],
-"rrbewithd3ye5rej4i72imb4":"rkduncan",
+"rrbewithd3ye5rej4i72imb4":["rkduncan","R. K. Dullahan"],
 "sbaf5jnwppuflrzplxpi3ogm":["rksn","Raissa 🏳️‍🌈"],
 "t246266smqkjxhwir7xpbl3o":["rkelchen","Robert Kelchen"],
 "tjzqiapzgbkfwn3oubngkcsh":["rkarsnk.jp","カナやん🍀"],
@@ -95,5 +95,18 @@ var rk=(function(jsonp){ if (typeof rk==='function')rk(jsonp); return rk=jsonp }
 "rimtw4yt7ebdvzy5xl72bqnx":["rkirkbride","Ryan Kirkbride"],
 "njrvhqjfbwnosnrjzu3wxtnt":["rkatherineb","Katherine B."],
 "v76lpxrvcwoviqsuyuii4eh4":"rkudeshi",
-"5t6wfyknrmkgykvhxpz6qybm":["rkaucher","Rachelle"]
-}) // 2023-10-22T11:59:08.127Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5t6wfyknrmkgykvhxpz6qybm":["rkaucher","Rachelle"],
+"eqtjcxkhivxf4mdse7egt6dl":["rkee","Robert Kee"],
+"fq3nsk7hmlosxucnjrmxueqm":"rk9labs",
+"glvipqu6iri3wngrtvf36qtm":["rkbentley","R. K. Bentley"],
+"2qenfh72dl3rhf7dzejqmgm4":["rkidvai","Rafa Kidvai"],
+"he6qfllkvhn7nqhdiua3fzkl":["rkofron","Ryan Kofron"],
+"wgg2fo44cp33pje74qb2q5n6":["rk711sa","해람"],
+"euymhvr42twvdjovzawlxsig":["rkungplayer","R"],
+"5a5ujanh3g63vpaybzv4jwgr":["rkubala","Robbie Kubala"],
+"xyk3p6ueq7fi2vaeypeb2hrx":["rkk","RKK"],
+"unqpzw6phe734jwhoflaypoy":["rkdvanguard","Grinning Owl- EN_Vtuber GOBLIN and Artist!"],
+"nj2efzovgrfkw7plctkyghjn":"rkotscho",
+"srx3o73d6ehsbpxuyf2cde6e":["rkaqksb","깜빠뉴"],
+"avsjf4t2oojyhh6j67k64xrt":["rkrieg","Kreatur der Nacht"]
+}) // 2023-10-22T16:12:48.745Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

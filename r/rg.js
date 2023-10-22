@@ -1,6 +1,6 @@
 var rg=(function(jsonp){ if (typeof rg==='function')rg(jsonp); return rg=jsonp })({
 "2hznzhlbp3ie5kn6jpcfl5ux":["rga","R/GA"],
-"2yokz364s4nny5ppxxy5i4at":"rgarfinklesff",
+"2yokz364s4nny5ppxxy5i4at":["rgarfinklesff","Richard Garfinkle"],
 "3bruvga4mw7udwab7yemcyl4":["rgboo","알집"],
 "3cligpm75akiz5o62bsrlxak":["rgraycs","モトイ"],
 "3u5bcdrd3rpt33qiizubj42v":["rgeirsson","Rowdy Geirsson"],
@@ -29,7 +29,7 @@ var rg=(function(jsonp){ if (typeof rg==='function')rg(jsonp); return rg=jsonp }
 "xeo2kcgj26uldl4swme6rpm7":"rgold",
 "xzwaflgbbo3p2abx4g5f6ta7":["rgdot","Reza"],
 "zcn5gdy5di5vvaogj4u6ppds":"rgw-panda",
-"zetxzgzfko7o2s25louwvxds":"rgmerk",
+"zetxzgzfko7o2s25louwvxds":["rgmerk","Robert Merkel"],
 "l2jsnxtpq4vyhzombqkrkj36":["rguerra","Robert Guerra"],
 "d6tnlnvt7yrelpfeqse3xmsf":["rgdr","RB"],
 "or4ofrkc6kuz7nzyzzdhsori":["rgb","Rosa"],
@@ -79,5 +79,16 @@ var rg=(function(jsonp){ if (typeof rg==='function')rg(jsonp); return rg=jsonp }
 "yucjxkdlyw2gihb4nrrvbown":["rgombert","Rich Gombert"],
 "ggpcj3mzgp7dgtovm5tkvf4p":"rgodwin",
 "hpz77g2nzo4e3roenuderyni":["rgrenader","Robert Grenader"],
-"lgpa56frif577vdtkdqt5ixm":"rgu42"
-}) // 2023-10-22T10:04:10.598Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lgpa56frif577vdtkdqt5ixm":"rgu42",
+"jjwfmfcoz6mwkspkdyv4gqus":["rgordon","Rob Ghoul-don"],
+"ffotb42todhk7v6666szv35j":["rgc","Robert G. Cantelmo "],
+"qyhwig6n5bcudj5n463ya5gw":"rgbruna",
+"5q65g7rlm2t2efhjsueuhzxm":"rghwrites",
+"4si5uxz5mpywof4tb326ilit":["rgmlk","Ragamalika"],
+"w4axukxmgvpdv4fqsfhzdzfo":["rgcs-mcgill","Research Group on Constitutional Studies, McGill University"],
+"rirvliacp3sfucycwawreukt":"rgm",
+"dcyer7ljo2cbjd7lvs5j4lc2":["rgirwinart","Ryan 🦏"],
+"gh7t2lutgt2ai2rdrmshw4p7":["rgluckst","Rachel Gluckstern "],
+"nla2c4igassiaheagmuakfu7":["rgoleite","Rodrigo Leite "],
+"nyzmqy5j64k2pwmw33xo4c2m":"rgyatso"
+}) // 2023-10-22T16:40:55.595Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

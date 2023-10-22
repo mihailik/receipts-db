@@ -15,5 +15,12 @@ var wf=(function(jsonp){ if (typeof wf==='function')wf(jsonp); return wf=jsonp }
 "zf2b3fpgdgevoumv7xshj6jc":["wfgreen","Will Green"],
 "om6vnpy62macgt44236f3six":["wfbjacob","wfbjacob"],
 "4e324mwe2yji457hrnagnjjw":"wfreeman2112",
-"trpwa5fnxyllscoppjfihq7e":["wfa","The World Federation for Animals"]
-}) // 2023-10-22T07:28:33.460Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"trpwa5fnxyllscoppjfihq7e":["wfa","The World Federation for Animals"],
+"moraiefb4kwxpdesr7zljing":["wfosteriv","W.A. Foster, IV"],
+"pggi2l5lkrlboejy4yhpafej":"wfox",
+"rn2kp7ul5r4usenrezt2bytx":["wfenza","Wes, the Dadliest Catch"],
+"ddpdmgk5ovfgueslv7phtkdd":["wfendler","William"],
+"sjkardqm5wpi6mqgzrn7llpp":["wferr","Wferr"],
+"sgfaotlmnucf3ljqyjxp3hzf":["wfvanvalkenburg","Willem van Valkenburg"],
+"hcmbxmmiobqsp5vb7vikhydr":"wfdev"
+}) // 2023-10-22T15:02:54.033Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

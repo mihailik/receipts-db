@@ -46,5 +46,10 @@ var fb=(function(jsonp){ if (typeof fb==='function')fb(jsonp); return fb=jsonp }
 "3z543mkrtxflojowpp7raptd":["fbinho","Fábio "],
 "egdxuxx623ueterskpycgfz6":["fb3network","FB3 Network🏳️‍🌈"],
 "aperr7hru7xdmoydmhbgzytf":"fbort",
-"anxo4q4spvodcfweyyi6ja6q":["fbcaires","Filipe B Caires"]
-}) // 2023-10-22T12:01:59.248Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"anxo4q4spvodcfweyyi6ja6q":["fbcaires","Filipe B Caires"],
+"y5rg7x7owgqdsau5rs4irwu7":"fbda",
+"hi66eu66wc5umrmx3azaku3v":"fbin",
+"ltb7qalbd3q4wnurvwetdp5a":["fbruna","Bruna"],
+"ak2ojempxtkpzfheudwqw6og":["fbardamu64","Bardamu"],
+"7ta6yagwfu5ojwv3q6ifimyt":["fbnz","flameboy"]
+}) // 2023-10-22T15:06:33.485Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

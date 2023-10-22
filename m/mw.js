@@ -34,7 +34,7 @@ var mw=(function(jsonp){ if (typeof mw==='function')mw(jsonp); return mw=jsonp }
 "yqm2uxnad23ashcpjfgv77ei":["mwishere","미원"],
 "zcax3autdj54n2lnwoom5jqr":["mwdooley","Dooley"],
 "zfqn5o7nkobbvjs6nctuanan":["mwduff","Meghan Wilson Duff"],
-"zwicyrqbdjsqfwzypsr6gbld":"mwgewehr",
+"zwicyrqbdjsqfwzypsr6gbld":["mwgewehr","m gewehr"],
 "en5qdgvyijqzboj2yg5oasn5":["mweinbach","Max Weinbach"],
 "tpswzekr272pxf2d2tdcqsfy":["mwr","Marc Rogers"],
 "fnttdtzirv5lqyfkvev7kdjp":["mwerichards","mwerichards"],
@@ -105,5 +105,21 @@ var mw=(function(jsonp){ if (typeof mw==='function')mw(jsonp); return mw=jsonp }
 "vih46bzjb64ukm6vgp77jfnd":["mwilli","Mike Williams"],
 "m5xcm3z6zke2v6uchogtmvlg":["mwallaby","Michelle"],
 "k3vyhydvdyc3cmplwtc4lowt":"mwiwai",
-"kt2ptm7ljse4k23samdlxpaw":["mwntang","mg"]
-}) // 2023-10-22T11:35:04.751Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kt2ptm7ljse4k23samdlxpaw":["mwntang","mg"],
+"j7d2kgbonjmjeois3sk4fyl4":"mwaite007",
+"56aljulefxhicoatxx2hiqwe":"mwhmdmz",
+"fue4ljvn3slmptg5ajhhpx7c":["mwlorg","رابطة العالم الإسلامي"],
+"rbmmpf45rv2ln5k7phvwdrqb":["mwriter","Masoud"],
+"7523vyrpw2z2ufdqoz6rj23v":"mwaple",
+"pkxbhilyolzmolmvsyldbnfs":"mwjohnson",
+"c7wsdmt7v26ssid3v3yzvxh2":"mwd77",
+"4uwintnrjixn5eui7kajvjf3":["mwawrzycki","Michael Wawrzycki"],
+"pqnpdme3vjpcvj3s3i7nvyyw":"mwehby",
+"4d2mmoa7qs7vtrvrsh7h3up4":["mwpolitics101","Midwest Politics 🌽 🌲 🍺 🔮"],
+"zsl6ym65neyhdcf4du7yzmfb":"mwelker",
+"okalpfrclgjutehw5zsih6jo":["mwhitcentral","Mormon Women’s History Initiative Team"],
+"q7gosipt4kwqi6skq63qmrjj":["mwezzi","Mwezzi"],
+"xq5du7n6ifzdvv5biwk3aclr":"mwarners",
+"h4rsl4bmfgmofme5t6qxfu5u":["mwosam","Wesley Osam"],
+"yftqa3dgshxbcynmfsfqc7xh":["mwah","kiss"]
+}) // 2023-10-22T16:16:20.822Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

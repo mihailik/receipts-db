@@ -1,7 +1,7 @@
 var bw=(function(jsonp){ if (typeof bw==='function')bw(jsonp); return bw=jsonp })({
 "234w533nwdkdjxwznuepmkhv":"bwareofkoko",
 "2wtghl3twk2m7g5qwjpenyz4":"bwossoming",
-"5iv462scewtokpzs54x4r4ty":"bwrc",
+"5iv462scewtokpzs54x4r4ty":["bwrc","Bawer"],
 "5vdbj62gpid5masymjtg3jbj":["bwolo","b. wolo"],
 "6c53ck6lizlqe4jgly4tbbvk":["bwargle","chris"],
 "bfbituejvmsehqba757qc3ki":"bwp",
@@ -29,10 +29,10 @@ var bw=(function(jsonp){ if (typeof bw==='function')bw(jsonp); return bw=jsonp }
 "qzpm6o375kawc5q67ifytkq2":["bwpachinger","Brian William Pachinger"],
 "r5vrrznjcnzq5ubomoptskt4":"bwhiz",
 "rdw2rzeyszojki6prgslvpjk":["bwiernik","Brenton Wiernik"],
-"sukxrbl2uu7dq5aptpxfqzox":["bwolf23","the cool stream"],
+"sukxrbl2uu7dq5aptpxfqzox":["bwolf23","The Philosophical Mentor"],
 "swmd5kyci5qwmplgxrfmyt2g":["bwil","The Fleshmancer"],
 "t7n36nmgv5xm63rr7pydbwvn":["bweissman","Ben Weissman (he/him)"],
-"teo4hyxxhqwc2fnflgxa2ew3":["bwillettcomics","Bwillett Comics, Monster Matchmaker"],
+"teo4hyxxhqwc2fnflgxa2ew3":["bwillettcomics","Bwillett Comics, 300 follower raffle now ongoing!!!"],
 "tr47jr5mlmg733sk3x5lu5zu":"bwac10",
 "trgarduddxktj3gkmqnwegs6":["bwe.st","Brandon West"],
 "uy6w6lekzfp44aap3ows35cx":["bwoah-kimi","типу медіа «Провінційне насіння»"],
@@ -99,5 +99,19 @@ var bw=(function(jsonp){ if (typeof bw==='function')bw(jsonp); return bw=jsonp }
 "z2nxvj3go33hwep3dd2frwv7":"bwilliams",
 "3ek2vberzki3jxvji3zr6i2e":["bwinston","Bryan Winston"],
 "hyl3padhvgmnaeznicf2cowr":["bwareofgqp","BwareofGQP"],
-"wxja3htbd54ngtuksfqfrxjy":"bwolf"
-}) // 2023-10-22T11:36:29.980Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wxja3htbd54ngtuksfqfrxjy":"bwolf",
+"42ilniz3o5weqzcmiknpyzjo":["bwilliamsdc","Big Williams Style"],
+"ynyrl26w4dpnit3d5qearo2b":["bwolfe","Brandon Wolfe-Hunnicutt"],
+"iazrqmg3sda52q76vwik4zm4":["bwesigye","Bwesigye (aka Friday)"],
+"ahoidjjjbakm2wpccg5pft3o":["bwwmatt","Matt Tamanini"],
+"qzb6bscuedhsa3ecxi2a7bfo":["bwpags","Bruiser"],
+"whvhr74fsesik7jjl6s4gu2f":["bwrbrd","🎃 SCARErbird 👻"],
+"mplqrlgx4ewtvlgxhft4rbui":["bwitt722","Brianna "],
+"uaqpi2chvxklq64i4tz5jwmd":"bwbama85",
+"jcv2ics7ypjvvgnblfgd5q4p":["bwa","Better with Animals"],
+"5tatu4mmxqgdsvqoxtfmpl2n":["bwrites","Bridgett T"],
+"6mvmafq5wlviu62reytwew55":["bwv988","Bluetongue"],
+"pcvowrzjvanwmlm52s7wphls":"bwoods",
+"ouhsfadlmzdexvn6oj5wcko5":"bward",
+"snxtjmlm4357msgzj4krdhsj":["bwfan","David Marshall"]
+}) // 2023-10-22T16:27:09.239Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

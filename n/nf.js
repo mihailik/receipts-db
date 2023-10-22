@@ -11,7 +11,7 @@ var nf=(function(jsonp){ if (typeof nf==='function')nf(jsonp); return nf=jsonp }
 "f7mjkyetd6fas2qbknt65l5v":["nfsc","단순한생각"],
 "hjcugbfl364kxb46znn3mw7a":["nfwstudios","NFWstudios"],
 "md7oygeh4bnmrejpnxh54akt":["nfinit","Nfinit"],
-"mz5zhprhxrapff2m4hvjxydf":"nferro",
+"mz5zhprhxrapff2m4hvjxydf":["nferro","Popcorn The Frizzle Chicken"],
 "njj5dmnnu6sklww4ihgjiihz":["nftmurder","NFT_Murder 🖤🌈🔪"],
 "os3fnft6rrbfowtaafw5trpl":["nfluger","♿️Maestro Fluger🇧🇴+🇺🇸"],
 "qds55orfjlqxu4mithh4dp5k":["nf1nk","Nate is waking up "],
@@ -77,5 +77,19 @@ var nf=(function(jsonp){ if (typeof nf==='function')nf(jsonp); return nf=jsonp }
 "tucjgcccziyezgdcdcwrdcwb":["nftygamezone","Nfty Game Zone"],
 "eudu7u5xp3um5tihy4cxqdb3":["nfr","m"],
 "omgrcezxu26pkq3j2tvp7tdr":["nftghost","Blue"],
-"wpxragzaxvcfrajjz63ukqsz":"nfs"
-}) // 2023-10-22T09:22:35.231Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wpxragzaxvcfrajjz63ukqsz":"nfs",
+"cabmeuim2cozuyf63gvvo6lu":["nftpro","nft icp"],
+"wknlu6nio643un4xrwa5cs6y":["nfamartins","nath"],
+"n4zxucp4k6iqqmyv2ili4xw2":["nf1re","lesadinha 2.0"],
+"gveoq22n5iubrpozdld4hufr":["nflry","Nicolas Fleury"],
+"fescogv3wboistlwyo2cpmfl":["nftdepeitinh0","calcinha comestível sabor sertralina 50mg"],
+"xh4gb344crzzejdwvsi3joco":"nfern0",
+"aiavalnuoa7tjl3lmub7asoc":"nfebh5eeso",
+"22i5gnfdheib5zwuo2rwyq6o":["nftcreator1","zaycev victor"],
+"rdzjvqqztp2k52ihdxuhwmq5":["nftecnologica","NFTecnologica"],
+"psocmojwka2dadwuuuhacmc7":["nfd","🦦 fisherman.algo"],
+"zaxsz3fimb2xsdxr55jmsema":"nft3",
+"scraep2kgwce3n5fbrqknxa7":["nfc","yousef"],
+"qlmsj5ccgwbf3e7pa2qidumr":["nftsntv","NFTPlusTV"],
+"gdywozki3zshgxauug5liyku":["nflscores","NFL Scores"]
+}) // 2023-10-22T16:28:43.814Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

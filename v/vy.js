@@ -71,5 +71,22 @@ var vy=(function(jsonp){ if (typeof vy==='function')vy(jsonp); return vy=jsonp }
 "hhmguzozo4efb3eqcrwdwf2t":["vynn","vynn"],
 "u5zldf4yhehaxsq6p3dqeqbw":["vyx","morningstar"],
 "4bamloluyfp5uger2ylbaj2j":["vyshnia","вишня"],
-"kdgjofhujaw3ujfvforreeqe":["vynvoxva","Is that Vyn Vox!?"]
-}) // 2023-10-22T11:36:29.794Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kdgjofhujaw3ujfvforreeqe":["vynvoxva","Is that Vyn Vox!?"],
+"yu52pwihvw7xk5qlgaxu7vpm":["vyloththesuccubus","VylothTheSuccubus"],
+"gaqs23ytdq2irskvtfaqjnqb":["vy-michi","みちる"],
+"rqydjsjoyy5lnpew7txuhg34":["vyce223","Kendall Simon"],
+"h6mvhpmbr7eetfw4ktxy4hre":["vyhurz","vyhurz"],
+"hi52z4viowzw5c4hnvx43gyu":"vyt",
+"wi6plfnxws4wdu7ewqrn7jea":["vyrosk","Vyrosk Artworks"],
+"slmnkkhxbuglgjjnkaw7j3up":["vyrkolach","Blaque of All Trades"],
+"wc2sxaunsxcaugni7bbabhhz":["vyskochka","Professor Farnsworth"],
+"e43kbjet3o6bjfh6g4h7vdxu":["vyntheshark","VynTheShark"],
+"3vdaag5qocjwnrdnublwwhe7":["vysae","ɴᴏᴠʏ"],
+"b6rexq7z7chovi57jr6n72yi":"vyizis",
+"rpyvhxp5lurgeiust55reaq7":["vyriss","vyriss"],
+"dt3yhyxj3n3tl7j6cjgv6cvd":"vysl",
+"wc3tavafws4m7ehjvpge5oy5":["vysv","nero"],
+"hmpzezewxjxan6khichqdo7t":["vyper","Terminal"],
+"vpognkndsvw3sz6wzw3rjews":["vyarhi","Vex"],
+"riuoltms7f6sa6b6zik5bo6p":["vyria","Call me V"]
+}) // 2023-10-22T16:30:27.226Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

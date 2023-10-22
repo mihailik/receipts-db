@@ -11,7 +11,7 @@ var dw=(function(jsonp){ if (typeof dw==='function')dw(jsonp); return dw=jsonp }
 "7tezdgultehtfs47dzuisg45":["dwill","David Williams"],
 "am65d3danyioe6jhgdxheyaa":["dwhren","Danielle Johnson"],
 "bawoaplgknpokddsvgnxpjs6":["dwightsilverman.com","Dwight Silverman "],
-"bcohgm5hzxdieoetvocxpgvp":"dweller42",
+"bcohgm5hzxdieoetvocxpgvp":["dweller42","Dweller In Darkness"],
 "dgexmcfv727ziomlvsct3vk2":["dwyse11","wyse"],
 "dparx4rlfuhjrxyh5dfklmxq":["dwmperola","bel "],
 "drbcbeqs6iehxflj64syiter":["dwisk.us","Dave Wiskus"],
@@ -31,7 +31,7 @@ var dw=(function(jsonp){ if (typeof dw==='function')dw(jsonp); return dw=jsonp }
 "ki5rdkmizz2ri46q3qtywczc":["dwarmstr","Dean W. Armstrong"],
 "klendj43s2jbhhkcimgppuz7":["dwitzl","A witch's crystal orb"],
 "lg5e2v46e5ichzkvohefepzp":["dwachsmu","dwachsmu"],
-"ljb4nzbklbxkplckxjxozb7b":"dwarfi",
+"ljb4nzbklbxkplckxjxozb7b":["dwarfi","Odin Dwarfi "],
 "lmx35x6f2bydoeaeaw4k5hgt":["dwjburke","David Burke"],
 "mch4n323xp6grelp7qq4rd6b":["dwyck","𝖆𝖑𝖊𝖝"],
 "mfg7rxte4txy6lv5gmeyhti2":["dwlpictures","DWL Pictures "],
@@ -163,5 +163,18 @@ var dw=(function(jsonp){ if (typeof dw==='function')dw(jsonp); return dw=jsonp }
 "vz4uyapkto2bjlejskuv3hcb":["dweeboftheyear","Zachary Liles"],
 "mjrkiyywv6fbe2r27m7ari7m":"dworzy",
 "gjqjzqgvojzpaayfmgl5mzwx":"dwaynefoster",
-"h2qp46otn3icrrveqwcuy725":["dwarfplanet","향미"]
-}) // 2023-10-22T11:44:51.505Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"h2qp46otn3icrrveqwcuy725":["dwarfplanet","향미"],
+"sleavgqktw245i6shi6jepx7":"dwragg",
+"bwcurywvvarkistxitjr25ok":"dwharper",
+"vmiysmxcfbfccah7jzg56bvc":"dw1407",
+"2arp7wyiayjvl6tkazyxnkj7":"dwix",
+"nkcrlyjk63uglrwcoqnrfzyo":["dwbroodle","DWBROODLE"],
+"nln455h62hopnaowuzdl7qtm":"dwflyguy",
+"7oix6vpsru6vkludev264jsr":["dwarfgekko","Dwarf Gekko"],
+"bmth4ayrwjwuge2ehc4znocd":["dwhdaily","David Hudson"],
+"teu4rly2x5j4wmhxuukbzng6":"dwobbsy",
+"4qmkfnsq673oxa4wi7lrxo5e":"dwk1rk",
+"jrhaejqcemuejsvwmkvt4wun":["dwalsh76","Dan"],
+"oiqjlu2yqyt72p5svvdqsjtg":["dwebster","David Webster"],
+"hun7y33lmbni3cve2juedle7":["dwardo","Dwardo Pontes"]
+}) // 2023-10-22T16:09:45.336Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

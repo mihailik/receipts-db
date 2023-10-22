@@ -1,7 +1,7 @@
 var vv=(function(jsonp){ if (typeof vv==='function')vv(jsonp); return vv=jsonp })({
 "6tfjx5kafvshvvrbs3ehce7c":["vvcainvv","Regine"],
 "7jlsn24yy7ydrry2r5ribc4t":["vvzerizeri","한지심체요절"],
-"bjeubhrt6bxl7y5ymsqjqymj":"vvulfbara",
+"bjeubhrt6bxl7y5ymsqjqymj":["vvulfbara","VVulfer"],
 "cd3jkdgkkowlglootcobf66o":["vvsolo","(<) veyes | they/them (>)"],
 "cdwk6hotvalyde6dx5lc4y7p":["vvicthor","\"This guy are sick.\""],
 "cjrbokfkwmri4fyrqxr4aigv":"vvitching",
@@ -67,5 +67,15 @@ var vv=(function(jsonp){ if (typeof vv==='function')vv(jsonp); return vv=jsonp }
 "6xkh3s2e5mlxlg6ipz6ho6os":["vvictor","victor"],
 "3jezk4avevgue3emyt3xajob":"vvn",
 "wnznbw6lmhf2q72plqejcubx":["vvolfae","♡ 𝔰𝔶𝔩𝔳𝔦𝔢 ♡"],
-"bfclqv7gt5dxyrxd7gw4br7t":["vvessel","Wessel van Hulssen"]
-}) // 2023-10-22T10:08:23.852Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bfclqv7gt5dxyrxd7gw4br7t":["vvessel","Wessel van Hulssen"],
+"io3vjo5prjw2mgt3okwpniyl":["vvitchqueen","Elle Woods of Piratefucking"],
+"wdybwl3lgkvcggp7poh6wekn":["vvaco","no"],
+"bk635gy75m3fqr7ql6fufrwo":["vvecchi","Vini"],
+"5rqwfkm4wws5vh7rql7wwns4":["vvspeakeasy","V as in Virtual-On"],
+"ttzr4djl2mxen6e2jcuovsqx":["vvvv","ali"],
+"5cvhwouknwywxyenij2ml3av":"vvvecu",
+"ilmvjaf5j2dphrnhntai6dns":["vvv8kh","サツキ"],
+"6lvyftnoqa6xd5ocxi7mqugu":["vveedingreenery","온실 속 대마초_낄빠"],
+"arbsv2wmxdqlrztfzllahc46":"vveyer",
+"blit5ssfhhbqmk2wtxsxjs5k":["vviv","Vivi"]
+}) // 2023-10-22T16:30:27.482Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -80,5 +80,15 @@ var fc=(function(jsonp){ if (typeof fc==='function')fc(jsonp); return fc=jsonp }
 "zsei6yi3ndnpaotgaiwltl4x":["fcp","FCP"],
 "j4gnajcpvb5suzg7gtbejo2s":["fcakyon","Fatih"],
 "mhrbc63zzcyfk6i2ltjzospm":"fcost",
-"woykgasuktbalvwxbrd3i6gi":"fcc97"
-}) // 2023-10-22T11:37:54.780Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"woykgasuktbalvwxbrd3i6gi":"fcc97",
+"gfkoookghaabt2p4xyc6i6ob":["fclaudiods","Cláudio Dantas"],
+"ayhpnesos6ymk3vhjom2oesn":"fcf",
+"ijs63ikeprdgnwsaafz2quso":"fcavus1",
+"3yb224rraxfsnl3msouniocv":"fczbkk",
+"bekgtfci5qeat6uoxh4e2alr":["fcoughlin","Fred Coughlin"],
+"pvtgxz3izrmyyptsluekxinv":"fcs",
+"hzt6xy5xx7az6xhxlzpyd32p":["fcmanny","FC_Manny"],
+"5ohojds76r4sgtn4q4ct5ywy":["fcatongarcia","Felecia Caton Garcia"],
+"htou5o76vkoltargafj7t6md":["fccoruja","Fernando César Coruja"],
+"bghpbaard2ydpdngi4p4xkdu":["fctofani","Fabrício"]
+}) // 2023-10-22T16:33:31.262Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -61,5 +61,14 @@ var nj=(function(jsonp){ if (typeof nj==='function')nj(jsonp); return nj=jsonp }
 "i4pp4daup23omrtwqsphea5l":["njevans","Nick Evans"],
 "b5zif6lyltfinbxisz52ebhe":["njpolicy","New Jersey Policy Perspective"],
 "wjabnhjbae4a7gi37yhm3ukp":["njal","Njal Mixtapirsson"],
-"ave65aoilzlteaniti2ngkvc":["njckolas","Njckolas"]
-}) // 2023-10-22T11:46:19.079Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ave65aoilzlteaniti2ngkvc":["njckolas","Njckolas"],
+"6a6jek3ndd4ddl5v2bsz44pc":"njooyounkim",
+"rti5zduulojse6so5ap3ec3b":["nj51","デデ"],
+"6pqylu5r5qehxnzaoginket7":["njlegalizeme","njlegalizeme 🍍"],
+"npnk2mgbhku2afsapxksgxtv":["njhroi","∀NJHROI"],
+"rkg555orfh4a37mkzpeejup3":["njoybetz","Nicole Betz PhD"],
+"azrdr4cxvg2hu7sqymdj7xzf":["njyama","NJ Yama"],
+"7rztie7kxuol542bitfqlryd":"njru",
+"2raafljpm2yjzpt45mtitpul":["nje88","Dr. Nancy Edwards"],
+"3b3wtgbh4ge272vigkwaddpb":"njbrian"
+}) // 2023-10-22T16:28:43.951Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

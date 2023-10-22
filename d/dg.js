@@ -39,7 +39,7 @@ var dg=(function(jsonp){ if (typeof dg==='function')dg(jsonp); return dg=jsonp }
 "ua2rsqap2q63o4e442pzydez":["dgthizio","daf 🦄"],
 "vf4flbjovx7bgju6lgjbejez":["dgoold","Derrick Goold"],
 "vjgdpgtm6sbmz32bor42bxub":"dgasser",
-"wn6gd2gonytw5guoq5ymeimr":"dgoddess",
+"wn6gd2gonytw5guoq5ymeimr":["dgoddess","Kathy G."],
 "wukbomhznyxipgcsb3sshfnk":["dgtarbuck","DGTarbuck"],
 "xb63n4vz277er23z3wjb7zzq":["dgo81","DG"],
 "ylossjzuujliuwzoqpfdxsia":"dgo64",
@@ -107,5 +107,17 @@ var dg=(function(jsonp){ if (typeof dg==='function')dg(jsonp); return dg=jsonp }
 "jnrfmer4ofeya35kpfqs74lm":["dgtlbrussels","Gianmaria Sisti"],
 "ycv63kog2cjm46yagexbgvvy":["dglasow","Daniel G. Glasow"],
 "yp3cz5z7pq5uxy2otnjaxvfn":["dgjae","jae"],
-"awn2quf5gfuounqqugt4rcck":["dganite","dganite"]
-}) // 2023-10-22T09:51:08.653Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"awn2quf5gfuounqqugt4rcck":["dganite","dganite"],
+"xsumb2ckpwv2gbsrohdswxzj":["dgat","Dave G"],
+"qczwtxlgwgjwungdghzgwyul":["dgo42","Dimitrij Goldstein"],
+"kaium5pxmohl6cqel7xcd544":"dgewurz",
+"qh3ciph4gtr4ywxutjqcxgsf":["dgprpunjabnewsroom","DGPR Punjab (Newsroom) "],
+"5vo4gooomyrblpymwjwxewe2":["dgomes","Diogo Gomes "],
+"3iozgeqdrpamwqw6oqsrjzma":["dgrmgr","ねりねり"],
+"f3knam4eg47rbb5j67ylfmaw":["dgwang","광춘"],
+"qp7kzqlsuhtdjjkoowi3zu6c":["dgrif","David Griffin"],
+"gbbi6mvnw3xlv332hq7o66do":["dgns","?"],
+"333dohil4hq3lrkqiuomv36k":["dgblumberg","David G. Blumberg"],
+"zer4is37elewdn2w3xkn7zwu":["dgermanuci","Donovan P. German"],
+"suchnnlxhg5wnuzlvudfwn5p":["dgavieira","Diego Vieira"]
+}) // 2023-10-22T16:30:27.200Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

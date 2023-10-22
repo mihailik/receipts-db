@@ -149,5 +149,22 @@ var mn=(function(jsonp){ if (typeof mn==='function')mn(jsonp); return mn=jsonp }
 "ppmth5fqdpiqrisecbeed2ol":["mnmatt3","Mn_matt3"],
 "vnat7smsrarcx27k3cyv7seb":["mnwl","홍"],
 "z3ze6wvaovnr4ll2e4jpwn7k":["mndmll","sommelier de água "],
-"q5y57manuag27dipzhctuohl":"mnemoticz"
-}) // 2023-10-22T11:55:31.851Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"q5y57manuag27dipzhctuohl":"mnemoticz",
+"sgronmelgwvsapgdrdpdsuy4":["mnrlmnstr.ukr.monster","що де?"],
+"xuevmgyy6ycvvlxgaoajkioi":["mnrevontulet","Minnesota Revontulet SG"],
+"galh223txxcu73nkmdaqp5x6":["mnblrmkr","David"],
+"qagrravdas55yg763hh3cpdw":["mndsgs","Amanda"],
+"iimumufcpv3nvpfrg6zwkubq":["mnoble","mnoble"],
+"nj3ie2errmofhagkzricqzo4":["mnjohan","MN Johan"],
+"eskuf67isfs64pr5mos6plve":["mnboy","a"],
+"vb5sipthgtd6bqtesf4ka57m":["mnorthstar82","Adam"],
+"e6ezi3lewywpvzcjeuvfkljd":"mntwins020733",
+"4szc5j3ayandx3qu3hpt5nae":["mnlwldr","Manuel"],
+"6rkzdrhkmscdis4zmwswzohy":["mnmenterprises","Milo Minderbinder"],
+"q4iewld7t6zlpn3h2y5g5kbs":["mnolan","M. Nolan"],
+"txn764l25f3ig4nzxoma2a64":"mnmzr",
+"36prjsvjlw6igbb2gtwfm2xv":["mnzbrg","moonz"],
+"7parqdqwyuxacj3acf6ogjfg":["mnchc","Erwan Mnchc"],
+"6twttdrifmr53i5jhah7qnkr":["mnk","David"],
+"ylrn27hntr7et72nwq7jszqg":["mnbennetauthor","MN Bennet"]
+}) // 2023-10-22T16:38:43.943Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

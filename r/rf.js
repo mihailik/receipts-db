@@ -19,7 +19,7 @@ var rf=(function(jsonp){ if (typeof rf==='function')rf(jsonp); return rf=jsonp }
 "kqd4d2ezqehm45etqk2hif7m":["rfranklin15","Richard F"],
 "l2ktf7pzzycr6n5eqwyp4hc4":["rford","ryan"],
 "mzh55kgw7hezsezwk56omu3m":["rfskia","Skia"],
-"neyxw2t7pyvssqlxkihjc66a":"rfoxtail",
+"neyxw2t7pyvssqlxkihjc66a":["rfoxtail","Ronin Foxtail"],
 "ppm45ekwqm7tko4g22xl2lf3":["rfraphide","Will Parsons"],
 "pw52bsz3q5lqzbg3wf2xmoq4":["rflove","Ryan F. Love"],
 "qhho2zrhms7f7rswagzlymks":"rfrancis",
@@ -68,5 +68,11 @@ var rf=(function(jsonp){ if (typeof rf==='function')rf(jsonp); return rf=jsonp }
 "vkplzhr7iertyrroedf6ne3l":["rfusername","Aref"],
 "t2iug4a74zrrgcr2x6o6uhy5":["rfkjr","Rack"],
 "k477s7calfhulb3rhf6cmi4b":"rfc",
-"p4dl3y6ei2mqgt2tgoucgu4h":["rfolks","Ryan Folks"]
-}) // 2023-10-22T11:36:29.876Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"p4dl3y6ei2mqgt2tgoucgu4h":["rfolks","Ryan Folks"],
+"ltveesmiwlhq26xdw5bnqj4g":"rfarnell",
+"eqe6worwwolwgqmv4gthuq4z":["rfaaugst","Rafael Augusto "],
+"jnkuxorisqtmbk5ktp7lbqaq":["rf0n53c4","rf0n53c4"],
+"tx7apfk4ohummehawexi3ppv":["rff","Rafael Ferreira"],
+"b4wcalxnb3egmnfatsyjcmzk":["rfruechte","Ryan Fruechte"],
+"mxjqgdjghtmtykep2afzsmc6":["rfauni","Rupert Fauni"]
+}) // 2023-10-22T16:16:21.172Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

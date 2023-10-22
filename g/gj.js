@@ -7,7 +7,7 @@ var gj=(function(jsonp){ if (typeof gj==='function')gj(jsonp); return gj=jsonp }
 "jjzurhgqx3gozam7zsozn3rs":["gjohnson","Graham Johnson"],
 "lhzahl66glayn32ogr47g4g3":["gjgreenlea","Gayle J. Greenlea"],
 "lphtgucdekivxwb5hxe5mucs":["gjwolf","GJ Wolf"],
-"vihopjmi5ly5bjlfpyexac2e":"gjikaphd",
+"vihopjmi5ly5bjlfpyexac2e":["gjikaphd","Anna Gjika"],
 "xkpbm2fcxzkbx34a4xv6ib43":["gjcats","Gerard Cats"],
 "y5zzasijmapifytqvhxnwsrm":["gjoekeneskonge","Pålikål Grønning Kraft "],
 "ligpz3pkxxuczbc3z36gybnh":["gjjxdjjbvdetu",";()):)4)$"],
@@ -29,5 +29,11 @@ var gj=(function(jsonp){ if (typeof gj==='function')gj(jsonp); return gj=jsonp }
 "z4jvcbwagjviogxbshszv46p":["gjaskin","Jordan"],
 "425iwgf4nhatdbkuqt7t6cf4":"gjstache53",
 "7ayc4rjwg2vnemqyzwdpdycl":["gjo","gjo"],
-"r56mxuvzxad64uf75uei6lie":["gjgilbert","Greg Gilbert"]
-}) // 2023-10-22T11:24:01.369Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"r56mxuvzxad64uf75uei6lie":["gjgilbert","Greg Gilbert"],
+"g3dx672bphlhwmhlbodiebe4":"gjerda",
+"dowxmcehxnft6d2q7vrwpbum":"gjsilva02",
+"zjqdxdrjxcehj4tfxsxtlmd6":"gjtorikian",
+"3gcmtwksgkznepg3rw4qjb5f":"gjermunds",
+"vcn3bmdyz3x4yxzo2h4gwt22":["gjbm","Glenn McIsaac"],
+"2rliaaont444q33ipt6yt2sx":["gjgygrbb","책 먹는 편집자"]
+}) // 2023-10-22T15:18:36.585Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

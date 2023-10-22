@@ -62,5 +62,15 @@ var gp=(function(jsonp){ if (typeof gp==='function')gp(jsonp); return gp=jsonp }
 "zpdc5d5hsfecnynq65zt5t2t":["gpadron","Gilbert Padron"],
 "43jr7cyhdyn4o27xrax6mze4":["gpm","George Pérez Marrero"],
 "s2de5dtoitzfd3qh4krcvsvt":["gpl","ghostopal"],
-"6n7slulyibfyfmkqqahkecdp":["gpc.dog","gpc"]
-}) // 2023-10-22T11:41:02.642Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6n7slulyibfyfmkqqahkecdp":["gpc.dog","gpc"],
+"sz6sjcq7wwl5zc4bet6rrhuz":["gpfjeff","Jeffrey T. Darlington"],
+"chtwovi7qhl7zko6umcibgk7":"gpastore",
+"pw4zlhlakhvnl7j4kpsp2tsb":"gpe",
+"ldgb7hlslzbjfyjlapfe4ard":"gpultorak",
+"yhs3ecjjhtmdd2ggbstx3tob":["gpshere","GPS"],
+"hink24ttl67hin242jwa66p3":["gpwa","Green Party of WA 🏳️‍🌈🌻🍎🌎"],
+"fu2b6vwae7rbuv7x6qdmbvya":["gpessia","@gpessia"],
+"6jjw3zxbjzvdvjyegakeug6t":"gpeairs",
+"s4t25xmj2cxbevhpzuiqn7vu":["gpaulaeduardo","Giulia"],
+"xes2y74vhvnv6kzmpz5osk7r":"gpratt"
+}) // 2023-10-22T16:33:31.283Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

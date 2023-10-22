@@ -3,7 +3,7 @@ var ys=(function(jsonp){ if (typeof ys==='function')ys(jsonp); return ys=jsonp }
 "2jofjw23jgw3nln6fvetnsyx":["ysko","Yoann"],
 "2tgy45xq4otwmrce53f3qtgc":["yssman","Brad Ysseldyke "],
 "374tcq2qxqlhadm7w7iypm4l":"ysalamir",
-"3wmobtbg73jou6per5vabqoe":"ysera",
+"3wmobtbg73jou6per5vabqoe":["ysera","Ysera"],
 "5ovewxnnnx26gn26stj3ikcw":["ysnverse","Ysn the Iceman"],
 "5s7z6ngkjck5gbwwyww7u6p7":["ysky.app","Yellowskyweb 🌈"],
 "6civj7n4bsc7ryrk4gkwry5a":["ysteinjohansen","Øystein "],
@@ -95,5 +95,17 @@ var ys=(function(jsonp){ if (typeof ys==='function')ys(jsonp); return ys=jsonp }
 "4nrnmfjth3intnnoa5u7ioun":"yskest",
 "7k4rphyfuh46rcr2mr5tm4o4":["ysmfilm.net","Ysmfilm-動画配信サービス"],
 "4euaozciiv5mgj3bwqnwyw5e":["ystava","Ystava"],
-"ck4t3pzege77uuqdzgwvcsy3":["ysrcp","Young Students for Real Clear Policies "]
-}) // 2023-10-22T12:04:16.351Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ck4t3pzege77uuqdzgwvcsy3":["ysrcp","Young Students for Real Clear Policies "],
+"smyhlqgqmcq22sqzxpgqdtik":"yshhde",
+"vne3lfl2tsqwzq5ijsc672ud":["ysg5817","(자본주의연성러)검은고양이"],
+"5eebb6uri7lmp5mhmkuiic76":["yshalenyk","пан Ярик"],
+"y6wuu52fbbb2igzpcpsd2gzc":["yskysk","揚子江"],
+"xpip2kvf7j2jrajh4ogkdlum":["ysugark","Y.sugar.K"],
+"j4vmtvsrvaoyam6rbd7v5iry":["ysmaelcarrillo","Ysmael Carrillo"],
+"pcpgsl2qqhymmqzrfpizofry":"yschimke",
+"slfodep4pkciikswcjjoqh72":"ysfemre",
+"yiwpa4kua4jht27tk3yxrwp3":["ysfr","ysf"],
+"xzcong66ghvtnq2rwpyaa4aa":["yshtolas","Kat"],
+"t5advk6ijtgeri44sdonoyri":["ysirael","Ysirael"],
+"ixncsujlfp2dk6dwtbmqps4z":"yskkg"
+}) // 2023-10-22T15:43:20.593Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

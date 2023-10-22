@@ -1,7 +1,7 @@
 var vj=(function(jsonp){ if (typeof vj==='function')vj(jsonp); return vj=jsonp })({
 "6nhetqwzhszv3f56xcpyiknc":["vjeky","Vjeko "],
 "kklb7epqd4xn7i7rj4tmwrp5":"vjstonecraft",
-"lzshkpbzyfpzk2sxhfzljmrq":"vjbigsuit",
+"lzshkpbzyfpzk2sxhfzljmrq":["vjbigsuit","Jeffrey Thames"],
 "occovylptaexk5uom2kn52zv":["vjoshuaadams","V. Joshua Adams"],
 "ofobpcj2d42f4ovar4sjfthx":["vjknipe","Vanessa Knipe"],
 "qezep2zia35riapjeoxvbo7q":["vju","Vance Ulrich"],
@@ -27,5 +27,9 @@ var vj=(function(jsonp){ if (typeof vj==='function')vj(jsonp); return vj=jsonp }
 "xzrmzydlzatfg56ksjfrawul":["vjuca","Victor Jucá"],
 "z56hyf5igg3tt3hsl74wio5g":["vjkapur","VJ"],
 "wi7m6g6xrtvpib6os5gs6fhp":["vjavadv","Javad"],
-"dg57djg5pkuc3xmzgtrixdk4":["vjhcreations","V.J. Harris | vjhcreations"]
-}) // 2023-10-22T07:39:50.937Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dg57djg5pkuc3xmzgtrixdk4":["vjhcreations","V.J. Harris | vjhcreations"],
+"nidgnrswr6lnaoxtojya4ry5":"vjp",
+"sakl2dcgiqutki6cx6jkqzgx":["vjrkrn","Karan"],
+"i255v3y3g4bbvw6ztumqsv3n":["vjolt","lou"],
+"im5a7rm5ebt6magfcovlfwcy":["vjavieira","Vander Vieira"]
+}) // 2023-10-22T16:23:03.939Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

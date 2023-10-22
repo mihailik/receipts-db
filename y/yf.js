@@ -3,7 +3,7 @@ var yf=(function(jsonp){ if (typeof yf==='function')yf(jsonp); return yf=jsonp }
 "4am7k2xrzqe7gmnqxk3m3jkl":["yftechno.twicry.com","Kyle | He/Him | Catch me Streaming or Writing about Game Dev"],
 "bjlfl2xyyf7wwztndgyojngo":["yffwl","William Rees"],
 "fym46q73iqip75m2ployecav":["yfreemark","Yonah Freemark"],
-"iwmyxbosvsvs3ur5bqhgpm5q":["yf24","よ"],
+"iwmyxbosvsvs3ur5bqhgpm5q":["yf24","yf"],
 "jdazim72qdspeehmr5fetukr":["yf23","Markos Sigalas"],
 "p4qtxllgvuu7dnvm5qkyfeb5":"yfzx",
 "saivj3b35jasc6dffe7h6bfa":"yft",
@@ -14,4 +14,4 @@ var yf=(function(jsonp){ if (typeof yf==='function')yf(jsonp); return yf=jsonp }
 "3us6q4dasthu27pvc7gjn6u4":["yfella","Yfella 🇫🇷"],
 "cwjc253xavuhq2qekba5pgzv":"yfernandes",
 "xjtmofgkhkjgqlv264hsjm37":["yfitz","Yvo Fitzherbert"]
-}) // 2023-10-22T10:10:19.310Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-22T15:39:43.319Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

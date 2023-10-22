@@ -81,5 +81,21 @@ var bg=(function(jsonp){ if (typeof bg==='function')bg(jsonp); return bg=jsonp }
 "qpwlqwvqbh26wt7hycj53hpx":["bgschnikelfritz","BG "],
 "rdfsyxyadnzvclndb3g3q5p3":["bgolrokhian","بهزاد گلرخیان"],
 "fbib754kyceehso53fl3im5y":["bgj","John (He/Him)"],
-"v7yqt5zrcdwznwj3dywtlz3p":["bg-bell","Summertime Sleve McDichael"]
-}) // 2023-10-22T11:36:29.941Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"v7yqt5zrcdwznwj3dywtlz3p":["bg-bell","Summertime Sleve McDichael"],
+"beoccxkkebxgfhsdxsiaelzq":"bgcurbani",
+"u3ogp7du4akvhyrijuklomq5":["bgs","bgs"],
+"gcovcrsj7g4n4o4idtech3p5":["bguilfoos","Brian Guilfoos "],
+"3p4muzhpdwmx7cvkjby7cpl6":["bga","Bruno Albuquerque"],
+"vesicwtt4cqptqwk2j33knen":["bgola","Bruno Gola"],
+"yna3cu5jg7qavgkmbqp24efq":"bgrounded",
+"uwt5kfdzasxoy6frnny46xea":["bgdamn","Little White"],
+"ovgcdwjl7fr5nm2wxux32z25":["bgearx","Benjamin Gear X"],
+"fl2zg5jz5v3xkaegm56lqksi":["bghontwitch","Board Game House"],
+"6xwngbxafqvdtxuzyqwdnc2y":["bgates","B. Gates"],
+"sdavjl5is2ugkp6clobdb4h2":["bgaspar","Bruno Gaspar"],
+"jchj4gp2ryd7fm2ssbexmezw":["bgraham","Brandon Graham"],
+"szp75kho3epvf3wh5vlr5eu5":"bgirl",
+"7rczgjsklfanlh3wzhe4c2md":"bguwhee",
+"ijk2lhoqv4cwvmab5en267v7":"bgallas",
+"snrb2ck2rt7y5elf5cpmjr77":"bgalvin"
+}) // 2023-10-22T16:37:10.090Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

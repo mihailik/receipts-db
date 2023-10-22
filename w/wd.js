@@ -11,7 +11,7 @@ var wd=(function(jsonp){ if (typeof wd==='function')wd(jsonp); return wd=jsonp }
 "rtseqy7pehirdr5lpg64boii":"wdtillman",
 "sb35qdrvjta2nb2m6cck66r7":["wdancer","🍉Шин (хто нахуй) Ю🇺🇦"],
 "udjgmocclxzti7bak6jn6to5":["w-dori","しこだ"],
-"utcvkkmrekdqpptci3nufm7y":["wdefender","Walterior motives"],
+"utcvkkmrekdqpptci3nufm7y":["wdefender","Waltr, Beast Eater"],
 "v3jusx3zfulqnnd7gwexjnl2":["wdazayka","каруся жоска"],
 "wu6lizmtpfw3lvgpfz73v46v":["wdoomboy","Walter - doomboy 🐽 #pacifista #antifa (he/him)"],
 "x2olmtf7n6ju6cbjvwpqh53x":"wdncnu",
@@ -46,5 +46,8 @@ var wd=(function(jsonp){ if (typeof wd==='function')wd(jsonp); return wd=jsonp }
 "yr6ga4hj4m4lb2blr7eo4tsy":"wdavidturner",
 "xneyglkw3hpn63xarwan5dxf":["wdr1","William Reardon"],
 "x42yrdl72iye25zac6ihbp6t":"wdkmrnt",
-"coejuar6svxd5y3ykcvvqi2x":["wdhunt","Dave Hunt"]
-}) // 2023-10-22T09:57:39.342Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"coejuar6svxd5y3ykcvvqi2x":["wdhunt","Dave Hunt"],
+"wmtlvjcvszr3o637o3yiikr7":["wduque74","WillyD"],
+"ahrnnczbr42mdjtsfgkzduki":["wdoami","William D."],
+"nocuqg5c6znrmos2vkywt5f7":["wdforty","WDForty"]
+}) // 2023-10-22T16:12:48.689Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

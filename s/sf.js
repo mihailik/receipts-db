@@ -2,7 +2,7 @@ var sf=(function(jsonp){ if (typeof sf==='function')sf(jsonp); return sf=jsonp }
 "27eelluttr4wulpfvj4ajwl3":["sflkirk","Sara F.L. Kirk"],
 "2hutl7tq22lrvphrggmug5pd":["sfjpde","sf"],
 "5iwtostlrzzuyndivvmnkmyj":["sffoundation","Science Fiction Foundation"],
-"5qbtoserg5mhhje7pqpiizpy":"sfcgeorge",
+"5qbtoserg5mhhje7pqpiizpy":["sfcgeorge","Simon G"],
 "64nkv4i7wehavoh32h7px3gu":["sfmontgomery","Sarah Fawn Montgomery"],
 "65kss3ewg5ida5mjyuk73v5r":"sfdirewolf",
 "7qirqowhz277g3xonwfws5e5":["sfredhead","Laurel"],
@@ -109,5 +109,15 @@ var sf=(function(jsonp){ if (typeof sf==='function')sf(jsonp); return sf=jsonp }
 "iycbzdgss2xwkspto4tfszpg":"sfikrat",
 "e5atbi2icgnkgb4je6mvla37":["sfindie","sfindie"],
 "nijbo4afym3halxnesxrp6ds":["sfw67","Stuart Francis Woodward"],
-"jer4g33mfzhxlf7gjpmn6ke7":["sfwestars","Jap's || Lord Perceval "]
-}) // 2023-10-22T09:43:30.461Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jer4g33mfzhxlf7gjpmn6ke7":["sfwestars","Jap's || Lord Perceval "],
+"733vyyf55a24qvrh37aphom4":["sforgrave","Sarah Forgrave"],
+"jq5hjicor5hyu6644zpopi4z":["sfo","sfo"],
+"k6gxvpxuc3zue3lx4o2mgmwc":["sf-renee","Renee"],
+"3i2uffhzqyuwycnfjlioqve2":["sfhiker","The Casual Hiker"],
+"fpml4keijoqwpsaf4cvfy2bs":"sfur",
+"p6d3ivpokltvklbteflo56py":["sfstef","stef"],
+"7phr7ikgt6qawwz3q7d4fhdw":"sfritz",
+"w62asz4zamxu5cgna7bwjaof":["sfgamerbabe118","🇲🇽Sabreezie🇮🇪"],
+"rmoggf5fdk7fhzjcgiy6lgna":["sfedalliance","San Francisco Education Alliance"],
+"r5qdlpt3hja53pct4kjq4y45":"sfim"
+}) // 2023-10-22T16:23:03.706Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

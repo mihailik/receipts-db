@@ -69,5 +69,14 @@ var yk=(function(jsonp){ if (typeof yk==='function')yk(jsonp); return yk=jsonp }
 "a5lomze6hzdihjk76hmcdlin":["ykiocc","یکی"],
 "gt2hccgsfqrdwk54tr6kpx5z":["ykt357","ykt357"],
 "6visoso7x5npykllhhyubwwm":["ykazakov","yuri"],
-"6u5j33q736dpbzqhxycgdsa5":["ykmrpone","ゆかまる"]
-}) // 2023-10-22T11:42:34.138Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6u5j33q736dpbzqhxycgdsa5":["ykmrpone","ゆかまる"],
+"opxsttf6m4few3d2sgor3h6l":"y-kasa",
+"j6asvv7lnh5llodoykfxadgo":["yksns3","ゆきと"],
+"cjlisuiyca3bmtun4xfkikvh":"ykk48",
+"salnm6boggs33lta7c5wxhlm":["yk0gata","yk.ogata"],
+"w25ojgjccspxjy6tx4usikgc":["ykhk","ゆきひこ"],
+"4wkj5lrusddty7iziqytkqyh":["ykei1215","Y_Kei1215"],
+"tzlf372l2ozaoylx2y7ygazx":["ykm410","雪道"],
+"i65sc2wizlcp6f2rkod7rukm":"yksk",
+"t3xgcssdkxn4i7su6ijilwrw":["yk-takanao","ゆこ"]
+}) // 2023-10-22T16:20:09.252Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

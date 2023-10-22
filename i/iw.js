@@ -31,7 +31,7 @@ var iw=(function(jsonp){ if (typeof iw==='function')iw(jsonp); return iw=jsonp }
 "t6xul6kgt54643hqkbcp52gm":["iwashita0720","鰯太"],
 "trmsm73uftmytq2ayapmdfmf":["iwanami-ns","岩波書店自然科学書編集部"],
 "u4xkiyzu6ccgtbyybepxssnm":"iwearaunicornonsie",
-"ucb5sy65lfr2jy2v7ll5v2bn":["iwantescapism13","YueHan / ヨハン"],
+"ucb5sy65lfr2jy2v7ll5v2bn":["iwantescapism13","YueHan / ヨハン / 요한"],
 "v56bgcsmzjgtvvltlvg4ur3h":["iwearagasmask","André "],
 "vvwy6wjmepc44tenulhc5svu":["iwasid","Iwasid"],
 "y5vgcuuxn3bqwr2robefhdzp":["iwazou","いわぞう"],
@@ -94,5 +94,12 @@ var iw=(function(jsonp){ if (typeof iw==='function')iw(jsonp); return iw=jsonp }
 "acprfu2beepuayg5lruw7keu":["iwritesometimes","iwritesometimes"],
 "wi77t5knt7jydb5yqm66a2nn":"iwata-n",
 "xm7eostcsvljwgnlmjlucdft":["iwi","오리너굴"],
-"tmzovrjchhjt4flbedsgck2z":["iwasakip","iwasaki_p"]
-}) // 2023-10-22T11:32:05.221Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tmzovrjchhjt4flbedsgck2z":["iwasakip","iwasaki_p"],
+"en5a3gxw3a2hmn7hwied6juv":"iwbl",
+"fw2buc7umb73xenxupcs24pa":["iwantnasu","茄子"],
+"tlvw3tooghy7s7j4lql3ppo3":["iwasrun","Damien"],
+"5m6nuh6e2ekqpy2xrtyehyv5":"iwas15",
+"3gpuf6t5bmmfgm6m6d7xkghf":["iwalton3","Izzie"],
+"wx6mmgcjkzvgbrgyckvgepvl":["iwaoi","lapis @ certified orange juice"],
+"arkx3m2nthh3j7ay43lrh3qk":"iwearthecrowns"
+}) // 2023-10-22T16:16:21.229Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

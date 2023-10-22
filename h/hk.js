@@ -14,7 +14,7 @@ var hk=(function(jsonp){ if (typeof hk==='function')hk(jsonp); return hk=jsonp }
 "uazi6dylt4755deknzr67fii":"hkt3030",
 "wbtzzzadtq2fn7h3h3hc3d4t":["hkdnet","hkdnet"],
 "xfmgrj3sgmg7dzg6o4dmnigq":["hkh555","هادی (ره)"],
-"zg3xyv2pth7psxhx6b3spovp":["hkluterman","⛥H. Kyoht Luterman⛧ 🔜 Megaplex Dealer"],
+"zg3xyv2pth7psxhx6b3spovp":["hkluterman","⛥H. Kyoht Luterman⛧ 🔜 MFF Dealer"],
 "6kw2g667i7bspfscba5ktnqe":["hkk","Hideaki Kiko"],
 "3vnglc3o5qv7jhxp2htargcj":["hkazazi","Hosein Kazazi"],
 "t24fb3nrhowhnot3ylzkfvhy":["hkluis","H"],
@@ -56,5 +56,12 @@ var hk=(function(jsonp){ if (typeof hk==='function')hk(jsonp); return hk=jsonp }
 "i4fyoxxtiwukesc5zvdvaurq":["hkunzler","Harmony"],
 "bkilncgvsr2acttgicatvvrq":["hkf","HellsKitchenFan"],
 "4rhf2dxwt2e2hixa3dfigipk":"hkobayashi",
-"gthhqjcrjtaq3f25tke5yhgg":["hk1895","葉崎高"]
-}) // 2023-10-22T09:10:53.473Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"gthhqjcrjtaq3f25tke5yhgg":["hk1895","葉崎高"],
+"tkg64yiie63cl5v7crynpi3a":["hkmarykate","Mary-Kate"],
+"2eqx35dzjm6timtcu2hjtdws":["hkapplow","H. Kapplow"],
+"n2cedghyzqdrbxgq7ppaq4by":"hkomiya",
+"uoc3zqirto5rmjrrby3cno6y":["hkthejourno","hk"],
+"5rxe42npyidxnmn3nn3occgt":"hkonker",
+"bageaqldzfkrw7wnlh4ct2ub":["hkdmz","かしん"],
+"fbh7eqt5loyu7bdymdweay3x":["hk1","Haruyuki Kawabe"]
+}) // 2023-10-22T15:32:57.841Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

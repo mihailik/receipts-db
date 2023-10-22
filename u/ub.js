@@ -7,7 +7,7 @@ var ub=(function(jsonp){ if (typeof ub==='function')ub(jsonp); return ub=jsonp }
 "6sd5m5rzuoulbttcgvn6bmfk":["ubugmenot","J Cook"],
 "6u6bmi54sqj744ndigjmx766":["ubebae","UbeBae"],
 "76vuttwmrrarzpztbatnyvi5":["uberstuber.ingroup.social","James Stuber"],
-"7crtqic3dfkhazpqxvtch6zp":["ubehole","Smokie, the Bussy Warmer "],
+"7crtqic3dfkhazpqxvtch6zp":["ubehole","Smokie, the Enema of Amigara Bussy"],
 "7d4u7kp4wzflkjy73o4z3yao":["uberrhetor","Alan Bilansky"],
 "7lsroak6theotiwzchypxwed":["uberalex","Alex O’Connor"],
 "coh7c7srsuvn3zf5az3ocm42":["ubrals","Miguel O'Hara"],
@@ -32,10 +32,10 @@ var ub=(function(jsonp){ if (typeof ub==='function')ub(jsonp); return ub=jsonp }
 "vds4myj3lktk5isunk4hgle2":["ubuhanabusa","Ubu"],
 "vgh6eiz3nvvnsdrfn65b35h5":["ubaldo","Ubaldo Alvarado Jr "],
 "vt62xe6qzfgioqnho5tf6f4i":["ubadler","Ularis Badler"],
-"wk6aoraaz3ffqq2r5jksp4go":"uberthemeh",
+"wk6aoraaz3ffqq2r5jksp4go":["uberthemeh","UberTheMeh @ ⚠️vgen.co/UberTheMeh⚠️COMMS OPEN!!"],
 "x2h4uqysw3eryfglfoz7nzvk":"ubellack",
 "xe54tswm2qcnbzu5zmiwr75c":["uberjnet","uberjNet"],
-"y26joa5t5sjdpu2256l5px7k":["ubewoof","✾ Ube Woofers ✾ 🔜 Denfur"],
+"y26joa5t5sjdpu2256l5px7k":["ubewoof","✾ Ube Woofers ✾ "],
 "7bhuqmwnrdd3xtbrvgz6okly":["uber","Chris"],
 "cshf2upwpkbo7xdrfyms27j4":"ubemochi",
 "nwtez322ddfynrc5y6hqyjws":"ubisoft",
@@ -73,5 +73,13 @@ var ub=(function(jsonp){ if (typeof ub==='function')ub(jsonp); return ub=jsonp }
 "yxbbjolmq5nuylo2d6s2cigy":["ubi","Aspiring Himbo"],
 "fh6aj4wr3kpvixkg2vz7z3sv":["uboontu","범"],
 "zvhxw3n72p2o3qposncgjgye":"uberheathen",
-"yevkzr76k6dt6re3nar4atvv":["ublsoul","Ublllllllllllllllllllllllllll"]
-}) // 2023-10-22T11:51:34.310Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yevkzr76k6dt6re3nar4atvv":["ublsoul","Ublllllllllllllllllllllllllll"],
+"ahapa6vlzus7nj4x5aclvyio":["ubt","Barış"],
+"cwgawq2bg5albbiua6dbzjnm":["uberginger","The UBERginger"],
+"5jfs6ldysx6qdrirxkxfqqfj":"ub7459",
+"b2ktseca2xtmczbozwhl4scn":["ubisi","うびさ"],
+"6hwfkahuidxrcr6p4coutjh7":"ubeeubeeubee",
+"feekdnrz5hyld3ejflq5vlab":["u-b","U-B"],
+"tzakqd2q76xl6ldk6k5em227":["ubdc","Urban Big Data Centre"],
+"jeogb5aaq3r3s7je6jy2v5m6":["ubereats","UberEats"]
+}) // 2023-10-22T15:35:54.550Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

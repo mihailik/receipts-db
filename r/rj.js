@@ -1,5 +1,5 @@
 var rj=(function(jsonp){ if (typeof rj==='function')rj(jsonp); return rj=jsonp })({
-"2nx4pmkbf7ftn3bqtkbpqjpd":"rjaniceorlando",
+"2nx4pmkbf7ftn3bqtkbpqjpd":["rjaniceorlando","R Janice Orlando "],
 "2plrhedy25iz2yv35rpziztf":["rjmedwed","Robbie Medwed"],
 "3secpvvwnff5z7hniulaqoth":["rjank","RJ The Bluesky Monarch"],
 "3tepljxzcdhjntwgmpunvx2o":["rjratcl","Justin Ratcliffe"],
@@ -14,7 +14,7 @@ var rj=(function(jsonp){ if (typeof rj==='function')rj(jsonp); return rj=jsonp }
 "5wmrxw7uv7sndnnp6xqaynla":["rjgroner","rj"],
 "65hs3fovjn5yfei7fzyh7oo5":["rjq","Ryan "],
 "6a72r4rl32lsipilwnak6aan":["rjelevi","Dr. Rebecca J. Epstein-Levi"],
-"7lyiki7rny47wupg2jq3qc3a":["rj-anderson","R.J. Anderson • New Book News today!"],
+"7lyiki7rny47wupg2jq3qc3a":["rj-anderson","R.J. Anderson 📚 New Book OUT NOW"],
 "aohh5tz36bj54ndf7m6qncth":["rjpowell","Rebecca Powell"],
 "boqjgpumvtpcpgcqwm63acba":["rjmauk","Robbie Aitken"],
 "byhmqe27xv3jh3x2m232vqo5":["rjlsousa","Ricardo Sousa"],
@@ -29,7 +29,7 @@ var rj=(function(jsonp){ if (typeof rj==='function')rj(jsonp); return rj=jsonp }
 "ilnij47llo5n3rghg3xwofbd":["rjcc","Richard Lawler"],
 "iwm7z7tpejhxkymifm3pm5gr":["rjonesing.online","®️Bonesing 🎃☠️👻"],
 "jitwui6zfc2d74fl4sjlzwdw":["rj195","—"],
-"js2lgb4stkaxphszljtqk4yw":"rjeli",
+"js2lgb4stkaxphszljtqk4yw":["rjeli","eli"],
 "jtqus72gfndrjevd4ykvkuf2":["rjfaas","R.J. Faas"],
 "kdugmwhfecul5277pxqwdxsa":["rjcity","RJ City"],
 "lnnczbcdf2xhqszzn45ppego":"rj-oop",
@@ -134,5 +134,16 @@ var rj=(function(jsonp){ if (typeof rj==='function')rj(jsonp); return rj=jsonp }
 "lw55dw5ulgp25teqk4cyhsrd":["rjokami","Roosa J. 《Baldur’s 狼》"],
 "4cn6tiiws43ccab5ivkb5ehh":["rjhenderson7","Ryan Henderson"],
 "6x27bwyw5kolxmm4nydf6hyu":"rjcoleman",
-"st6huodvmseiarchki2ohhyp":"rjmackle"
-}) // 2023-10-22T12:05:40.717Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"st6huodvmseiarchki2ohhyp":"rjmackle",
+"d57tn7zgwnhk6iowinizkj6q":["rjselkie","RJ"],
+"ceevufesquu6qmxgfvqqjlg4":["rjg","Randy G"],
+"5txrbh6za32nkqwvzl673lca":["rjohnson","Ryan"],
+"46rt4d6ujztjhbtzw6cg6ptk":["rjmacisaac","Ray Macisaac"],
+"a4mrtoqjf6scmtvoi7vq4hkv":["rjt243","Drinks w/ Ron"],
+"rmjjqzyvuf5eqc63picewgoj":["rjhutc","jay"],
+"ekrnv4xxatk5tezayffmyhlc":["rjqnr","파이"],
+"6fs7s3k3kp6rzjljemdgvg27":"rjtv1001",
+"62mnoewmwrn6shzzmzlcpnry":["rjoconnell","RJ O’Connell"],
+"a772ov7qxwwrq5y575pxej53":["rjyun","Richy Yun"],
+"zlqan63azqroaw3ke5zds5lp":["rjux","Rory Jones"]
+}) // 2023-10-22T16:16:21.014Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

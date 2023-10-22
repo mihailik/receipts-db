@@ -26,7 +26,7 @@ var jn=(function(jsonp){ if (typeof jn==='function')jn(jsonp); return jn=jsonp }
 "hfkaotipzhcykej2or5avyqk":["jnardino","Jordon Nardino"],
 "hutu3fwuiqz5rljpgnincuiq":"jnafi",
 "huzbmnt4t7fr2w54zt5fxki2":["jnklab","Jeremy Kay"],
-"ino4w3jjuj6a6dhfbbfcjius":["jnbutlerart","jn || ichormancer"],
+"ino4w3jjuj6a6dhfbbfcjius":["jnb.art","jn || ichormancer"],
 "iswvi72nc3oemragjg4vlnfc":["jnassi","Jason Nassi"],
 "ixzichieffclbt3ixwi2aui3":["jnwiedle","ＪＯＮＥＳ 💀🍑"],
 "j257wfaiy3fsc44kez6nsypo":["jnvs","ousadia & alegria"],
@@ -37,7 +37,7 @@ var jn=(function(jsonp){ if (typeof jn==='function')jn(jsonp); return jn=jsonp }
 "lfcrdjs2ev7wmoypb2u4zqja":["jnaerae","J'nae Rae Spano (She/Her)"],
 "myqnyt5fcnaxbiubhaqzhazw":["jnschrag","Jacque Schrag"],
 "n465mreg2ajninm2wodtkooj":["jnuffer","Jennifer"],
-"n47yolc6dx4i7x73xtekqbcn":"jnmiah",
+"n47yolc6dx4i7x73xtekqbcn":["jnmiah","Jnmiah"],
 "nbwrmozcwxe7tezykj7yux3l":["jnestler","Jennifer"],
 "ntin3nn63qambavwe6irerkm":"jnthnvctr",
 "o44kuiswegv4gebtyamato3w":["jnibbzy","Jona"],
@@ -136,5 +136,18 @@ var jn=(function(jsonp){ if (typeof jn==='function')jn(jsonp); return jn=jsonp }
 "sgra4c2qnl5xnqegtkbxvmlh":["jnov","JNOV, Yaw!"],
 "knwu3dvcnrlt5ipmxgb7lwvj":"jnvk",
 "t6scgkz4dwpnxvy4qjd6t2r2":["jnny","Jenny Ryan"],
-"xtkf2c6njlqphpdo5ciigymr":["jncojorts","Joe’s Crab Shack Conscientious Objector"]
-}) // 2023-10-22T11:56:57.944Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xtkf2c6njlqphpdo5ciigymr":["jncojorts","Joe’s Crab Shack Conscientious Objector"],
+"fcx7hzwu2mlskjrb3apyvt63":"jndevereux",
+"haqbfizkgqohuqrvwh25wjqx":["jnchito","Junichi Ito (伊藤淳一)"],
+"xt7voerbmwh27z7xdr2nlhs7":"jncallahan",
+"cre6naxymzru36udwzqkzahv":"jnathanhigdon",
+"emnusvknnscq5foptygwaso3":["jnil.es","Jeremy "],
+"g7fthsbu7hfejkxw6t4en3ja":["jnsn.me","jam"],
+"z2q7nwvmw4i5p5baz6qemjwj":["jnumbat17","JNumbat17 "],
+"tmceqsbapaycbysscj37aeqm":"jnsq",
+"7do47wekvymgkx2gfee26ikj":["jnxnvr","jen"],
+"6rin5dxa6imzk32k7wm7nsie":["jnrose5","Jeff Rose"],
+"qwnmth3qfiwfi6nz6r62imuy":"jnichols",
+"mf3w3idlmohunub3qydktwl3":["jnewfry","John Newfry"],
+"n2ln64qh7v54oesq53n6c74g":["jntomoe","Joanna"]
+}) // 2023-10-22T16:40:55.424Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

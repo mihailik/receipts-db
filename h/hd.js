@@ -2,7 +2,7 @@ var hd=(function(jsonp){ if (typeof hd==='function')hd(jsonp); return hd=jsonp }
 "2wco2e2ybeg2lwpfx3kqjsuv":["hdevalence","henry"],
 "3qxzf5ndz3dyyro3iletim3t":["hdfrankenstein","H.D.Frankenstein"],
 "65xlny6sxp3vqep5jxlfbry5":["hdrtechnoscape","大倉裕史"],
-"aqlmertyqgjon7khoqtliygv":"hdastrology",
+"aqlmertyqgjon7khoqtliygv":["hdastrology","HD 🪐 aka Jimmy Neutron"],
 "bzjgvzk53sfujopuxhwedmnm":"hdiandrew",
 "fikmitgsw4iepu7hfzu4aava":["hdoomguy","HDoomGuy"],
 "gekqpqehbp7jw4nlvk5yf6ma":["hdrjb","هادی در دمای اتاق"],
@@ -50,5 +50,15 @@ var hd=(function(jsonp){ if (typeof hd==='function')hd(jsonp); return hd=jsonp }
 "uq4m5gs52y5yg5acqjm7jz2v":"hdybfkhy",
 "srrya5jmeoipe6ftgf2fhedj":["hdilla","Henry Darrow McComas"],
 "qpcte4fh373kebu33zmr5xsj":["hdimzr","Don't Pick the Flower"],
-"xcorkmyxptlp25mkcozou7jb":["hdizzydizzle","Hdizzy"]
-}) // 2023-10-22T11:21:10.031Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xcorkmyxptlp25mkcozou7jb":["hdizzydizzle","Hdizzy"],
+"qdg722ayab4goluvt73fhico":["hdtkkj","hdtkkj"],
+"p5w3enm5ulabw37dflnwqqml":["hdbx","山下洋介山"],
+"vensdn6wet6o45ijf5asoxtd":["hdyar","Hunter Dyar"],
+"jsgakgd5ialxuxtbwhzq7ltf":"hdg315",
+"zek34j65i6zv3ctrmq5bwsya":"hdd",
+"255vzzknuum6pjz74dx2ozch":["hdri511","🍞"],
+"3ry3o5zq42njyhmt54dta3rx":"hdur",
+"gvbrtl4zi2bh6p2slpo42o5z":["hdview321","Joey Lee"],
+"mrywu36niukbrs66hqaoeks7":["hdaniel","HDanielx 🔹"],
+"4qloh55srnuvhiww7d3rkld5":["hdeiro","aga dê"]
+}) // 2023-10-22T15:51:40.937Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

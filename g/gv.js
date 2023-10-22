@@ -3,7 +3,7 @@ var gv=(function(jsonp){ if (typeof gv==='function')gv(jsonp); return gv=jsonp }
 "5eli6ul6ppvyb4bw2hzxt3ft":["gvg","Good Vibes Gaming"],
 "5ueeshraewekuegvka55fl2q":["gvasquez.dev","datboi"],
 "a45hqlpyjf2qwn4pbzan6ap7":["gvan","g-van"],
-"dzej5u6hxajlpqhmxkpquuk4":"gvellav",
+"dzej5u6hxajlpqhmxkpquuk4":["gvellav","Gvellav🔞NSFW / Commissions OPEN"],
 "g32fpehk255blsn5npr4szd7":["gvenk","Gerard van Enk"],
 "ji2vgmgbelf6o2cxpohtrgzf":["gvajr77","Pastor Draws "],
 "kdq2twhwj7ywdi7bri4cgtaa":["gvidal","Guillem Vidal-Lorda"],
@@ -35,5 +35,9 @@ var gv=(function(jsonp){ if (typeof gv==='function')gv(jsonp); return gv=jsonp }
 "k2didwcftg2d5ekm3ksfbscx":"gvenere",
 "rxfpbamr3zpyw7rw3iozflrh":["gvnshtn","Gavin Ashton"],
 "7a7iibavayaqhr3ore7pwq63":["gverbaan","Georgina Verbaan"],
-"tyey3nkwvtjohbjxxcldbf2p":"gvge"
-}) // 2023-10-22T11:25:27.234Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tyey3nkwvtjohbjxxcldbf2p":"gvge",
+"mbl4zrodciilqi2lzfei4jlx":"gvieira",
+"dgse4urf67vhmzhzfyak5f3a":["gvarisco","Gianluca Varisco"],
+"vhwc4dqdm34iahuirbtcquqp":["gvacimole","Gvacimole "],
+"gzg6dejhaal7nyuekufwa2ol":["gvntvrnr","Gigi"]
+}) // 2023-10-22T16:09:45.215Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
