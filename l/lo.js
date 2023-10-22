@@ -487,7 +487,7 @@ var lo=(function(jsonp){ if (typeof lo==='function')lo(jsonp); return lo=jsonp }
 "fr7yoqz3uidy2o33lw2o53gn":["lou1238","Lou"],
 "frcst7kxqseyxnlyh523pciz":["louistonehill","Louise Stonehill * Comms Open"],
 "frgifmyrby7shbdt3obohwyi":"loudmind",
-"fuad5npkblftrphq6l6qrosa":["lord.warlock.gay","LORD"],
+"fuad5npkblftrphq6l6qrosa":["lord.warlock.gay","⚜️ 𝕷𝕺𝕽𝕯 ⚜️"],
 "fwxvogc3qt4fz4rb4f52oadn":["louisianajones83","Terry aka TerrBear"],
 "fxphgmvbl465xbqygd5nvxvw":["lovelyzena","Real Queen of Horror"],
 "fyacotebw3uxenty7cctkgqp":["lordpimienta","Al, el que pelea contra dioses"],
@@ -3082,5 +3082,7 @@ var lo=(function(jsonp){ if (typeof lo==='function')lo(jsonp); return lo=jsonp }
 "3gdkpehrerclgcuur44biya4":["lordrees","Lord Rees"],
 "nqfalap7dr73gcjaesuca7ay":["lovelycorrin","Corrin O"],
 "exxi5fuypfkzdcwtnviqh7qn":["loafofqtips","Loaf of Qtips"],
-"7xxrdonysczus3c6zobk3cx6":["lobsterr","Lobster"]
-}) // 2023-10-22T18:42:08.228Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7xxrdonysczus3c6zobk3cx6":["lobsterr","Lobster"],
+"mmptb5crdymnjdl4a46ko5vf":"lookslikeregis",
+"3yczrww66ghisvrecigquil6":["louis.duhamel.paris","Louis Duhamel"]
+}) // 2023-10-22T18:43:42.998Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

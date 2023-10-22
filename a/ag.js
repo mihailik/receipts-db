@@ -666,5 +666,6 @@ var ag=(function(jsonp){ if (typeof ag==='function')ag(jsonp); return ag=jsonp }
 "bhhiluol3no4ffs26lufcwxl":["agenda","agenda"],
 "bgjx265mqq2wdh3jt7gligal":"agdieisbdkdj",
 "uxv6ufv4dy3e3rjuo3r5sagl":["ageraldnyce","Gerald Nelson "],
-"nlulbgwjicrkcoatyf3chgui":"a-gurbaz"
-}) // 2023-10-22T18:42:08.125Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nlulbgwjicrkcoatyf3chgui":"a-gurbaz",
+"kk5g5ycopxg6nqs5yltu4pbc":["agroecologia","Agroecologia "]
+}) // 2023-10-22T18:43:43.248Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

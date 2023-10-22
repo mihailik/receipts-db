@@ -1681,5 +1681,8 @@ var gu=(function(jsonp){ if (typeof gu==='function')gu(jsonp); return gu=jsonp }
 "ineolvrhrlbff655sgsx4flv":"gump7285",
 "m4klzmxxu3yzqhoyroadcddd":["gumirokkaku","Max (Jacksonville Appreciator)"],
 "ewywtxednl5cq4qwpzqa65wx":"guilhermme",
-"n4uk65ymiyresuub5r5u3ye4":"guruscotty"
-}) // 2023-10-22T18:42:07.899Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"n4uk65ymiyresuub5r5u3ye4":"guruscotty",
+"jmv6nq3qwvrrkbmbuzl2wx4w":"gustavomachado",
+"ocyrcvx66rc6w2sxvt7on5la":["guybeardman","Guy Beardman"],
+"ew4xsedfryxgexpombybddml":["gundambookclub","Gundam Book Club"]
+}) // 2023-10-22T18:43:43.241Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -519,7 +519,7 @@ var de=(function(jsonp){ if (typeof de==='function')de(jsonp); return de=jsonp }
 "cbvbzhrs3u45pd2g2bpzmt5k":["deepspaceswine","June/Juniper"],
 "ccgnmtahmsko2hs5kjrevctm":["dedzloy","Дедъ из леса"],
 "ccsmycrxoevlfas2fqxergkt":["deadsuperhero","Sean Tilley"],
-"cdxnd77ckpmuziuwfh7niprg":["deadmemescrolls","Memester Irk"],
+"cdxnd77ckpmuziuwfh7niprg":["deadmemescrolls","Meme Monger"],
 "ceeyhqdpgrjdqhaa4dcoeevc":["deba","Debacle"],
 "celwumknrfqwjgtoa4qx2lil":"demented",
 "cgupy2bsnlx6i7vqnq3qfetb":["dextrosity","Dextrosity"],
@@ -4809,5 +4809,10 @@ var de=(function(jsonp){ if (typeof de==='function')de(jsonp); return de=jsonp }
 "iewiy2xlwsqo5jdcvdahs37i":"devseco",
 "akoqsbyvknzu6xrprsrv5tc5":["deesoares","Denise Soares"],
 "nefrtdaili2tvtgaw2wudar5":["dermbry","Dermot Barry "],
-"zpqa4eopptl36kpz3rslfwla":["deusaynas","hotwife de ficante™"]
-}) // 2023-10-22T18:42:07.947Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zpqa4eopptl36kpz3rslfwla":["deusaynas","hotwife de ficante™"],
+"tfssodbyy7nhu5wmbpc3ovof":"deerestluca",
+"dijhkh6gchyk5bhopou76mi5":"derbaeuerle",
+"4zsfvefopwgb44dajgcfh7ke":["deluske","DeLuske"],
+"apw3j72pfzi2hfizrglideip":["denniskrause","Dennis"],
+"oij7qvryv4jigk7o6evn32sz":"deivissonor"
+}) // 2023-10-22T18:43:43.046Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

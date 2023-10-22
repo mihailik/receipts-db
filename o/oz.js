@@ -262,5 +262,6 @@ var oz=(function(jsonp){ if (typeof oz==='function')oz(jsonp); return oz=jsonp }
 "hpntgtiir54u2lkgnsfft2rm":"ozturkemre",
 "jhgngwph3juk5zdbpc3zt3he":"ozankozan",
 "uy2qa76ndu74r6advpx6mmwe":"ozerhbk",
-"qtjaknsqzzu7lj37dr57tuid":["ozansen","Ozan"]
-}) // 2023-10-22T18:35:49.028Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qtjaknsqzzu7lj37dr57tuid":["ozansen","Ozan"],
+"ts2wb7hbbynpi4a4k5e4lyih":["ozgurcetin","Özgür Çetin"]
+}) // 2023-10-22T18:43:43.228Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

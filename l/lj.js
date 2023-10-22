@@ -3,7 +3,7 @@ var lj=(function(jsonp){ if (typeof lj==='function')lj(jsonp); return lj=jsonp }
 "3junrafml57vp5tcge5pc72w":["lju","おかき"],
 "3yihgzja665geebrczjntjh6":["ljfrench","Leonard French"],
 "42b6t6wxlky76tdp5yvgb37o":["ljabouttown","LJ Pemberton "],
-"4alvhxjy7r7n3fvljhwlsdkd":["ljskernel","Lorenzo Stoakes"],
+"4alvhxjy7r7n3fvljhwlsdkd":["ljskernel","Lojay"],
 "4iv44uozchswgadkwk5xj2qg":["ljeprc","𝐋𝐉"],
 "5vkibv2htwcqm5rfeg3ryznw":["ljthefurry","Lj The Furry"],
 "7iyxgsza4chnkxqcrpnot56q":"ljhellejay",
@@ -76,4 +76,4 @@ var lj=(function(jsonp){ if (typeof lj==='function')lj(jsonp); return lj=jsonp }
 "kuzkcqaj4zy5ghbmz5qthlry":["ljhatton","Just_Me"],
 "jondnmhjhrrenvtcxl35cq3w":["ljhenshall","Lewis Henshall"],
 "nypcojzufpsuxnb74da2jaqk":"ljdctech"
-}) // 2023-10-22T18:34:13.420Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-22T18:43:43.249Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

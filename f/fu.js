@@ -1294,5 +1294,8 @@ var fu=(function(jsonp){ if (typeof fu==='function')fu(jsonp); return fu=jsonp }
 "mphujxqf74gnmr6e645e3kwm":["fuzzyfin","Fuzzy"],
 "tazktftsjzc3rhrjwq7roafw":"furryfediverse",
 "f4d4p4v5il63ue4vghbc753s":["furkan.app","Furkan"],
-"iz2pknyfgnixtazzb3jd6ezc":["futuristik","pragmatistkedi"]
-}) // 2023-10-22T18:42:08.102Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"iz2pknyfgnixtazzb3jd6ezc":["futuristik","pragmatistkedi"],
+"kdr6zhimpcourqakhbvqvwlv":["fungasm","█〓 ▙▟ ▛▟ 💦"],
+"qgtklgayq6kgre6s535apqyw":"fumigari",
+"6tqwbrg7xgvj2kp6222kt4es":["fuzzytipsy","Eli"]
+}) // 2023-10-22T18:43:43.040Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

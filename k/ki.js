@@ -36,7 +36,7 @@ var ki=(function(jsonp){ if (typeof ki==='function')ki(jsonp); return ki=jsonp }
 "2ufparvbix2jvj2c47bmqzhs":["kitarcus","Kit Arcus 🔜 Get Out the Float"],
 "2wcv3x7arozvdpqfvmqjr6iw":["kimchixiv","Kimi"],
 "2wuejpfqkrh4rv34zwfpuznr":["kivirciksalata","Yıldız"],
-"2wxkw7te2oi5n5zzgdwr3pgk":"kit0",
+"2wxkw7te2oi5n5zzgdwr3pgk":["kit0","Um gajo na Lituânia "],
 "2xcda552fvqkq6udwl7wjzfv":["kilocheetah","Kilo"],
 "2xjrea43bngrkrd7rgpxeouq":"kimbyhart",
 "2xyxjk3qssoveqosa56k57xe":["kinkyriva","𝐑𝐢𝐯𝐚 🌙✨️"],
@@ -3349,5 +3349,6 @@ var ki=(function(jsonp){ if (typeof ki==='function')ki(jsonp); return ki=jsonp }
 "crit2lgapdsvcpciw5yon53q":["kixdot","Yviis"],
 "svut7eufssr5mtozhlgn7nvb":["kimrossible","Kim Rossible"],
 "fjyyffqkhbv7gxpxev4zemzi":["kiyaar","kiyaar"],
-"w5g3tt6oj52ajj2qnjz4oic5":["kin9","Amer"]
-}) // 2023-10-22T18:42:08.067Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"w5g3tt6oj52ajj2qnjz4oic5":["kin9","Amer"],
+"fzzixg4ebv75s5723o2qhrqj":["kipidestan","kipidestan"]
+}) // 2023-10-22T18:43:43.231Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

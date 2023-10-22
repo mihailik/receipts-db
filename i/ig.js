@@ -366,5 +366,6 @@ var ig=(function(jsonp){ if (typeof ig==='function')ig(jsonp); return ig=jsonp }
 "xjblsq5migufckyfzb6osdqm":["igofr","Plano de surto"],
 "xvtg2y652fhim5jyb6lv3ynd":["igorleal","Igor Leal"],
 "2qg5otkc7n3gbi2qd3zmo7f5":"igorvroberto",
-"i6hsefbqq2w6kk4ajeeorj4h":"igorrates"
-}) // 2023-10-22T18:42:08.236Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"i6hsefbqq2w6kk4ajeeorj4h":"igorrates",
+"6ek3rjfqmjl6kv3fybpmb4kk":["iggynascimento","Iggy | 📖: Uma Questão de Química"]
+}) // 2023-10-22T18:43:43.239Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

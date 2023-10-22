@@ -1227,5 +1227,6 @@ var au=(function(jsonp){ if (typeof au==='function')au(jsonp); return au=jsonp }
 "zpulfstj7cp5vhx3simjajwk":"aupesen",
 "junnizpmixszkguvlp2gands":["autorneptunian","Autorneptunian"],
 "laqhii7pnldwf5hmytajczuu":["autor.art.br","Manoel Messias "],
-"ibxrxygonqbgrnefdlzw76rf":"augustogrego"
-}) // 2023-10-22T18:40:28.407Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ibxrxygonqbgrnefdlzw76rf":"augustogrego",
+"g34k7thtj5unr6u4wptuzhjw":["autumnblues","Jo"]
+}) // 2023-10-22T18:43:43.151Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

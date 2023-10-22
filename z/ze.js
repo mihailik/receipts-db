@@ -1169,5 +1169,6 @@ var ze=(function(jsonp){ if (typeof ze==='function')ze(jsonp); return ze=jsonp }
 "rmgqfddgcqrq2oexzrx7l5qs":["zedjames","Zed Santiago"],
 "gjbudoy2r3ibd4kzhiqz7vwj":["zepi","Matthias Zobrist"],
 "dwjrgugt4dxepbp3wu4szs5r":"zenetoecristiano",
-"g5c4gjmi3vbs4vlqpx4iglq5":["zeyneptarkan","Kraliçenin Kendisi "]
-}) // 2023-10-22T18:37:25.989Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"g5c4gjmi3vbs4vlqpx4iglq5":["zeyneptarkan","Kraliçenin Kendisi "],
+"kcloozea3nj6x6tvuolprcq2":"zebulon75012"
+}) // 2023-10-22T18:43:43.287Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

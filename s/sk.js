@@ -1408,5 +1408,7 @@ var sk=(function(jsonp){ if (typeof sk==='function')sk(jsonp); return sk=jsonp }
 "xrxo37hbugs422xz2yns62cj":["skdotr","篠籠田おとり"],
 "ygxq666k2x5bhxzjrfkn2wzq":"skm",
 "fyybha72zkupj3grbdrevjqu":"skelepuzzle",
-"h22csthzyo5tyw3vft7bwryr":"skship"
-}) // 2023-10-22T18:42:08.021Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"h22csthzyo5tyw3vft7bwryr":"skship",
+"npjlz3vsa5c2lpicmek2iczq":["skz","skz of Skrzyńsko and the Church of the Priest-Slaying Spider"],
+"wltr3b3fsnzzld7kivcj7oyj":"skrabakl"
+}) // 2023-10-22T18:43:43.181Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

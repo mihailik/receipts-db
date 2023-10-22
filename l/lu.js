@@ -3607,5 +3607,8 @@ var lu=(function(jsonp){ if (typeof lu==='function')lu(jsonp); return lu=jsonp }
 "udcjrjmrzyehxfk6f4zgk3ws":["lucsrodriig","Lucas Rodrigues "],
 "xpjgbw2wvasa5iecmwe2nqji":"lucier2k",
 "36lqgtay2kpfgaakmbpkolqz":["lucsvaa","Lucas"],
-"jpmbjvy7e2phd76skb6xs2yr":["luvsuchak","Luv suchak"]
-}) // 2023-10-22T18:42:08.034Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jpmbjvy7e2phd76skb6xs2yr":["luvsuchak","Luv suchak"],
+"fskownse7qyjn4s4vhenvmk3":"luiscastro",
+"7uj37g4y4iupyd4o72qf5g6e":"lupian",
+"qd5hftaithxfghlyty3wyong":"lucaralho"
+}) // 2023-10-22T18:43:43.200Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
