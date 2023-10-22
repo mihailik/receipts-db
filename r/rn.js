@@ -70,5 +70,14 @@ var rn=(function(jsonp){ if (typeof rn==='function')rn(jsonp); return rn=jsonp }
 "7cuqvlnj3zl5wpasjx5xbe5b":["rnraccoon","RN_raccoon"],
 "5e4v2dpm253uzxi5b4cfu5sq":["rno","Arnaud Vallat"],
 "pejy2gwrnwxyjs4saf5m6ng5":"rnhaldar",
-"nfuvthdy2y6zf5ggszccwty4":"rnarumi"
-}) // 2023-10-22T08:18:41.719Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nfuvthdy2y6zf5ggszccwty4":"rnarumi",
+"2mszff657lsk5g2urk2mxcia":"r-net",
+"jveqnoblr45fylj2pbkkryrs":"rnarian",
+"heixro3bkyf377rvzmrkkznx":["rnla0929","RN.La"],
+"sur47cdgzvrjuak6c2ml22fg":["rnmmay","rnm"],
+"og4ovnr2tbeq6lhe7me4ajpe":["rndmamusings","RandomAccessMusings"],
+"fw4pnt3pbw6dwmpq2mhltlue":["rngesus","RNGesus"],
+"k2cihveb5kich2foot2kgmdc":["rnugentcolors","Robert Nugent"],
+"drhr7ysrheqhkcgjpmjzf54n":["rntoae","Baterista Triste"],
+"r4wz5fjaunshiml7yeqiasgy":["rntv","Юзовський інженер "]
+}) // 2023-10-22T12:01:59.247Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

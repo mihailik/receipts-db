@@ -37,5 +37,12 @@ var lf=(function(jsonp){ if (typeof lf==='function')lf(jsonp); return lf=jsonp }
 "qewpzx27ws2b64e7kdxyo7dl":["lfsaci","Felipe"],
 "fpisespz5u3uy766ffovgrgw":"lfdt",
 "uwbahwp5xvbutgusncwn7tbk":["lfinn","Laurence Finn"],
-"zarkwynjvobquzndm2bbdrlg":["lfaccioli75","Liliana Faccioli"]
-}) // 2023-10-22T08:10:42.456Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zarkwynjvobquzndm2bbdrlg":["lfaccioli75","Liliana Faccioli"],
+"jzyjpt6eyvinzodmgsxiirjm":["lfg2023","lfg"],
+"lfe3p2p2hl76h7n2gacmqskg":["lfy","lfy"],
+"yllbqukyfyinibug5npv6uxf":"lfrefatti",
+"jd7cci4rd24lfcm4empgnflp":["lffabiani","Luis Filipe Fabiani"],
+"gsp5iwhjf3hlycn4isqifmyp":["lfrpod","Laker Film Room podcast"],
+"4srmnwr3sbw4ofubtw46p52t":["lfrum","Larry Frum"],
+"zhgxqotxd2d3k2adon44l5vp":"lfvasques"
+}) // 2023-10-22T12:01:59.238Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

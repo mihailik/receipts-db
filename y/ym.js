@@ -12,7 +12,7 @@ var ym=(function(jsonp){ if (typeof ym==='function')ym(jsonp); return ym=jsonp }
 "l6yybxvqjgawajqqoooxlhmr":"ymadra",
 "m2y76ssl5zza3ffh7vl2zhxl":"ymtr",
 "n2vrrgpjj47ipfvwtfrws6uw":["ympop","ym"],
-"ora3a56bbwmboa65tprhzcl5":"ymresnik",
+"ora3a56bbwmboa65tprhzcl5":["ymresnik","Y.M. Resnik"],
 "ot3tw4ogzbyu6h3yv5ecdbsl":["yms","YMS (Adum)"],
 "puhkqdplexxhxv6hozpdvm4u":"ymbk017",
 "udn6yal33ruoqborvd4rc5cw":"ymell",
@@ -51,5 +51,12 @@ var ym=(function(jsonp){ if (typeof ym==='function')ym(jsonp); return ym=jsonp }
 "ucecasg3ry2nxusvs4gv2uvv":"ymunemasa",
 "2tbktj33nntj7dh42adb6w3t":["ymyzk","宮崎悠 / MY HEAD"],
 "3qkacpuyoafi2dlfucrplzvn":["ymsananami","沙奈"],
-"iy2s6aiqwzozkkwotva7rx43":["ymdaniel","Daniel"]
-}) // 2023-10-22T08:17:19.875Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"iy2s6aiqwzozkkwotva7rx43":["ymdaniel","Daniel"],
+"rwin7u3enxqyfxyeitow2ivi":["ymaraf","Ymara Ribeiro"],
+"lbfid3srlcywjm3x3cnmf7sg":"ymiyake",
+"oo7tqxd26n55vb2oqsevgb5s":["ymoto","ゆうすけ"],
+"ze5n7o35mi6w5jsppp37dnk3":["ymoe","ymoe"],
+"2ap326t4im6h54lqeityrwfl":["ymilesz","Miles Zhang"],
+"ifuioitk5igxvvlvklsndfy4":["ymtszw.cc","ymtszw"],
+"bgjpgxdln5lysoc2oxnobngl":["ymn-stsk","矢と野"]
+}) // 2023-10-22T11:41:02.766Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

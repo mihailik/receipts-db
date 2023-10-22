@@ -69,5 +69,14 @@ var cf=(function(jsonp){ if (typeof cf==='function')cf(jsonp); return cf=jsonp }
 "tgmztmztl7ugwircqjx35a5m":["cfchabris","Christopher Chabris"],
 "22jl6dxtmd7z6v5qpltojysg":["cfgilberto","Gilberto"],
 "a552ftljei6qsa7wiukhu5ep":"cfortan",
-"7ltlha4g22ajrryan7xezvq5":"cfritz"
-}) // 2023-10-22T08:14:25.479Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7ltlha4g22ajrryan7xezvq5":"cfritz",
+"dzwc4bl7bo6ge7cekt3fip5i":["cfoss","Caleb"],
+"4dky7j7a2p57twcyhjhfszs7":"cfeller",
+"uro6vusfph5yr3hsveqz3ylj":["cfasociety","Keenan Molaskey"],
+"krzr4fahgsivyoluwynjslfz":"cflewis",
+"6bdhwlxl4m66rgahnttf5kdr":["cfernandessfc","Carlos Fernandes"],
+"el5fwf25mg2cso3c3yxnnd6l":"cforcese",
+"7n5rouamjm6g2upyc3cflrgk":["cfischoeder","Christof Fischoeder"],
+"txczhnbvxtllt4zg6sotaa4r":"cfmtjr",
+"unlafdmhho3dt3wiruibehhw":["cfiggiscpa","Cyril Figgis 💦🥩 | 🌭 🥣 | 👕🧍"]
+}) // 2023-10-22T11:41:02.472Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

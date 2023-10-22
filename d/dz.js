@@ -24,7 +24,7 @@ var dz=(function(jsonp){ if (typeof dz==='function')dz(jsonp); return dz=jsonp }
 "osfuzxipiu3gkjchebdbbvxu":"dzmaylon",
 "ottybuvu7qhh7t6y5s6tg5gg":["dzyrl","Jane Zacharzewski "],
 "penyw7c2veb7blpdb25gnoyi":["dziblatt","Daniel Ziblatt"],
-"qmvrkdj5fdh52daibkdcgbhz":["dzuban","❤️‍🩹💧Dzuban🪩⚡️"],
+"qmvrkdj5fdh52daibkdcgbhz":["dzuban","❤️‍🩹💧Dzuban🪩⚡️commission open"],
 "s2iiwmw6vaxa355odz23bstk":["dziahileva","Felice"],
 "sb2vgowdpqgyuvyx7pq4b3hx":["dzanafrank","Džana Frank"],
 "swa2fhhfiytffjoi4zv6qkr4":["dznyella","daniella"],
@@ -54,5 +54,12 @@ var dz=(function(jsonp){ if (typeof dz==='function')dz(jsonp); return dz=jsonp }
 "foc4ztcnimqfgz7tz2xs263e":["d-z4k","💥 𝐃-𝐙4𝐊 💥"],
 "j6tcuawuegh4dnndsnlykrog":"dzdzdzdzdzdz",
 "xzomof2e43blrmdxva33y4lt":["dzhygit","Йов"],
-"eegnsbqx34f3iy3me3jj7x3b":"dzon21x"
-}) // 2023-10-22T08:05:45.938Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"eegnsbqx34f3iy3me3jj7x3b":"dzon21x",
+"bwelz3gu44sejacawtgxpinc":["dzd","dz"],
+"z3nsfcgl4ci3xfntqfett6yf":["dzarrilli","Daniel A. Zarrilli"],
+"v223jwus25sxcyljdq3nhhwh":"dzenan",
+"pi6tml77a3iyihhoupvtv4wu":"dznygrlsd",
+"7myw3utfrntmak4kr34ggurv":"dzdl",
+"ymtnh7ccpvl4otkqpywz5pxb":["dziubr","Ray Dzübingus"],
+"tzmovietoq3c2vsxa6drk7fr":["dzappala","dom"]
+}) // 2023-10-22T11:55:31.729Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

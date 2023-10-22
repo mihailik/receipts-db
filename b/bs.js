@@ -247,5 +247,21 @@ var bs=(function(jsonp){ if (typeof bs==='function')bs(jsonp); return bs=jsonp }
 "3wcdv65zlrthphtrxgie4qsz":["bsnyder1212","Brett Snyder"],
 "7cvdqmlwdcpk6ifmefcb6ndm":"bsky020408",
 "7uzkscmzqzx47t6rau3yv7bw":["bshrivastav","Bobbie Shrivastav"],
-"libks5bqz2zpdtiggyfi2z6p":["bsydad","Bsydad"]
-}) // 2023-10-22T08:20:02.989Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"libks5bqz2zpdtiggyfi2z6p":["bsydad","Bsydad"],
+"u7nagmncmdxqf744liif2k3x":["bsvingen","bsvingen"],
+"w2s6nbcis5efu5qibzaliped":"bsrubin",
+"7ghxogouw6u4c5eke2no53im":"bsdnuke69",
+"lliuk7hza4nasfn2xan3b2o3":"bskyb",
+"ipltrihxu4kojwkyiej4xew6":["bspringfield","Brandon Springfield, M. Ed."],
+"oslkxgcv4vexhc5l6nx2gtr3":"bsky-social-6hu2q",
+"vwf2bcz6aizj4neigh36f2mz":["bsdelphina","kamya"],
+"xn6v65andbek6hykwpvtutvn":["bsky.smarzola.com","smarzola"],
+"gqarpjy3cvccvjeth3urlcqd":["bsdhrs","Hiroki Sato"],
+"i43jgnoudkhor5d3gslumj6m":["bskyti","Beescatchy"],
+"gjaotkqhky2mmhp7zhgtn7yk":"bsky.wywave.com",
+"4oazfy4f6b4qze6kecwqt3yo":"bskytest",
+"rumi3hef6uenwk7fp5sbvvr2":"bsyy.app",
+"simo7c43nvtaxv63fm22odi4":["bsilver","Bruno Silver"],
+"irll5tag5ofciop5gmvopdcs":"bsky-de",
+"o6ddidns6qp6mvct5v2bcqlu":"bsawicki"
+}) // 2023-10-22T12:01:59.258Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

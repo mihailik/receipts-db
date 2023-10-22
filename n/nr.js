@@ -69,5 +69,11 @@ var nr=(function(jsonp){ if (typeof nr==='function')nr(jsonp); return nr=jsonp }
 "dp2fjncvndpoxvhzy3n7vnxx":["nrdiva","Nicole Ranadive"],
 "b7eu5vqzaur5u4sj37luqnr5":"nrcp",
 "kuembg3wbgv2mjwzcci3xtij":["nrmorrow","Nick Morrow"],
-"ctaijbsouqlidow3px473eq4":["nrathonvyr","The Psych Nerd"]
-}) // 2023-10-22T08:18:41.760Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ctaijbsouqlidow3px473eq4":["nrathonvyr","The Psych Nerd"],
+"mlccautodaw5wxzlyrrav52v":["nrhsjax","Nicole Hernandez (she/her/ella)"],
+"bzvjxwinx6raxz7wgve3akg3":["nrek","nrek"],
+"5xeqwhouoxwwhgc22b3zpint":["nrt","nrt"],
+"bkcrbflw6vl247ltwynwk6yg":["nrook","nrook"],
+"6agpltixsbqb65onro376sni":"nrui",
+"iinie6vdgchqgopj2orgkvt4":["nrynvck","estagiário de sir cacique cobra coral"]
+}) // 2023-10-22T11:30:40.895Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

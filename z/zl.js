@@ -30,5 +30,8 @@ var zl=(function(jsonp){ if (typeof zl==='function')zl(jsonp); return zl=jsonp }
 "zukh6gtckinxy7sayqvsdbxx":"zlong",
 "bofj5hxswsfixmlqighzzt2v":["zlow","zLow"],
 "a3w33kyy7wluyntsv6mpktmv":["zlovatt.social","Zack Lovatt"],
-"qg7gzw2edvsbtqum4wokrdhm":["zle","zoë "]
-}) // 2023-10-22T08:07:54.985Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qg7gzw2edvsbtqum4wokrdhm":["zle","zoë "],
+"7d5yzurqmha6loi66amozjbd":["zlatan","Zlatan Dzinic"],
+"5jdaagv5gxafsyumartuso33":["zlabs","Henrique Pimentel Labs"],
+"gaqfncxlwwgusqx3ghrfp4j5":["zlerock","Це метафізичний глюк"]
+}) // 2023-10-22T11:50:05.850Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

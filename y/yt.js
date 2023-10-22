@@ -38,5 +38,10 @@ var yt=(function(jsonp){ if (typeof yt==='function')yt(jsonp); return yt=jsonp }
 "k3scmee7vsyfob3x3wvz4uau":["yt4","yt4@新SNS「Bluebird」開発者"],
 "tylb6ussw45x6xcducgwsv4j":["yts","GS"],
 "44uq3a5clbpczyxzevsuyret":["ytxh","Y.T"],
-"u6xuvxhw2wh7ock6l5jjkr7p":"yteppei"
-}) // 2023-10-22T08:04:22.210Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"u6xuvxhw2wh7ock6l5jjkr7p":"yteppei",
+"7flkud65w2ogx3hbrbl45kif":["ytt3rb1um","Yb"],
+"e2r553aa3kybgynt3ljbdlv7":["ytakeuch","Yoji Takeuchi(ytakeuch.jp)'s Placeholder"],
+"7mk65wb6mnuh6ofg6wolawa7":"ytkg1",
+"qwdfbo5lfwnabialslqd7lcn":["ytseone","Joshy"],
+"2gyqvrnnrsxcqpiwm3r7r6du":["ythelastmatt","Matt Halliday"]
+}) // 2023-10-22T10:10:14.820Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -73,5 +73,14 @@ var lv=(function(jsonp){ if (typeof lv==='function')lv(jsonp); return lv=jsonp }
 "uplgbawxp4x7grfkgemsdxxv":["lvlarzieh","Mary"],
 "vi45oq5biqyb3oyy5hyeh5n5":"lvlouis",
 "ngrjqdsn33ykyesan4y65erl":["lvlupcoffee","LvlUp Coffee"],
-"3dxrtl6q3l6aybainvgilxir":["lvivska-lazoor","львівська лазур"]
-}) // 2023-10-22T08:17:19.892Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3dxrtl6q3l6aybainvgilxir":["lvivska-lazoor","львівська лазур"],
+"kjtx7jpqayy2pxs7l23nbsxq":["lvlupmarketing","LVL UP Marketing"],
+"pdbdkfhtlfllw7ddhecpqw2s":"lvz",
+"dywn2z7kzqqv77zqtyn2vzon":["lvcasmag","Lucas Magalhães"],
+"4tibjs63lhm57j3e2ls4bfkz":["lva1113","Leeann A."],
+"lrgkfzwoaplc6423t2l4s6ec":"lvanaren",
+"qbuau7ikfkr3xjhggq2crwvp":["lvutinavi","Varvara"],
+"oocugiw3tjfdrlrhydniwpx2":["lvmaeparian","LV"],
+"hnksk2yv3elqvy5gdtoqopcc":["lvlollypopkid","Bill S. Preston, Esq."],
+"tmznmhptbheibjh6oxto3lzq":["lv417","417"]
+}) // 2023-10-22T12:05:40.807Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

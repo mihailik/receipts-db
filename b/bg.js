@@ -70,5 +70,16 @@ var bg=(function(jsonp){ if (typeof bg==='function')bg(jsonp); return bg=jsonp }
 "ws3cftdo3zl6fqhgtmqpaigy":["bgreenlee","Brad Greenlee"],
 "b7fx5knkyxi22jxib7dmytqj":["bglavasevic","Bojan Glavašević"],
 "5lal3ocm4efrivycssvmvsai":["bgreenholt","Brie Greenholt"],
-"dc5c4iemdgav6xniqt247xo3":"bg01"
-}) // 2023-10-22T08:24:00.601Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dc5c4iemdgav6xniqt247xo3":"bg01",
+"shwgfsyietzbxzgwl43h2wjn":["bgv","Bruno"],
+"k6otavy2zyzy6cadhlpek7pa":"bge",
+"gn75sobwclslqeyavqyppyiy":["bgamer90","Brad Davis"],
+"cxswjn7j5kyjaogucknexonl":["bgibsoncreative","Brandon Gibson"],
+"tovmmnurtoaflqs5y2zestyu":["bggameworks","Misha B"],
+"wt7owi2rey3hpi6fhm2x2p4g":["bgc","big giant circles"],
+"r5y3mkwahh52tctcbp3l4qx5":["bgc-sound","This guy"],
+"qpwlqwvqbh26wt7hycj53hpx":["bgschnikelfritz","BG "],
+"rdfsyxyadnzvclndb3g3q5p3":["bgolrokhian","بهزاد گلرخیان"],
+"fbib754kyceehso53fl3im5y":["bgj","John (He/Him)"],
+"v7yqt5zrcdwznwj3dywtlz3p":["bg-bell","Summertime Sleve McDichael"]
+}) // 2023-10-22T11:36:29.941Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

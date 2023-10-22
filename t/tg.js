@@ -24,7 +24,7 @@ var tg=(function(jsonp){ if (typeof tg==='function')tg(jsonp); return tg=jsonp }
 "osywz6kx44dz7cdwiuwaaxy2":"tgcr",
 "rpd53zqa4cvt3cv66xwoq56n":["tgbs","Thiago com h"],
 "sf3ncdg2xzwpvuw6sard7xv6":["tgww","косатик🇺🇦"],
-"t5j5xhpiwc4v26ngnat5bf2j":"tgirlaphrodite",
+"t5j5xhpiwc4v26ngnat5bf2j":["tgirlaphrodite","Sarah 1.1.6"],
 "tcslb5l5pjbkhscab5672rkw":["tgshepherdvan","Mockingbird Nation"],
 "txxwft5bmvhgkjg7fptubco6":["tgauthor"," Sara James - 🏳️‍⚧️ TG Author"],
 "urfd6x3tr7soa3kk7xlnizs5":"tg2g",
@@ -57,5 +57,15 @@ var tg=(function(jsonp){ if (typeof tg==='function')tg(jsonp); return tg=jsonp }
 "x6ns2sm573mdeze3e22njrzi":["tgoroku","Tsuyoshi Goroku"],
 "a2ba3eijum6hob7iwo6gwufe":["tgraff","Thalion Graff"],
 "lwp56vcchvds3eaf4lskceoh":["tgpeterson","Terrence Peterson"],
-"dvrjnwfvgoeywgn6wnk3fbes":["tgamblemo","Gamble Motion"]
-}) // 2023-10-22T08:00:54.894Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dvrjnwfvgoeywgn6wnk3fbes":["tgamblemo","Gamble Motion"],
+"gfyitr6yhjknunfaildn5lkn":["tgm","浮鳥ツグミ"],
+"zi3bcew42co7no4mb2rpynps":["tgy","Tugay Balcı"],
+"vpr5yrsr3tyflzbca2yxjbnp":"tgroberts",
+"frkjc5k67pnayu4gsuzeljac":"tgarrood",
+"maafmljnamv5c2jcodpl4u2g":["tgifdog","Happy Friday Dog"],
+"55ig6hbgspcsqwdqmfkyazt4":"tgoob",
+"xv7bss6nljvbarsajhaldley":["tgzin","tgzin não vai na the eras"],
+"eszjgeru7dn7jlxb27srt4cq":"tgemi",
+"vrd3tkbijxehubd7d7xem2na":["tgwl5747","TG"],
+"l3pngbntn5zva7yeo7h3a3s2":"tgaff"
+}) // 2023-10-22T11:59:08.334Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

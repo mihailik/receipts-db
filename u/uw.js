@@ -36,5 +36,9 @@ var uw=(function(jsonp){ if (typeof uw==='function')uw(jsonp); return uw=jsonp }
 "2hwuste3h2fjkgocmvrecy5p":["uwunt","Chronically online"],
 "yje3475ht5tlbghsgyoj4ke6":"uwanakanome",
 "vnlvk5cdpj5dim3mddog2kca":["uwirdl","імбирний чай✨"],
-"t3pwf3ywtxeroia6duwg4jt3":"uwvv"
-}) // 2023-10-22T08:22:33.644Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"t3pwf3ywtxeroia6duwg4jt3":"uwvv",
+"yc3ibcocqn76vmevsklwadtg":["uwed","Uwe D Schildmann "],
+"rp55gcj5lqnksp72gebutntv":["uwokichi","uwokichi"],
+"b4tdp2y36hi3gcdnht2mcwis":["uwumintyyy","mint!"],
+"mz3fk5vt6cxponkidskbonoi":["uwa2000","Uwa Scholz"]
+}) // 2023-10-22T11:44:51.648Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

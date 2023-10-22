@@ -22,7 +22,7 @@ var jy=(function(jsonp){ if (typeof jy==='function')jy(jsonp); return jy=jsonp }
 "hk5taiy5sb6r7jdgyofqxi3i":"jyz",
 "hmk5zht3xtstwzq4gr2lpmm4":["jykinturah.io","Jykinturah"],
 "ht76lavjgallgg6e5rf2luxh":["jyoshise","jyoshise"],
-"itms4phketitezi6xdfcuzra":"jyan",
+"itms4phketitezi6xdfcuzra":["jyan","jyan"],
 "jd5kyqpxcp2bcz77n2fpw4iq":["jyris","Official Good Boi"],
 "lc2u3detapmukpe6kjbsg6fp":"jyergs",
 "lrgtxvolgwtrwmtxolgkgtmt":["jygglypuffdaddy","André/top 0.1% bsky 💅 blocked by 144 accs ✨"],
@@ -81,5 +81,9 @@ var jy=(function(jsonp){ if (typeof jy==='function')jy(jsonp); return jy=jsonp }
 "v6dmodqr6rnxmvyjvg4t5kk3":["jyonah","Jonah"],
 "bcfngfo42sggk3vzaptgvrtr":"jyoo",
 "uv56ubbtqxcsxkc5onwjgik6":["jyhadscientist","The Vaping Sufi"],
-"ywdocsghv46yodqtgi5glmcd":"jyoder"
-}) // 2023-10-22T08:00:54.937Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ywdocsghv46yodqtgi5glmcd":"jyoder",
+"p2xdgu5eyns2ox25qdqiyj7w":["jyggy.live","Jyggy"],
+"csdncu33qlms3vfvptqaoluu":["jyh","jyh"],
+"pnniiqqzeqgk6pd4fyzdkd7i":["jyupachi18","十把一からあげ"],
+"kkad4fkz5khyjnajvhlpj2mq":["jyagabee","じゃがびぃ"]
+}) // 2023-10-22T11:30:40.837Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

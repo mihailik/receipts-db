@@ -8,5 +8,6 @@ var uv=(function(jsonp){ if (typeof uv==='function')uv(jsonp); return uv=jsonp }
 "wc7kfc42yxi2xpv7qwbbk5rd":["uva","🍇"],
 "diouiqfmyyveuyibuscj73pq":"uve",
 "rmsuwvbhlh75z7iluqe4eup5":["uvource","Yuvraj Chhetri "],
-"ii3eua34xu5ouhhx63lfcpqt":["uvadimbula","우바딤불라"]
-}) // 2023-10-22T07:03:28.207Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ii3eua34xu5ouhhx63lfcpqt":["uvadimbula","우바딤불라"],
+"ft7chsrbc3ftifn3mq7dt2u3":["uvienna-econ","Uni Vienna, Economics"]
+}) // 2023-10-22T08:34:08.232Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

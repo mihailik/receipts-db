@@ -27,5 +27,9 @@ var ui=(function(jsonp){ if (typeof ui==='function')ui(jsonp); return ui=jsonp }
 "35k76dylaghre53z4xu4ilmb":["uil424","ユイ"],
 "yiizgvix3jag4p5x4gjy4znn":["uirokz","いろくず"],
 "mcuqlbb7vzdvlqeygkoqsgvi":["uieda","Maurício Uieda Sobrinho"],
-"jmpgraem5dom6jvmzvd6oyue":["uitalon","Uitalo Lopes"]
-}) // 2023-10-22T08:10:42.250Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jmpgraem5dom6jvmzvd6oyue":["uitalon","Uitalo Lopes"],
+"kf72nhtwifjij7orvryh2h5n":["uit","moshav"],
+"yzc6pyfpnzzaxt5iiqxjm44z":["uiiwp","International Writing Program."],
+"b5oz5vlm2uxui2ue3a2awxd7":["uirahans","uirahans"],
+"lj3ozvifm2y53pg3lqpk2m4u":["uitalo","Uitalo"]
+}) // 2023-10-22T11:59:08.148Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

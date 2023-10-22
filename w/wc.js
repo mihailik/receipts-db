@@ -6,7 +6,7 @@ var wc=(function(jsonp){ if (typeof wc==='function')wc(jsonp); return wc=jsonp }
 "ckzxy3i2uiibsr4hhaqe37lt":["wcase","William Case "],
 "csve6m7jalnapfnpw525yzck":["wctracy","William C. Tracy"],
 "jwqn56htp5xjynuy7f2i5sy7":["wcontario","Max Alberta"],
-"jxoq3wrp2tnwcflmg7wyhpxf":"wcvworg",
+"jxoq3wrp2tnwcflmg7wyhpxf":["wcvworg","Daniel Gwozdz"],
 "kil2w3egtttricngw4qvdhtx":["wcwit","Austin Wilden"],
 "kwqrpwlcajfu7dhhg72hc5ly":["wcraft","Will"],
 "lsufijha2wzv65hh62xwnhw7":"wcypattittb",
@@ -36,5 +36,8 @@ var wc=(function(jsonp){ if (typeof wc==='function')wc(jsonp); return wc=jsonp }
 "2eijcojooldjb26ijzog5se6":["wcb","Wing Chun Brotherhood"],
 "lsupaukth5r4gtkkgt3nduv6":["wchan","wilfred chan"],
 "wjxyrznz7n5ikcuw52onlndq":["wcaokaze","wcaokaze"],
-"iyvuxnbrrg3qdsl653yeb4sj":"wcaulkins"
-}) // 2023-10-22T07:38:28.867Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"iyvuxnbrrg3qdsl653yeb4sj":"wcaulkins",
+"bffiqvvoszpxf5hfgs4oozxc":["wchwd.com","Maja"],
+"nljdar2aicgwkxuti52iu4rt":["wchandlerparker","Chandler P"],
+"fcx34fa6y2hvnrwcka6jwvqj":["wcj34","Will"]
+}) // 2023-10-22T11:22:36.886Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

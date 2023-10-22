@@ -37,5 +37,7 @@ var ue=(function(jsonp){ if (typeof ue==='function')ue(jsonp); return ue=jsonp }
 "ji3kgofut7w3lzl5jwhal433":["uezzlei","linguiça nordestina"],
 "oz3oisjrc4obtea3qeb7s7yh":"uescdurandal",
 "odqyz2skzo2fyw26ykdw7jxe":["uenoyama","Natsuki"],
-"c2tdiuoeeed4pkvfu6yz7gqo":["ueland","Tor-Henning Ueland"]
-}) // 2023-10-22T07:28:33.514Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"c2tdiuoeeed4pkvfu6yz7gqo":["ueland","Tor-Henning Ueland"],
+"q6fgf76rotvo64rinyvyzukz":["uedakana","植田佳奈(Kana Ueda)"],
+"f6wkbixdnvv3arkmr2puxhxe":"uesuri"
+}) // 2023-10-22T09:59:00.851Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

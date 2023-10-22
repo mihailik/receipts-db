@@ -7,7 +7,7 @@ var uc=(function(jsonp){ if (typeof uc==='function')uc(jsonp); return uc=jsonp }
 "5re3cxtzlk2iksefvqglx3zp":["uchronik451","Uchronik"],
 "7krhw2d62dro5aqchm5seuob":["uckerschwan","Franzi Weniger "],
 "7pscn5c2xkihbg6uej6mo62z":["ucdproteomics","Brett Phinney"],
-"aikid5gd4m5dr5j442vcekwg":"ucuzromanyazari",
+"aikid5gd4m5dr5j442vcekwg":["ucuzromanyazari","Ucuz Roman Yazarı"],
 "dyr7nntupiigcy2lkdtftypp":["uco","U.C.O."],
 "exnhk7lph6jiqmvd4as2hxil":["ucwva","United Campus Workers of Virginia"],
 "gkk5k3y7hwgcy54tncs4xgol":["ucantsayit","Youcantsaymylastname"],
@@ -65,5 +65,11 @@ var uc=(function(jsonp){ if (typeof uc==='function')uc(jsonp); return uc=jsonp }
 "25nzkgyz6khgcfcbkevg7sog":"uco2451",
 "qgsydfqqdoq6uddr4mrcqsn2":["uconn","University of Connecticut "],
 "lyls2t4l3nnlzabpo7um6op7":"ucbrasil",
-"eybnko2bt5eyrwzijkntib2h":["ucras","UCRAS 𓂀"]
-}) // 2023-10-22T08:04:22.138Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"eybnko2bt5eyrwzijkntib2h":["ucras","UCRAS 𓂀"],
+"xzpfx7thngxhg76zaffmcztp":"uchan",
+"zcmqcwiineovcf6evsn4x6xq":["ucf","UCF"],
+"yeuamw625foifynaxv57cu4l":["ucanherif","Vecihi Hürkuş"],
+"xabsk7o3kic4vyiphnv6j6q4":"uchimama",
+"2cn7xrdgpfk74vczpqgdta5u":"uchyt",
+"rlvmqgcwd46afgaazn4f3eui":["uchy","uchy"]
+}) // 2023-10-22T11:30:40.699Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

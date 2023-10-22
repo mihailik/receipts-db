@@ -3,10 +3,10 @@ var nb=(function(jsonp){ if (typeof nb==='function')nb(jsonp); return nb=jsonp }
 "46dsja6hx6465rasxtbpusdk":["nbadraft","Scary Martian From Outer Space"],
 "4fctapgdbtf5eybmmihhlytn":["nbee","M.E. "],
 "4md3rkqkr6m6ifmggsbz6nde":["nbabeau","NBABeau"],
-"4nfpxqjj3ysb4fnh6rgc2zsa":["nbusagi","NBUsagi (NSFW)"],
+"4nfpxqjj3ysb4fnh6rgc2zsa":["nbusagi","NBUsagi (COMMS OPEN)"],
 "63rfp57pxn3mqu5pe5r4vbvi":["nblion420","Lion!!"],
 "6nmwlpsepozqfpkhtx6eccps":["nbknightreads","Nonbinary Knight Reads"],
-"7htj2giqzovhpb5i56bbx5y2":"nbsurprise",
+"7htj2giqzovhpb5i56bbx5y2":["nbsurprise","Not Big Surprise"],
 "7p6w4wuijxq7f2bdtcnpk2gf":["nbeaudrot","Mr. Nick Beaudrot"],
 "ar64irgfsivc76wkio5oylob":["nbasarah","Sarah Todd"],
 "auh37e3uuervu36n4quckxef":["nbj914","Nick Jackson"],
@@ -77,5 +77,9 @@ var nb=(function(jsonp){ if (typeof nb==='function')nb(jsonp); return nb=jsonp }
 "piuzuwvyxnoity32x7cilw77":["nbsw","nobuhikosawai"],
 "xl6o5cwzsehrpken7h5b2l56":"nbtsfavs",
 "4w5w2dprfoupeib3bmqktfiz":["nbcovidinfo","NB COVID info"],
-"ss5lu3xzujx7pwja5lnwgy5y":["nbastats","Mo Schwartz"]
-}) // 2023-10-22T08:17:19.932Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ss5lu3xzujx7pwja5lnwgy5y":["nbastats","Mo Schwartz"],
+"qcuv3veyyucoeqweaynj6dym":"nbd",
+"5jhhd52lt6jwkuehmsf6op6d":["nbtrainor","rare niles"],
+"v4lrjijsss62ltyoeuq7qcix":["nbatopshot","NBATopShot"],
+"yrjgfiae4ammidppaomcf7mz":["nbensing","Nate "]
+}) // 2023-10-22T11:32:05.221Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

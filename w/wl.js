@@ -57,5 +57,13 @@ var wl=(function(jsonp){ if (typeof wl==='function')wl(jsonp); return wl=jsonp }
 "tmxnwprj5vu27h5xx45h375d":"wlsn",
 "lvyxlzqvbi7m7gfp2gb2wvfu":"wlr27",
 "ak2b256epcsv2wnl6pk6aj5w":["wlohaty","Chris Wozniak"],
-"cq2l2muz3u7tjwg6dy7uvqn5":["wladtepes","Wlad"]
-}) // 2023-10-22T07:28:33.571Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"cq2l2muz3u7tjwg6dy7uvqn5":["wladtepes","Wlad"],
+"btbqnjihcijyr47lvdamjlfc":["wlmrtluvr69420","Kat "],
+"3mlj2qfmw3trzzjqkxozikal":"wlodychak",
+"74ehatvsknpvpe6r6mm6klrq":["wlan","wlan0"],
+"xoi6lm3ancuncczg47jxxnze":"wlstylr",
+"p7rd464f3n4x7nqf4mcr34vc":["wladek","друже мудило"],
+"l3li4ibrmx6d5jqxonupet3h":"wlodarczak",
+"x3oh3xtdaqo6la3crz3ng4wo":["wldms9105","🙀🙀"],
+"el2xjmzgacu4s7qx25z6gph2":["wlspg2m","씨병"]
+}) // 2023-10-22T12:00:33.526Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

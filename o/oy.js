@@ -64,5 +64,10 @@ var oy=(function(jsonp){ if (typeof oy==='function')oy(jsonp); return oy=jsonp }
 "h7tqlssnh5uudtttnblncdnp":["oyumone","おゆ"],
 "oxzxog2jvvauclhyesvty2h4":["oyaman","Oyaman"],
 "ntk2aocrsnmloniessynicfw":["oytunn","Oytun"],
-"m3aydkeo7jux6f6wxn6ubs6x":["oyudad","お湯"]
-}) // 2023-10-22T08:02:56.470Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"m3aydkeo7jux6f6wxn6ubs6x":["oyudad","お湯"],
+"wmcc3al7hvfhff3mdlijrvfn":["oyed.dev","OYΞD"],
+"xkzpzpknogbx57kdcpntlyzy":["oysteinwika.com","Øystein Wika"],
+"zysoktxj5lvyvouupvukc6za":"oyasumi",
+"l3fyst5i24nlat4ie2hgavho":["oyasumination","say your fucking prayers weezer"],
+"kfldjohckp4ok7px6aqi7ujk":"oyuncu24"
+}) // 2023-10-22T11:56:58.454Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -11,10 +11,10 @@ var nj=(function(jsonp){ if (typeof nj==='function')nj(jsonp); return nj=jsonp }
 "pe3gcs3ie73kc7pseusxzh5s":"njklas",
 "pvyyzt4bwuq5nditgdnndtvm":"njun",
 "r6bkhi453q4vrsx53r4vbpl6":["njchefvt","NJChefVT"],
-"ryjacjbrrxbjrih4lyud6sxs":"njames",
+"ryjacjbrrxbjrih4lyud6sxs":["njames","Nigel James"],
 "tlmjfylczshvvlniflsd4poj":["njmedic1485","Bob Jester"],
 "uiyvzixrumdoxxcunwo4j4yl":"njte",
-"ullcabhwi2ev6ve6tk7arxwa":"njpbh927",
+"ullcabhwi2ev6ve6tk7arxwa":["njpbh927","Mexikahn"],
 "uqdkpu4yocxa5d2gchixprub":["njpatel.dev","Neil Jagdish Patel"],
 "wfh6mgyl7qv7sog2owkulgfv":["njyuschka","Спецпроект Сюрреалізму пише"],
 "yaijcmkhdmqtmdd6ojuqini3":"njayeolds",
@@ -54,5 +54,12 @@ var nj=(function(jsonp){ if (typeof nj==='function')nj(jsonp); return nj=jsonp }
 "z6zt6awl3zksgwogeexwpcmu":"njyhjtj",
 "xcuqkhgbknopuh74uet6r2mt":["njooluv","sthe"],
 "mt3b2ykwxiobera375jncnjo":"njerieaton",
-"qrb5zigrpvep4sjg2xavy26z":"njgruber"
-}) // 2023-10-22T08:05:45.887Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qrb5zigrpvep4sjg2xavy26z":"njgruber",
+"fn2mq6k5u2pqvlwapezjxihm":["njdames","Nicholas Dames"],
+"sihr4aifkr4cjwainafgbokf":["njdmakemedrink","Matt"],
+"hqhzwztaaeolg472vj2mpqyk":["njhudelson","Neil Hudelson"],
+"i4pp4daup23omrtwqsphea5l":["njevans","Nick Evans"],
+"b5zif6lyltfinbxisz52ebhe":["njpolicy","New Jersey Policy Perspective"],
+"wjabnhjbae4a7gi37yhm3ukp":["njal","Njal Mixtapirsson"],
+"ave65aoilzlteaniti2ngkvc":["njckolas","Njckolas"]
+}) // 2023-10-22T11:46:19.079Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

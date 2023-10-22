@@ -21,7 +21,7 @@ var pd=(function(jsonp){ if (typeof pd==='function')pd(jsonp); return pd=jsonp }
 "ihtz6fxa4hugetvt3owso3dx":["pddg","pudding"],
 "ijyrzfg5czc5fgfa3mud2hwk":["pdxwill","Spooky Will 👻 "],
 "ituwin33skvk2w25tjrjs7ii":["pdror","pedro"],
-"ivvtrsaf6kx7rxdvslnt6utx":["pdspurgeon","Pablo"],
+"ivvtrsaf6kx7rxdvslnt6utx":["pdspurgeon","Paul"],
 "jjsr4s6aritt56p3npuybirw":["pdfmerchant.lol","Old Sam"],
 "jwaipngz32x3qkfni2j2tqqx":["pdehello","Patrick deHahn"],
 "k252lurdbddlpsqn32s2tztn":["pdebruin","Pieter de Bruin 🌍🌈☮️"],
@@ -107,5 +107,15 @@ var pd=(function(jsonp){ if (typeof pd==='function')pd(jsonp); return pd=jsonp }
 "yyxeemzgi6pqshqsw6vmxyud":["pdostu","Trabalhadores Unidos"],
 "jbh5pepngiykzeehv7vkfw2y":"pdwz",
 "bbejbihvrslqlqrxb52ga5ka":["pdfreire","PD"],
-"qjg7he6enq2v3qqcohfnopis":["pdxsn","PDxSN"]
-}) // 2023-10-22T08:22:33.606Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qjg7he6enq2v3qqcohfnopis":["pdxsn","PDxSN"],
+"h2bx4w5zpguhyo4jzjuqdqys":["pdxoliveoilguy","Jim Dixon"],
+"fblqisq5juv6gzmln6dnz4nu":["pdxbroadsides","The PDX Broadsides"],
+"7pohrder6gr2lmtho7josrzp":["pdsjedoll","퐁당슈"],
+"zlfh3ccd3pzloqlx3jqmnoe4":["pdcyawyt","Данєчка "],
+"stuqdu7gfzkdphneou5tsknw":["pdrtzzz","pedro"],
+"qjhaify4i2o2lh6fdqsbef5o":"pdewhurst",
+"2livc54xq6q4bb5qh3m36wwi":"pdubco",
+"rjv7xrwqzibnwj3nu3t7bjmm":"pdrolpes",
+"rldl5joa265a2koe6j34zs7w":["pdro","podre nicolas"],
+"y57fdzlenpeoki7kdb236zig":"pdaquer"
+}) // 2023-10-22T11:59:08.092Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

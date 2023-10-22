@@ -78,5 +78,18 @@ var gg=(function(jsonp){ if (typeof gg==='function')gg(jsonp); return gg=jsonp }
 "damsdakfzbwok6clx7czmhis":["ggulpang","이불"],
 "kp664jl424u2ip76gd2exz2j":"ggallard",
 "cbtxv7xdwt2mls74mgviauxe":["ggoddard","🍻🥃🍣🎶🏔⛷🐍🇨🇦✈️"],
-"wz23gcum42mhtxkr4qizqfy6":["ggkrishnamoomoo","Guha Krishnamurthi"]
-}) // 2023-10-22T08:24:00.539Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wz23gcum42mhtxkr4qizqfy6":["ggkrishnamoomoo","Guha Krishnamurthi"],
+"4nz3z34lftexv2njuugpehjm":"ggmarcondes",
+"6ti435uw7nrbroel5jx3slkc":"ggnall",
+"not3uke4bqsqv36bvq2xf5kv":["ggkinney","Gene Kinney"],
+"kah4daphhs6f5vd6of3mp3cl":["ggo","じーじーおー"],
+"pnnckipnwsbx3qxaajda4mot":["ggameham","껨함"],
+"uctood2dfzlhlt5dhenfyjyj":["gguerra","Guerra nas Estrelas"],
+"qq747vua5sbycg2my7b5yqdw":["ggang","깽이"],
+"tzhprkkepcsu4zwgk2l33ank":["ggdg","gg"],
+"kiofcdy4kzfdxpdpo26eyhmd":["ggxx059","ぐラハムΩX🌹🍜🐿@C102土曜日西)【こ39a】"],
+"i6dobziaspr7qpjvtfgtg5xe":["ggyusho","優勝グルメゴリラ"],
+"a5rzxqocqa2yk6cfpbux53oy":"gggeorgie",
+"nick4hljlo7q6oxorakheri2":["ggeaming20","💚💙(🔻_ㅍ애인프사)"],
+"npbapcxyoewhhc7esls73e53":["ggangeae","깡이"]
+}) // 2023-10-22T11:59:08.390Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

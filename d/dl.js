@@ -31,7 +31,7 @@ var dl=(function(jsonp){ if (typeof dl==='function')dl(jsonp); return dl=jsonp }
 "huqmu2wqn7sb3ffwsr4mahek":["dlmtmiles","Dalton"],
 "ilwma2zsdlw5ywrbmjkg2afb":["dlugo","Prolific Di "],
 "iqakr5pcfconsiy2gpedxebe":["dlc","David Clingingsmith "],
-"j2bfau45llvktgtnb43vj3wo":"dluippold",
+"j2bfau45llvktgtnb43vj3wo":["dluippold","Dluippold"],
 "jdwwuj5jwponwakhbd4i7722":["dlnsctt","dylan"],
 "jlcqnhiapzwhieytyvwajsgb":["dlit","Takumi TAGAWA"],
 "k2frgfgopp6isxkuezvi3u5f":["dlpasco","Daniel Pasco"],
@@ -132,5 +132,17 @@ var dl=(function(jsonp){ if (typeof dl==='function')dl(jsonp); return dl=jsonp }
 "h52v4ypowureaipxl3rzgqce":["dlennard","Dylan "],
 "dnja4ct3ql3e2wcu4ykojwxs":["dltj","Peter Murray"],
 "p6exklnabaian5pxk24pkkyh":["dlonzo","OATHBRVKER"],
-"puvuxl6gn2fzb2vfm2js44bg":["dldnh","Dave Diamond"]
-}) // 2023-10-22T08:10:42.443Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"puvuxl6gn2fzb2vfm2js44bg":["dldnh","Dave Diamond"],
+"2k2hfzs5aj5zho7b7fbocv23":"dlectronique",
+"agubnbc5ecjsp5btmenu6feu":["dljoslin","DJoslin"],
+"bfe4veyus4cjhtcutqilnuwl":["dllm.app","Brian"],
+"hh357wuvtemttr6mwlvfyf3m":["dltldms516","은"],
+"7m24jzsn4n42ucebec2yhjty":"dleeftink",
+"igvtexjtspy4yunww2fxeaid":["dltsgdom","Don’t Let the Scene Go Down on Me! Collective"],
+"jt7wlkxnragjudlrql36uwu6":"dlwatkin",
+"5x7itxj77vuzss3syplop4i5":["dlnews","DL News"],
+"i5d7zy3ymphwvb4ivx6t6nyx":["dlomyhero","Mike W."],
+"l4wqwzcyqutjbwqmnfo3237v":["dlangford","Destiny Langford Ramey"],
+"abbhkrffyonvgx735rmbw4sg":["dlaurin","Daniel Laurin"],
+"cx7jlvhgj27wne7oyp35s2vj":["dlmu","들무"]
+}) // 2023-10-22T11:59:08.254Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

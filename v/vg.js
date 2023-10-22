@@ -33,5 +33,10 @@ var vg=(function(jsonp){ if (typeof vg==='function')vg(jsonp); return vg=jsonp }
 "5jaeeit7japwlxqoaablnbft":["vgatwtoe","Video Games Are The Worst Thing On Earth"],
 "y56zbvox3fgvkisvbxmjvblu":["vgrasta","VIBEGOD"],
 "qiaq7fvuubaq26a7442apxdn":["vgc.name","vgc"],
-"innxj5xmb7n5lu5ohzisin5e":["vgandhi","Vikram"]
-}) // 2023-10-22T08:18:41.785Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"innxj5xmb7n5lu5ohzisin5e":["vgandhi","Vikram"],
+"s3o3tggee5vrs5rwzr3zdism":["vgoldwasser","Ms. G (she/her)"],
+"xh7x7szmmksdst3vwixn4pkw":"vgaran",
+"npmydpmb3owv4tlolodlmsmp":["vgadv.com","Video Games Advance"],
+"sdohlq3iqvni5qbi6axavop7":"vghrk",
+"2q4b67yus2ps7blkjpjgscnq":["vgraphics","V.Graphics (ꜩ | Ξ) 💎"]
+}) // 2023-10-22T11:26:54.036Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

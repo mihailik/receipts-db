@@ -32,7 +32,7 @@ var ug=(function(jsonp){ if (typeof ug==='function')ug(jsonp); return ug=jsonp }
 "qmhdpnftaknni6i5zwy4uhf2":["uguh","ぐれさん"],
 "qmwinvrxoboakee3jh3m7oil":["ugaritnoosphere","🚣‍♀️The Sea🔥Peoples🌋"],
 "rzvkm3puitr5bh2a4cdubezh":["ughfinewhatever","pumpkin jughs"],
-"tqzirdq26hwr5ag6re7etmpr":"ugandaofficial",
+"tqzirdq26hwr5ag6re7etmpr":["ugandaofficial","Uganda 🇺🇬 💠"],
 "ubvmv4ctqex5gu2t6pc4kor4":"ugah88",
 "vg5law3sdjahkqzh32mrfkfd":["ugh","☭"],
 "vq6yyj6pjlkt7tdmdxznrzci":["ughmerve","merve"],
@@ -89,5 +89,12 @@ var ug=(function(jsonp){ if (typeof ug==='function')ug(jsonp); return ug=jsonp }
 "2giftlfljq6ot4cdazygycbw":["ugu","ugu"],
 "iadjiymitv2cazwwyfnoxco7":"ugofixit",
 "er4qp6hqar7bhyo455dsrv7j":["uglygame","Martin Calladine"],
-"nij4v3t4jwfhbunuosyvvgtb":"ugurcoskun"
-}) // 2023-10-22T08:09:20.037Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nij4v3t4jwfhbunuosyvvgtb":"ugurcoskun",
+"b4h5lhlocdv3aj6nushwnhzl":["ugursa1907","milanrapaic"],
+"w6mo45w2ihvjymq3utk2rwqo":["ugurbal","Uğur BAL "],
+"yctbryxix562noty7vbjuzlb":["ugurturkucu","Uğur"],
+"tpziwoowgxtxbgjjl7tccvfd":["ugyu3no86","うぐ"],
+"2l4gfh4ftohb4i3ugd5pa2k6":"ugurersoy",
+"x6jkjr6bg2mxqcqqlntjmq7z":"ugurfidan",
+"kvl4zsnditi2aqahpbhtviqj":["ugokuball","うごくぼーる | UgokuBall"]
+}) // 2023-10-22T11:59:07.827Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

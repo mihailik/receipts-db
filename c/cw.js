@@ -16,7 +16,7 @@ var cw=(function(jsonp){ if (typeof cw==='function')cw(jsonp); return cw=jsonp }
 "ict4ffekpz4ku5w5spmytnjx":["cwfudge","Yes, it's me...."],
 "jkvr5dsdyd5fa6qvls2o3tfg":["cwo1po","봉"],
 "lgv6756u7wysnjamrrpzkxmm":"cwreeve",
-"lhorth2f46uqxbl3xjypik5j":"cworthdynamics",
+"lhorth2f46uqxbl3xjypik5j":["cworthdynamics","Sean - Charlesworth Dynamics"],
 "ljnnv77wq6bjig3rbt3fniap":["cwingsyun","Winston Chan 陳永旋"],
 "mrky3vuw7p2temwywlubejbr":["cwahmanholm","Claire Wahmanholm "],
 "mrlsve6jtq66csgbxszhoicp":"cwtch-up",
@@ -95,5 +95,21 @@ var cw=(function(jsonp){ if (typeof cw==='function')cw(jsonp); return cw=jsonp }
 "2kpaxdibt3ics5y4uaskntuz":["cwilliamsnfl","Christian Williams"],
 "yqv56at7ebommrcif5gqk4bi":["cwilliams","Christopher Williams"],
 "z7gqhimxhmeukrhkhltpmy65":["cwd-asu","ASU's Center for Work and Democracy"],
-"lcx4s6k747viaclxwklyvxkl":["cwilkinson","Chris Wilkinson"]
-}) // 2023-10-22T07:55:29.633Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lcx4s6k747viaclxwklyvxkl":["cwilkinson","Chris Wilkinson"],
+"a7cewyeydbn2xup6mme4obyu":["cwlsmith","Cody Smith"],
+"eekfdqjdrsfb7bgj4v2wltpd":["cwrvs","Carlos Wenderson"],
+"nxawn62ccdwhuhdi4jjcxffk":["cwalker","Chris Walker"],
+"x3spop5hgmhx5ovqttfnzw6d":"cwrites",
+"rmdtxnki2cwrjay4phlyfutl":["cwolff","Wolff"],
+"wvot23fzzk4opo3rr75g3j4b":"cwilso",
+"bljk3x2h3pw4ysjru2y4mhox":"cwm",
+"bfjqkcdrxtzzowmieasnsm4r":["cw5h2o","cw5h2o "],
+"qqspo7mcerxsow4hrs7qjcmf":"cwatson",
+"l4lp6ro67whfikjs6ubfubgz":["cwolper","Caitlin Wolper"],
+"wxqnagfw7xqhiz5wvr74cbel":"cwb-yokai",
+"kgm4p7rs3bhjf2lgcmwkplia":["cwensel","Chris K Wensel"],
+"aynpznxtxsbz7hitmpnujmmg":["cwaiting","Chris Waiting"],
+"kci622q2dtp2bptb64eggtm4":["cwilso1","Curtis Wilson"],
+"rtxmbv3qbpjmpr4pcjm2ynsj":["cwelchnews","Catherine Welch"],
+"acs4atnanor5u74peavzp7ra":"cwc"
+}) // 2023-10-22T11:35:04.466Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

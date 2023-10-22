@@ -8,7 +8,7 @@ var xx=(function(jsonp){ if (typeof xx==='function')xx(jsonp); return xx=jsonp }
 "6exdboq3fkxbev4oizfymzn4":["xxxverageexxx","xxxVeraGeexxx"],
 "75yukudbzagvqbk642mbp5go":["xxxmk","쏘찌"],
 "7nnnxwcusom4tgl3noyuvsyj":"xxxyb",
-"adivysn26m63w42jpfpx2am6":["xxbrewbeastxx","⚡️⛈️Azoth⛈️⚡️🔞"],
+"adivysn26m63w42jpfpx2am6":["xxbrewbeastxx","⚡️⛈️Azoth- COMMISSIONS OPEN⛈️⚡️🔞"],
 "adtjzkhklmu2levhhulu7bny":["xxfirestormxx","🔥🐺 Pyro☆FireStorm🔥🐺"],
 "b3tmc7j2pwi3nhjop2rtedld":["xxuncalcifiedxx3","Hot Potato!"],
 "bmbuem36t7xvicefxd7vw3aq":"xxxtosoxxx",
@@ -93,5 +93,19 @@ var xx=(function(jsonp){ if (typeof xx==='function')xx(jsonp); return xx=jsonp }
 "nfb5o3dn5doctnj3kbp5mgto":["xxis","barbienheimer"],
 "3xl6hlchd5lwkbwciyoyw5lg":"xxxfunda",
 "2abzcornrpexghet4fxbcbzy":["x-x","섬"],
-"6l2omt2bjag5vios4fjer3mh":["xxgodmoonxx","Motoki Watanabe / M0T0K1"]
-}) // 2023-10-22T08:24:00.372Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6l2omt2bjag5vios4fjer3mh":["xxgodmoonxx","Motoki Watanabe / M0T0K1"],
+"2gymibhqojspiz2go3u7hy7y":["xxxbe","べぇ"],
+"sdzpp3b6pq7p2b5noxpqnvxt":["xxtymmie","tym"],
+"otdwfmwjzeo4sj7ggvsmlhq4":["xxcynnfullxx","Cynndie"],
+"raaryonjfhidnwzkd3e2jlzu":"xxsn1perb0yxx",
+"57x2cjiaavgp63pjwnypqkxp":["xxhamo","はも"],
+"uf2wbnmya4f3vmy2wfipzkgg":["xx5x5x5xx","Neun"],
+"xyp42t6bvjgc642otxoq2fr6":["xxxababaxxx","ababa"],
+"n7f6vs6ehht6oc37rdoptzr3":["xxainee","xXãinē"],
+"ur7ffltxy7ozuo3rcj4gzjqi":["xxxxxxx","섹선"],
+"ttuledlubbunzytgg3b7ejvi":["xxddm08","쑥뜸"],
+"7xmp3sfco2ayd3zhjz4cbnon":["xxkanade","Kanade | vtuber @ TwitchCon"],
+"xdzmhmvtxdmxjyap7t53becq":["xxxibgdrgn","NANA"],
+"bquou3vfwycoj4lmw6qrvvsh":["xxyuiyaxx","ゆいや"],
+"mw5mrpkuyj3gjc4gtbabsc5u":["xxxg01d2","しら"]
+}) // 2023-10-22T11:48:39.552Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -47,7 +47,7 @@ var mp=(function(jsonp){ if (typeof mp==='function')mp(jsonp); return mp=jsonp }
 "re7bzsdvzbgmywsvbyy5atje":["mpavictoria","Cowboy Socialist"],
 "s7uaq6tjbokr7dfuqmbsfmhp":["mpaxson","The Pastrami King"],
 "t3mf3wrvougiwwqk7hpesmsp":"mpusto",
-"tzchbn6ovfchqiycacyjny7h":"mpbmke",
+"tzchbn6ovfchqiycacyjny7h":["mpbmke","Frightful Bischoff"],
 "uaf4xfabahva476n57tjzwms":["mpmthewriter","Mia P. Manansala"],
 "ve5sodpldiesuo4u7363cglu":"mpe3d",
 "vpjp3hw75xcjnmbuv4uk5aw6":["mpmilano","Mae Milano"],
@@ -156,5 +156,15 @@ var mp=(function(jsonp){ if (typeof mp==='function')mp(jsonp); return mp=jsonp }
 "qvuj4l4j5pr4vxo5bfq5lsqx":["mprusink","Martin Prusinkiewicz"],
 "docqkeo766ac23y4miilxyhp":["mpeelrdu","mpeelrdu"],
 "sxq3qofurv6jszmj72247g4h":"mplunkett",
-"x4sumfmoysmle2f6dulniuca":["mpon","mpon"]
-}) // 2023-10-22T07:58:11.450Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"x4sumfmoysmle2f6dulniuca":["mpon","mpon"],
+"d32y3n5dhfjfjjxbreumt427":["mphistoria","Meu Professor de História"],
+"orbvumvdxjlf44if5vithwao":["mpaimd","Menaka Pai, MSc MD FRCPC"],
+"sv6uhxjcgvkp7nx3wytk7iov":"mplusm",
+"ephvyqq56sf44tjh3kfkrpvg":"mponders",
+"6lkfezg3padphfq3s3cv3zhl":["mphe","Molly Phelan"],
+"zoemg2xncqw6cnt3i3zchbky":["mpal11","Mike Palamuso"],
+"fr4mrqeybprbevl5eenagk5f":["mpotthast","Martin Potthast"],
+"jj5hobdtirmme7jnndxm3uqc":["mplb0001","leaf #1 forever"],
+"ktiaff6wm4s77mjjpjwil4ix":"mpbroers",
+"smup3mqyrxpcx2n3uqkwidxx":["mpf.hackerific.net","Matt Foster"]
+}) // 2023-10-22T11:56:58.416Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

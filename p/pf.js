@@ -81,5 +81,14 @@ var pf=(function(jsonp){ if (typeof pf==='function')pf(jsonp); return pf=jsonp }
 "ibtrqjg3tqrxwz7sb4oiofyk":"pffs",
 "vpq4ydrekljqa22a7uqisu2b":["pforbb","PforBB"],
 "jrhiz6xtg2kxpvkqxhcu4nrx":["pfcdgayo","Daniel Gayo-Avello"],
-"q66fy2ina2fudfs4r73tqvlf":["pfandrews","Peter Andrews"]
-}) // 2023-10-22T08:14:25.414Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"q66fy2ina2fudfs4r73tqvlf":["pfandrews","Peter Andrews"],
+"7rycs4khck3sscee4v774omf":"pfizerpfanatic",
+"dqaoaxf3sfqaammjsby5w7uz":["pferguson","Patrick Ferguson"],
+"32glofpsoimspuq2qqztr4b2":["pfritz21","PFritz21"],
+"ohtp2olnbkbmvd2vxsowfjcf":"pfarrell4",
+"v26egy7jrwwsokp2lllfg5tx":["pffp","Bicho do Jogo"],
+"k2bxa6vdl4sns5ttjpqy6f5v":"pfcass",
+"6wb76zfejztcnafgnhv5qdhp":["pfadge","James McClure"],
+"s5cpxuqshvvswtfmwzyf43wl":["pf.ie","Padraig Fahy"],
+"3n4k27nlm3zb4rijy6vxpb6z":["pfefferbao","Pbao"]
+}) // 2023-10-22T11:50:05.798Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

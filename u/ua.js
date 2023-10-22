@@ -30,7 +30,7 @@ var ua=(function(jsonp){ if (typeof ua==='function')ua(jsonp); return ua=jsonp }
 "pzpekjzjbv2nj766xpyis5c7":"uavoloshka",
 "rbjskfe3kif22roym4wyfwip":["uamemes","Ukrainian Memes, poorly translated"],
 "rgbqj4f6dw7yfawj6h4upua2":["uayoshi","Пан Йожі"],
-"rgxtxr4hzrefdlc6tdtaya3z":"uaschyperpolyglot",
+"rgxtxr4hzrefdlc6tdtaya3z":["uaschyperpolyglot","Untitled Anarchist Seagull Channel/Hyperpolyglotting"],
 "rmj54bfkskgvemm66y4bx35s":"uackkn",
 "rrdnz54wrgzamambh2pz7ytr":"uajamie",
 "rvfwqxerxbkap4emcur444a7":["uahave.fun","Дж🟡н Павлов📘ч Сміт 🐍"],
@@ -88,5 +88,10 @@ var ua=(function(jsonp){ if (typeof ua==='function')ua(jsonp); return ua=jsonp }
 "5vrbf76op4dsjpejcao5nbxy":["uaxim","frymartini"],
 "trevgsuex4asknkia2pjortw":["uah","usman haque"],
 "olbajouhbfp2vnub734adptf":["uaena","uaena"],
-"s6xom76bqw4w6aafn47up56b":["uallasdrgn","「UALLY」🏴󠁧󠁢󠁳󠁣󠁴󠁿🏳️‍🌈"]
-}) // 2023-10-22T08:20:03.125Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"s6xom76bqw4w6aafn47up56b":["uallasdrgn","「UALLY」🏴󠁧󠁢󠁳󠁣󠁴󠁿🏳️‍🌈"],
+"pdqc5nuu4cvdmucme5oma3p4":["ua5","ひむら"],
+"smnv72vkez5dmqqf6ak7hn3q":["ua1400","Make better life for all "],
+"i7ncsd2sj6ijsoqmyttguzs3":["uarmyg","mimi"],
+"2yic2bxa557tc4zggmychukj":["uarfnyc","United Against Racism and Fascism - NYC"],
+"pxm7yq4ra2mvnq3ygycmewsn":["uasi.jp","uasi"]
+}) // 2023-10-22T09:38:02.463Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -1,7 +1,7 @@
 var rp=(function(jsonp){ if (typeof rp==='function')rp(jsonp); return rp=jsonp })({
 "2hdgkf4xxmu24gsubhrsvwaa":["rpimpsner","Robert M Pimpsner"],
 "2vm4aqjs2t2gud3odeqczp2e":["rpgeek12","Chad R"],
-"3kfrwpo4qwlrs4qfxkteoquv":["rpgaugust","RPG August"],
+"3kfrwpo4qwlrs4qfxkteoquv":["rpgaugust","Richard ‘The Maligned’ August"],
 "6lb34opi3wxgzzuhsc2zu3ts":["rplas","Ryan Plas"],
 "77gncbpfxcox2jefkagzkwgy":["rprust","Robert Prüst"],
 "a4e6j62mtcn65xmd7tnnc6ea":["rpsagainsttrump","Republicans Against Trumpism "],
@@ -33,7 +33,7 @@ var rp=(function(jsonp){ if (typeof rp==='function')rp(jsonp); return rp=jsonp }
 "szifjmok4r2s6g2v5xl4kd7f":["rpfdmopo","Eric Hofmann"],
 "tmml7r25ay64truzh7vh7pfl":"rpalstra",
 "tyalzqp4yy5usugl7eli436d":"rptje",
-"u7gjbxsgsbvvbrvlvpzzid2e":["rpdeshaies.farirpgs.com","RP @ Fari RPGs"],
+"u7gjbxsgsbvvbrvlvpzzid2e":["rpdeshaies.farirpgs.com","René-Pier: Game Designer at Fari RPGs"],
 "uhczttdpac3zsiumfcrxmzcg":["rpunkt","Rpunkt"],
 "vq43qtdrxsx5dqetgs6cq5cg":["rp2d2","Rp2D2"],
 "vrmx2e5gsi23srsy2n7vljvb":["rparloff","Roger Parloff"],
@@ -96,5 +96,14 @@ var rp=(function(jsonp){ if (typeof rp==='function')rp(jsonp); return rp=jsonp }
 "jldviwjrongygtsyqxk3mapk":["rpdrag","Fernando Wecker"],
 "nrwz4ny2shipaxhk5bdfkjt4":"rperrydamsen",
 "5sl6a2ossqi5ap6uqwm56gyz":"rpunt",
-"z6xjuu43z5ovrwyh2wdjt6ep":"rp3"
-}) // 2023-10-22T08:17:19.929Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"z6xjuu43z5ovrwyh2wdjt6ep":"rp3",
+"p5renwabls2lyfeliemto4h5":["rpaskin","Ronnie Paskin"],
+"oi3mzz6tkmgm7f3r3vwvys7d":["rp2871","Rodrigo Ferreira"],
+"iwxx4dizv5mpww5hg7rfiunh":["rpalbert09","Ryan Albert"],
+"pat3n5iqzhgzhhi4st6zfiy6":["rpgay","C"],
+"bzlfot4pt4xeffm6rht25v6w":["rpbp","Rebecca Pilar Buckwalter-Poza"],
+"i3g6hfkdjearhma3igbnkqjf":["rphjerry","rphjerry "],
+"772qswthtphtbflyokjg34ri":"rprin",
+"aybadqn3wg2q3ehgslebd6pv":["rph.space","Rph"],
+"l3cypg6ulgqqw726nq5ngxdh":["rpalizdan","رسول پالیزدان"]
+}) // 2023-10-22T12:04:16.541Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

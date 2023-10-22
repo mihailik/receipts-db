@@ -119,5 +119,16 @@ var jg=(function(jsonp){ if (typeof jg==='function')jg(jsonp); return jg=jsonp }
 "vj2skvrlqau5fgmawr72rjez":"jgrogger",
 "zojhxfj44qyrnti34olidgvk":["jgood100","Jgood100"],
 "c53fvycldzevyxhewl66r7ir":["jget","Jim G"],
-"jmscxdexmfpwpwcnbg5nlea4":"jgers"
-}) // 2023-10-22T08:20:03.081Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jmscxdexmfpwpwcnbg5nlea4":"jgers",
+"xgxgkdtohwpqmdw26sr2k3vn":"jgoulah",
+"544fes3uzp5vwc3jlcoxfkbg":"jgabrielmf",
+"oaurbz6gb7qu6v2uvt4iju6l":["jgresig","J.G. Resig"],
+"4qow65wqzpriefgv2qvbs3eh":"jgall0610",
+"rdjblb56pc5qwvhvagj6x66a":["jgo4justice","Jessica González"],
+"zbu3246p23frmuwmcasneeiy":["jgdubin","Jordan Dubin"],
+"uw5oegq66z4fyillizwxl3xf":"jgdillard",
+"eizhagyu552ms3pk4ehselbd":["jgeekstudies","Journal of Geek Studies"],
+"5rhhrhp35bcyqieoniuqsw6u":["jgennaro","John Gennaro"],
+"mt2if6rcohf2hy4ap6ysdfqe":["jgkps","Johannes kristjansson"],
+"vjcu3fygh2oxqcddjrhn5b5t":["jgcarvalho","JG Carvalho"]
+}) // 2023-10-22T10:14:01.193Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

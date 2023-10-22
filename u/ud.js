@@ -47,5 +47,12 @@ var ud=(function(jsonp){ if (typeof ud==='function')ud(jsonp); return ud=jsonp }
 "hbqhki3ouvk57kjkxzm5kxk4":["udney","Udney"],
 "t4572ndumjhiw6aucvntltvn":["u-dt-cy","zuo"],
 "k66yv35rhegsv5pwstnbd5n7":["uditthakur","Udit Thakur ('oo-d-ih-th,' or Uday is fine too)"],
-"byceup6sp4bpjunxozrmxukm":"uditk"
-}) // 2023-10-22T08:22:33.696Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"byceup6sp4bpjunxozrmxukm":"uditk",
+"646eigf7t2hfqq7dtdmzwbbp":["udondon","うどん"],
+"j4ll2u4gbkpuof6dwedxvwcj":"udar",
+"sukd6x3zsmzimqehrgj5tfwz":"udder",
+"fbdh5twiz7gkmsxd7e2muzbk":["udonnoodle","Ray"],
+"jjblitgyp5tbj5hqtxf36o6o":["udon-man","Udonman "],
+"c46r2gaficvcejzpqwjhs6k2":["udonchan","udonchan"],
+"jvaosjw2ukarswtrlnbl4al5":["udonkodo","うこ"]
+}) // 2023-10-22T11:29:16.339Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -68,5 +68,11 @@ var gd=(function(jsonp){ if (typeof gd==='function')gd(jsonp); return gd=jsonp }
 "yj32kqv3wamhm3ijdw336pkc":["gdcomics","GARY DOLGOFF COMICS"],
 "kddxx43m27cm4zyil4tgxdbq":["gdeacordonacional","grande acordo nacional"],
 "p2ii73ewra3anr5lpnbzofcy":["gdfm","Gianmarco De Francisci Morales"],
-"jblvy5hqqqezcqeybxzdkcbs":["gdpittman","Alice Roberts"]
-}) // 2023-10-22T08:24:00.598Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jblvy5hqqqezcqeybxzdkcbs":["gdpittman","Alice Roberts"],
+"fibo35sii3jgdzcigk6nqfxz":"gdub",
+"vjvsr6evnrzfa4uxmhmlnaug":"gdogz",
+"6vhz3wtvs7sv7a2hohxstflx":"gd30sec",
+"as665tbbu5yrd34gcb4lptf5":["gdaniel","Daniel Gavril"],
+"oa3rs7mkqhd7b7l53vozhdsx":["gdarabas","guilherme"],
+"4hu4ls7qbybtkxjr4nkd6l44":["gdragon","G-DRAGON"]
+}) // 2023-10-22T11:55:31.942Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

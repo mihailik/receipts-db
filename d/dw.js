@@ -148,5 +148,20 @@ var dw=(function(jsonp){ if (typeof dw==='function')dw(jsonp); return dw=jsonp }
 "azou75sspacld2aql7ta22xg":"dwafman367",
 "lmzw2qbmwnf2k2p44lambq6s":"dwlt",
 "klvruhavuwfsg6b2tswfvixj":"dworkes",
-"6hu7vf6h6uksis6lxnoohcnj":["dwarvestales","Суцільна хмарність"]
-}) // 2023-10-22T08:09:20.105Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6hu7vf6h6uksis6lxnoohcnj":["dwarvestales","Суцільна хмарність"],
+"fd4p3zxqgxrdjtsx3wlqokpk":"dwaynedd",
+"pkayrn5v2vdczplpuvukla2n":["dwgamer33","Dwayne Wright "],
+"uiwn2ru6pafwmc2x36odpf7j":["dwm","dwm"],
+"c3j4p2yqqhvmbjuon6r57iqd":["dwilkssea","D WilkS"],
+"rcmec3yb63oe5eg5y2426tsd":"dwhrl",
+"m6epigsm3niu45bgdwz3udvt":["dwokrapka","морока"],
+"cyiq4ga76oenw5dzgqpnhwul":["dwatson9","David Watson"],
+"f6p2oin7detjaorxcn3ma2xi":["dwhite10701","David White"],
+"gx2lj3hjiaufb3vdals5jqj6":["dwizzzle","David “dwizzzle” Weston"],
+"nfhufifzacf46kee6r2mvvpb":"dw0rd4",
+"wjkbqiqzzkngyv5kuxw6hp6i":["dwil","Dave Wilson"],
+"vz4uyapkto2bjlejskuv3hcb":["dweeboftheyear","Zachary Liles"],
+"mjrkiyywv6fbe2r27m7ari7m":"dworzy",
+"gjqjzqgvojzpaayfmgl5mzwx":"dwaynefoster",
+"h2qp46otn3icrrveqwcuy725":["dwarfplanet","향미"]
+}) // 2023-10-22T11:44:51.505Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

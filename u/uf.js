@@ -35,5 +35,6 @@ var uf=(function(jsonp){ if (typeof uf==='function')uf(jsonp); return uf=jsonp }
 "j4jyighubcfkxicwa3lrczx7":"ufepuf",
 "yh7rk2rzk5wndtzjeyfdtxqf":["ufe","UFE"],
 "vkxfmu7735ysk7mkhnwgqwwp":["ufal.my.id","Ufal Salman"],
-"dczljgnfaycvphvpqgyq36qu":["ufo2020","UFO_2020"]
-}) // 2023-10-22T07:55:29.633Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dczljgnfaycvphvpqgyq36qu":["ufo2020","UFO_2020"],
+"dhnl735smirizegh6ad3a6e3":["ufelipe","Luiz Felipe"]
+}) // 2023-10-22T11:54:03.593Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

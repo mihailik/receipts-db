@@ -107,5 +107,15 @@ var gs=(function(jsonp){ if (typeof gs==='function')gs(jsonp); return gs=jsonp }
 "vc2yhvwtuj3deyf4jz5uca5l":"gswfastbreak",
 "ri4qxfza2hz2gfbt2strcifg":["gsukiennik","Greg Sukiennik"],
 "imlmx6xf62jql76kzms2wbeo":["gsitos","ᶻ 𝗓 𐰁"],
-"ua66zgubrtnygtk2eqelzaw4":["gsn2ts48gz","𝑷𝑶𝑾𝑬𝑹！"]
-}) // 2023-10-22T08:04:22.228Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ua66zgubrtnygtk2eqelzaw4":["gsn2ts48gz","𝑷𝑶𝑾𝑬𝑹！"],
+"jkunciqglxx73nxr4jrrpbob":["gstvmn","Gustavo Mion"],
+"gco5z6rgahc26nhjaf2ufbhu":"gs314",
+"qeclqlheqmse6mj53ypldd5l":["gsowinski","Guillaume SOWINSKI "],
+"sfoheqhuznjzjdebuvwvcz66":"gserhat",
+"szeui6exp4zukmkldvrose54":"gsb",
+"57olyclocmizrqfmmev3kb24":["gsd9720","Yoshitsugu Fujishima"],
+"pyykmpeurjty435zimhuoyo3":"gschonfeld",
+"pcd5g5rina75rmxornvfc7q2":"gsamr",
+"y56z7bfffcl6qvf5wgon5np4":["gserafini","Gavin Serafini"],
+"dckomh75n7nx6duje5pyxnal":["gseo","귀찮구몬"]
+}) // 2023-10-22T11:22:36.930Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

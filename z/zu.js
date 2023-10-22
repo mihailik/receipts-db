@@ -56,7 +56,7 @@ var zu=(function(jsonp){ if (typeof zu==='function')zu(jsonp); return zu=jsonp }
 "h55olk3w53ilbnntnbhpz27z":"zucchinikonigin",
 "hctkfq362rlj6pzpzhcb5tij":"zumamonty",
 "hqjmtxbq6yzejn62zdnmq7ob":["zuks","Zuks"],
-"htpcnbaaoooyvmsrsrv4y3nh":["zundamax","ゴモラ"],
+"htpcnbaaoooyvmsrsrv4y3nh":["zundamax","ずんだ"],
 "ijingehijznwhcjefnf3sanq":["zubozht","брат жилізниця"],
 "ista627jgyrkd2gmxhzacvus":["zuritaaniki","✨Zurita Aniki✨"],
 "iy53icdec5zcrrakubfrj4mh":["zuzuhugging","Zuzuu"],
@@ -214,5 +214,21 @@ var zu=(function(jsonp){ if (typeof zu==='function')zu(jsonp); return zu=jsonp }
 "nqxl4q446avblofymrkjayqn":["zuveum","Zuveum"],
 "bdtf7n6br7sddzndltjglwhd":["zumi3210","よっ"],
 "kbyki2555qflzwj6ollbbaxx":"zud",
-"efwvueeejuepcchd6slp4s75":["zuleica2001","Zuh_Castro_"]
-}) // 2023-10-22T08:24:00.600Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"efwvueeejuepcchd6slp4s75":["zuleica2001","Zuh_Castro_"],
+"msxtzxxbcbbbvg5b4bib7urb":"zugzug",
+"cktlm27j2e24paje5oyzon2f":"zulybiton",
+"bvyxlxj6xzfe4jvedd6tr5wp":["zuzizastruzi","Žuži Zastruži"],
+"e7ggcmtvs7okqgdfnxh32xio":"zubaida",
+"dbeotov44zcpzqnfdfyir6oa":["zuulzilla.games","Spooky Leafy Amsel 🍂"],
+"emlxao4lnndwx577ty7bbl4d":["zurilove","Zuri Love"],
+"w4zotxxajxeec5nelgq3m7km":["zuperify","Zuperify"],
+"tn23a4zw7blwqbwjkipcp46f":["zurret.de","Zurret"],
+"3gzdejcrr4gcpcl2a43p4wgf":"zulomogura",
+"w7jg3hepuwjj3t3ym5l2gn25":"zulaihaha",
+"76xqqkexh4pcjpqmzw7f5fjp":"zul422",
+"tphw6kpsiel2mwbhgjjlfcii":["zuruzuru","ずるずる"],
+"ywf3vzag5b53bh3xa4lqkov5":["zume","かんずめ"],
+"vpyavxhoklkuxf2hghq75sxb":["zukeduke","Zook"],
+"hibi2d7fc4howkgpkufsuanx":["zumoi","いずも"],
+"s36e5zc5tp55n4bvskrzikkv":["zukitten","Sierra, Rakdos Wench 🏳️‍⚧️ "]
+}) // 2023-10-22T12:04:16.023Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

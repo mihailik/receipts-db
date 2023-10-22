@@ -10,7 +10,7 @@ var ng=(function(jsonp){ if (typeof ng==='function')ng(jsonp); return ng=jsonp }
 "bt7ljqysxjbe5q6ikv2laaxp":["nglaskowski","N. G. Laskowski"],
 "bvzpte2qriizrfzjd7tmhdtw":["ngcameron.com","Nicholas G Cameron"],
 "f6fxfy2wishux4c4vbh52bso":["ngaiobee","ngaiobee"],
-"hkao2o33mtnnfqommhpyhsyq":["ngttkmd","🇺🇦Роні🌾"],
+"hkao2o33mtnnfqommhpyhsyq":["ngttkmd","🇺🇦Роні🔅"],
 "hl3qh654dlziaz6sqwvjvuar":["ngc6531","гексан"],
 "iecuzvb72xfdwlum2pc5ggj2":"nguthrie",
 "k3urwjfgguwxg4iac6lmelj6":["ngeisemeyer","Nils Geisemeyer"],
@@ -86,5 +86,9 @@ var ng=(function(jsonp){ if (typeof ng==='function')ng(jsonp); return ng=jsonp }
 "gd765p3kwd736sjd4zyuifyr":["ngelodk","Casper Angelo"],
 "ci2kl4qitq3uug2yag5szzdz":["ngrosenzweig","noah grey "],
 "a6bssoiom74e7yimqzt3znc3":"ngwa",
-"ier7och63fcctw432oyavhos":["ngoni","Ngoni Mapfumo"]
-}) // 2023-10-22T08:17:19.882Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ier7och63fcctw432oyavhos":["ngoni","Ngoni Mapfumo"],
+"7sqxpnkyqg3xxuaftf2rlvk6":["ngc1960","The Pinwheel Cluster (Messier 36)"],
+"kfxxsxgcptakcck7xmfizmbf":"ngertsema",
+"x4ftajdwjlyfsfkp6wleh7el":"ngundru",
+"x7zo6so7nr22z7jvdcxainsm":["ngnchiikawa","Souzou"]
+}) // 2023-10-22T10:06:58.313Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

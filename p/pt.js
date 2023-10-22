@@ -116,5 +116,12 @@ var pt=(function(jsonp){ if (typeof pt==='function')pt(jsonp); return pt=jsonp }
 "zgcoofsdovdeinikwrscbweb":"ptg",
 "b4nx5hezcqo3ztlqg247fvqf":"ptchk",
 "7masfctpxs7crkqmvlqx7ank":["pteradox","Samittarius"],
-"aggyb23aq2g4a4jbmgjb6gni":["ptan","ぴーたん"]
-}) // 2023-10-22T08:22:33.665Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"aggyb23aq2g4a4jbmgjb6gni":["ptan","ぴーたん"],
+"ieeseiyqcjhgtksksst2dfnd":"ptt",
+"4ossw7h2bueywvkuqsm6nwrf":["ptizasinitsa","Ptiza Sinitsa🔞[CMM OPEN]"],
+"mghi522vwgd7flsormuzn7xt":["ptrsmrds","Petros Amoiridis"],
+"r6eao22ypjoubcs3o3g43c6s":["ptclemaea","vi"],
+"syek77xwrzako5kcv5owx3sk":["pterodactiloren","murilo benicio careca sorrindo"],
+"inidut57umvhzcz4sx6b3cc5":"pteroismiles",
+"fucyo5s26do6zddvdtf6eggw":["ptmv","Thomas Varghese"]
+}) // 2023-10-22T12:01:58.974Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

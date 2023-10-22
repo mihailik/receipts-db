@@ -11,7 +11,7 @@ var oj=(function(jsonp){ if (typeof oj==='function')oj(jsonp); return oj=jsonp }
 "l6b34cpag3g2w4pewbype3dg":["ojouchan","タヤ≡せら"],
 "lagstf7d2efv7t54sqyzv7jh":["ojaly","ojaly"],
 "nkqzmnlkvw2ujazl7pp2y6co":["ojvso","ой всьо"],
-"py5y7g4cldcigr42o3d5y4tn":["ojutel","Olivier Jutel"],
+"py5y7g4cldcigr42o3d5y4tn":["ojutel","Olivier Jutel 🇵🇸"],
 "rat7v6qw4crfwgvpj2d3jyt5":["ojipi","おぢぴっぴ💗１０億円💗"],
 "ruyz4pekfsfmgqgmb6cvujjd":["ojs","Omar Jabary Salamanca "],
 "xn6d6vh6laiebbbxn3tnmayn":"ojnilsen",
@@ -63,5 +63,8 @@ var oj=(function(jsonp){ if (typeof oj==='function')oj(jsonp); return oj=jsonp }
 "jweslxq5v5jseftrgkzbtdf5":"ojoaozin",
 "h74ffhn3mfujgmd43q3y7hui":["ojohmbonx","オジョンボンX"],
 "6hunmpu5toivkjxj2fdcbkyu":"ojbasi",
-"43evcets4pdhagjk7o446aw3":["ojos","Ido"]
-}) // 2023-10-22T07:55:29.633Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"43evcets4pdhagjk7o446aw3":["ojos","Ido"],
+"jor6immfv4qss3l5mmbfyobz":["ojehtoju","Ojeh Toju Godwin"],
+"h6ti23w4ozwofnrsrm3zbsya":"ojeas",
+"xbtoibs3tkfzzdoyk376ik4o":"ojoaomarcelo"
+}) // 2023-10-22T11:51:34.711Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

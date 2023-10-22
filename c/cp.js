@@ -25,7 +25,7 @@ var cp=(function(jsonp){ if (typeof cp==='function')cp(jsonp); return cp=jsonp }
 "fsr35oznfzl2vaj77yz5d3ae":["cportalesm","Cristóbal Portales"],
 "gywf5bubev3ym73xz2a5ntii":["cptsalmon","Captain Salmon ⚔️⚔️"],
 "itj7tjo6cjgnl2wuyf32ainx":["cpogoreutz","Dr. Claudia Pogoreutz"],
-"izettxijwpv2hzc5eueqitsm":["cpcolin","Colon Labor Time"],
+"izettxijwpv2hzc5eueqitsm":["cpcolin","Your mom's haunted butthole"],
 "j3g74fkpe2selgkoeiwxz6bz":["cpa","Cass Anderson"],
 "jzgsmy52zumcsggkgbibgrsl":"cpnlag",
 "kld36mxeoevkjdctkxsfo3kc":["cpfeimster","Connor ✌🏼"],
@@ -121,5 +121,16 @@ var cp=(function(jsonp){ if (typeof cp==='function')cp(jsonp); return cp=jsonp }
 "yv5tey22lyxavk6mq34uppsb":["cprandoni","Claudio Prandoni"],
 "maryli3nehjxkh2vc62zky3k":["cptapathy","CptApathy"],
 "i3olkbhhoaxb7lyfvsz2hrrr":"cps",
-"l2vdm3akverx4eob33sfrkal":"cpapoke"
-}) // 2023-10-22T08:22:33.550Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"l2vdm3akverx4eob33sfrkal":"cpapoke",
+"alomehympjnu2pbuxmep27jv":["cpttyr","Tyr - Member of the AARPG Podcast - RPG gamer"],
+"sfjo5vmddi2ihv7z34i4rgsf":["cptpopcorn","🍿 Captain Popcorn 🍿"],
+"yyg2ssuqehywke3esrer6lxu":["cph1315cg","박초감"],
+"lfpgcglaxckhejujyvghsw65":["cpgfilm","Connor Patrick Griffin"],
+"blw7cwed6xbomh2vag4zyebn":["cptmicky","Dianne M"],
+"wgasercsrcxs6izqilwclcc4":["cptompkins","Christien Tompkins"],
+"un5imlejwyyppopip3mc2pkl":["cpicciolini","Christian Picciolini"],
+"jhh5srku5d7xsemz7apashvj":["cptjaimway","CptJaimway"],
+"vj4bsyycnpsdicgerwdr6wxf":["cperez","Chris"],
+"qujutj5voshui2vxleguyw6o":["cptjohnno","Captain Johnno"],
+"o3wiyincqe4cm6gj6ml6mlzt":["cpcf","C"]
+}) // 2023-10-22T11:59:08.390Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

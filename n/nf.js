@@ -73,5 +73,9 @@ var nf=(function(jsonp){ if (typeof nf==='function')nf(jsonp); return nf=jsonp }
 "dhlpj5jo7ivojpqibejbiouk":["nfuller002","Nicole"],
 "c7hivaaactrkmzvbxjb3ne7i":["nfarina","nick farina "],
 "3folrzudraw7cnflvqzi2ruw":"nftlady",
-"ii7hmjxr7twl6apnmf5wdwm7":["nfldraftscout","Matt Miller"]
-}) // 2023-10-22T07:44:54.889Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ii7hmjxr7twl6apnmf5wdwm7":["nfldraftscout","Matt Miller"],
+"tucjgcccziyezgdcdcwrdcwb":["nftygamezone","Nfty Game Zone"],
+"eudu7u5xp3um5tihy4cxqdb3":["nfr","m"],
+"omgrcezxu26pkq3j2tvp7tdr":["nftghost","Blue"],
+"wpxragzaxvcfrajjz63ukqsz":"nfs"
+}) // 2023-10-22T09:22:35.231Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

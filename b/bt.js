@@ -101,5 +101,7 @@ var bt=(function(jsonp){ if (typeof bt==='function')bt(jsonp); return bt=jsonp }
 "4vx3re4adweevewxhsbqbuh3":["btango","Dan Perlman"],
 "mnyscm2d2resqezmgnols7tp":["btcferit","Ferit Birkan "],
 "hppptz52p6drc27zoh6dgq5u":["btx","BeeTee ⁷  🐝 💜"],
-"2i3c56srqh6vzygwnj2qwgfa":["bttrpssblfutures","Better Possible Futures"]
-}) // 2023-10-22T08:20:02.923Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2i3c56srqh6vzygwnj2qwgfa":["bttrpssblfutures","Better Possible Futures"],
+"4mqy3havjj4w5iyopq3jncjn":"btofigh",
+"iq73c6wvnqcynyceysmgajiq":["btmusings","Beth T."]
+}) // 2023-10-22T11:55:31.740Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

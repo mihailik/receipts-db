@@ -3,7 +3,7 @@ var mz=(function(jsonp){ if (typeof mz==='function')mz(jsonp); return mz=jsonp }
 "4ffcdcv4c5yv7jdjlkpbbga7":["mzmo","mo"],
 "4yclurxokhbtekrtdnh6y3tc":["mzaj18","مهِ زاج "],
 "66whctpw5cenpvk7ux7ovniv":["mzsgtpepper","MzSgtPepper"],
-"7hc3r4holhh2fywyqhewjicn":["mzzl","Mark"],
+"7hc3r4holhh2fywyqhewjicn":["mzzl.social","Mark"],
 "acqyug7uhpbmsd56yavbeue4":["mzbitca","Mzbitca"],
 "aeh5xvhpva7ksoialzs4o77y":["mzbat","bat 🦇"],
 "bi2gwmqwrxpmn3tmg2wncy25":["mzkmr1","瑞樹／メル@絵馬願DL配信中"],
@@ -64,5 +64,12 @@ var mz=(function(jsonp){ if (typeof mz==='function')mz(jsonp); return mz=jsonp }
 "culydtvw352bdiuo7spfrzj3":["mzsw","mizusawabot"],
 "cxcn3elfjr2aczoqq755ridq":["mzkaomt","aomt mzk"],
 "y7txthdltse5q5k5rkbwugwc":["mzlange","Mz Lange"],
-"k7fl4vpwmri6xb3ym2ppl6qn":["mzryuka","みずりゅ"]
-}) // 2023-10-22T08:20:02.962Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"k7fl4vpwmri6xb3ym2ppl6qn":["mzryuka","みずりゅ"],
+"ptmbwilmkaptllp2fpu4znkn":"mzen",
+"pszc466kaj6j674445t2gwju":"mzgendered",
+"g2khek76ial3amxeqmfwmmnw":"mzdak",
+"lla427tge6s4vwtemzzdjahi":"mzobskytest",
+"o7p4wxbtg42dwfjsjgpxh3cz":["mznu","Mujun Kim"],
+"y7xqgguq6uiaor4rzlwbvslk":["mzinshteyn","Mikhail Zinshteyn "],
+"chkkgzl2ebqruwu7uhprouuc":["mzyr","Mzyr Javid"]
+}) // 2023-10-22T11:54:02.880Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

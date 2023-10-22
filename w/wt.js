@@ -12,7 +12,7 @@ var wt=(function(jsonp){ if (typeof wt==='function')wt(jsonp); return wt=jsonp }
 "cbmoz3ecifvs3nezodcg5zbm":["wtfusky","Gcan"],
 "co7l37ilfjhsajy7ify3cpiw":["wtnbkeisuke","渡部圭介 - Watanabe Keisuke"],
 "doxmy44gxkijwlx67gc7jv3v":["wtl1andpes7","해야하는일"],
-"elkxfj4el5j25z6dmteeuklz":["wtfuglydemon","kipame"],
+"elkxfj4el5j25z6dmteeuklz":["wtfuglydemon","love"],
 "epiyeu3trjd46kapcs2spfru":["wthlvdi","Di 🦄 "],
 "gdc3vao4ypee3syudy7z2wa7":["wtscott","Thomas Scott"],
 "h4ozfw2jllzqmohjdxayaotm":"wtrmlnthgcko",
@@ -85,5 +85,15 @@ var wt=(function(jsonp){ if (typeof wt==='function')wt(jsonp); return wt=jsonp }
 "pffja3djkmhhsrdikccw5ljs":"wtom",
 "j5qzamibevlv5pgygwxfmp4y":["wtzk","Julio"],
 "5td52pgbjqknznqc5cvtxg3r":"wtsfyi",
-"5xrz3xxrougr4hduzqen5pld":["wtfincrap","o óculos da Britney que caiu com o tapa"]
-}) // 2023-10-22T08:20:02.900Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5xrz3xxrougr4hduzqen5pld":["wtfincrap","o óculos da Britney que caiu com o tapa"],
+"qpeveniy23vmw6rahcqhylzh":["wthr","わたはる"],
+"t7xoboyqb56vzuvo4iwmuj4z":["wtfrudoingvictor","Victor"],
+"gjlow7bq26f66reihnommdpk":["wth","😳"],
+"psnmjehrefystzgxqt6wn26a":["wtshosht","нася🇺🇦"],
+"zppcvvbgqi4y5qqv7w4anypj":["wtfoxx","lemon"],
+"tziqivianxda6dkylvobm4yv":"wtfudgicle",
+"6oyxefaemfhq4bmut4ii3hdy":["wtbk","わたしとぼくのコーヒーミルクのオタク"],
+"mfeb3g3wd7yl4t3qkktvqe2x":"wtroyard",
+"reigy2v7h42veaewfflconwd":["wtf.ceo","wtf"],
+"2bvxz7qsbzi5d6ztgovci5um":["wtfbear","UnBearAble"]
+}) // 2023-10-22T12:04:16.540Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

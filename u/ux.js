@@ -10,5 +10,7 @@ var ux=(function(jsonp){ if (typeof ux==='function')ux(jsonp); return ux=jsonp }
 "2fvdan4lqcitlxj4g7h7bp2u":["uxcollaborative","Brock Dubbels"],
 "4msr4nsg33ojtzggusdlpuda":"uxo",
 "opqtbjznkkul3zun75dhiuot":["uxoru","uxoru"],
-"tutcgq7idaui6edpi27rl3ai":["uxnotyoux","Soren Hamby "]
-}) // 2023-10-22T07:39:50.895Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tutcgq7idaui6edpi27rl3ai":["uxnotyoux","Soren Hamby "],
+"zoiyiiqaa7dopfhoh6yc5qwb":["uxbysean","Sean Walsh"],
+"iwkrkqvknpgx5jy5nbdpa24r":"uxpertism"
+}) // 2023-10-22T12:04:16.670Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

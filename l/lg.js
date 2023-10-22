@@ -50,5 +50,7 @@ var lg=(function(jsonp){ if (typeof lg==='function')lg(jsonp); return lg=jsonp }
 "kufcbxoib2ocsqpbpdmmgby7":["lgtwet","L,.G."],
 "vyjpaim7ijtlqo6qyxp24ocm":"lgalabru",
 "2foq42qqs4jrw47xfztd4jpw":["lgbtqspacey","LGBTQ+Spacey 🪐"],
-"5yqalqva5ot4a566h2yncaiy":["lgbtiscotland","Equality Network"]
-}) // 2023-10-22T08:02:56.470Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5yqalqva5ot4a566h2yncaiy":["lgbtiscotland","Equality Network"],
+"liq3hnkez3p2p4xwruo6mrxc":"lgp",
+"7azxrfyzeuph2rqiduqsepy2":["lgonz","Luiz Gonz "]
+}) // 2023-10-22T11:48:39.415Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

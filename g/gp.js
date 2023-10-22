@@ -24,7 +24,7 @@ var gp=(function(jsonp){ if (typeof gp==='function')gp(jsonp); return gp=jsonp }
 "ohhs3alzkrgzrzeylsmeiv7f":"gplowe92",
 "p2bj3d37m42rqcoqvgrmwhm3":"g-pop",
 "peiyufadnimuqaj3ubdov44p":["gpmciver","Gregory Peter McIver"],
-"zg7lgcxhdkoufwuypudmpjjb":["gpatrick","gpatrick (Tanya Chutkan supporter)"],
+"zg7lgcxhdkoufwuypudmpjjb":["gpatrick","gpatrick (Tanya Chutkan/Fani Willis supporter)"],
 "tdtkywxbgzdblalzur6eeqlv":["gpsnmeajp","Segment"],
 "hjmesocb5vs4otqgkqgbp542":["gpt","GPT Bot"],
 "wavac6mivpset2gc3xq4fcik":"gpj",
@@ -57,5 +57,10 @@ var gp=(function(jsonp){ if (typeof gp==='function')gp(jsonp); return gp=jsonp }
 "anyt734ut3qzsao5ts76xmvd":"gpunk",
 "ww5zw7im4zyq3tqhcg2tnkkz":["gpdls","헤인"],
 "nz4azjqexh2nwelujtm3feoc":["gplzr.com","GJ"],
-"bbkk5tgiip3wttqkdh3wvypy":["gpaumier","Guillaume Paumier"]
-}) // 2023-10-22T07:44:54.791Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bbkk5tgiip3wttqkdh3wvypy":["gpaumier","Guillaume Paumier"],
+"ciwzbwegkza53pxeo2f4mc7q":"gpow",
+"zpdc5d5hsfecnynq65zt5t2t":["gpadron","Gilbert Padron"],
+"43jr7cyhdyn4o27xrax6mze4":["gpm","George Pérez Marrero"],
+"s2de5dtoitzfd3qh4krcvsvt":["gpl","ghostopal"],
+"6n7slulyibfyfmkqqahkecdp":["gpc.dog","gpc"]
+}) // 2023-10-22T11:41:02.642Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

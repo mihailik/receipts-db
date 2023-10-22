@@ -95,5 +95,13 @@ var dv=(function(jsonp){ if (typeof dv==='function')dv(jsonp); return dv=jsonp }
 "hbcck5c5wxoblxfavfacaciu":["dvidwlker","Dave Walker"],
 "rbx7q3ecpsjsr6xukjtayvov":["dvplays","DV"],
 "km2ts5nurmhfu3nxr4h6rlz6":["dvorak","Bee Dubbya Cee"],
-"zxrbtw2jzkzpx62c5tvb6v7j":["dvelasco.com","David Velasco"]
-}) // 2023-10-22T07:38:29.078Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zxrbtw2jzkzpx62c5tvb6v7j":["dvelasco.com","David Velasco"],
+"cys5rebfocfgmb2uezdznwpo":"dv414",
+"jhcwffaicd4ziavuwlldqcm3":"dvega",
+"llf7ehzcgez7qlq3mpotsexa":"dvanlaniii",
+"jzlguag2w63yjmr3qiuidzua":["dvrla","Darlita 🏳️‍🌈🤍"],
+"smhbwlqcyh7pfikt223z7sxk":["dvadkun","їЖанута істота"],
+"ypjzzyqlush5ig4uentwqm6a":["dvra","barque"],
+"g6q6diapnro4dtie7yyxebzi":"dvlawrence",
+"yfwu6ef33dc4xtqu64e525zs":["dvchopin","Десман"]
+}) // 2023-10-22T11:56:57.842Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

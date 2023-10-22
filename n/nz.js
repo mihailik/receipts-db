@@ -12,7 +12,7 @@ var nz=(function(jsonp){ if (typeof nz==='function')nz(jsonp); return nz=jsonp }
 "mxve26do3mkdtdcnzuhprfg3":"nzbeardad",
 "omn2hryawxmvfzqrlvixuklp":"nzheretic",
 "ovmlybqkdxfibxdbllv5rc5t":"nzneep",
-"r4kmn75mjiflx7vaouzc4zht":"nznurs",
+"r4kmn75mjiflx7vaouzc4zht":["nznurs","Anı biriktiren kadın"],
 "u52teepg2n3jkfg5doo7skjc":["nzpolkermit","Where are the costings, Lux? Kermit"],
 "uwkvnd5yjllr3leg4bwsge7p":"nzdeb",
 "w7wfl65iveli36lewydwk4a6":["nzfs","nzfs"],
@@ -46,5 +46,9 @@ var nz=(function(jsonp){ if (typeof nz==='function')nz(jsonp); return nz=jsonp }
 "syibaz425xvcu4h4g23a3a4c":["nzbr","NZBR - Vinny Scorsatto"],
 "hxgvthehbj7dau4bvbuhzcvl":["nzchris.com","Chris"],
 "ztrpvhjuwen6co2u3pqgmbyd":"nzorep",
-"tuwnqc4c3os3ee4fuk7gcr66":["nzkt74","ちづ"]
-}) // 2023-10-22T07:59:32.600Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tuwnqc4c3os3ee4fuk7gcr66":["nzkt74","ちづ"],
+"lselxta34diz2zs6fumbjadm":"nzthomas",
+"i2dxu6jbpwu36c4v2k4d4x7r":"nzzfzz",
+"ohq632v2diafb7efcbjnfc4g":["nzet","Nzet"],
+"xb6uixpdrrqs4utenlasxtyk":["nzgberg","Nzgberg"]
+}) // 2023-10-22T12:00:33.740Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

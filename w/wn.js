@@ -5,7 +5,7 @@ var wn=(function(jsonp){ if (typeof wn==='function')wn(jsonp); return wn=jsonp }
 "ach3u2adjfl6zjwn67cp6om4":["wnikeartist","Terri (wnikeartist)"],
 "fgm5bf2dfhand26r6pwthaim":["wndrtsy","The Lone Masker"],
 "h767zknel7fkxep4valfizr3":["wnknisely","Nicholas Knisely"],
-"lbmeeeudwsn4wmfkgdmhmm2u":["wndrwmn","Beth"],
+"lbmeeeudwsn4wmfkgdmhmm2u":["wndrwmn","Beth Becomes Her 🔪"],
 "n2h27d7n35xfxuxzkl2vbtk5":"wndrfltimes",
 "tm6ifv5ts7fkunwxxm3er557":["wnobuo","Willian Nobuo"],
 "vg6rczizmgropmoqacijzbv6":["wnstn","winston the third"],
@@ -23,5 +23,9 @@ var wn=(function(jsonp){ if (typeof wn==='function')wn(jsonp); return wn=jsonp }
 "24ngknnnphgm4rkaleoy2a2w":["wnbawife","Tina Sieben"],
 "75rhlbslkbxkxy4wc7xdm6dl":["wntr","WNTR"],
 "zeqsd6g2zjochmjxbko6h3vx":["wnderyrs","I wanna be a cowboy baby"],
-"qwghebieru5imow6ndxz37mi":["wnsipl0l","André"]
-}) // 2023-10-22T07:21:58.186Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qwghebieru5imow6ndxz37mi":["wnsipl0l","André"],
+"imjyjrti5lsljcelyi3zhgvs":"wnis100",
+"g2hp4izpb4lqbg3agwvzmwqu":"wnawas",
+"4a663s636i2etlsxuys7ypl7":"wnagao",
+"2tficpqdcxopnj6zdqvnibp6":"wneo"
+}) // 2023-10-22T11:46:18.667Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -27,5 +27,8 @@ var wp=(function(jsonp){ if (typeof wp==='function')wp(jsonp); return wp=jsonp }
 "3zbs37tdtp6xaxurslxaubxi":["wpgpoliceharm","Winnipeg Police Cause Harm"],
 "f54jamgjv4nhyt73c27rrccw":["wpmcquaide.com","Will"],
 "lwmkem4vjgxttouit4oc2q5t":"wpengine",
-"rpqlg6otkfskcu6y3yq2q6kf":"wpa"
-}) // 2023-10-22T08:22:33.615Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rpqlg6otkfskcu6y3yq2q6kf":"wpa",
+"ufxdgmo5c62oy3pok2iudzh3":"wplatham",
+"hw4prhrkpin3pusawhr7bede":"wpoeir",
+"pv2jekwtem53zyhohclzsv26":["wpudian","Detective Dean"]
+}) // 2023-10-22T11:37:54.988Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

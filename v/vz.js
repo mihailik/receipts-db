@@ -10,5 +10,7 @@ var vz=(function(jsonp){ if (typeof vz==='function')vz(jsonp); return vz=jsonp }
 "2qxipeqmlh342qtay2kz7qsh":["vzanella70","Bicicleteiro não vale 1 real"],
 "qummnlqeblijmiwwbmartiuu":["vzt.gay","Gino"],
 "zhlsadfhv5zejank6gm45rv3":"vzaemovkl",
-"rsnwbkfyanfpog6gcgd6jvyr":"vzy"
-}) // 2023-10-22T08:00:55.006Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rsnwbkfyanfpog6gcgd6jvyr":"vzy",
+"5focr7ktd7cr3ocjobem7oho":["vzlitaem127","ВЗЛІТАЕМ"],
+"dl52gl4e4r4rbao4jw4ukflh":["vzletik127blue","ВЗЛІТАЕМ YT"]
+}) // 2023-10-22T09:27:42.829Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

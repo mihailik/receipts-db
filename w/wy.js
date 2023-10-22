@@ -52,7 +52,7 @@ var wy=(function(jsonp){ if (typeof wy==='function')wy(jsonp); return wy=jsonp }
 "nk3vlkeqs2b4cn7lfksfg5vu":["wyrmsfornerves","V. Gagnon 🧡 🐈‍⬛ 🎃 🦇"],
 "nnnsqrip7azyiebi64i6nr5c":["wymancr","Chris Wight-man 🧟‍♂️"],
 "p3emmo7jhufurziap33er7uj":["wyntrfang","Wyntrfang"],
-"pehuk7xfuxmqsqxnl56peqtc":["wyrm.gay","Ash"],
+"pehuk7xfuxmqsqxnl56peqtc":["wyrm.gay","Lizard Soup (it/they)"],
 "q7desl3vr7swpd3wjej2hmxa":["wyvernsrose","Wyvernsrose"],
 "qr6d6mghtpppa2eb3spniyjy":["wyntr3","Wyntr3"],
 "qxbcpj3vvcywaf46y2z75mct":["wysr.xyz","Cameron Armstrong🫡"],
@@ -69,7 +69,7 @@ var wy=(function(jsonp){ if (typeof wy==='function')wy(jsonp); return wy=jsonp }
 "ucqtksfnypntcmrsem6pjwxy":["wyndham.qirim.land","Lina from Crimea aka сонячна кіткиня"],
 "upph2zyopnuc5jreb3wms5r5":["wylienewmark","Horkos"],
 "uzbw6xqxcis6w2pe54nkgz3h":["wyattprivilege","Johnny Bigballs"],
-"vaurljfevkocsxvvc2sd3jhs":"wye",
+"vaurljfevkocsxvvc2sd3jhs":["wye","ゑ"],
 "vblxuya4jvgfghf55jkdlyib":["wysiwyg88","Sam Burns"],
 "ve3g2kuajqcyvutxq52gevfu":"wyattdogbot",
 "wcnomjsmj7tlzhi67sp3pjqo":["wyld","Karen Wyld"],
@@ -138,5 +138,18 @@ var wy=(function(jsonp){ if (typeof wy==='function')wy(jsonp); return wy=jsonp }
 "f4mqzmthd5a5rszt4e2ktqnv":["wybfan","Sarah💚 WangYibo 💚"],
 "hv2vxu7p57csnkbf6mxore2g":["wyseapple","Adam"],
 "exl5om4au746arh7lctnkjus":"wyllowthewisp",
-"vhfr7aci6k7nzqampwcop7gu":["wystan","Finom Bab-Leves"]
-}) // 2023-10-22T08:22:33.688Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vhfr7aci6k7nzqampwcop7gu":["wystan","Finom Bab-Leves"],
+"nw57hknpqfvhpkoltdyns2ii":"wyatt-williams",
+"55japlyjqnw6ogl7gu45k22v":["wyatt.fops.world","Wyatt @TFS"],
+"aeyw6fwkm5en3suhzsh3glnd":"wyatthull",
+"4syutemkubxbrxukn5mwxlk2":"wyd",
+"u3twmhj3cp4h25jfnsqpi7ro":"wynda",
+"44niwp6eoz6xgsylft3ukzco":"wys",
+"3iodig2chcsoumji5ibso7px":["wyattkittle","wyatt"],
+"qd36qvkwed6r64mubdkohndg":["wycroft","Kanna"],
+"qwi6uzeecqmdyw35nawc43o7":["wyep","WYEP"],
+"xcw2xph6psxxjucaxyshivf6":["wynterrose","𝗪𝗬𝗡𝗧𝗘𝗥 🦷"],
+"j5whzttpm2ig7cpltufsbsy3":"wyvrnres",
+"gwkdn4qsivs7qm3uykpboyas":"wyyyyw",
+"62wl6g4wuupdyvxjnzuu33mm":["wytchesandwyverns","Wytches & Wyverns"]
+}) // 2023-10-22T11:59:08.048Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

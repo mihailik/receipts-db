@@ -25,5 +25,8 @@ var xl=(function(jsonp){ if (typeof xl==='function')xl(jsonp); return xl=jsonp }
 "zyr7lrr5ipyvd62rb7cwddrt":"xleorochax",
 "slqxqgp5gdspzu23tj5m3oci":["xladygagarinx","Shakespearsstepsister on X/Twitter. "],
 "3yuw5edqzfaf62vpgubngp22":["xlem","Dan"],
-"x7bazk7s73nmldmryrxqhz34":["xlun","千夜ちゃんを養って幸せな避難所を築く"]
-}) // 2023-10-22T08:02:56.330Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"x7bazk7s73nmldmryrxqhz34":["xlun","千夜ちゃんを養って幸せな避難所を築く"],
+"l3xifhewvoxxatq3ncatpxlk":["xl-husband","大旦那"],
+"gdudnkaxssc2732dye54ujsg":["xlvvm","Mr L"],
+"tbqdxuyhlvfe6lwjxef4tjth":["xlenc","Xander Lenc"]
+}) // 2023-10-22T11:22:36.912Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

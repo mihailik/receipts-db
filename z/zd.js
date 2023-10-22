@@ -20,5 +20,9 @@ var zd=(function(jsonp){ if (typeof zd==='function')zd(jsonp); return zd=jsonp }
 "4gg4ficebbnactw7s5jamdjt":["zds","Zach"],
 "xghnk3wiklr7q7ocrfgfm63g":["zdtvaddict","Brian"],
 "wuxpozfqnkw7tmt3vmua2n4v":["zdenekvana","Zdeněk Váňa"],
-"7f24vwobdec4t4ybuofswaij":["zdnet","ZDNET"]
-}) // 2023-10-22T08:10:42.386Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7f24vwobdec4t4ybuofswaij":["zdnet","ZDNET"],
+"mfahoyu4ubw64xapckklfpz5":["zdah","Zdah"],
+"a3osffqjdckbqbpyuvglhiil":"zdr",
+"fbwemruh3phj7tl4eglsv64q":["zdiggler","zdiggler"],
+"g4d4ep5zcpvldqwspdxa6fjn":"zdot"
+}) // 2023-10-22T09:59:00.995Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

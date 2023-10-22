@@ -6,7 +6,7 @@ var lh=(function(jsonp){ if (typeof lh==='function')lh(jsonp); return lh=jsonp }
 "4qxkgrhdi4gugscxzsyizdwq":"lhommequirit",
 "57t3iad3gq76u5s76ytyhvpf":["lhabitaturbain","L'Habitat Urbain"],
 "5irfdui4uwqbu4ydasd5nxti":"lhelfst",
-"5ysphtgcpshb5co33bbyiesc":"lhistorienne",
+"5ysphtgcpshb5co33bbyiesc":["lhistorienne","Dr. Jamie LH Goodall"],
 "6bfrlzf4ery6pugse7h7c563":["lhukave","Lhukave"],
 "6pa22rnvummslno7vhhq3i32":["lhbizness","The Unverified LHB"],
 "7w4sftu3o6hm4uqxdxnnfals":["lhuga","lhuga"],
@@ -18,7 +18,7 @@ var lh=(function(jsonp){ if (typeof lh==='function')lh(jsonp); return lh=jsonp }
 "fjlupfu4bljzqhathz3whha3":["lhet","LHET 🔜 FC"],
 "fncb35b5lcyhvug2ahjjolya":"lhaasis",
 "fxifbenjz7gkved6ns6mhuga":["lh44updates","Sir Lewis Updates"],
-"gvrajnj73ovjtfdpz3nnvu5w":"lhp64d",
+"gvrajnj73ovjtfdpz3nnvu5w":["lhp64d","Logan | LHP64D"],
 "h46vsviwvgbzaifcv2o62kid":["lhommeenbleu","L'homme en bleu "],
 "idqlb36ob4mtbpkdnqjylwou":"lhbtinfo",
 "iutjhqlbjdfkfasqqk2ogvmz":["lhbflute","Lisa Bartholow"],
@@ -70,5 +70,11 @@ var lh=(function(jsonp){ if (typeof lh==='function')lh(jsonp); return lh=jsonp }
 "fsdzzsvx6ydwhnjzz7ov6rru":["lhata4564","八多"],
 "aq3uixmvfqfqzx5hlhfv7mvq":["lhffofficial","Lambertville Halloween Film Festival"],
 "35do6ahdnbmtiqawssn6kg6e":["lhulseth","lucia hulsether"],
-"ywd5kvcr3bh4sj3tubvgn5xq":"lha"
-}) // 2023-10-22T08:24:00.591Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ywd5kvcr3bh4sj3tubvgn5xq":"lha",
+"cgls7ynrb5iqylhc5imbek27":"lhmcke",
+"ersax4wogger4y7klxpbss4u":["lhutz","luther ©️"],
+"jqx35t3zcwumbs42vcqj2gtg":["lhazan","Laura Hazan"],
+"eggwrywkwex6kszx7lono7ty":["lhmorris","Laura Morris"],
+"ggyznna7h2fe3ghmxlwgzlzs":"lhogue",
+"idteffxbdjl77awc7pzbcoy2":["lhooq","Boyd"]
+}) // 2023-10-22T11:55:28.168Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

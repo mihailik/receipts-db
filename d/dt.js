@@ -27,7 +27,7 @@ var dt=(function(jsonp){ if (typeof dt==='function')dt(jsonp); return dt=jsonp }
 "qfytny73nfiyjjobgyx7foyf":["dtbella","D.T. Bella, Author"],
 "qmwz5vfydx65gmunoxmmyu2c":"dthshdw",
 "r73iu3tg4cxcwmb5gyn3nq2b":["dtalesnl","D-Tales"],
-"re625wqbaxmkzqn3h7xzin6g":"dthoursonpalmer",
+"re625wqbaxmkzqn3h7xzin6g":["dthoursonpalmer","Dave Palmer"],
 "ructalg3xjslhelhvqc4sqd3":["dtavares","o príncipe dos roteiros 🤴🖊️ "],
 "s5j4kibauaeslajg5qt5fsdr":["dtstat","DTstat"],
 "srbskqncpzq6vxqb6ng5sxcq":"dtwyman",
@@ -97,5 +97,9 @@ var dt=(function(jsonp){ if (typeof dt==='function')dt(jsonp); return dt=jsonp }
 "6yrxg4xf2svzxn5gbhpz3arn":["dthomas","Davis Thomas"],
 "ndgtkmydwte7lym2hdo4ndgr":"dtana",
 "hzh4rq7ssqdixvp4du6o3oin":["dtbilek","Justinian"],
-"4el4i6xajlkzavok2eaabsdo":["dthehammer","Diego \"the Hammer\" Gomes"]
-}) // 2023-10-22T07:50:03.390Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4el4i6xajlkzavok2eaabsdo":["dthehammer","Diego \"the Hammer\" Gomes"],
+"i543i3bm66zwg4a4o6ipmlht":["dtj","david thomas jones "],
+"ykhvb5ttj5kdbwb6t74m7ldb":["dtheenbypd","DtheEnbyPD"],
+"vvciklowlt5aabgsq7j5rcxl":"dtremit",
+"2bxf26e7cmzglg4avf3d3mac":["dtm13","Namor’s popper stash"]
+}) // 2023-10-22T11:26:54.326Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

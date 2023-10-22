@@ -9,7 +9,7 @@ var yr=(function(jsonp){ if (typeof yr==='function')yr(jsonp); return yr=jsonp }
 "i6lfh3uuwwqpquknurjqermj":["yrorp","yrorp"],
 "j7g33odogmvfupwniypn374v":["yrlee83.nightsky.social","이위너"],
 "l6vutn664piqaj4ctlu7l2p2":"yrabril",
-"mrzqtbraqj2syg26d4udgwmp":["yriys","ирій"],
+"mrzqtbraqj2syg26d4udgwmp":["yriys","ирій "],
 "qvzjjj6n2us4acikqipuyhao":["yrdess","холоднозубка"],
 "vbsy5v2tgwpqhsjvd3jnsku5":["yrouttasight","Yr Friend Camille"],
 "vpmbak6rtbysgm5gomdcrdod":["yrcnr","Colin"],
@@ -39,5 +39,8 @@ var yr=(function(jsonp){ if (typeof yr==='function')yr(jsonp); return yr=jsonp }
 "zpbik45ukwewsrxa6ygmltq6":["yrkmm","ゆりかもめ"],
 "mtwogrnu75intraxuvoqxj7u":["yruu21","るう"],
 "nohggt76i5lp6vqylulvhhya":["yrp","bernardo"],
-"rvncc5pi5zpew33xo6yx6ovm":["yramt","Mary Tagler "]
-}) // 2023-10-22T08:23:59.548Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rvncc5pi5zpew33xo6yx6ovm":["yramt","Mary Tagler "],
+"5j2mvvp3dkeuahl6oliehc7o":["yrr04","ゆりり"],
+"vu3zeq6m2rcnesltpwshrxgw":["yrano","제로"],
+"bs5jqe2v2v4yifnkjwtwiemg":["yr57v","よる"]
+}) // 2023-10-22T11:51:34.711Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

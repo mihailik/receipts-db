@@ -35,5 +35,7 @@ var qo=(function(jsonp){ if (typeof qo==='function')qo(jsonp); return qo=jsonp }
 "fg6wnip4zgzz3277lz7djpet":["qotdct","Quote Of The Day, Connecticut 🌎"],
 "b7thfje7nzna2fb63x7jknf6":["qooxx","B"],
 "mkpliaz36ui25x5urkkrjhnx":["qoomingjs","くーみん"],
-"dovti6i43levgha4k25axdmh":"qotile"
-}) // 2023-10-22T08:22:33.395Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dovti6i43levgha4k25axdmh":"qotile",
+"o3jovnxpa6epicyxryjn6xe3":["qolamimahsa","مه‌سا"],
+"4j74usfdspl2oaicv6vpaxjd":["qotfw","Corpse Flower"]
+}) // 2023-10-22T09:57:39.302Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

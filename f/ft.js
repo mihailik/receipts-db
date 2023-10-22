@@ -15,7 +15,7 @@ var ft=(function(jsonp){ if (typeof ft==='function')ft(jsonp); return ft=jsonp }
 "lj6eamqnyiplop5lst55dcqq":["ftmemhrby","شَرآب بَنَفش"],
 "mb3fdycawne5zsspwleb6gbo":"ftmclkgl",
 "oyhh3xhj5e45oc7326phsbnr":["ftnerdy","Friends Talking Nerdy Podcast"],
-"t7gex6mzd3xdo32ni6bk5icv":"fterui",
+"t7gex6mzd3xdo32ni6bk5icv":["fterui","Fumihiko Terui"],
 "try3hr4rdzfaoeepjhp2kjta":"fthames",
 "ukqhfuwjqsky4wgavqwhlp73":["ftamsut","Felix Tamsut"],
 "vvmkmrpidu7zcrxkifww5gwi":["ftm0704","S.🌕"],
@@ -49,5 +49,11 @@ var ft=(function(jsonp){ if (typeof ft==='function')ft(jsonp); return ft=jsonp }
 "gcno7ao432wfweeo7sp5uq4c":["fticon","Fernando Ticon"],
 "twxzskznmpx53avyyrmpixnc":["ftfdiplomacy","Diplomacy"],
 "to5psdxfvigft4q6enwethmo":"ftgslayer",
-"c66as4qo2ubx2hsl4ei4s4iy":["fthompson","ft"]
-}) // 2023-10-22T07:58:11.450Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"c66as4qo2ubx2hsl4ei4s4iy":["fthompson","ft"],
+"5ezpkpy3ea4ijolgdsnfqerj":["ftukur","MOHAMMED RAJI FAHAD TUKUR"],
+"7zxpcqkjlzqbuochgp3bqeoc":"fton",
+"6g57b755pjgmfoxj33bwxy3u":["ftate","Evil Darkskin Nigga"],
+"epodgm7vsqaoreeci2zw262e":["ftrsaroth","FtrSPAMRoth 🐭♻️🐽"],
+"iaywlxc7gpj7doakm44xapu7":"ftmh",
+"qo2gz7lox2qqbodkrthyoivy":"ft340"
+}) // 2023-10-22T11:46:19.434Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

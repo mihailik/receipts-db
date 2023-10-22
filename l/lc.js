@@ -78,5 +78,15 @@ var lc=(function(jsonp){ if (typeof lc==='function')lc(jsonp); return lc=jsonp }
 "o7vqeoqyv55ptm7w3cazgvij":"lcfairbairn",
 "c76lko3jz3bkjhwa54kxtixr":["lcsrb","Lucas Rocha"],
 "ibzdfegz7khvrx4gkptcknzd":["lcparra","Lucas C Parra"],
-"zsltal7equ7hyxmp2thju7iw":"lcvasi"
-}) // 2023-10-22T08:18:41.769Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zsltal7equ7hyxmp2thju7iw":"lcvasi",
+"uli2rqyfqasvuawksu2z5jkc":"lcvoters",
+"ghuc6gt2vs5bho62eqydceqt":["lccswrld","lucca"],
+"3krgevl5b4r4vufntaltefeb":"lcahill",
+"wwxez73pbwwdt3mqbxhpwaya":"lciccone",
+"uqzcwqhnj2rfgwvxomtrp2m5":"lcressler",
+"ej2r7n52yjqlxa3ofn2huawl":["lctissot","Leonardo Tissot"],
+"h5qohnxr3r2leuilfpujmgl3":["lcbeutler","Laura"],
+"nyckpgvlpoyeuxod7l6rumtp":"lculbs",
+"ueise4gujjcbvpzsblxvpxw5":["lcy","Gizem"],
+"g7bqet6mr2g43qzinlutsca3":["lcernat","Lucian Cernat"]
+}) // 2023-10-22T12:01:59.051Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

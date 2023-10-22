@@ -10,5 +10,6 @@ var wv=(function(jsonp){ if (typeof wv==='function')wv(jsonp); return wv=jsonp }
 "jqh7fj2y3ckmf36fufvarzei":"wv55czy",
 "ulqojjko5gib32mh5hvnt55z":"wvesquiress",
 "ugsdrmmzhyoncdcigmo6bjuk":["wvnl","Luke ⩰"],
-"eb4vr5zyzs3xvrzd4ynbcepz":["wvavavw","attsa"]
-}) // 2023-10-22T07:19:05.178Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"eb4vr5zyzs3xvrzd4ynbcepz":["wvavavw","attsa"],
+"giwhzpiws5hhrkz53f73ykt2":["wvdirectaction","West Virginia Direct Action"]
+}) // 2023-10-22T08:44:21.164Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

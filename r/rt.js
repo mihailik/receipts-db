@@ -26,7 +26,7 @@ var rt=(function(jsonp){ if (typeof rt==='function')rt(jsonp); return rt=jsonp }
 "knsjx2vttf72e7iqtgmdlmyq":["rtfxstudio","RFTXSTUDIO"],
 "lrcnjjicctpdnhbgexh2elib":["rtkase","Mahadi Alyami"],
 "lu5e3oozhi3yl66cmuxbm7rd":["rtn","Rubi†"],
-"nlqsqwluzruorm7udvorp3cn":"rtksharp",
+"nlqsqwluzruorm7udvorp3cn":["rtksharp","プリン"],
 "nvragoq5ieekuthah26luy43":["rtiy","RT"],
 "p6aywark5kqqe6uaehizey7b":"rthko",
 "pfyte6xfbhrhjbvl6zvwo5k5":["rtagala","Gala"],
@@ -83,5 +83,11 @@ var rt=(function(jsonp){ if (typeof rt==='function')rt(jsonp); return rt=jsonp }
 "j2ttk3kl76kghehxfk2titda":["rtajimapena","Renee Tajima-Peña"],
 "zhcwbxipctfuowepishb7wnf":"r-tateshina.net",
 "aeby2ifvnfq3kcuq4stjtzqf":["rtem","Пан Артем"],
-"jela6rhxllvwwqykhxwt5tha":["rtaylor","Rachel T"]
-}) // 2023-10-22T08:14:25.536Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jela6rhxllvwwqykhxwt5tha":["rtaylor","Rachel T"],
+"cqyqdapmh42opxfnhxxzfjly":["rtlnieuws","RTL Nieuws"],
+"qndg3bpmo7uzkidmi3zekxzn":"rtwo",
+"unegjqmr7ixrat6kgkjiqwkp":["rtrilling","Renée Trilling"],
+"as4tbdjlu2brb5rnwspf37qb":"rt-mi-u1010",
+"mj64kfrxw4vmrieja4hlgtbs":["rt79","𓅸 𝕽𝕵𝕿 𓅸"],
+"znkqm6edbvo3d7xb3syitof7":["rtraschke","Robby Raschke"]
+}) // 2023-10-22T11:59:07.910Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

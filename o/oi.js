@@ -131,5 +131,14 @@ var oi=(function(jsonp){ if (typeof oi==='function')oi(jsonp); return oi=jsonp }
 "rjb6auqfofibdvuhywajcgp3":["oierico","Érico "],
 "5geqrfrtxji7v7a7reldwg3g":["oilersnerdalert","Oilers Nerd Alert"],
 "2i4gkl6guua373oaldyiw6gz":["oif","ALA Office for Intellectual Freedom"],
-"zhxhjk5b5e4bomziuxdnf6qe":["oilume","Glenn close em céu azul"]
-}) // 2023-10-22T08:09:20.059Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zhxhjk5b5e4bomziuxdnf6qe":["oilume","Glenn close em céu azul"],
+"otecpbwfcuj2a4zjg43tstbd":["oink","freya"],
+"mcxd6hqa4eoikc76i5hoe32t":["oisoudrigo","Drigo"],
+"ot4q6oynvo3vqr2qa3yitwpa":["oipedra","Bernard"],
+"b3xujf5unzz25i6xzntrbsv3":"oilersinsider",
+"f7xzip66g6exkp4qb77oybw3":["oikw","Kazuki Oikawa"],
+"uv525gukjbmcf3maz5en4ywu":["oienio","Oi Enio!"],
+"oev4vub7tjgbklfw2pnvgvo3":"oialeo",
+"jdf2q5zkpzvytgocj2ulenuq":["oitavo","Otávio Augusto Marinho Porto "],
+"rylx5tnblz3hreakki522znt":["oishiiomiotsuke","んにょ👼"]
+}) // 2023-10-22T11:54:03.271Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -44,5 +44,10 @@ var rv=(function(jsonp){ if (typeof rv==='function')rv(jsonp); return rv=jsonp }
 "3svfql7sjhuysldhn6uxcmv7":"rvk",
 "ben2bpynauquadyybkr3hh66":["rvs","Roman Shaposhnik"],
 "e2iwqwiclnx3la57kelo3yag":["rviscomi.dev","Rick Viscomi"],
-"7pyknspigplg2abz47lkhuuq":["rvfa","rafa"]
-}) // 2023-10-22T07:38:29.039Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7pyknspigplg2abz47lkhuuq":["rvfa","rafa"],
+"h2tkobr3monxdl5rxt543f4f":["rvtrekkie","Rae Hirsch"],
+"tsc2oarzrqneav7flcvwgx6w":["rvtoro","Rvtoro"],
+"m5ruwt2c4pfmw67cozrcaebn":["rvmatthogg","Matt Hogg"],
+"kr6mnhz5z4ero7fjmkpjr25h":["rvillanueva","Robert Villanueva "],
+"dmbmoavydd2lqvqj7uhkiysy":["rv.el.fail","훈제칠리새우"]
+}) // 2023-10-22T11:46:19.615Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

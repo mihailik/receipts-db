@@ -38,5 +38,12 @@ var wb=(function(jsonp){ if (typeof wb==='function')wb(jsonp); return wb=jsonp }
 "ccpyy7zl27umgeojh6dxmznw":["wbrbb","Welber_bb"],
 "gx62q6fh3occyfvkqreccoce":"wbr23",
 "a7t2lnq72ye7xnvjm5wdis6q":["wbatty","Ward Batty"],
-"zarwqyvlbogyoptvzo2kvmo6":"wbarn"
-}) // 2023-10-22T08:17:19.894Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zarwqyvlbogyoptvzo2kvmo6":"wbarn",
+"3laonqx4ulaevm6cel5yo7yt":"wbnelson89",
+"a32o377d7uxsi3b5oxw2lbiz":"wbreiler",
+"hig7znlgvprmhjho5osuadnx":"wbc",
+"a7kllxjg3ksrujg7kgiwd5wp":"wbv88",
+"4xks4szk6ck5zvyojnofnyat":["wbur.org","WBUR"],
+"26xlggwzdjp2crlokirmhrut":["wbmarsland","Welton B. Marsland"],
+"gqcv7khizrmlsspbtfica3dj":["wbruno","Bruno"]
+}) // 2023-10-22T11:50:05.805Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

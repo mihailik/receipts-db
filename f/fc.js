@@ -19,7 +19,7 @@ var fc=(function(jsonp){ if (typeof fc==='function')fc(jsonp); return fc=jsonp }
 "nax6si76mxpglkthewoo4oov":"fcknwittyhandle",
 "nro5anbpanexvr6qdjglhbhr":"fcinthesky",
 "pfzxuhye5y7qrjkgvjnwsm47":["fc-hexe","FC-Hexe"],
-"pskfkfad7zdpz7jl2ljzwgro":["fckingbear","F_cking Bear (Taylor's Version)"],
+"pskfkfad7zdpz7jl2ljzwgro":["fckingbear","F_cking Bear "],
 "pu4rsrwq2ni3ubc4nwfxdxbf":["fcancio","fcâncio"],
 "qbh2jfmqwn24k6utz6omwzn6":["fcatte","Francis Theodore Catte"],
 "romcq5zpe25tld6345tyarg4":["fckafd.net","Austrosaurus"],
@@ -70,5 +70,15 @@ var fc=(function(jsonp){ if (typeof fc==='function')fc(jsonp); return fc=jsonp }
 "4zzrm7rwwbv6u2n4d4zsglu5":["fcolares","Colares"],
 "nbshctc6dhb3iap4b6omqqde":["fcknatt","nat"],
 "flfknts7vckplnyayeheyxkz":["fcgqb","やの"],
-"asetgfljjebymeyjdlpipgzz":["fcktiago","fcktiago"]
-}) // 2023-10-22T08:14:25.531Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"asetgfljjebymeyjdlpipgzz":["fcktiago","fcktiago"],
+"jwzo56opluvspqga6dsm4a2d":["fcfacts","Rahul Namboori"],
+"ffmpuhybjvd4bcyl5ang36fn":["fcd55","Frank 5th"],
+"nad6vlr25mx3yzhh5ujj5kdz":["fcapomax","Francesco Capomassi"],
+"7ci7vntnlsvlzjvdghfcwn35":"fca",
+"xswsfb4xhao2v7uowbz6tq3x":["fchedemail","Florian Chédemail"],
+"hcezsolwvt44re2wyibq5ywx":["fcuniones","Union Berlin ES"],
+"zsei6yi3ndnpaotgaiwltl4x":["fcp","FCP"],
+"j4gnajcpvb5suzg7gtbejo2s":["fcakyon","Fatih"],
+"mhrbc63zzcyfk6i2ltjzospm":"fcost",
+"woykgasuktbalvwxbrd3i6gi":"fcc97"
+}) // 2023-10-22T11:37:54.780Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
