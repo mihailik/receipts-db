@@ -24,5 +24,21 @@ var hf=(function(jsonp){ if (typeof hf==='function')hf(jsonp); return hf=jsonp }
 "idpan7zoavmxgciqqeastadx":["hfhr","Hindus For Human Rights"],
 "ntbbfkl3quwvzyanno2u24wt":["h-fukuoka","Hidey"],
 "rjnoit7t4oypkiqzkjj2fvz4":["hfxlibrarian","Sara Gillis"],
-"rm6sbkxsc527um36b267b4ky":["hftinus","Martijn"]
-}) // 2023-10-22T12:36:57.540Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rm6sbkxsc527um36b267b4ky":["hftinus","Martijn"],
+"aayb7gfhkvfz5hgzvzpobg4g":["hfchitchat","#HFChitChat"],
+"s3cave7aeumoobqtaemo3emx":"hfxreader",
+"lflt27iuj5v5seozqjvxt2g4":["hfagundes","Fagundes (:"],
+"rd6xisssc2b7jzumhoawvnxn":"hfoster",
+"jzmoyfig2rdwh7wzs6u26hf3":["hfnr.cc","reed"],
+"vcprfcfitmihvexbfk4xjnut":"hfcred",
+"zvj3og3ppbjsxjddbrb7glxo":["hfdavis","Charles H.F. Davis III"],
+"bwaahnzucg3bl24qqxifcnoo":["hfx","HFX"],
+"idre7obfhb2c5ck7lstlqszv":["hfxginger","Hfx Ginger (she/her)"],
+"5efnvkrp5kn5en2qfigii3v6":["hfarash","Hinoa F. Arash"],
+"3z4rxhttpjsrrcby3wu43jza":"hf2",
+"jqbnisnvl4sv6qa2vcyvyosh":["hfo","Hideki Francis Onda"],
+"evegsdvvo5duefssqkem3e5d":["hfidmosejzh","Էզաաֆնորի"],
+"ca2lu4tjmgi2vod3hvztwxxv":"hfxshippingnews",
+"tmcarae7x4ket4rket6dnzvd":"hfallah",
+"3uoalo7dgbv4ysbtvanm6g43":"hft"
+}) // 2023-10-23T06:51:18.007Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

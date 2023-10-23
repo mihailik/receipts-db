@@ -21,5 +21,11 @@ var xf=(function(jsonp){ if (typeof xf==='function')xf(jsonp); return xf=jsonp }
 "u2u7vhukg5xl2jv3kfnumuky":"xfabiosouza",
 "6v7ditwaivxfsqs3smcbtrw4":["xfloralis","floralis 🌱"],
 "zxztmu6trt5tynzkbwilkt3n":["xfreqyfreq","ray (we made it) "],
-"t3u57ql4sz6mbmyowjjsqtqm":["xfr","xepher"]
-}) // 2023-10-22T16:01:57.266Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"t3u57ql4sz6mbmyowjjsqtqm":["xfr","xepher"],
+"piymskhykrhi5hhynu6jnlfe":["xfrench","Xfrench"],
+"6if23ok7bz6zcvi33q42sumv":"xfinity",
+"fv5hplurwimvtdes72anbieu":"xferdi77",
+"kjs2shcb4ef4lpv5xt6rc7id":["xfmaweezy","Kisha "],
+"zrc2ymhs6aer2iyojdumzii7":["xflboard","XFLBoard - XFL Football News and Discussion"],
+"tbf5oawrhzjjsn6u6wpbyfwx":["xfranky","..xf.."]
+}) // 2023-10-23T08:14:48.523Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

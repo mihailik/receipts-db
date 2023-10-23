@@ -29,5 +29,19 @@ var zd=(function(jsonp){ if (typeof zd==='function')zd(jsonp); return zd=jsonp }
 "ltqigvqnkznv3d2kjkfqorqx":"zdenek",
 "dly6lqujpuhilcjz24bnzodt":["zdrojak.cz","Zdroják.cz"],
 "hsz75dix5hzbfdzrmwdc4yes":["zdftop","pedro"],
-"kqrpaqvgfizgxcncbyosc7b2":["zdrowin","ちよ"]
-}) // 2023-10-22T18:28:16.574Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kqrpaqvgfizgxcncbyosc7b2":["zdrowin","ちよ"],
+"tsl4e54mcnx6wz6iokovdjs4":["zdohnuc","самка пацюка🐁"],
+"u47o4lbcyeqawztiyeg34crb":"zdgro",
+"cvn47w2miyyiautdi6i5qnfu":["zdmajor7","zdmajor7 "],
+"cmui3g67kpnxbs2jhtdqkbwf":"zdrcgyb",
+"g674pkysqo5eqptbkeqwknf4":["zdllidya","focada na minha loucura "],
+"rag7dspp5wyay7f5eipsvlpy":["zdots","Zdots"],
+"7gko23mpzhc2dycl4g5djtzz":"zdeem",
+"mnxlqx55scilkhcpd7ogxmb7":["zdboren","Zach Boren"],
+"ozfigjdf6gpbadpjzovgfquk":"zdro1216",
+"sqieb45scwtdwj7hcimh6qha":["zdobson71","Zach D"],
+"6pcf7ct6na3hhdeqgoaspi44":["zdimension.fr","zdimension"],
+"mdazmbqfwycrqtqi3j4tpjsz":"zdravko",
+"pqpszoxywrlbzru24xkis5aj":["zdudeness","His Dudeness"],
+"56ojgjn7wrtfggxlatffxfyb":["zdorovyi-gluzd","Здоровий глузд"]
+}) // 2023-10-23T08:16:45.361Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

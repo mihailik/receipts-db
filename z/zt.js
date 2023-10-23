@@ -3,7 +3,7 @@ var zt=(function(jsonp){ if (typeof zt==='function')zt(jsonp); return zt=jsonp }
 "2tkteq4jm67y3rauhyh7nrul":["ztk.io","loudmog"],
 "3i22zw5xnz33zkxiesqfrtsu":["ztepher","Stephanie Claire (Ztepher)"],
 "gmjtbcwgpvu347mzcycknwb2":["zteng","ZTeng"],
-"hmsgasfc3qjg7oiew37y5oqq":"zthefox",
+"hmsgasfc3qjg7oiew37y5oqq":["zthefox","Z the Fox"],
 "jlalfsmzsiogvc7cn7suyqm7":["ztein","Ztein"],
 "jn2wcyl33tbulgt2cms3lgb3":["ztevery","Ztevery"],
 "jshiknldxwmxqqonykf57xm7":["zt98","ZT"],
@@ -30,5 +30,15 @@ var zt=(function(jsonp){ if (typeof zt==='function')zt(jsonp); return zt=jsonp }
 "kzz3a4q4pco4hnkcogyp3uuz":["ztheitwitch","Z"],
 "55yeu6suzj6mnuyez72qjlys":["ztmodarchive","Zoo Tycoon Mod Archive"],
 "rc3532ky7omphvvfyvgllb7r":["zturchan","Zak Turchansky"],
-"rewnu2oirdgyhyys4xzczac6":["zthestranger","Z the Stranger 🦐"]
-}) // 2023-10-22T16:42:32.535Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rewnu2oirdgyhyys4xzczac6":["zthestranger","Z the Stranger 🦐"],
+"k3rwtvl6qyhlfg64u6r5ut6p":["zthekitsune","The Overpowered Kitsune>=D"],
+"iazj6vhrcx3ym62e56hnquuk":["zthompsco","Zach Thompson"],
+"qaajp4b2rrpya5ewxrkhcscj":"ztrupp",
+"dl2cnee3a354hht7efdtmcwq":["zthecrazed","Z The Crazed"],
+"3rqas2qaczp3kl7kavumpjzg":"ztnewman",
+"3qwmrmus53zgiggan4renusr":"ztuphed",
+"auxb6mzygmsm3hfupqn6z3ux":"zthund",
+"exvoi24wgvm4k4jq7qaywazh":"ztasre",
+"ek43fgzdmqwraj7qpzwjqpll":["ztp","cow tools bebop"],
+"6bdwmuiozgd4cpyq3n6bxgwv":["ztoical","Clíodhna Ztoical"]
+}) // 2023-10-23T08:28:15.671Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -9,7 +9,7 @@ var xb=(function(jsonp){ if (typeof xb==='function')xb(jsonp); return xb=jsonp }
 "st4itbwln72k3bo2xvw6n6vn":["xblasco","Xema Blasco"],
 "tsymgnmruiypspcthaols7tv":"xbladewolfx",
 "w5i3r35rkf5zrpt5srsjt2kr":["xbailey","just bailey."],
-"w6zy6jeftpsixuavdj2vv5gp":["xbskyx","쉼야구"],
+"w6zy6jeftpsixuavdj2vv5gp":["xbskyx","심야구"],
 "wfew5mlg2xye5oqgvzxbrx2i":"xbepo",
 "wftodxh6nm2zsdigq4th4eqq":["xbanth","Anth from xB"],
 "yfatztugydlxloj55xelrkhl":["xbs","Marbles"],
@@ -37,5 +37,21 @@ var xb=(function(jsonp){ if (typeof xb==='function')xb(jsonp); return xb=jsonp }
 "sfdbnm5riq72ytwuqftdbcj7":["xbehemothx","Jared from Subway (No Relation)"],
 "2p7eylpogwxh5xsv7vplubwt":"xbianca",
 "nj7ivhs7av5nepldfhemnhqu":["xbadhost","xBadHost"],
-"udeicu7iblks5abidu3prlpb":"xbing"
-}) // 2023-10-22T15:54:04.559Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"udeicu7iblks5abidu3prlpb":"xbing",
+"6fet6aisnozrbpciix25il66":["xborland","Orion Edwards"],
+"l6q7okf4lbizi27heea6dzil":["xboxtalks","Xbox Talks"],
+"phozdcbs5ououv2z45i2dltx":["xbhaskarx","Dr Bhaskar ♈️🔫"],
+"3zu5bkwzvpg5xrn7lvoyow2h":["xbloolii","xBlooLii"],
+"3r6nh7jpbhaa7m6inpvw2dbz":["xboxplaydates.org","Xbox Playdates"],
+"juqo52ijkps654ijuxogr3si":["xblue","se7en"],
+"2w67rs62mv74bt3log52e7b6":"xbank",
+"5cstzb7upo2gcugndwoelzpt":"xbenn",
+"2hkylzza5tl53few5imqyzck":["xbird","Xbird"],
+"jh3zqycy4eeymkayrotgki22":"xbomber125",
+"xabhtl34ikumf3mwrwu5ryt5":["xbrarian","Josh - Dawn of X Podcast"],
+"ujplb6eo6folo4zdz5akzgoc":["xboxmedia","Xboxmedia"],
+"acdrwqzvmfnpz6ok3ymwmq6w":"xbusquiel",
+"e2qnmlapohy2qsb5diq5cqe2":["xbi","Xabi 🏴‍☠️"],
+"3hfphibybuin7kcf6z55dfcp":["xbohemianqueenx","Johnna James"],
+"4aqkrfw2ohp7xwslthcs7q37":["xboommon","XBOOMMON"]
+}) // 2023-10-23T09:22:38.959Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -35,5 +35,15 @@ var vf=(function(jsonp){ if (typeof vf==='function')vf(jsonp); return vf=jsonp }
 "ryn7os2zqz7h56v47s7o6lwi":["vfearon","vfearon"],
 "dqkdsgexghrfzrexvv7kst65":"vfomichov",
 "mmjnistcbzxbrpnusc4xshjd":["vftable.lol","k"],
-"ofd3o45cnrwmmb76uk6af6dl":"vfreire85"
-}) // 2023-10-22T17:03:05.219Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ofd3o45cnrwmmb76uk6af6dl":"vfreire85",
+"7mg4sk6fwfsv44qi5rhuqafu":["vfdarkness","A Voice From Darkness Podcast"],
+"qmcy5ccn5azeqndtiv3pcgnd":["vfouquereau","Vincent Fouquereau"],
+"4r5hskkrxc3sm4pgmzavwave":["vfpimenta","Victor Pimenta"],
+"pxx2ketli6utsm257forvnz6":["vf5ss","VF5SS"],
+"j24wkxsrywctd4eqoc2xoh62":"vfranqui",
+"t6d67qg4kw6hfq66kuoleulj":["vflare1","Flare"],
+"yqn4vybbjfsa6i4k27irwjjo":["vfp","VFP le scintigraphiste"],
+"shqpe6v5yecbjtatg6nnsmhn":"vfleary",
+"u6u7vhwknp43d4timdoj253b":["vforvika","CheeseCakue🍰"],
+"slsfo4szifkoelzhxeca5x2x":["vfmf","Victoria"]
+}) // 2023-10-23T09:15:41.153Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

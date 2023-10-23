@@ -1,12 +1,12 @@
 var yf=(function(jsonp){ if (typeof yf==='function')yf(jsonp); return yf=jsonp })({
-"2lfb2e3gstrxmd2cvjkmgf5y":"yfr",
+"2lfb2e3gstrxmd2cvjkmgf5y":["yfr","Yuri Rego"],
 "4am7k2xrzqe7gmnqxk3m3jkl":["yftechno.twicry.com","Kyle | He/Him | Catch me Streaming or Writing about Game Dev"],
 "bjlfl2xyyf7wwztndgyojngo":["yffwl","William Rees"],
 "fym46q73iqip75m2ployecav":["yfreemark","Yonah Freemark"],
 "iwmyxbosvsvs3ur5bqhgpm5q":["yf24","yf"],
 "jdazim72qdspeehmr5fetukr":["yf23","Markos Sigalas"],
 "p4qtxllgvuu7dnvm5qkyfeb5":"yfzx",
-"saivj3b35jasc6dffe7h6bfa":"yft",
+"saivj3b35jasc6dffe7h6bfa":["yft","Yusuke"],
 "sfbhltbkoby4ahe4blqktwtz":["yfield.social","Лао Цзи"],
 "vq7te4s2unebph7itpkwkxa7":["yfje1","🌳Yvette🌳"],
 "cf6hn3t7hk6zpma35yvsutx7":["y-furu","Yoshikazu Furukawa"],
@@ -14,5 +14,10 @@ var yf=(function(jsonp){ if (typeof yf==='function')yf(jsonp); return yf=jsonp }
 "3us6q4dasthu27pvc7gjn6u4":["yfella","Yfella 🇫🇷"],
 "cwjc253xavuhq2qekba5pgzv":"yfernandes",
 "xjtmofgkhkjgqlv264hsjm37":["yfitz","Yvo Fitzherbert"],
-"6negtapophstxw2jkvzmazom":["yfarahat","Yfarahat"]
-}) // 2023-10-22T18:15:16.532Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6negtapophstxw2jkvzmazom":["yfarahat","Yfarahat"],
+"jeifam3mabnxsrj52kcph3h6":["yfm","Moofy"],
+"23tw2vp6ujo7nusle5kw6zsr":["yfox","YFoxy"],
+"i5rhxz2yaukybamrv2ctxhna":["yfbpodcast","Malavika Praseed"],
+"3d6nzzpa6ov35w7aiyq7ffah":"yfurman",
+"aoazfrk2l5idzbve2ko3gtzu":["yfifan","YFI Fan"]
+}) // 2023-10-23T05:02:49.606Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

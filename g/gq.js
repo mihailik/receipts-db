@@ -4,5 +4,8 @@ var gq=(function(jsonp){ if (typeof gq==='function')gq(jsonp); return gq=jsonp }
 "ppv5prbauaqgcc3ttum6ghcc":["gqmagazine","GQ"],
 "pggc3m5qv47ros3zmayypezc":["gqgilbert","Gilbert Quinonez"],
 "sb6fmvrrl675ttzic5r6vmqz":["gqchris","GQ Chris"],
-"z4ax4mkxinzbvrddjr2vxaap":["gqueen","g queen"]
-}) // 2023-10-22T13:52:00.955Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"z4ax4mkxinzbvrddjr2vxaap":["gqueen","g queen"],
+"6f3p7n565a5berycopopf6va":["gqandrogynoid","catbirl"],
+"utilizc3p7ole5pbf5sr2vrk":"gqballard",
+"omgxek6yaslkwhmili2tqust":["gqueiroz","Gabriela"]
+}) // 2023-10-23T05:57:39.351Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

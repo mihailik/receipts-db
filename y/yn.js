@@ -45,5 +45,22 @@ var yn=(function(jsonp){ if (typeof yn==='function')yn(jsonp); return yn=jsonp }
 "nkew23stlaqnq3wnzmjwvlzj":"ynishi",
 "l4avly3n62hpeouujhikemh5":["yneohp","dipp "],
 "pief2xfwfvtrf2lt2dufshtv":["yngwiewife","탈골"],
-"4ysbrfqnose2mgekcdjus45m":"ynylda"
-}) // 2023-10-22T18:42:08.118Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4ysbrfqnose2mgekcdjus45m":"ynylda",
+"fn35fuvvtfsatngrtjsvt5gj":["ynpapa","Yoshihito Fujiwara"],
+"6ww36kpvfdatbuiustgpvsw7":["ynot1989","Sean McKnight"],
+"e2rt3neuitcq73xj2t3o3rkx":["yncomrade","Comrade"],
+"sfogm6fmpscuix4nclry6idg":"ynotfps",
+"eulka3tkvrwrij7xubriukmz":"ynaetc",
+"r57b6vb42w2jzaiixkwt5pj7":"ynogu",
+"aeny6qdq7al4xt54xzj4axxx":"yndr4hope",
+"6jj6l4bvxl42uysywj2jqpux":["ynm","YoruNoMachi"],
+"q4ucpsrtu2ch7zk2dmlswmpm":["ynunim","유누"],
+"ur47irtjloralbyxjbqjnfsk":["yng","yng"],
+"lki3ub3y4dzsfdqwmikbr3ng":"ynarita",
+"eod33p7irdafn42scclbiwfu":"ynktk",
+"r7rrunqhrxtdheh4a3f4kkka":"yngdorito",
+"liafmr72ve7udkdrer3xezde":["ynr","Umut Yener"],
+"bejcrahtvjkl5gyftysuog3k":"ynks",
+"v5iqurrbunbcs4kkejzhmspm":["ynnstantdoodles","ynnstantdoodles"],
+"pzs5qunmh5fmgmcxh7i7hwtp":["ynisikido","yochan"]
+}) // 2023-10-23T08:18:31.582Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

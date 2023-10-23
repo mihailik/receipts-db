@@ -6,7 +6,7 @@ var uu=(function(jsonp){ if (typeof uu==='function')uu(jsonp); return uu=jsonp }
 "hya7o6d5alljtgkovhysxao3":["uukipi","uukipi"],
 "kl7t5xile6a3dtyjbco4ndvr":["uukki030303","무끼우끼"],
 "uupmickjktgcqaj5bt536efb":["uuc","ゆゆし"],
-"vj55c67hrdx7nl2sxhklxgaa":"uudaiy",
+"vj55c67hrdx7nl2sxhklxgaa":["uudaiy","めんごく"],
 "vrelkrjvnrngose6biwyyggm":["uudd","UUDDssbu"],
 "ygtdzp6c7w5cy5eduaegvab5":["uu-hime","Uu-hime"],
 "yiluqapobt3pvfqs5nzypzhd":["uuuuurano","u_u_urano"],
@@ -36,5 +36,13 @@ var uu=(function(jsonp){ if (typeof uu==='function')uu(jsonp); return uu=jsonp }
 "xixorqg2qoslr5eofnz4moel":["u-u","u-u"],
 "7mkbl2nwst2girrv3uugcuoe":["uuret.ch","mono"],
 "wwhiycew2wy6jwwylzuod36p":["uuuube","うべ"],
-"u4jc572tubjkvs5xn65s5mp3":"uuralbas"
-}) // 2023-10-22T14:49:04.223Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"u4jc572tubjkvs5xn65s5mp3":"uuralbas",
+"n5f27woilzx7gskippdlzg6m":["uumo","うーも"],
+"jje7zy4abqqesssvbnqz75y6":"uuiddjwai",
+"fwjs4iihxpxbez4ivtugvzhd":["uuurae","우래"],
+"2nmnfz3p2qyfpbdrd5ntq5av":["uusaint","John St. Clair"],
+"2jlxbht33o5tutm4xxaimmcf":"uugurtass",
+"pndivowwofqgcxs3l7nhueq7":["uuijunnn","ᔕᗷᗩᑎ/스반🌟"],
+"3hdildsg5fm2zxgkuz75tqqy":["uuuuahhh","Uuuuahhh"],
+"dmqrp5asysmclnbourn2l7cd":["uuonbin","왕빈이"]
+}) // 2023-10-23T05:56:01.672Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

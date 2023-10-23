@@ -11,5 +11,17 @@ var uv=(function(jsonp){ if (typeof uv==='function')uv(jsonp); return uv=jsonp }
 "ii3eua34xu5ouhhx63lfcpqt":["uvadimbula","우바딤불라"],
 "ft7chsrbc3ftifn3mq7dt2u3":["uvienna-econ","Uni Vienna, Economics"],
 "plagasbcf7ts3bgeei3n3q67":["uvablack","쿠오"],
-"joapso73rvcev37yljfobiri":["uvapassismos","Raisineer"]
-}) // 2023-10-22T16:47:28.976Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"joapso73rvcev37yljfobiri":["uvapassismos","Raisineer"],
+"dojv3ggd6753g2sdy4b26mmn":["uvakarebear","Kara Thornton"],
+"4jxt45boibji6zpsudqlz2oh":["uveektor","Umeh Victor"],
+"y6m6gh2zi7qcphxp4hg7gvdn":["uvcatastrophe","Catastrophic!"],
+"zuxdikkz4unmhod3mq3poguz":"uvnotes",
+"mjcb4lcz5yyci4eut7bv437k":["uvesaurio","uVe"],
+"nxlg3noqlinivpti3tev7jh3":["uvinhacore","uvinha "],
+"jvvugl33to32mnepsc4bruxh":["uvic","Jules"],
+"rsumwxgs5k3nox4zla2dasgl":["uvhater","자차"],
+"6xosoney77phdahaskyzrwrf":["uvfozz","Rome/Roswell (Any/All)"],
+"v4jhm5e3csjcjezibns7ihkb":["uveportillo","Uve Portillo"],
+"a7bycqj2jwq752lurt6tb7di":["uvk","uvk"],
+"3c6cuylljycf3hm5vtdcc3sf":["uvwvs","سامان"]
+}) // 2023-10-23T06:36:59.229Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

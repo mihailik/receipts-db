@@ -2,7 +2,7 @@ var yj=(function(jsonp){ if (typeof yj==='function')yj(jsonp); return yj=jsonp }
 "7cqldlbiijx7emnrsunl23cs":["yjungmlle1214","Yuu J. "],
 "7l55remhjketzhncoyg5nhnp":["yjenni","jenni"],
 "bnzflpx4hbljopgt6i5anr4u":["yjgreen","🫶 팡인"],
-"cn3msydjfmimo5olwcvsjx26":"yj1104",
+"cn3msydjfmimo5olwcvsjx26":["yj1104","yj"],
 "lsq2cp3ae4kpamet2cjtarwj":["yjsk","yjsk"],
 "iyyoese5mlh542dd3jenaplx":"yjc",
 "fvpalawrsoyxnn66de5pcn3m":["yjh1403","ZiV"],
@@ -19,5 +19,13 @@ var yj=(function(jsonp){ if (typeof yj==='function')yj(jsonp); return yj=jsonp }
 "ofsfmfhytum4jyddiiqpz3o7":["yjj","YJJ"],
 "pu5354mgkes6yici57zoydhp":["yjimbo","Yoshihide Jimbo"],
 "3q7wtfty5sxzjt3mf4ujthb5":"yjkim",
-"dm27422bxa7yzvfdp4ymijsc":["yjonana","gigi"]
-}) // 2023-10-22T18:26:33.101Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dm27422bxa7yzvfdp4ymijsc":["yjonana","gigi"],
+"jrwlvmlagxp23fgny6n6whhp":["yjbcln","лізо"],
+"7sfoqrzcjadhofigw63v2ytc":["yjsnpi","例のあの人"],
+"u4uy6qawo4tvu2rnxqujnlqg":["yjh","수련_전독시 외전 스포계"],
+"qiap3d3bm4rz7jimlspqlrpv":"yjeonghan",
+"57etmdp7umj4b5txlqodyf3t":["yj1222","Now playing kpop"],
+"mgzuipumncvlr2vz2lduqndk":["yjthecat","yjtc"],
+"c5tbibmspthzqotqfncw5nos":"yjans0",
+"fu3ijyan5ii2wkxffsoj6t3v":["yjghz9f1kdp4dlnrfi","hagi"]
+}) // 2023-10-23T08:11:03.103Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

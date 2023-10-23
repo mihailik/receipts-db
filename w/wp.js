@@ -1,10 +1,10 @@
 var wp=(function(jsonp){ if (typeof wp==='function')wp(jsonp); return wp=jsonp })({
 "2spa4a3fy5seuef5rqmzvgjw":["wpwend","Bl'ast! Hard Cheese"],
-"dkhi3n4b5tujj3iuhr5snmor":"wpschlitz",
+"dkhi3n4b5tujj3iuhr5snmor":["wpschlitz","Willzebub Schlitz"],
 "i7nmnivp4g5dxst43fvvklqk":["wpwhite","Wesley White"],
 "m4djjigm4atilkydppvrfxll":["wpnzdthickness","Weaponized Thickness"],
 "otc3vesf5koehwig5tabwqyl":["wpln","WPLN News - Nashville Public Radio"],
-"qbevtmufduxzbukublgiqlq3":"wproof",
+"qbevtmufduxzbukublgiqlq3":["wproof","Walter Proof"],
 "ry53mh6kuivkexbqkunuqbhy":["wpmarble","Will Marble"],
 "tyitmyjtrbuuvclvrl2hldd7":["wpom","Arnold Palmeroy"],
 "xeuu2g23iah6fw4wqvzdywbv":["wpb003","wpb003"],
@@ -35,5 +35,19 @@ var wp=(function(jsonp){ if (typeof wp==='function')wp(jsonp); return wp=jsonp }
 "rwlbsrgxradn7fwcjdpgnfrg":["wpaulcarter","Paul "],
 "2jo2gz6ydb7vvyrfm4wzxmsj":["wpaneque","walter"],
 "vvuaaqup73vxn2okdooxulwa":["wpeeling","Whitney Peeling"],
-"b22qvz2vwogbvcyevaocuwos":["wpsteam.net","Rahul Biswas"]
-}) // 2023-10-22T18:35:48.817Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"b22qvz2vwogbvcyevaocuwos":["wpsteam.net","Rahul Biswas"],
+"7brkic5cjvtkeli4s3lqmvp7":["wpbass","Patrick "],
+"ed3eq4u547rel7svsazie4om":"wpstrix",
+"aess2vwewjajvjykrjuzakjf":"wpinner",
+"vfiiw7urz7wltcyv3b6ab2ja":["wppyart","Whippy"],
+"azpyspbn3b3khkt6ynqmtqgz":["wpposters","Weekly Planet Posters"],
+"dgtcaijjzm4k4koghv5o4hnr":["wpkenpachi","Wp"],
+"ektu7oe4e752f6sbqb6y3ecv":["wpisztekst","Bober"],
+"syftgxeqo6hbgi34cyigzkq3":["wpafw","Western PA Furry Weekend"],
+"j4etfwdyxoohjotfwri23vsx":["wplalonde","Willa"],
+"ebqx3ev2vk64rbytb6uvzrjq":["wpichembiochem","WPI Chemistry & Biochemistry"],
+"bcqszyxvn3ptkcq2h2ngzopp":"wplatt24",
+"fpgci7yuqf3q2lmewavmante":["wpookyx","푸키"],
+"eaxb2sljxmghhasjdwc4uahn":"wp2",
+"vsatv7cznz2aw2zwuwuthmfo":"wprmedia"
+}) // 2023-10-23T08:06:52.564Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

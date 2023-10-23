@@ -3,7 +3,7 @@ var qm=(function(jsonp){ if (typeof qm==='function')qm(jsonp); return qm=jsonp }
 "fz3wpq6x5nzrs6u2hjtihe6h":["qmanning","𝐐"],
 "gykq7r6ca4mlnrjk3pcjyrah":"qme0wjeb",
 "hdjva3vyswvixdnm7uhgeuvi":["qmph-es","¿Qué mal puede hacer?"],
-"knp7blzotm2dbpumxgetiwy3":"qmp",
+"knp7blzotm2dbpumxgetiwy3":["qmp","Quentin-Mathéo Pihour"],
 "pojazqvmlkhlq74lcpwedovj":["qman","Quinn "],
 "x2pwr2wd3ogkjdavmmulqiaw":["qmickhusky","Qmickhusky "],
 "tclit3ftgcpgjq44gua4ojx6":["qmuntal","Quim Muntal"],
@@ -17,5 +17,12 @@ var qm=(function(jsonp){ if (typeof qm==='function')qm(jsonp); return qm=jsonp }
 "nfsrhmsbruqtpynm2anrr4fy":["qmsd","ぬし"],
 "emomvbffz4ige3mqhaeauovb":["qmackk","Quentin"],
 "kb4rkw2qdtvdqblzzc4d3uyo":"qmugs",
-"pdkuros3n5shes46u66bykbj":["qmaclean","Quinn MacLean"]
-}) // 2023-10-22T12:32:00.474Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pdkuros3n5shes46u66bykbj":["qmaclean","Quinn MacLean"],
+"6rbngfckcktwlhxevut6jr3y":["qmftmwmg","프라이쉬림프"],
+"geafktq7ojlo5h6kvvmilb3j":"qmars",
+"hge3hzcypsydko2mcyxk3drf":["qmerk","JB"],
+"pz2xjgj5ueu6x3ydplcoyxoj":["qman-dk","Qman_dk / Q-dk"],
+"cahqjohzbpvz4wxmmzzwgxor":"qmole",
+"mfur4mytmkggevox6jsa4le7":"qmka",
+"ah4j7gj6xjpg3vveiv6do6gy":["qmthegm","Q"]
+}) // 2023-10-23T08:28:15.669Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

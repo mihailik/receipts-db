@@ -21,5 +21,18 @@ var jq=(function(jsonp){ if (typeof jq==='function')jq(jsonp); return jq=jsonp }
 "3lxjixn7geedxzyaoujcm37z":"jqwhite8",
 "5ptzcw3sttt72ybh7jx4wdqg":"jquitting",
 "mansczcqguaqi6mchir2toif":["jquinnswift","aline"],
-"m6nduf6hrby4vvajk6ctnqol":["jq1.io","Jude Quintana"]
-}) // 2023-10-22T18:15:16.433Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"m6nduf6hrby4vvajk6ctnqol":["jq1.io","Jude Quintana"],
+"57mlzdkjbpfqa5i3bmmgmobw":"jqw",
+"afwsakf4r2yo3dxmzzbe7fzt":"jq90",
+"63ayfvmfma2b76wucfxz6zcx":"jqlgirl",
+"lxglt6vej74accy7j2jmloi7":["jqu25","John Q"],
+"wb7h5xsl45rgznj5ackbh2rb":["jqno","Jan Ouwens"],
+"qz365sncacdapddb547dy4fn":"jqnoble",
+"prr3ys4bwowgxy6zc3no4f5l":"jqmark",
+"qjq3la2otc7clekjdwzqc4b7":"jqrd",
+"osdudtvj3l2k7tko6jbzuuww":["jqwelch","jq-o’-lantern: “buy tickets to 54 Sings INSIDE”"],
+"injoxhod2tuo6v63b5bae6rd":["jquestionmark","J?"],
+"o5rzzpyztzrpakr3t5c776f7":["jquadrifrons","j. quadrifrons 👁️"],
+"vzzwts7u44fbrykx5gewycvd":["jqos","Marr🔪"],
+"o46th2tgdm33ommu6xlxp2lj":["jql","Jessica QL H"]
+}) // 2023-10-23T07:39:35.336Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

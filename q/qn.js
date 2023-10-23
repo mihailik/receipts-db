@@ -11,5 +11,12 @@ var qn=(function(jsonp){ if (typeof qn==='function')qn(jsonp); return qn=jsonp }
 "yxenskfm4rn5abucm2y7qlu6":["qns","qns"],
 "jbtvpic7kpowmv2dfbo55spe":["qnnts","матінка драконів хора🩸🔪"],
 "zd2i66wqusdrmujfx7o6qneh":"qnb",
-"7ioqxbefp6q34rzu2523m6c6":["qnfrdmsehowl","붉은돼지"]
-}) // 2023-10-22T15:41:16.858Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7ioqxbefp6q34rzu2523m6c6":["qnfrdmsehowl","붉은돼지"],
+"xdykfnrhsf6i7nqfgdxdoral":["qnova","Q-Nova"],
+"5tx6mybux6nronvunvp3lqkp":["qnfans","불문님👑"],
+"jsxjegrnjwqkhuksyn7kkzzi":["qnfwnajr","불주먹"],
+"aohgcnoxzbgbiysyqpkfob7j":["qnhr","qnhr"],
+"mrk7hckpjxte6pu3dqa5xazd":["qnsxoxo","Queen xoxo"],
+"fiq4fcgxugj5ke5d4ehe2ut2":["qnorouzi","N O R O U Z I"],
+"g3kxdqlnqj624kz7vlqdrsyi":["qnodrknss","Queen of Darkness"]
+}) // 2023-10-23T05:14:35.864Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
