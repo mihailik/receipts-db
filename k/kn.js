@@ -801,5 +801,7 @@ var kn=(function(jsonp){ if (typeof kn==='function')kn(jsonp); return kn=jsonp }
 "jm3dut3nqhpbva42wzwonslz":"knotrotate",
 "yjwhveuy7duaxlfyplkf25yf":"knett",
 "4lz2xy2renfyu2t6gutdd4b7":"knokkels",
-"hhnzmqcjha6ha3ssnz72aozp":["knut.dundasmora.no","Knut Morå"]
-}) // 2023-10-25T17:51:17.513Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hhnzmqcjha6ha3ssnz72aozp":["knut.dundasmora.no","Knut Morå"],
+"pfqumosntvqziabz6ydtdnc4":"knyzhkovakache4ka",
+"3oopozp4phqf7nbgl2mnlly4":"knfbsb"
+}) // 2023-10-25T17:59:54.442Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

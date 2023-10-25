@@ -136,5 +136,6 @@ var ld=(function(jsonp){ if (typeof ld==='function')ld(jsonp); return ld=jsonp }
 "jni6yxpy4bfhzat4trilynzr":["ldaws.com","Liam Dawson"],
 "awnydp4zthvlmy4nkz5r3qfa":["ldloeb","Lawrence D. Loeb"],
 "5noebdo4jne6u43rrhh2ii4q":["ldkyla","Kyla"],
-"kkxut4vujdvayshf7mzxywk5":["ldnislonely","paris"]
-}) // 2023-10-25T17:52:53.448Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kkxut4vujdvayshf7mzxywk5":["ldnislonely","paris"],
+"dikcipntnlaaw4mvq7ndxaf2":["lds-editorial","Laurie Duboucheix-Saunders"]
+}) // 2023-10-25T17:56:24.440Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

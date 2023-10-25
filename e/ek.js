@@ -348,5 +348,6 @@ var ek=(function(jsonp){ if (typeof ek==='function')ek(jsonp); return ek=jsonp }
 "hqurozbd3nlz3iugoclkwq6t":["ekarlca","eKarlca "],
 "rvmnuydaeareak7m3abcefpo":["ekanem","Traderxx"],
 "oxmltenzp2qfytkizff7eio3":["ekaya","Artificial Intelligence Institute"],
-"52zw5nxa2pfbwifqxkoqggdt":["eko5","Raine"]
-}) // 2023-10-25T17:47:53.181Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"52zw5nxa2pfbwifqxkoqggdt":["eko5","Raine"],
+"fbc724nphlpk632rl7sget5d":"ekaftan"
+}) // 2023-10-25T17:59:54.798Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

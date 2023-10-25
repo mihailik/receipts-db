@@ -1948,5 +1948,6 @@ var qu=(function(jsonp){ if (typeof qu==='function')qu(jsonp); return qu=jsonp }
 "ljxq6npjki62arsxdjqekqry":"quisinart",
 "5ec3vkiotwvv45jjebbbv3do":["quirklessdeku","tasty salsa"],
 "wyoawa4x5tvnfev764njikqj":"quintine",
-"e4xy7xieqv4ks3egjg7tqkbu":["quinncyhy","Quinn / Mythrus"]
-}) // 2023-10-25T17:52:53.434Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"e4xy7xieqv4ks3egjg7tqkbu":["quinncyhy","Quinn / Mythrus"],
+"bgz6fxd3q7jod77tyxqifnlb":["quariankai","Kai’Razu nar Niksha✨"]
+}) // 2023-10-25T17:59:54.791Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

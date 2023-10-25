@@ -658,5 +658,6 @@ var wr=(function(jsonp){ if (typeof wr==='function')wr(jsonp); return wr=jsonp }
 "3z2bzeuxy7bkkwof57bdeetm":["wrksgames","WRKS Games"],
 "xuvodkq3h5bzsgn2zzrorhm3":["wrightstuff","Steve W."],
 "fxzmqq3snenm6nuuy4fb4nrd":["wrestleupdate","Wrestle Update"],
-"c5kj4p2jqp4scjlzxqhv4qr7":["wrestcoaster","WrestCoaster"]
-}) // 2023-10-25T17:47:52.577Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"c5kj4p2jqp4scjlzxqhv4qr7":["wrestcoaster","WrestCoaster"],
+"femqrvbk7g3mwahiptivfhdm":"writerguyjoey"
+}) // 2023-10-25T17:56:24.155Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

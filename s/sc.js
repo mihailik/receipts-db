@@ -4074,5 +4074,10 @@ var sc=(function(jsonp){ if (typeof sc==='function')sc(jsonp); return sc=jsonp }
 "c7i7zlbshbno6gp4ddmjzjqk":["scribblygames","Riley (Stray Gods mode)"],
 "ijxlthpvarcmiziqn5hezvz3":"scampi",
 "llvvgoh6dqqnpnpooey6eyxi":"scerra",
-"hoht4ygbgyknqmuqbppxz2ia":["scientissimum","Scientissimum"]
-}) // 2023-10-25T17:54:47.389Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hoht4ygbgyknqmuqbppxz2ia":["scientissimum","Scientissimum"],
+"aafrpzvzrxszsck7zo62mibx":["scholargent","ScholarGent"],
+"6erzthon2qdajcxvjnlmu5ae":"scottbrothers",
+"cynbo2djrxjaqeh5uwfmt3h2":["scout080","Scout"],
+"u4fdqd5tum335em6ihvfudmj":["schnoodlesuits","Fable"],
+"paxvvzrf244nlcom5qxciw6m":"sconesforall"
+}) // 2023-10-25T17:59:54.212Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

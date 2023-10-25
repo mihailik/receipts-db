@@ -773,5 +773,6 @@ var kl=(function(jsonp){ if (typeof kl==='function')kl(jsonp); return kl=jsonp }
 "nsiphl6ftu23edlborhcf5x6":["klangbild","johannes outpt"],
 "6je7uvy2pl3o7ukkxbyezm2h":["kleytontavares","Kleyton Tavares"],
 "r2kol7delgqhix5hcbic7pav":["klamkampkamel","Espen B"],
-"rrto2vngpy7ifyqty2x3yqmu":["klimakay","Kay Rabe von Kühlewein "]
-}) // 2023-10-25T17:52:53.007Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rrto2vngpy7ifyqty2x3yqmu":["klimakay","Kay Rabe von Kühlewein "],
+"g7umg3luobog3he7xmulyb26":["kluvin","Martin Kleiven"]
+}) // 2023-10-25T17:56:24.621Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -6114,5 +6114,12 @@ var lu=(function(jsonp){ if (typeof lu==='function')lu(jsonp); return lu=jsonp }
 "kwnivzn44dfhirjpavr3ocsj":["lucasmoretti","Lucas Moretti"],
 "6dyqldtfcmxabypboskgeggq":["luisabohm","Luísa "],
 "37h6ugqvse3wwrmjkbv2cjgy":"lukesamkharadze",
-"2reowze4mz3yjv622unqj3pp":"lucasxmatheus"
-}) // 2023-10-25T17:54:47.684Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2reowze4mz3yjv622unqj3pp":"lucasxmatheus",
+"dsrppsvseqd7aak57blf2w36":["luchocasamajor","Lucho Casamajor"],
+"cdr6efolq23gv74qnid5tq53":["lunar3110","みさ"],
+"wj2ucdmhbm3yjl6fb4hhycvg":["luisferreira","Luís "],
+"icwasmy7mggrjaw4k5yam2nt":["luizzeroxis","Luiz Pontes"],
+"g4s5nnkbs25s46l7jqoii5ol":["luizpirata","Luiz Pirata"],
+"ph74v4dhqd3kwvh7tktb5vls":"lutterke",
+"b7tq4vcigipyee3yox24lt76":["luhno","Luis Guilherme "]
+}) // 2023-10-25T17:59:54.756Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

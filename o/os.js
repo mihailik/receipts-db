@@ -44,7 +44,7 @@ var os=(function(jsonp){ if (typeof os==='function')os(jsonp); return os=jsonp }
 "d2pfxctavixmp3xvqeksszo7":["ostapenko","Вам то не треба"],
 "d5xdy7zwa6muercz7vqxi4p3":["osikrebles","Avery #TECHLIVES"],
 "dbjlpqvt6ywnra5k424i6ixq":["oshredart","S. Red | oshRED"],
-"dmnx4d4mly5wjnfu5daflojp":"ostfriesenborg",
+"dmnx4d4mly5wjnfu5daflojp":["ostfriesenborg","ostfriesenborg"],
 "dtlffyan3h43gdyo3nquqlkh":["osoba1","that ira"],
 "dufo2mrchk5qn7vcqeumflyf":["osullivankate","Kate "],
 "duj4ixatkz4a6minkjo5v6rg":["ostenreal","Gin | wip: lal (agmh)"],
@@ -886,4 +886,4 @@ var os=(function(jsonp){ if (typeof os==='function')os(jsonp); return os=jsonp }
 "b32dhks35swxt5u6aoxytnyz":"osmjp-kanagawa",
 "itvabsjconecezrowxtuycsm":"osmjp-fukushima",
 "zuypm6ihfz24txnpoj5xdhcl":"osmjp-hokkaido"
-}) // 2023-10-25T17:54:46.889Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+}) // 2023-10-25T17:58:05.668Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

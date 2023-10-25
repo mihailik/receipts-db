@@ -180,5 +180,6 @@ var cf=(function(jsonp){ if (typeof cf==='function')cf(jsonp); return cf=jsonp }
 "jfq26mco4axpuy6mjxhoutel":["cflux","Panda Makes"],
 "4lgm6reelp3ixvtsxtl2ojom":["cfriesen","Croberto"],
 "dfsn24okq7zxxkflhvi7dvg7":["cfactovic","Czeckoslav Factovic"],
-"cry32amwbu2kmgdmtpok7r3t":"cfairhurst"
-}) // 2023-10-25T17:54:47.661Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"cry32amwbu2kmgdmtpok7r3t":"cfairhurst",
+"6fepin5evia3jge7jmzcke6o":["cflusacards","CFL USA Cards"]
+}) // 2023-10-25T17:58:05.637Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

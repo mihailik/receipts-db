@@ -2364,5 +2364,7 @@ var yo=(function(jsonp){ if (typeof yo==='function')yo(jsonp); return yo=jsonp }
 "q655do47kch3rqnk5jvulx6d":["youatemycheese","🧀 Cheese "],
 "mxheg7tvst6drectaqmmvhaj":"yogispop",
 "5azq7tymxrzjnz2l2eicljjc":["yolanthe","Kathie mit ü"],
-"4mtkdgcvwj6igdui6zjhhvg4":"yodercoder"
-}) // 2023-10-25T17:54:47.740Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4mtkdgcvwj6igdui6zjhhvg4":"yodercoder",
+"e2umy5rjwcewz3mifyjbilpf":["youcancallmeblue","Blue"],
+"t3hw224cqagrrf6bycfwa2rx":["yoghi","Stefano Tamagnini"]
+}) // 2023-10-25T17:56:24.586Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -2305,5 +2305,8 @@ var yu=(function(jsonp){ if (typeof yu==='function')yu(jsonp); return yu=jsonp }
 "pekoqm3u2ujrjf62ttpiqget":["yubin","betsey🦍"],
 "crqvjage3p3axzoibglwzrmw":["yungrixxs","yungrixxs"],
 "7pryg6i2tjzgfnyal27sohb6":"yukiyanagi",
-"2dy6yssfigj5g6jgnrhbzcza":["yurimotoyama","Prof. Dr. Yuri Motoyama "]
-}) // 2023-10-25T17:54:47.831Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2dy6yssfigj5g6jgnrhbzcza":["yurimotoyama","Prof. Dr. Yuri Motoyama "],
+"644igve3ep7bi2cb2tmig7mt":["yukimakura","ゆきまくら"],
+"pr2fr2tzxdyx5clk3p53l6c6":"yunna",
+"5iwcdluvt72qslaorme55uwr":["yuutarou1975","ゆうたろう"]
+}) // 2023-10-25T17:59:54.752Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

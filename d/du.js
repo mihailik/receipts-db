@@ -2374,5 +2374,7 @@ var du=(function(jsonp){ if (typeof du==='function')du(jsonp); return du=jsonp }
 "a6riio5atge3vvxsaigttn4r":"dusan",
 "z4pdwkjmsdx6ogedm5cy4r7a":["duckrage","DuckRage - Hentai Artist & Game Maker 2d/3d"],
 "wlh2iavcb6m6w7bs3klkrcaa":["duxnp","てん"],
-"rvhtk5ia2vq7fb4wocxvav5l":["dumbshit69420","Pantheon Simp 🔞"]
-}) // 2023-10-25T17:52:52.990Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rvhtk5ia2vq7fb4wocxvav5l":["dumbshit69420","Pantheon Simp 🔞"],
+"t62v5cd5kqhbprpxv5g4aixq":["duckaffeine","Duckaffeine"],
+"j2u7cgrmbfpbhpv4xyblxd3u":"dustinjbromley"
+}) // 2023-10-25T17:59:54.777Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

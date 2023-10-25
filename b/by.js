@@ -526,5 +526,6 @@ var by=(function(jsonp){ if (typeof by==='function')by(jsonp); return by=jsonp }
 "e7qe6pfxosort3uilzsds5j7":"bypass",
 "4azzn4mqkm7yeitkkixskv32":["bymemo","byMemo"],
 "zxo5vx35wdwogizpuurnnwsm":["byurhannurula.com","Byurhan Nurula"],
-"qenujgltjttc6knknjqjr5su":"byteabyte"
-}) // 2023-10-25T17:52:53.246Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qenujgltjttc6knknjqjr5su":"byteabyte",
+"5wxjxe6hdceiy25mnvk76mhf":"byjeff"
+}) // 2023-10-25T17:58:05.133Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

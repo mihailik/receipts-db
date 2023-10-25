@@ -149,5 +149,6 @@ var nj=(function(jsonp){ if (typeof nj==='function')nj(jsonp); return nj=jsonp }
 "powad2vmo6nlbt4vw2f65627":["njprogressive","NJ Progressive "],
 "t5frg7z54epgtexg43rkh6fy":["njh","Nic | Big Red Beer"],
 "hxxlhfxoxegyx2y65eqytjbx":"njegus",
-"cviulznul2nizsl2dkp5fuwv":["njshaw2","Nick Shaw"]
-}) // 2023-10-25T17:54:47.818Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"cviulznul2nizsl2dkp5fuwv":["njshaw2","Nick Shaw"],
+"n7vhkerhejmojjwesqlp5ss7":["njkk","NJKK"]
+}) // 2023-10-25T17:58:05.122Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

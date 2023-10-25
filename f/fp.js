@@ -75,5 +75,6 @@ var fp=(function(jsonp){ if (typeof fp==='function')fp(jsonp); return fp=jsonp }
 "tkj66c6hbhmvwarq7pte2ncs":["fpuniv","小田卓志"],
 "ereazd6ndxlofwsm3geh7bio":"fplata",
 "w3ff2qgmj2wvsdtvkfxjgsyj":["fpj","Franck Portier"],
-"tuhwpy5cdbxsa2oxgnmdt4vy":"fpos"
-}) // 2023-10-25T17:51:17.439Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tuhwpy5cdbxsa2oxgnmdt4vy":"fpos",
+"xwx2kllzj3vg7cbxzpjcgpig":["fpssamu","Samu"]
+}) // 2023-10-25T17:59:54.771Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

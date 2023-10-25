@@ -184,5 +184,6 @@ var kv=(function(jsonp){ if (typeof kv==='function')kv(jsonp); return kv=jsonp }
 "g34o42mb4ftcdkbv2ioqbmx7":["kvbb","Kassenärztliche Vereinigung Brandenburg"],
 "dv3ekw4gfd3xg6ympb3lvgfz":["kvitka-paporoti","Квітка"],
 "r2xs7t2piy3sjjue7ekcz6j5":["kvniei","Kani - Commissions open (1/5) slots"],
-"jnu5gq6xe5vszd2ytttz6iyx":["kvroii","Kvroii"]
-}) // 2023-10-25T17:06:33.918Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jnu5gq6xe5vszd2ytttz6iyx":["kvroii","Kvroii"],
+"caczutblhmlem3ex2gxelplm":["kvngtsar","Choppingson"]
+}) // 2023-10-25T17:56:24.616Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

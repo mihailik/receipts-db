@@ -369,7 +369,7 @@ var mr=(function(jsonp){ if (typeof mr==='function')mr(jsonp); return mr=jsonp }
 "lfn5tqkfjzcq2vrzy3hb3fz2":["mrperson","MrPerson"],
 "lhd7mhexwslhg4k3r5pbxy2g":"mrcow",
 "lhwqdpc7mr2m34rjbp4xbudv":"mrkoijmn",
-"lisufijnrz42yoqth2stevje":["mrn0093","まのでまりな✦イラストレーター"],
+"lisufijnrz42yoqth2stevje":["mrn0093","まのでまりな✦個展10/21-30"],
 "lm5js4kflvjnnx4ulvvf7pcd":"mrskirstbarrett",
 "lndjfxwo5jypfrmlpkwdcppv":["mrdink","Mr. Dink"],
 "lnoci2mcamlqkcui54lr5nso":["mrsc","Mrs C"],
@@ -3052,5 +3052,11 @@ var mr=(function(jsonp){ if (typeof mr==='function')mr(jsonp); return mr=jsonp }
 "ts5eeh5esioaacteyyxjszyx":"mrowetz",
 "q3p4uxzmuxkhjudzedmogv3l":["mrbeardsly","Josh S"],
 "b2ky7xtk72rvkxknetu74mt7":["mrbluallday","MrBluAllDay"],
-"zo4r2szetbje2knyrfjsl47p":["mrleonardo","Leonardo Grappolini"]
-}) // 2023-10-25T17:54:47.014Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zo4r2szetbje2knyrfjsl47p":["mrleonardo","Leonardo Grappolini"],
+"qgssmyqu5qclbergpgzsuaev":["mrstudent","Mr Student"],
+"33z6z7s4ii363w7tci2e5ghw":["mrbwulf","Greg Bouman"],
+"wfggzrdnwqnu24angb573aoa":["mruffi","Ruffi"],
+"sfabbbcy74euocbfyikt5heu":["mrsunhome","John Solheim"],
+"egii3oigdc3kjlb525wdcwfd":["mrtinto","Thijs"],
+"gj55qr62cq6hpwjqqaa6ito6":"mrgl1tch"
+}) // 2023-10-25T17:59:54.733Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

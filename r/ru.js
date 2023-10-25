@@ -2636,5 +2636,13 @@ var ru=(function(jsonp){ if (typeof ru==='function')ru(jsonp); return ru=jsonp }
 "bdaf3o3qc35e7cktr6doyio4":["runtimeradio.it","Runtime Radio"],
 "hbaupzkjb7ny557b2q6dibgd":["rustyguts","Brendan Kennedy"],
 "4xt4t2hqu3mdeylfcht625ny":["ruhrraum","Daniela "],
-"a5fwj5zeo2t2bkgipvzwqrsw":["ruthieb","Ruth Beck 🌻"]
-}) // 2023-10-25T17:54:47.754Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"a5fwj5zeo2t2bkgipvzwqrsw":["ruthieb","Ruth Beck 🌻"],
+"eni5elab2tm34mtlh72vbr2v":["rubbishheaps","鶴／RHS"],
+"k543pg64v2q3trtr3fphmat7":["runev","Rune Valseth"],
+"ecfol6ph7wq3ij4xr464qdcb":"ruckc",
+"54oaoctamn75ptyit546mb4b":["rubberypiggy","RubberyPiggy 🐷"],
+"hj33mfyybstxowkksnd2ciul":["ruvitamos","김청하(루이시)"],
+"g5cmgy3inmanlsnsvrc3hqrs":"runtherandom",
+"sev432rypu5tp55ba6vv7vnm":["rumburak67","Rumburak67"],
+"uvjkt5ojls7dtm5zf4cvdnev":["russbob","Pax "]
+}) // 2023-10-25T17:59:54.806Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

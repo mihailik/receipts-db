@@ -273,5 +273,6 @@ var b0=(function(jsonp){ if (typeof b0==='function')b0(jsonp); return b0=jsonp }
 "j6matpx7o3zi7ik2bpsbqaps":["b1120","ESMAIEL DANISH"],
 "ysu74db2dgoxqwa7i56j7kri":["b444stet","𝘚𝘢𝘮𝘪𝘳𝘢"],
 "pf3w4soeokwys3np2jfxvolo":"b7r",
-"xrg3oksxm5cuydtsath6kcpv":"b00st"
-}) // 2023-10-25T17:51:17.506Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xrg3oksxm5cuydtsath6kcpv":"b00st",
+"auxohdxvefrtilq4vert7ehw":["b33fbaby","сродак для біцьця паскуды"]
+}) // 2023-10-25T17:59:54.595Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

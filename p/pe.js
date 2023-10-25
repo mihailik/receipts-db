@@ -5302,5 +5302,12 @@ var pe=(function(jsonp){ if (typeof pe==='function')pe(jsonp); return pe=jsonp }
 "h2lsdcandtyptxrapfjnac4j":["pedrosalesdias","Pedro Sales Dias"],
 "synvptz7wum7baa5vdru6wwp":["pertdegert","✨blingee_pie✨"],
 "otkiop4u4tgulftq6fmtguwf":"pearlbates",
-"67n2sgpblclpgjrpukpln4k7":["peterdejeu","Peter de Jeu"]
-}) // 2023-10-25T17:54:47.158Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"67n2sgpblclpgjrpukpln4k7":["peterdejeu","Peter de Jeu"],
+"nnwvbfdm3cvutwnflvkempky":"petepistola",
+"3jehmutkoboxhs73d4wuscwq":["pedrobaringo","Pedro Baringo 🎲📜⚔️💻"],
+"7mgxlr7fvfm4v5nu6jlz6ezn":["pensadorlouco","Pensador Louco"],
+"as4e2ciw4rmqdok3beuy4b26":"pete716",
+"nd2ni4m3eaozkv2d36j33orv":"pedrohteles",
+"dfb6pwtxcoz2gkpj4z2rybut":"pedtro1",
+"zxglqb6mfe664cmtvfuttgi3":["peterpan","Peterpan"]
+}) // 2023-10-25T17:59:54.250Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

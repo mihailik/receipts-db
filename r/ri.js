@@ -4473,5 +4473,15 @@ var ri=(function(jsonp){ if (typeof ri==='function')ri(jsonp); return ri=jsonp }
 "5fslaqh6cvqvrsqs2opcy775":["rinarinc","Rinarin ✨ COMMISSIONS OPEN"],
 "zibitkormvoa2tccf2fjabtx":["ribscracked1","Ribs Cracked "],
 "y3iddpugynab4shzdvziok7d":"ricardomorini",
-"3kdm3pcoassmxyhrz4x25bes":"rightscrew"
-}) // 2023-10-25T17:54:47.689Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3kdm3pcoassmxyhrz4x25bes":"rightscrew",
+"ngze5wwo7xuiweh4b7kpkj3a":["risengan","Clément Knoderer"],
+"nvlnvem7twurx5xgh72vpf27":["ripleykat","Ripleykat"],
+"v7qdq3niphudmf2vuxkgva5a":"rikyla",
+"uv3miqk53mm2o6y7wrpluaix":["ricardo60","Ric"],
+"h6awdspwldo35gmlglpokocg":["ripano","Ripano"],
+"6khlabpixve5veyzffvwpr42":["rianneh","Rianne Hawkins (she/her)"],
+"u6nghigfaude24lhy7h6cboa":["rigorini","Rodrigo Furini"],
+"ids7zbfnshldoqe7aoiyfxcf":["riveria","IA"],
+"n7vkhxliejmlwsbbxldholi2":["rinderhack.net","Rinderhack"],
+"qjmlab6xyo5yoo5phflx55yp":["riesenmikroben.de","RIESENmikroben"]
+}) // 2023-10-25T17:59:54.760Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

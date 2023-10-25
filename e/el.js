@@ -4792,5 +4792,17 @@ var el=(function(jsonp){ if (typeof el==='function')el(jsonp); return el=jsonp }
 "ri6ba6hzcihgqyvbdypvlk6o":["elfcybrpnk","canoa furada"],
 "fuypwnd53lkvddpulcpdke7s":["elvelynn","Sabrina (Elvelynn) Brunngartner"],
 "qzhmaz3j652fi5cvtq5dgyoh":["elemmacil","vex ✨⚔️"],
-"fqbqfqwt3t6uzidraquxzpus":"elayla"
-}) // 2023-10-25T17:54:47.782Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fqbqfqwt3t6uzidraquxzpus":"elayla",
+"3f2bngnn5vfg2l4agpyb43tt":"elvists",
+"o2b7dzy7a7msuz5o6iddlqnw":"elohelay",
+"25jhhypjiuqmankayfe5tqqw":["elrosso","Raúl Rosso"],
+"rwahq7ulhierqr7yp2lr4kwn":["eliselive","EliseLive"],
+"z53fegbrlq4e3tfvcas3cgum":["elliottwimmer","Elliott Wimmer"],
+"hupqyi2wfuiamsr3k6w425ej":"elpollodiablo",
+"7xjpidzxruhqgkq6dna3rlmx":["elfulbito","Edwin Hernández-Garzón"],
+"pwlddjxwfphx7losysjxu7op":["eljelicsnsfw","F u Twitter HAHAHA (Comms open)"],
+"3l6pxgejxyfdz3ir4ldzil2a":["elenawicker","Elena Wicker"],
+"dfoatfug2aaq2wv7vjz7ccfi":["eluith","Eluith"],
+"537xd7l4omszl2tp6r3crzul":["el-chapo-of-ghouls","El Chapo of Ghouls"],
+"wbyjjefbfviw7zmsdtvob4w3":["elrufai","AHMAD El-Rufai"]
+}) // 2023-10-25T17:59:54.621Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

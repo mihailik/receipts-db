@@ -483,5 +483,7 @@ var oz=(function(jsonp){ if (typeof oz==='function')oz(jsonp); return oz=jsonp }
 "btsdioua2n4pai34k3pb4wbw":"ozi75",
 "ndoqy4mptuumcnhnuf5ssh5s":"ozger",
 "cpwueb53mgl2rxdoxpxness4":"ozcancandag",
-"hdb3cqqkqsd5sxihxyhp2c2f":"ozana"
-}) // 2023-10-25T17:51:17.431Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hdb3cqqkqsd5sxihxyhp2c2f":"ozana",
+"i2xkslqvdplnvv5g4a6agsyc":["ozantml","ozan temel"],
+"a5koxdlxvnl2et22fhshrnll":"ozgurcakmakci"
+}) // 2023-10-25T17:59:54.723Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
