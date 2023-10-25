@@ -17,5 +17,10 @@ var xw=(function(jsonp){ if (typeof xw==='function')xw(jsonp); return xw=jsonp }
 "py2nb2ww3hscxvmyrwhyou77":["xwolf7k","XWolf AD 🔶️"],
 "genkanhfwgyldnmibwwq2gun":["xwx","아쭈"],
 "xbmtqfumd7pdgrue4vi5ismt":["xwxdraws","Will"],
-"it4mj3pqo3z5w3cmgwct2tii":["xwisegirl","Loki ☀️ Ben 🦋 Rey 🌼 Cal 🧡 Merrin 💚"]
-}) // 2023-10-23T07:35:55.778Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"it4mj3pqo3z5w3cmgwct2tii":["xwisegirl","Loki ☀️ Ben 🦋 Rey 🌼 Cal 🧡 Merrin 💚"],
+"pmjlaqf76zsry5hebczqc3f4":["xwhodatmex","ʷʰᵒᵈᵃᵗᵐᵉ"],
+"l7zgeo3sets5o2osagqwca27":["xwing","Wingsky"],
+"6ixptgr3gkhx3ff3yzhyeba5":"xwuzex",
+"fmje7psu3pd5rwrqcj6uxkmq":["xwarazm","Sayyid"],
+"nh3dpdgqhwjl6wzcpzslk5dv":["x-wingjetmechanic","Jacob, resident of the “Soccer Capital of America”"]
+}) // 2023-10-25T16:56:26.709Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

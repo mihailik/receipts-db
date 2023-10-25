@@ -15,7 +15,7 @@ var hp=(function(jsonp){ if (typeof hp==='function')hp(jsonp); return hp=jsonp }
 "npx3eyjaqvnkvx2mqwm3zuge":["hphseries","A Hundred Pitchers of Honey Reading Series"],
 "obfgeszywgnrtsx2x3h4exna":["hpearnshaw","Hannah Earnshaw"],
 "s5lqs46hu32rusedyrc53erg":["hporia","🏴‍☠️پوریا"],
-"uy6qpk3ozqqbra7qbkip3dot":"hpbookcraft",
+"uy6qpk3ozqqbra7qbkip3dot":["hpbookcraft","HP Bookcraft"],
 "vx4pq4gbzatswfl4tu7tcwgq":["hpsvanessa","Dr Vanessa"],
 "wylqzshtcvmqcniczdq776fs":["hpythc","Mehmet"],
 "ysrpbeobhybpfy42piemwk55":["hplovescats","hplovescats"],
@@ -80,5 +80,20 @@ var hp=(function(jsonp){ if (typeof hp==='function')hp(jsonp); return hp=jsonp }
 "azyrve5pizjwi3rg3xtrmtpy":["h-plus-fx","h_plus_fx"],
 "4ikfrdxz4pfpup6ygdxpj5hi":["hp88","HP88"],
 "jsuz7k365nmhgks2o3j3vka6":["hp-aitchpi","hp"],
-"h5kcm2tnapybqgiizihkluq4":["hpolymenis","Dr.Dr. Helene Andrews-Polymenis"]
-}) // 2023-10-23T09:19:20.478Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"h5kcm2tnapybqgiizihkluq4":["hpolymenis","Dr.Dr. Helene Andrews-Polymenis"],
+"phyoavhm3awjfhtfuvkqpawu":["hpepperminter","Hayley"],
+"afpkqpbtju2b753ippp4hptd":["hpcapybara","High Park Capybara "],
+"rokrpuy5uswxasqzcbkmr244":["hpsin.net","Hirsch Singhal"],
+"g2kkkqi7uy57vytqqlos6j7b":["hpsregan","High Priestess"],
+"scqdtly3ryae5ivzyaicet7d":["hpeysson","Hugues Peysson"],
+"idzifd325qsdzjtbmre3osz4":["hpyononyo","🔞hpyon"],
+"2qxnbzqmad6ly4av5kpchym5":["hpcbadguys","☠️Heels Pops Chairshots☠️"],
+"nli74tinznzuu2qjblgiwwfd":"hpunia",
+"iutpbsrhv36g7bbn2tqrk6cr":["hplhs","The H.P. Lovecraft Historical Society"],
+"3jkjbngiahrp4zumy5wylfap":["hplehofer","Hans Peter Lehofer"],
+"35qmgc4v2kcj6fnyniji2cdl":["hpullenblasnik","Hannah Pullen-Blasnik"],
+"7xwtmbf2khwzsfupx2wyukgf":["hp100","햅삐🎂"],
+"eczq74prskrkyr7ckvewmgdl":["hpydrgn","harmony"],
+"6wfb66bzeg2dmm5x2p24orze":"hpdl",
+"uz3w74cfpz4woyf4idzszeeu":"hpt"
+}) // 2023-10-25T17:25:38.135Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

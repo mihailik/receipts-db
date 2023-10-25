@@ -71,5 +71,19 @@ var vg=(function(jsonp){ if (typeof vg==='function')vg(jsonp); return vg=jsonp }
 "obrnjrjbsopw4uhh5mykmwix":["vgk","Emilia Belle"],
 "xoczhhwmhuvtyzntdn5yk6it":"vgmaps",
 "pb43eaxvflzb65sussncrx45":["vgaltes","Vicenç García"],
-"ilo6h5jna4s2tg74i4auhsxr":"vgfm"
-}) // 2023-10-23T09:28:19.703Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ilo6h5jna4s2tg74i4auhsxr":"vgfm",
+"qosux6sa437zinjqakpdd6mk":["vgcaldas","Victor Caldas"],
+"q7nv2zx6xlczuap4rmwg5jnm":"vghastly",
+"vwrcbiwrxp4w3dhk46dkfu62":"vgt789",
+"ufnoydfdg6phatibv65hkgmv":["vgets","Video Game Ethics, Trust & Safety working group"],
+"clcuivdvw3mstz7q5vy66iuc":"vgcollect",
+"to4bmtjchei4gakweslu365x":["vguria","Víctor Gil Uría"],
+"ugw4z3eawt7zaosvhknzdjid":"vgkmike",
+"n7pebf263mdisdipz4wfepj4":"vgcoutinho",
+"3lefqj4jzx3iaj6wwy75kgwj":["vg584","VG"],
+"6ebb5m4nhgp2k2neyolen2b3":["vgshea","vgshea"],
+"5bkj7k6rl7oytmmvcdrj3pw6":"vgsk7",
+"2rawqm6wcqffhm4awmg2f7jo":["vglitchv","r"],
+"b7yjz6gl3qoywwwhvn7ldlal":"vganesh",
+"7qa6bpbcoivy6arytdabacpa":"vger2"
+}) // 2023-10-25T17:54:47.492Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

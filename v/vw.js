@@ -23,5 +23,15 @@ var vw=(function(jsonp){ if (typeof vw==='function')vw(jsonp); return vw=jsonp }
 "bw3o6vtkbweqqe6zctlwkzyw":["vwlucia","Lucia van Westerlaak"],
 "ocz34zkucoclfk4emvrkzy27":"vwtifuljoe",
 "mrswpste4zfy6yztjyknzque":["vwmuteking","りん"],
-"77rpdvsxebue745gh3jx4lin":["vw6naee","Thomas S."]
-}) // 2023-10-23T08:08:39.831Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"77rpdvsxebue745gh3jx4lin":["vw6naee","Thomas S."],
+"x3hulgn2545woda22g3wnhqr":["vwyeth","Vanessa Wyeth"],
+"lgmyrtkmqhpd64t7kavkchvi":["vworpish","em 👋"],
+"moht6ysqgqlj6er3opcchgfo":["vworri","V"],
+"6klnetofy4dr5p5jepa7bkms":["vwnportsmouth","Variety World Network - Portsmouth"],
+"7qwzbsvnacit35ppognf5yag":"vwal",
+"rkn7sgf26wqvhnmgwzyoq2i3":["vwullf","Vincent Wullf "],
+"qpifzfh6g23biatnxta6prqi":"vwyk",
+"jqvbf34plmd5m6agbvqs6plz":"vwvw",
+"w5ov3xrncn5ge5ibyocijzse":"vwt",
+"rfbuy6qsfajxspcwyfhsnmfy":["vwhite","Vivianne White"]
+}) // 2023-10-25T17:08:07.285Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

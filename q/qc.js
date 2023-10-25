@@ -1,6 +1,6 @@
 var qc=(function(jsonp){ if (typeof qc==='function')qc(jsonp); return qc=jsonp })({
 "v5f75o6zqdr2gxljuo6wkia4":["qchu","QC"],
-"vkbyifnt2n5kpurmqenwwqj7":"qcch2-0",
+"vkbyifnt2n5kpurmqenwwqj7":["qcch2-0","H2-0"],
 "vw5akjwvtdukfv3g6ghs44tl":["qcj","Quantum Computer Janitor"],
 "xhpoehkogx3dkbt27rt2s3lv":["qcydios.woke.cat","(Soft) Domme Quixote 🏳️‍⚧️ /h"],
 "yloakbtx2qv6x3vdnxhz77qg":["qcwm","Lost in April"],
@@ -17,5 +17,11 @@ var qc=(function(jsonp){ if (typeof qc==='function')qc(jsonp); return qc=jsonp }
 "y443gh6sgrmildbavvkly6ko":["qcomix","Quinn C Amacher"],
 "sjpg6wd4a274pzjvev72ko7m":["qcocaine","Q"],
 "rex26e3s4tmxpn447teozsog":"qcback",
-"ow563tq3ivyzxsmve6j2xtfd":"qcat"
-}) // 2023-10-23T06:33:49.281Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ow563tq3ivyzxsmve6j2xtfd":"qcat",
+"x6crkcuszh4r6w42vkitasm2":["qcon","donk"],
+"uvivtrmxbwzhlkibih7o7fdy":"qcskll",
+"qdjgtctedfolufdozsvfule7":"qcassetti",
+"e2qn75fnlsc7jb6be3inbjsf":["qcesar","césar"],
+"uqth752wcs6ug2o45mt4tm6j":"qccub86",
+"3h3lfhzko2feiupcht5qsd3i":"qcumbercool"
+}) // 2023-10-25T16:23:56.487Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

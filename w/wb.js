@@ -2,7 +2,7 @@ var wb=(function(jsonp){ if (typeof wb==='function')wb(jsonp); return wb=jsonp }
 "22l7auveb3kizw5ny75zz4s2":["wbkstr","Vv"],
 "5shu3s5ob2vosv2s2lr4hyhw":["wb0192837465","Sandy"],
 "6sra276yvpe6rr7ce4tcvu7h":"wbthay",
-"7yi6e3nex76igqir5gpf57u4":"wbforeman999",
+"7yi6e3nex76igqir5gpf57u4":["wbforeman999","Bill Foreman"],
 "amadhku4fsatp3cuwrtbguj4":"wbramos",
 "asxiv2n56vpz46vwwyblha6m":["wblut","Frederik Vanhoutte - Winterbloed"],
 "gpjdrlohebm2lz2weq4nfhpe":["wb8979","Wade Brandis"],
@@ -66,5 +66,20 @@ var wb=(function(jsonp){ if (typeof wb==='function')wb(jsonp); return wb=jsonp }
 "x5nnbdlgwf4yh6oahnbtkidr":"wbs3",
 "nhsqknb5ngjynujcdtq2auro":"wb05karl",
 "dxxtk47ou6re4q6wfos6bfq3":"wbtempire",
-"yqvemwrq5gn5ahozn6mcjb2g":["wbderry","W. Brent Derry"]
-}) // 2023-10-23T09:15:41.114Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yqvemwrq5gn5ahozn6mcjb2g":["wbderry","W. Brent Derry"],
+"xoqs2tedcaa4fdu5ydiqbmuo":["wbonikowski","Wyatt Bonikowski"],
+"nwszuegdifzrm2vmeujv5yee":["wblau","Wolfgang Blau"],
+"7ijxmsina3r5ws3luza5dhzu":["wbpictures","Warner Bros. Pictures"],
+"e7cudq6233xhiitgwczwpjki":["wbmstandish","Hamburglar of Hearts"],
+"o5d3x4rjxepwqtweqdqu6wbq":["wbor","Wim Borremans 💚🇧🇪🇺🇦"],
+"ikhc3ilgnhvc56csd7mfhg4a":"wbenderw",
+"vhheem5rryvvnxx72anyu73x":["wbl","Woods"],
+"6wvlbifvscugyy3ig2khwm6s":"wbleef",
+"lm7fsgh4qlxvdoc4kktpw3qv":"wbusse",
+"w23b5kjw6sp2il2gd2wl6hrv":["wballiance","Wireless Broadband Alliance (WBA)"],
+"xsisqurggqtsel35w2ssvrno":"wbremer",
+"st6jat4jg75xwszfecrf2iw2":"wbanks",
+"xjpb3axsa2u53ann7th5mg7r":"wbvis",
+"kwjffjcaotuldqti3oxjh5ah":"wbryan420",
+"yqnyuysai3agauwqetdax23s":["wbmedeiros","Wender "]
+}) // 2023-10-25T17:01:23.268Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

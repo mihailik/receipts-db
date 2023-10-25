@@ -36,5 +36,12 @@ var nx=(function(jsonp){ if (typeof nx==='function')nx(jsonp); return nx=jsonp }
 "p7jtbhc5s6xco4rvugghzswb":["nxls","Nxls"],
 "hrbjgyfu3pxjnsxcnqnjbrd2":["nxntune","Chip | Jay 🔥"],
 "lpnznmygdk3jb7ch5tslygop":["nxtlvl","NXTLVL"],
-"eohtx625wngpeuavd3oa2eu7":["nxvoyager","Overdramatic Leaf"]
-}) // 2023-10-23T08:06:52.574Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"eohtx625wngpeuavd3oa2eu7":["nxvoyager","Overdramatic Leaf"],
+"bpyc7fsj2xwvd3vurkpmygyu":["nxganussy","Nxgan 🩷"],
+"ogubrbff4hgxo4tf732vqx24":["nxrble","inexorable"],
+"bft7mvytpekyrkrrmlwcp4qp":["nx6arts","💙 Nex"],
+"j35sn6ptr62vvuzymudz2dsa":["nxpnt","Annx"],
+"qjwb3in2y2s5u52spjajtjby":["nxnt.nz","Naixent"],
+"npnjon4txojxv7cbgu2etjom":"nxtthrsdy",
+"ddwiubtcbeasuehskccax37d":["nxxb","NxxB"]
+}) // 2023-10-25T17:49:39.638Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

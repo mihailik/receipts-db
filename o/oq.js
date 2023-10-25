@@ -8,5 +8,6 @@ var oq=(function(jsonp){ if (typeof oq==='function')oq(jsonp); return oq=jsonp }
 "rfkv4jnhhh5d2xc6y3yl3i4x":"oqnetto",
 "w2f64my6zjojcy67gav75ril":"oquestao",
 "wzf6f56grzaga5vsgouv7qho":["oqada","オカダ"],
-"n4cri3clwd6ubvymwpfgsi3n":["oqaqiq","Oqa Qiq"]
-}) // 2023-10-23T09:15:41.079Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"n4cri3clwd6ubvymwpfgsi3n":["oqaqiq","Oqa Qiq"],
+"voo2ns333kkvw6d3nvx3zqs6":["oqossum","🍒 Maroon 🍒"]
+}) // 2023-10-25T09:41:38.510Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

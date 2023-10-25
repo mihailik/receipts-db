@@ -47,5 +47,14 @@ var wn=(function(jsonp){ if (typeof wn==='function')wn(jsonp); return wn=jsonp }
 "xqazeoutdsimjwohaxspcmdq":["wnt","쨘✨"],
 "cngjubv54ufmk2uwpeodqnt3":["wnkn","Jan Wienken "],
 "hxwwv3jba2h5rojvtxt2t2xc":"wnsvs",
-"5wdyi26l7hbx46vnc5dz33bf":["wndrlst","WNDRLST"]
-}) // 2023-10-23T09:05:47.852Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5wdyi26l7hbx46vnc5dz33bf":["wndrlst","WNDRLST"],
+"gomgeepnjcoot3y43mohsj2z":"wnyportgirl",
+"hzie5rwzz7zsmo34plmlxmwy":["wnd","indi"],
+"zohawc2xuwg32tt5vmir2kyn":"wndr",
+"hpokhg6ljt4j35whfmaqh5yq":"wnbcreative",
+"xasuifs34jytvohekftr6l6m":["wndows95","gwant :3 "],
+"fhsggxgwrbql2b2klvdwm2wn":["wnybrews","WNY Brews"],
+"yi7vkcs6rj2fkxuqxk77bwgi":["wntg0h0me","."],
+"7kfujdmdhmlswp3rjl6nvxl3":["wnsolwe","선목"],
+"5ovpinw3n6m2dl37i6fodbkk":["wnbrg","wnbrg"]
+}) // 2023-10-25T17:15:13.549Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

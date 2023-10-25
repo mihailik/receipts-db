@@ -58,5 +58,21 @@ var gv=(function(jsonp){ if (typeof gv==='function')gv(jsonp); return gv=jsonp }
 "7ybkjkl33ponsts3nxeoanq2":["gvan2202","Sorbet"],
 "nw3b7w2lwzsgbdneytaejaff":"gvlsoccerguy",
 "eewlrd7k7yas45ljtds6nfai":["gvsleepi","GVsleepi"],
-"cchc2hfhenn7fuvqgfxdwty2":"gvnosh5"
-}) // 2023-10-23T07:41:36.315Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"cchc2hfhenn7fuvqgfxdwty2":"gvnosh5",
+"ji7bnplxao65jgiw7rk66cin":["gvsantosx","Gabriel (ou não)"],
+"yh3p7pzuewjwpmfitorht4qj":"gvoltt",
+"43vnc2nzkvvzhvxwqeqr56bl":"gvstavo",
+"b4jirinmnxuuveaar5wbg65q":"gvantil",
+"hs6ilmrfomcbkul4le5qisyj":["gvfo","Guilherme"],
+"dftbtijjpuazvmstdzhh6utm":["gvarma","Gaurav"],
+"vlumz35vkmxvbgnplvckb2kt":"gvk",
+"vgz3wkafitis7bwiozh45bwq":"gvert",
+"2jp2f4uwj5j2arqt6ib34xwp":"gvinter",
+"pbtc52yimdynb44ak3e25rzo":"gvy",
+"lmmye2ra6hippxzrp727w2hq":["gvtribe","GOoOD Vibes Tribe"],
+"kknixuzlz2kgliyh7pvinhma":["gveramoore","G. Vera"],
+"qy743hzp3mtzmehbuysgfuud":["gviral","G-viral"],
+"r3r7jmkuxzrzki3dnnmh2ou2":"gvanullen",
+"sldr26fkx6o6p73icrqn65nq":"gvrcreddy",
+"lnzkbuvbjxt7ddawihqjz32j":"gvchristian"
+}) // 2023-10-25T17:44:34.293Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

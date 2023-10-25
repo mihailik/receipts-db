@@ -44,5 +44,14 @@ var uu=(function(jsonp){ if (typeof uu==='function')uu(jsonp); return uu=jsonp }
 "2jlxbht33o5tutm4xxaimmcf":"uugurtass",
 "pndivowwofqgcxs3l7nhueq7":["uuijunnn","ᔕᗷᗩᑎ/스반🌟"],
 "3hdildsg5fm2zxgkuz75tqqy":["uuuuahhh","Uuuuahhh"],
-"dmqrp5asysmclnbourn2l7cd":["uuonbin","왕빈이"]
-}) // 2023-10-23T05:56:01.672Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dmqrp5asysmclnbourn2l7cd":["uuonbin","왕빈이"],
+"p2uy3d2ajotknofixgn734jl":["uunov","Uuno"],
+"adz6fsvzpe32f7oxb5nftd66":["uuueda","兎枝"],
+"z3a47ggoxjwe5rcdk2udat3g":"uuwdot",
+"4pf7ndeanqbaaqkujjdlv55y":["uuzeboi56","HyperSexUuze"],
+"gfz7wdlkg3hbjk4wwtykddwn":["uu2938","📷"],
+"uo3i7lt3ttk2zhgrogzzu4hp":"uuuhyeah",
+"o72oiel7abuzc5saxxuy5tqw":["uupdog","saint :3"],
+"c547xjbgfth6624mjj7uhbkv":"uuouter",
+"scckfhlik3425nmk6m6etoiu":["uuyyaann","ｳﾔﾝ子ちゃん@青空"]
+}) // 2023-10-25T17:54:47.826Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

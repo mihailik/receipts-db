@@ -1,6 +1,6 @@
 var hg=(function(jsonp){ if (typeof hg==='function')hg(jsonp); return hg=jsonp })({
 "3ftt6bkpwskq6f52mmvtgqf5":["hgrynodensetsu","Woody™️"],
-"3ujrhu72j3zdwn7f4uaa3pnm":"hgretired",
+"3ujrhu72j3zdwn7f4uaa3pnm":["hgretired","HG german air force retired"],
 "3wjfq36gwrxwepgrrwqkrcjh":["hgl","H"],
 "5nawww2u23bv3y5poowotnte":["hgriffeart","Hubert Griffe 🌈"],
 "bdnlqhnnvefspz6knr7zg4tm":["hgot07","Hideaki et al."],
@@ -76,5 +76,14 @@ var hg=(function(jsonp){ if (typeof hg==='function')hg(jsonp); return hg=jsonp }
 "jt6oj6hy76hrijdjkpgrt7j2":["hg78","The sky"],
 "twp43jhbduynba4yx5fkmq6k":["hgrk","地獄に堕ちた野郎"],
 "rxf7i5lus5vtyimd2metz6pk":"hgpalgert",
-"x33pdnnjajb74e2utx77wjd6":["hgdrifter","Hgdrifter"]
-}) // 2023-10-23T08:23:59.163Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"x33pdnnjajb74e2utx77wjd6":["hgdrifter","Hgdrifter"],
+"nipzjm7idt7nrjipvqhd3ijw":["hgurota","ヘモ助"],
+"l55qzd5h2ri3w74eq5zpqhci":"hgr33n",
+"kvfg2yntbc664vg3uzrdkch7":"hgrbrdl",
+"7w62d3gbx3kv3lzjkqfg44y6":["hgunl","Holly"],
+"zm25cn5in7umx6uftazctsz4":["hgstrp","Andreas Haugstrup"],
+"swueyt4vxdgyzdfnozkifp3n":"hg161957",
+"tfqwoenpks324vz2bcvcikke":"hghgh",
+"cmkoxmdlfqfnkprwt2n6nugi":["hgdrn","Dirk Hagedorn"],
+"ujksokvqoclscmqipbkgqduz":["hgo","Hugo"]
+}) // 2023-10-25T17:28:49.916Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

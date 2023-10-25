@@ -51,5 +51,21 @@ var vb=(function(jsonp){ if (typeof vb==='function')vb(jsonp); return vb=jsonp }
 "ghyqgtvgdgtho5brpxfo3f2w":["vbolibok","Volodymyr"],
 "nvqi6w5vjexrnmxd2fvzwzw7":"vbustamante",
 "z7oun7mcsoumd5yplh5d5npk":["vbelskiy","FCI judge "],
-"7fzljk27xuict6ftb2by4ujw":["vbk","Vyacheslav Bondarouk "]
-}) // 2023-10-23T08:03:11.105Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7fzljk27xuict6ftb2by4ujw":["vbk","Vyacheslav Bondarouk "],
+"s33vwaeibloseb4lybytgnfb":["vbaptista","Vitor Baptista"],
+"fpdifhngdjuicuuujq2qxwyz":["vbarastier","Vincent BARASTIER"],
+"txglv3cygqiim53g75kyimec":["vballgaymer","Ry 🏐"],
+"dgcklwoh3baojlttnz5j3yta":"vb001",
+"yqmo7vir54jjos6emiu2lwff":["vbsaune","Scotto"],
+"oxhrsb7nxhw5gi2mjv36dsfn":["vbl","Viktor"],
+"vggmhcxtdrwo3jrpbwhui4kl":["vbarreirojr","Victor Barreiro Jr."],
+"awvbhc2f7e7oqn6vs6rxp6ib":"vbretsch",
+"tw2ug2tiqbgsitm3vv2me37d":["vbytyibrat","Вбитий брат"],
+"tloc7yotvhyupddygq3vnmoi":"vbrvhvm",
+"nvt54enl4aygnlrmy5qz6kpz":["vb14","Володар Банки"],
+"s2pkduvx4iuwablf4ofsk5ek":"vburguillo",
+"zzmcjgleubixahcb5xombubo":["vbud","Valjean Clark"],
+"3idovvr6cowvruttzde5ignv":["vb666","VB666_thedemon"],
+"w73jowq7z6loin6ktsplftp5":"vbnm",
+"d5vcxfn5ldzxn32jl6tehnka":"vbolt"
+}) // 2023-10-25T17:54:47.675Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

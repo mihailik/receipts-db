@@ -73,5 +73,23 @@ var uf=(function(jsonp){ if (typeof uf==='function')uf(jsonp); return uf=jsonp }
 "a7tqzbe36zke2dml7y6fevr6":"ufukgunes",
 "m5zyphtiys47fuql2kpoo2ep":["ufob","UFOB"],
 "sacxlrg5bcey2hjlyn7c3vn7":["ufuksari","® Üfük "],
-"vs4egrvpq57z2fsqoej3vexa":["ufk","Ufuk"]
-}) // 2023-10-23T09:24:19.180Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vs4egrvpq57z2fsqoej3vexa":["ufk","Ufuk"],
+"a3zxuy6nic7bylez2jq5celg":["ufoattorney","UFO Attorney ✶"],
+"fc6u3ff3hrycmwolrhvar4cf":["ufahamuafrica","Ufahamu Africa"],
+"jvwo4drka3r3hq4sxgmznaum":"ufopixel",
+"2ysr2ojfkvvesbdtt6zx6ucy":"ufukaslan",
+"iffjmuk3eqowywv2jvopwdaf":"uffdadave",
+"wxykz5tuwv2xkhaw4f4b4w6t":"ufuki",
+"strmh7yugkvz2qspzzbio7ur":["ufukkurtt","uk"],
+"xsgsci7kkqeo644saztkqtes":["ufukbozkurt","Ufuk Bozkurt"],
+"rccq6ichex7jb4pkjojbrrzc":"ufmystic",
+"z4llxfywwoiaprm42axexdfm":["ufoparfums","UFO Parfums"],
+"bcjrp2ayujeeagxgjzuuln3j":["ufukzengin","Ufuk Zengin"],
+"md26e5ctviyrjihafm2pf4gx":"ufaks",
+"w7jzyin5cryuyffjioogicco":["ufuk35","Ufuk"],
+"47nrkhkc5szjcmtsl4vl2jyq":"uffman",
+"pbcraki6dgnkyavsh7unwi3v":["ufocrispycake","ufonaut with pancakes"],
+"otuntp4htphau3g5co7iqhuy":["ufukbenlice","Ufuk Benlice"],
+"ui33tn22g66pazwbagjcwvzi":"ufr",
+"jf3nvqmixy3l7eaush56um6n":"ufukg"
+}) // 2023-10-25T17:44:34.686Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

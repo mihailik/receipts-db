@@ -1,7 +1,7 @@
 var ua=(function(jsonp){ if (typeof ua==='function')ua(jsonp); return ua=jsonp })({
 "2g45p75tutnl47mxky4mp3d4":["uabooks","КнигоТорба"],
 "2vy6eogawqp73tiy2j745rky":["uaa","SASANO Takayoshi"],
-"2wgtlevqtyejjdtznqqigrdl":"uaau",
+"2wgtlevqtyejjdtznqqigrdl":["uaau","Thunderscare! Ahh! Ahh! Thunderscare!"],
 "3twewyvkgddjmlrogewjyxcw":["uagaming","Українська спілка геймерів"],
 "3v5h5ao2hhdfnolnhiudocip":["uasonechko","Та сама Фікрайтерка"],
 "4shhoppgnyqxbixwfyqsykje":["uaimiga","Maura"],
@@ -126,5 +126,17 @@ var ua=(function(jsonp){ if (typeof ua==='function')ua(jsonp); return ua=jsonp }
 "rnznq6rk7alv3pz2lx3uqkz3":["uailobodua","Uailo Bodua"],
 "5jqarepfmifid37fp5glpkd2":["uamodraws","Owen 🦇"],
 "yvmbf3i3jhekajt7ydmz74fn":"uataker",
-"id6sskct4ebzn6o7mebrytsu":"uawd"
-}) // 2023-10-23T06:28:48.687Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"id6sskct4ebzn6o7mebrytsu":"uawd",
+"6htudbvjhjptwg3qbmk62xzt":["uaowl","ua_owl🦉"],
+"vybiadfnmsrlg77bsbluqfdt":["uatech","Віталій Цибуляк"],
+"wuleietdaesw7yh5vbk5ju4e":["uagames.club","UA games"],
+"2wrlnyjzsusslk5cp3acr57o":"uaciwvshebeue",
+"2et7uk7gkbfgv3gkzw5tyaiy":"uaoranda",
+"x7l55ksl5sgjgw2l3e3ksjio":["uafurs","UaFurs"],
+"i4fkvjdrnsfni3etcdhr7xjn":["uakarsu","Ümit Akarsu "],
+"op2yjtoqu3yqbbvn73jzkgb5":["uardito","Santi "],
+"53yfue5p2mcuw5jdnv5snu6e":["uastroboy","Game Uastroboy"],
+"iynpi6g76qltxkajoowv3pmk":["uakraken","Volodymyr Serhiienko"],
+"zavxr4w52vurwvhfh5w4scli":["uarroba","Usuario Arroba"],
+"5abd2kpp52vzeqpvksof5nqr":"uaemahc"
+}) // 2023-10-25T16:46:08.040Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

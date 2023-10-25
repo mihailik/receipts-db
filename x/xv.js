@@ -32,5 +32,13 @@ var xv=(function(jsonp){ if (typeof xv==='function')xv(jsonp); return xv=jsonp }
 "tgcrf3lpcp7fkatckyylqdw4":["xvyabo","🍁victoria🍁"],
 "ym3fxmwa4ekv2lhylfwhjxnk":["xvz1326","누:淚락"],
 "3hhskdm4fmh6ftywgevz55pt":["xvifaust","Faust ☀️"],
-"dnypc4b46zxw64i75pdcr2y2":"xvitor"
-}) // 2023-10-23T09:03:56.201Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dnypc4b46zxw64i75pdcr2y2":"xvitor",
+"cdto7jjeqin5impqjzmpjgsb":["xvadim09","Vadym"],
+"ojhuxk5eywdhphmkr74dcrnv":"xviii-riv",
+"h6nlbgdyc7zhm3f6zupw7hnu":["xvh","Xavier Voigt-Hill"],
+"rxtphalauew34drmd55sfqi4":["xviizentrix","zentrix_XVII "],
+"guiret5w4wwthda3wllfill6":["xveri","xVeri"],
+"si466hz2r265judlpe6rmeqy":["xvc","Soon"],
+"aqsa3zlxyz7kqyhe2sbi3lno":"xvelasqu",
+"bb7feslcthd26pdnmxjbzkyg":["xvfa","Ryosuke Oketani"]
+}) // 2023-10-25T13:32:44.303Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

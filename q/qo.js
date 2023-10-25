@@ -8,7 +8,7 @@ var qo=(function(jsonp){ if (typeof qo==='function')qo(jsonp); return qo=jsonp }
 "mbbkrzyd2zu4qqhfbwc4z2ir":["qorabam","غُراب"],
 "nghepxphizi3hd44z5kgmtyt":["qoodk","꾸꾸"],
 "rvzupj5vqavmknsh42qwpvjh":["qooneram","くーねる☔️あめとあらし"],
-"rxisypcjqmdvgark7i6t5biw":"qovop",
+"rxisypcjqmdvgark7i6t5biw":["qovop","qO_Op"],
 "ubxq24wsejaotobarg35yape":["qod","Suzanne J."],
 "vu2vk2jx3jnugula6otbnrav":["qoop.ca","qoop"],
 "wxxfwswmv33b3ayhomkzxq5a":"qorgyle",
@@ -55,5 +55,19 @@ var qo=(function(jsonp){ if (typeof qo==='function')qo(jsonp); return qo=jsonp }
 "ruqmlblgr7mq6s566pzmbu6w":["qofe","QOFE"],
 "s7xtakbb6hguj6uwbrpmjhre":["qookyquiche","Quiche🦋🗡 💎🌊🏹"],
 "m6a2kzytsugotvhe7djmfacx":["qoftu","Queen of The Universe "],
-"v6q2pqoazs4m7fze6xmdlnxf":"qotdpatrol"
-}) // 2023-10-23T08:28:15.649Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"v6q2pqoazs4m7fze6xmdlnxf":"qotdpatrol",
+"twrdtvtqsuyit4buyj3uqisk":["qodarkness","Amanda S"],
+"td4636xkqf5onddsms7f2hmx":"qomby",
+"sbfjwczhlpy5rlixhtwhqp5y":["qorq","Sgriy"],
+"l5a5ogerwjutalevdhko6ksn":["qobar","Qobar"],
+"ejegxon4ebotpugvbpvfsfxc":["qowface","Qowface"],
+"jweiwguvsea56ps6i7fprwjh":["qostrom","Quinn Ostrom"],
+"pvxy76r6b5isidvbjqfe2gtj":["qoo935","くうちゃんねる"],
+"kvsighxdjesfkv6xqzs25lbo":["qoyqoyianhoon","Mother of Dragons "],
+"hdoqzb6iwcrw7nxzo5wqurlm":"qoecing",
+"m3755kcgpta6hcpehlntlynv":["qosim","OmoAjibola "],
+"bbl6daznz6qzptbnd5kzjx3v":"qokhan",
+"gh7mcecbwnvgjow5el67k2lq":["qogreek","くぉ"],
+"3tol2o5iohnwuvxzh5zmghb2":["qoqo","Qoqo Alaydrus"],
+"az227nyckwmspxztf7erp4le":["qori","oi"]
+}) // 2023-10-25T17:11:41.425Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

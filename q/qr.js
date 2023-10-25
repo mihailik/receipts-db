@@ -33,5 +33,14 @@ var qr=(function(jsonp){ if (typeof qr==='function')qr(jsonp); return qr=jsonp }
 "4hbejm6e6zks7lxgggf7wsox":["qrnrd","Caleb / qrnrd"],
 "kpgw67hnwabri6oxf5nxxxxi":"qrman",
 "udm3pxf25u2psipic2y34hex":["qrttr","lost island"],
-"5extcqojb2aqerab4q2j5l4j":["qrxx","qrxx"]
-}) // 2023-10-23T08:16:45.447Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5extcqojb2aqerab4q2j5l4j":["qrxx","qrxx"],
+"eca6hvx355mwweo3o66lm4ie":["qrarnoldd","Batman"],
+"yxm4txp7dn5kj4xei53ufmqw":"qriqa",
+"quewqal7peaighjehi4o2spd":"qr33dv",
+"mujjg432jpczp4xsio3dr77i":"qracle",
+"tl7h4vl32jo3shqjw5n4knzy":["qrchar","Char"],
+"457ma7ncnd7b5477ck4qytzy":["qriss","Chris"],
+"inbzjmdcpu5somluiwhucbes":["qratu","Qratu (Taylor's Version)"],
+"lvetja7ntlaodeofnhex2ozq":["qrdknpfr","Curd Knüpfer"],
+"3knx2z2w4lyugldftewdfw54":"qri"
+}) // 2023-10-25T17:46:14.698Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

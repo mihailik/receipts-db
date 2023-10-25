@@ -40,5 +40,16 @@ var hf=(function(jsonp){ if (typeof hf==='function')hf(jsonp); return hf=jsonp }
 "evegsdvvo5duefssqkem3e5d":["hfidmosejzh","Էզաաֆնորի"],
 "ca2lu4tjmgi2vod3hvztwxxv":"hfxshippingnews",
 "tmcarae7x4ket4rket6dnzvd":"hfallah",
-"3uoalo7dgbv4ysbtvanm6g43":"hft"
-}) // 2023-10-23T06:51:18.007Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3uoalo7dgbv4ysbtvanm6g43":"hft",
+"2km6ezh5oumbi5y5zrfuh5un":["hfresh","히"],
+"emqtl5tnxaqndfztkvq6jryg":["hfbabygirls","♡ sarie ✿"],
+"7xc3gv3ueynv6ykswd3h5mhv":"hfla-phd",
+"kuyu5b2hpmfwmnxbxc3g6ir4":["hfnuala","Angry Yellow Hat Lady"],
+"iynhupadwsbx4pf4j5ozjfdk":"hfk",
+"ueixt7eikksh37hxcnccs5na":["hfayet","Héloïse Fayet"],
+"scpijobxxwoudhhomimafnvc":["hfxagain","evelyn"],
+"t7zakygaprqlqmj6wgur6ei5":["hfahmy","Hossam Fahmy"],
+"cdopi3vzzlchexolfxditasu":["hfarruda","Henrique F. de Arruda"],
+"v76qie3ou3hy6hdaebn2xan6":["hfredguy","hfredguy_"],
+"3xjljzjapm6mw5mpudqp2uo4":"hface"
+}) // 2023-10-25T17:23:30.414Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

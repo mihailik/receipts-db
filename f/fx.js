@@ -1,7 +1,7 @@
 var fx=(function(jsonp){ if (typeof fx==='function')fx(jsonp); return fx=jsonp })({
 "4qvkkp2jckghk7iywjgogga5":"fxshea62",
 "52ydvgcc3xihzg2sd6ix4qwx":"fxjtarga",
-"7eennskpimagiyfetslmjcvk":"fxsch",
+"7eennskpimagiyfetslmjcvk":["fxsch","메추라기"],
 "7yuttauisowvzdoqcgzkh4zf":["fxcrnr","ꇙ꓄꒤"],
 "d352jjnkb6yspeb7hr65s5yn":["fxssilfxel","Rae Bae"],
 "dbfb7k4eiwvy6pomjvexsief":["fxn","Xavier Noria"],
@@ -62,5 +62,17 @@ var fx=(function(jsonp){ if (typeof fx==='function')fx(jsonp); return fx=jsonp }
 "anxds574dps3pi3arrpkatgm":"fxbb2019",
 "xa5w6l5cj6gs7avdiadechlz":["fxsky.app","fxsky"],
 "axub3rsblmxonbjw2jeoritw":["fxngu","oberon ̶v̶o̶r̶t̶i̶g̶e̶r̶n̶ 𓆩✧𓆪"],
-"kc72d5xyd554fgsatbdp2trg":"fxtraderboss"
-}) // 2023-10-23T09:24:19.241Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kc72d5xyd554fgsatbdp2trg":"fxtraderboss",
+"vzyknsre4xc47oks2fxmbdvh":["fxsoobin","ٰ"],
+"yvrlaxn64gbnjzljyob3wdsx":["fxrx","x"],
+"ntrupohp23hli7utqboltuwp":["fxnewsletter","Foreign Exchanges"],
+"qduch7n3hztubmmok3fyl6uw":["fxysge","Foxy Sage"],
+"tt43pmqokgqljuak463ro6ot":["fxdpntthm","Apoorv"],
+"5qe6fskev7fu7x4r3gx33uw3":["fxggxt","ethan"],
+"s6wnn63fycm3l52n2nkut4of":["fxllipx","Fellipe"],
+"y2nhpagz7xt3ycssc3gl2czn":"fxd",
+"aznvkvq4qqdwwnrvts3uluxt":["fxchip.net","FxChiP"],
+"yk4hex7i4ywixgat6awsczwy":["fxxxubro","참새"],
+"qc76s3kedmuqoaompb4ipg33":"fx789",
+"t25l7nbrcyy34j5nwicu7oa6":"fxwolf"
+}) // 2023-10-25T17:39:27.018Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

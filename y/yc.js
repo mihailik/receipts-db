@@ -2,7 +2,7 @@ var yc=(function(jsonp){ if (typeof yc==='function')yc(jsonp); return yc=jsonp }
 "3wf4qjc6smcyeagekbhhb5dz":["ycanela","Arroz con mala leche"],
 "72mjt2tfdr6izojdq4rk7yri":["ycmmat","ycmmat"],
 "73ly3kzxndr7vw3xfsbmrlf4":["ycck.site","ben is me"],
-"jryyrtme3yczngyu4hg7a27q":"ycbernier",
+"jryyrtme3yczngyu4hg7a27q":["ycbernier","Yannick Bernier"],
 "psjekraygwxrxhkxmwpphpt2":["ycnynt","AfroBeagle"],
 "rofpnohyza2vvbvyxwubgikl":["ycyuncn52","BB"],
 "rooty7iqq6xpla4uekdc4u2h":["yckmd","ᗪᗩᑎ Ǥᗝᖇᗰᗩᑎ"],
@@ -29,5 +29,11 @@ var yc=(function(jsonp){ if (typeof yc==='function')yc(jsonp); return yc=jsonp }
 "73qrqddud2khthcrpamfkdry":"yclept",
 "mfvomezahejrxcl2sxlowjly":["ychiiys","yuu"],
 "7zotu7jt423pt7fqerlcf37r":["ycdx10b","MUJI"],
-"f5iwybs7zgn4zzgehpyyoh62":"ycgokmen"
-}) // 2023-10-23T05:50:35.242Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"f5iwybs7zgn4zzgehpyyoh62":"ycgokmen",
+"46dihv2hwkaoiauie2b4pc74":"ycnanzeravla",
+"v7ddcajihroqibqrlqhjtxsq":["ycfof","go"],
+"pa7jci5opsdjnhhnm2s7otdy":["ycaroentr","Ycaro"],
+"cr6ujiwqxpy3kfbnjusdp2iz":"ycz6",
+"lfb5d3fbyok37lpott4syud4":["ycap23","ycap23"],
+"m32ckikwf5m6bksl77u226ik":"ycantibeu"
+}) // 2023-10-25T14:35:40.952Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

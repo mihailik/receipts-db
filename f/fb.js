@@ -77,5 +77,24 @@ var fb=(function(jsonp){ if (typeof fb==='function')fb(jsonp); return fb=jsonp }
 "c65qlkb22fy4nvrct7reeddn":"fbobby80",
 "rj3slr66u5pr7aji75iq5wx4":["fbdbh","Balázs Farkas"],
 "xktc54777ibc5ypfhactvwbf":["fblife","Fblife"],
-"ddkrrc5usldhyksseadbz74b":["fbfishslap","Punished Birb"]
-}) // 2023-10-23T08:13:00.731Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ddkrrc5usldhyksseadbz74b":["fbfishslap","Punished Birb"],
+"mza2ggdy7pny4u3aj3rj5etg":["fbalazar","Fernaldo Balazar (Frank)"],
+"xuqytqgafmrakae7vvaj5ijp":["fbedit","Toastie 🏳️‍🌈"],
+"s42vpi52gnwxbwvsafcnmcf5":["fblacklight","Furry BlackLight"],
+"wys6smr7xknu6jrruay3z4a3":"fbb",
+"ps37privh6yet3rz5r7loabm":["fbkymrms","するめ"],
+"byqhfbeanpuvyo7at5vousai":"fbagocius3",
+"srhwxugn7soko5ylmoz7zr4l":["fbaganha","Fernando Neto"],
+"r4jc7gkyoksn54ula5rofrek":"fbdz",
+"2llrhgzdyfxbodt3nxrqi3b2":["fbethesda","Danny Bants-tom"],
+"nk7ld7vqjruvlks47zsipgyb":"fbeirao",
+"2o74mvjs47m62oojcxxkgb65":"fbc",
+"3yhwz2dnqdbbeq4if67n3orn":["fb1907","malinondegideni     "],
+"luo55s5u257wcmftxjcngxzc":"fbandov",
+"afnnn5twswqolmmgv3blqv77":["fbernardino","fbernardino"],
+"u63gawfreiiydu2bhze5gb6m":"fballfanchiefs",
+"6xvvilemdmof36hdhchnyt3f":"fboucher",
+"mtrqutuhogpuimx6l6zlgxvd":["fbr.ninja","Florian 🤙"],
+"5b6yzjreyhltu2nykdqvcxo7":["fblthp","Meltalar"],
+"o75wukq6om255cgd26nfixzn":"fbrozovic"
+}) // 2023-10-25T17:42:44.091Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -25,5 +25,9 @@ var ux=(function(jsonp){ if (typeof ux==='function')ux(jsonp); return ux=jsonp }
 "2urnykdombthnnd4n64rbst4":["uxia","Uxía "],
 "6i3qcbhhgkvcwaq7wwp4cjrv":"uxhe",
 "5sfcgklhmvjbttwkccltqduf":["ux-eric","Eric the UX Designer"],
-"zjqmmyzqhkdmh77xtwabliad":"uxio"
-}) // 2023-10-23T06:38:59.000Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zjqmmyzqhkdmh77xtwabliad":"uxio",
+"poaqokbqmvjhrgouztazjppz":["uxuiabbie","abbie 🎃"],
+"6snuiyahnamiec5ll63m3mk6":["uxieu","Uxie🐀 Comms open"],
+"ofh2kiffs4njp72amknqow3g":"uxotl",
+"x2cdratf4zecvbeaqb4hblzg":"uxfuturism"
+}) // 2023-10-25T17:52:53.443Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

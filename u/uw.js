@@ -74,5 +74,16 @@ var uw=(function(jsonp){ if (typeof uw==='function')uw(jsonp); return uw=jsonp }
 "y3d6brwpgxcl6r4hmavko5ye":"uwacat",
 "2t4hfekvv6s2lepcijt74i7k":["uwudarksun","shin🍮"],
 "bfije3wsh4yyix5yfytubka6":["uweadler","Uwe Adler"],
-"2vzwftdlbpmwiq2fbjnzr5ky":["uwurawrus","uwurawrus"]
-}) // 2023-10-23T09:24:19.164Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2vzwftdlbpmwiq2fbjnzr5ky":["uwurawrus","uwurawrus"],
+"iejfx2pidu7dx3vndxnm73cz":["uwumillie","🦦"],
+"ihg3iz24hci4k5ijto7bt7vm":"uwuclara.dev",
+"y3k2ruhod4fhu2d6z5dktuyn":["uwebwerner","Uwe Werner"],
+"eictbai3ayeibdrrbzntjwaq":"uwuawoo",
+"tcde5ldnvy56gwkqees2tc3s":["uwuwaifulaifu","UwU Waifu Laifu"],
+"a6qia2adfgq54ybrpawgujzo":["uwazupogo","Urbanus W. Azupogo"],
+"gvt3ak6k4vpxvf2afr7mznhl":"uwemite",
+"4ak3j3akowu6ysn55u4filjs":["uwomi","uwomi"],
+"b2q7cnuka4nxhju2zultjyvi":["uwugoblin","Malice"],
+"5q6mj2gv3xl6fm47fucmr5bc":["uwubunbun","bunbun"],
+"khsbt5jrncxapom7yoag6bb4":["uwuziel","uwuziel"]
+}) // 2023-10-25T17:21:53.938Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -63,5 +63,17 @@ var fp=(function(jsonp){ if (typeof fp==='function')fp(jsonp); return fp=jsonp }
 "te74qn7unukbkkzmnrgr2inv":"fprattiart",
 "nzpq6dt7so5g2y2mnyyafe2h":"fpsilvie",
 "lwtzcovnt7mvw3juzu5mw4mq":["fpaul","FPaul"],
-"p5gdzyj7j6xanq6t2gpa7eej":["fphinn","Finn"]
-}) // 2023-10-23T08:14:48.755Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"p5gdzyj7j6xanq6t2gpa7eej":["fphinn","Finn"],
+"w6x6l2subsyurdyaigaelpkf":"fperonto",
+"guxafpil73qsjqfg3uzxu5bg":["fpri","Foreign Policy Research Institute "],
+"g6wdhgjxjkph6kvtcxyajg26":["fpeterson","Farah Peterson"],
+"n2inmet55isj4oaxnok5dzca":["fpunzi","Frankie"],
+"4udpf5am7kszdqq3wsbyawkr":["fpezducci","Фредерікко Пездуччі🇺🇦"],
+"jo436zyo4tewyadvu5fwiwxe":["fplglasto","FPL Glasto"],
+"6grynkyfkyvaoarvq6cazgep":["fpdias","Sommelier de leite de vex"],
+"d6foy2zx76pj6ih4ec5fzqv4":["fpsbug","bug"],
+"tkj66c6hbhmvwarq7pte2ncs":["fpuniv","小田卓志"],
+"ereazd6ndxlofwsm3geh7bio":"fplata",
+"w3ff2qgmj2wvsdtvkfxjgsyj":["fpj","Franck Portier"],
+"tuhwpy5cdbxsa2oxgnmdt4vy":"fpos"
+}) // 2023-10-25T17:51:17.439Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

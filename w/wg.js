@@ -32,5 +32,16 @@ var wg=(function(jsonp){ if (typeof wg==='function')wg(jsonp); return wg=jsonp }
 "heeo7zpvkv7n7dhcrvlnwozh":["wgnr","Wagner"],
 "mtlofcpo3yyjf5k3uhz3kazx":"wgrlion",
 "sy76blbftadtzlowyhxrixnn":["wgafrica","☀️🐘"],
-"jpmxzfc2hbha7qsembrk3g5w":"wgjc"
-}) // 2023-10-23T06:46:05.690Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jpmxzfc2hbha7qsembrk3g5w":"wgjc",
+"pzgslsxupfvnpl5spk6fgokv":"wgferre",
+"iccj7alxqyaojq24ammpgau5":["wget","wget"],
+"uq6takpk2zz4ycqy5c43ogrd":["wgawest","Writers Guild West"],
+"n6y72owc3yiwi4y4zbe6irvy":["wgriscom","William"],
+"dxphnrtri3v6a2lyl2khufyv":["wgaeast","Writers Guild of America East"],
+"ahndv5fyth6cjw22ibthgw33":"wglodell",
+"gxptyqu2j2epmdtgbwx4ztgf":"wgpringle",
+"kjs6f3hat3jmurjzdr7l7x63":"wgw",
+"qg2wlx4oipj3mp7bn7v2fxs6":["wgarndt","WG Arndt (He/Him)"],
+"mf427hqm22mm7v735mxnusj5":"wgrueninger",
+"na735jsb277nkalonibm5c5g":"wgtheo"
+}) // 2023-10-25T17:42:44.224Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

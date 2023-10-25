@@ -71,5 +71,18 @@ var nv=(function(jsonp){ if (typeof nv==='function')nv(jsonp); return nv=jsonp }
 "ydr7l5on3cmfsvzq47v7m6ga":"nvjenna",
 "ekypitnthav3yfoj4h37pdcn":["nvasconcelos","Nelson "],
 "5ersmqyevvqntg2w3div7m3e":["nvn.io","jb"],
-"aguru5o25fknzijfrxa4gfso":"nvspirit0"
-}) // 2023-10-23T07:55:43.222Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"aguru5o25fknzijfrxa4gfso":"nvspirit0",
+"7q3mwgebq66tgjpuvx6abqpu":["nvft","Nikko Tuibz"],
+"ocixxgweeh7s64gqjb3pezyw":["nvs","NVS"],
+"sa2wdvquirkibwww2vbyqrwn":["nvskinspa","NV Skin Spa"],
+"t5ropavw5ydhorx5jc75pgnu":["nvalvo","nick 🫥"],
+"3lcbxzju5wt37as2rwjrg3na":"nvinuesa",
+"oq323fjbolw35h6qibqaphgu":"nvda",
+"d7pl6gl22pspwldr2pqn3psg":["nvssins","The Hero of Crime"],
+"j2kvkphhw5rthkinm7rwhkvj":["nvmb3rth30ry","Nvmb3rTh30ry "],
+"6llczoqdu5uoojqucooktumu":["nvia","N__via_a"],
+"lypvxk2j3bira5muuavysgog":["nvrever","dan "],
+"ikxp7g7k6z4d4t5y3gwljqbo":"nvideo",
+"xok4l43xyyylnxdhncwkcps7":"nvplays",
+"nj6oez23vppzrhfqxslxy524":"nvmike"
+}) // 2023-10-25T16:17:10.554Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

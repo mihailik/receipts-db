@@ -49,5 +49,17 @@ var dx=(function(jsonp){ if (typeof dx==='function')dx(jsonp); return dx=jsonp }
 "6uwxtoax7rzfcjanrqqqsmyh":["dxwwf3","Jonathan Cooper"],
 "mxawui4oxw6djc4haxyia2wp":["dx5536","Hai Lam Dang ⛵ Is Bird app dying yet?"],
 "3vpzb6pigek75bljvyv3warz":["dxnght","Пан Пригорян"],
-"zuernbeegb64dmbonfgr4hke":["dxvewolf","Dxvewolf"]
-}) // 2023-10-23T07:34:09.356Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zuernbeegb64dmbonfgr4hke":["dxvewolf","Dxvewolf"],
+"ch6meyfj4xp34amlpuoqwadf":["dx-tex","DX-Tex"],
+"z3mtsgz35wkjgmtsyiv2krgy":"dxthomson",
+"azqgsvvsfnow7jea23imut6n":"dxnnxtte",
+"2ojgeymgslyowgdnmghhzx3p":["dxrkmxtter","영인"],
+"yhjmgw2g3lhn7dzlez5dpc4c":["dxiemond","Dxiemond 🌱🍄🌼"],
+"gzfbd4eaqi5nrdjwx7ohar4r":["dx0","diodex"],
+"efyy46c6zk6gjmisfpuvaljv":"dxriush",
+"qi5xc2lkgwe2swf4accfdpmv":"dxristova",
+"s2c64ts2dyfy3sspimneo4is":["dxntbreathein","lera !! ^_^"],
+"6fkd33wz4p5nvlthky6npqty":"dxsintegration",
+"mcc6455hpmkwjv2ur4kjc5ip":["dxcstrange","s т я α и g є 🗡️🌹🪶"],
+"5ky7ygxmfegyjjndlsrufwtn":["dxid","David"]
+}) // 2023-10-25T17:30:41.958Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

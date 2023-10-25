@@ -8,7 +8,7 @@ var wd=(function(jsonp){ if (typeof wd==='function')wd(jsonp); return wd=jsonp }
 "lhf26jnjgt3x5lozbozlhtql":["wdrussell","wdr"],
 "n7kfmoxbsiwrq6rvmyi4akrb":["wdanim","WD"],
 "pknvwu7i7j2je72zpwuwlvwn":["wdtatw","We Dont Talk About The Weather"],
-"rtseqy7pehirdr5lpg64boii":"wdtillman",
+"rtseqy7pehirdr5lpg64boii":["wdtillman","Walter "],
 "sb35qdrvjta2nb2m6cck66r7":["wdancer","🍉Шин (хто нахуй) Ю🇺🇦"],
 "udjgmocclxzti7bak6jn6to5":["w-dori","しこだ"],
 "utcvkkmrekdqpptci3nufm7y":["wdefender","Waltr, Beast Eater"],
@@ -79,5 +79,12 @@ var wd=(function(jsonp){ if (typeof wd==='function')wd(jsonp); return wd=jsonp }
 "yzpfldavmt32xv4qco643p7j":"wdb",
 "3v4ij3tygfnwfccoxkhykqjx":["wdfifties","WDFifties"],
 "64ybvcfd47q7bibaxazfdkyy":["wdolek","Zdeněk"],
-"7uycdgqrm6clap3dp6xtqniq":"wdj"
-}) // 2023-10-23T09:22:38.827Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7uycdgqrm6clap3dp6xtqniq":"wdj",
+"u6n7rx6nwoi7tbn7dw4ct4d3":["wdnbr","WDN - World Dubbing News"],
+"udhq3isgxtzabragkojzcdgx":"wdinkel",
+"pqvhons7dk2er4ettr5bhpn5":["wdrftgylpbba","mks"],
+"5temoha4k54ynaexiemgkizu":"wdwinslow",
+"w6egnj2zmuohgnwoplunu6bm":["wdblue","WD"],
+"ueae3tbpkke4wc2qauygnzu7":["wdm","Wolf Dieter Moggert"],
+"4daahmhfjcsnf2xfyv7x5rz5":"wdmny"
+}) // 2023-10-25T16:15:26.803Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

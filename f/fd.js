@@ -1,5 +1,5 @@
 var fd=(function(jsonp){ if (typeof fd==='function')fd(jsonp); return fd=jsonp })({
-"4v2iixvvtbmtjqbuars2ut3t":"fdienstag",
+"4v2iixvvtbmtjqbuars2ut3t":["fdienstag","Frau Dienstag "],
 "6cfwj546jywzxsznggtrmesm":["fde76","𝓕𝓻𝓪𝓷𝓬𝓸𝓲𝓼 "],
 "7nlmrz5z74n4fvy4m55d63ko":["fdallagh","Fionn"],
 "7vy7rfpcmyxbbeevnycfbl5q":["fdpverbot","FDP raus aus den Parlamenten 🚮"],
@@ -8,7 +8,7 @@ var fd=(function(jsonp){ if (typeof fd==='function')fd(jsonp); return fd=jsonp }
 "gry4d56fx63cogao6mwlhilw":["fdownes","Fin Downes"],
 "gztxnxrhuifcqkjp3onaza6z":["fdworz","FDomain"],
 "q7palsqlbtuhdhpklvxuttaf":["fdtd","いいちこ"],
-"s437beknmp65bo5jblizzoy6":"fdm2",
+"s437beknmp65bo5jblizzoy6":["fdm2","fdm2"],
 "yc6xkyelen7wmq4eaiqz26g4":["fdomin","Fernando Dominguez"],
 "yn7jcjwc4ilk6cezb4ndmnwm":["fdeleuze","(((Fred D)))"],
 "yxfvglz7uf6yxqfgswqh45sz":["fdefantasmas","Daniel Figuero"],
@@ -64,5 +64,22 @@ var fd=(function(jsonp){ if (typeof fd==='function')fd(jsonp); return fd=jsonp }
 "7dfaiu42pbkftozanyecqdr3":"fdcarl",
 "fbo6w5utcm6bsfxov6fossrn":"fdun89",
 "e64753aux4v5typzbhuuzbhq":["fdv","Frank Valletutti"],
-"wkxvqluy3e35f6ziyuviupvd":["fduraes","Fernando Durães "]
-}) // 2023-10-23T07:25:34.165Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wkxvqluy3e35f6ziyuviupvd":["fduraes","Fernando Durães "],
+"ana4zvlt6pbnekgcyhckplex":["fdrubio1977","Fernando Domínguez Rubio"],
+"ja57gdwocietrsf44o5irx4z":["fdp","Florian "],
+"3qs2qkrap2jtsow7vzqx5w3q":["fdov21","fdov21"],
+"z7nfjuumfgeobsps6433olwh":["fdemetri","dimi"],
+"gh57w2rxcye2bvcgrn6eajcj":["fdepal","let me be frank "],
+"q3rsi5k7ti55w7c465dx563n":"fdguy",
+"7mnbff6q23yfa4vibmigkaf4":"fdoyle",
+"rebcsiwuhg2jiskueawlzlku":["fdipper","fdipper"],
+"4lg2qj6skvsq6np5riwu67z3":["fdavulcu","Furkan Davulcu"],
+"nn6vzfzxu2lfhwsazo5qgbfg":["fdregard","Degenerate "],
+"prrlsw4hjzhjoqz42t6oh6o3":"fdelcroix",
+"hjqnk5eqxuwzjaioinzoyehs":["fd3s","Momo"],
+"ipc7rg7pruyk4he45ps3gt5e":["fdrplayer","Jaxi"],
+"tw33isqqmti4pylla773n5c7":["fdmafc","FullDeck & Missing a Few Cards"],
+"42k5hokknhzmmklirb5zmgek":"fdokami",
+"7jhaxzq4y6c6noufw5hljauh":"fdlgo",
+"64ljq2gab5rbqc6q74tflpe3":["fdelbrayelle","François Delbrayelle"]
+}) // 2023-10-25T17:04:57.731Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

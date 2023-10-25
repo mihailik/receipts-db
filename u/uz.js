@@ -13,7 +13,7 @@ var uz=(function(jsonp){ if (typeof uz==='function')uz(jsonp); return uz=jsonp }
 "mcn6upb2peamivxe6zibfmpl":["uzasjemojafurka","Uzasjemojafurka"],
 "nnqojmvklnll7ytqglmpekfi":["uzumakisya","うずまき舎"],
 "nqfq2jjecvxwjmf345xdtvyw":["uziking","UZIKING"],
-"nsnwmkdnoxtk2qdtt3yvj6n6":"uz1kiss",
+"nsnwmkdnoxtk2qdtt3yvj6n6":["uz1kiss","alex"],
 "o4724bbolssv2xoptw57ztht":["uzumaki","lua"],
 "tt5msbziq7isodsr3r3hatk4":["uzulla","uzulla"],
 "wkqfpeug2aznhtg5ofvioz4w":["uzralf","N/A"],
@@ -70,5 +70,21 @@ var uz=(function(jsonp){ if (typeof uz==='function')uz(jsonp); return uz=jsonp }
 "fhwgef7ifgcl5loodg6duxgn":["uzuzzz","渦"],
 "4xf4ugcmdgzsonfgytz3xeuo":["uzu51","Uzu"],
 "gwmdzyt3uty5fdkg4tqjyivo":["uzumakinaruto","เพ้ดดด"],
-"stdl53h2drhax3e5gissgiyf":"uzukiapostle"
-}) // 2023-10-23T09:05:47.800Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"stdl53h2drhax3e5gissgiyf":"uzukiapostle",
+"vlvvltbjpsaewqicjhs2gfiy":["uzuvae","es"],
+"yp26mua7d7e3mf2jb62yu6qc":["uzuzap","Uzuzàp"],
+"lgjsryinhldb5rlkyuyxf7gy":["uzuforest","うずもりうずめ"],
+"vyg5x3kc36amoiestx62krxi":["uzusari","沙吏"],
+"jdtz45ohxq2kko3g3v3e4y2u":["uzukikure","兎月"],
+"jrofbd6jji3k4bnd7lh5rb63":["uzor","UZOMA "],
+"oxzexnhee2oa4u3war7pwydz":["uzen187tk","てん"],
+"65q3ia2kclhk6lmeau2xmd65":["uzaydabugun","UzAy&Dünya"],
+"uhjtp3fil7tljljishs6cekg":["uzoomaki","rees"],
+"nspz7a4kbcmy5rpbltyu2p32":["uzzyvadhajinx","Uzzy Vadha Jinx, your favorite Furry Clown 😸🤡🩷💛🩵"],
+"woicesklaru4ll5j4su4qyj2":["uzum4ki","Blake"],
+"6hkmwiw5uckyepgy3s34x2ai":"uzaylibirhanim",
+"b7os7yxrbp6ha3ufdkdh5zxn":["uzzah","Joshua"],
+"6vuvobihevr3sziod2niiq5w":"uzr12345",
+"nck2fon5ojfxkunfuuecpuik":["uzugijin","uzu"],
+"xwef3xblfud2ca6s44fn4jnb":["uzantonomon","Diogo Ferreira"]
+}) // 2023-10-25T16:46:07.953Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
