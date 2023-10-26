@@ -54,5 +54,10 @@ var wp=(function(jsonp){ if (typeof wp==='function')wp(jsonp); return wp=jsonp }
 "tia6s4h6vg3bs7x6sbxr5nuh":"wpn",
 "q3etodtta5wls5iytjkjfmhn":["wpk12","Wpk12"],
 "lf4c6fcqqbc4vrsu56f6wxza":["wpilon","Bill Pilon"],
-"456odupuxfckjja5ah4b3qmn":["wpfernandes","WP Fernandes"]
-}) // 2023-10-25T15:27:53.821Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"456odupuxfckjja5ah4b3qmn":["wpfernandes","WP Fernandes"],
+"5gkjgtlnyp77hvzgltpcsz4c":["wplayas","Carnage Asada"],
+"tqhxq4k2xqcoudk43o3r5fos":"wpsantos16",
+"s7mp45wx7f267nzmatuqu6k4":["wpak","WPAK"],
+"rkmxcqnxf2rmpxtkgvqqzswh":["wpwerbung","wp-werbung"],
+"73xvftvw5kzjbwuf32lfxakt":"wpexpert"
+}) // 2023-10-26T09:19:14.435Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

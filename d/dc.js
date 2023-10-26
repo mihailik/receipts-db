@@ -420,5 +420,19 @@ var dc=(function(jsonp){ if (typeof dc==='function')dc(jsonp); return dc=jsonp }
 "fls2scxyibgacyz7dx42kw3f":["dcarnevalig","Daniel Carnevali"],
 "qx7x5b23qrheoxd4impflicl":"dcrtslnr",
 "whyu3tpqofb4nbui77aiv3pn":"dcee",
-"lomwbvfaxayw6piqzj2nxhc2":"dcrgll"
-}) // 2023-10-25T17:58:05.347Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lomwbvfaxayw6piqzj2nxhc2":"dcrgll",
+"rfchgcqilwki7qkqb3o7lshp":["dcmonalds","Clarence Thomas Brutally Murdered My Grandfather for Quick Cash"],
+"5zcte77ghrlybn2yzk3l33fr":"dcrants",
+"hpph47joccilxhvdugzx3wtd":"dchawner",
+"vz4gbqk4gczat2mw757zawxc":"dcheng",
+"7wwrecg3gi7nmmyshrlzvrbl":"dckranz",
+"dm3sljmjoyv2td33hsc3xy6i":["dcarson825","David P Carson II"],
+"zlgmg4gutmmjplemscs3msfd":"dcubi",
+"flg3jr767ekbl34ogxb6xrbo":["dcarlson","David Carlson "],
+"wzhnnbop2g3sqrbp3f3t54ky":"dcorbin",
+"qlipfdqydjknsmejwneuclwz":["dc4finance","dc4finance"],
+"ewl7jreh3fuww3u7iafjnh7m":["dccrayford","David_Crayford 🇬🇧"],
+"thxzjkywuznbwfyubliw6uox":"dclx7",
+"di4gs7654zy7rc5ednde25kj":["dckei197","D-Kei197"],
+"4mlo6b3mqg4itbvlfwchlw77":["dcpn","凸PON"]
+}) // 2023-10-26T09:17:34.715Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

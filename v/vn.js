@@ -68,5 +68,6 @@ var vn=(function(jsonp){ if (typeof vn==='function')vn(jsonp); return vn=jsonp }
 "rtagn4x57qm3zvaotgxopgfu":["vnwpod.de","Vorwärts nach weit - Der 96 Podcast"],
 "4mxfgkor4k5lcoud77al3fog":"vnyc",
 "oas6uakm73bwksprbtna7een":["vnight-studios.xyz","TheGamingBram"],
-"qzcmvle7ly4fax4vgo47yjco":["vnprkhzhk","Ivan 🇺🇦🇪🇺#FreeTaurus"]
-}) // 2023-10-25T17:51:17.587Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qzcmvle7ly4fax4vgo47yjco":["vnprkhzhk","Ivan 🇺🇦🇪🇺#FreeTaurus"],
+"l5l75cqssgdkga5fwka5mods":["vnd","Krzysztof Katowicz-Kowalewski"]
+}) // 2023-10-25T18:50:21.687Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

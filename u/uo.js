@@ -47,5 +47,9 @@ var uo=(function(jsonp){ if (typeof uo==='function')uo(jsonp); return uo=jsonp }
 "axa3nrp4udu3deh3dtpctmtt":["uououoshiki","魚色(うおしき)"],
 "2hr6cypyxyp7uxm3nse5nz3m":"uomofocaccina",
 "sdefh3ez4bsa56btufojpgra":["uofmar","Umar"],
-"vhqfh7wbccaqfm46ny3g5mxa":["uotlaf.com","spooklaf"]
-}) // 2023-10-25T14:14:17.942Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vhqfh7wbccaqfm46ny3g5mxa":["uotlaf.com","spooklaf"],
+"eclqm6qge2i6yic75wm3k7jn":"uovardar",
+"d4zfnx7hwmtvxqviuvuhnmnx":"uofcwildcat",
+"4rds22l5lz2kvml7v4focjn5":["uofuneuronews","UofUNeuronews"],
+"y5zmisiroib6lyacu5zdv3hx":["uori","𝒰𝑜𝓇𝒾 🔞 artist@Vgen 18+"]
+}) // 2023-10-26T09:02:11.586Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

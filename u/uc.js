@@ -145,5 +145,11 @@ var uc=(function(jsonp){ if (typeof uc==='function')uc(jsonp); return uc=jsonp }
 "ef6pxxvpogjjpbkp54qrmszi":["uconnpuneet","UConnPuneet"],
 "zbslkzaqmpent6yjcixv3iis":"uchusky23",
 "s343cnc4xfok5otdu6wt34kd":["ucfknightsteve","UCFKnightSteve"],
-"wcqle5xaenm7yiedx7ov7ehk":"ucanthandldhandl"
-}) // 2023-10-25T17:51:17.334Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wcqle5xaenm7yiedx7ov7ehk":"ucanthandldhandl",
+"hlclvhkbpvzjy6vjfoekp2ts":["ucalgaryconted","UCalgary Continuing Education"],
+"g2z6pqtdlcxsgun6fd2tlmgo":"ucelik",
+"ve4l7wia5zpsf7uvisvqwovu":["ucfnet002","UCFnet002"],
+"42pjxhj5z7ebmp4ngtcuoldb":"ucubeork",
+"ud3j755wfnylw6wubb55ga7h":"uchida0605",
+"w4babr4cri3ktztkxjjc4qbk":["uca","uğur"]
+}) // 2023-10-26T09:19:14.105Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

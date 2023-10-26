@@ -196,5 +196,16 @@ var vr=(function(jsonp){ if (typeof vr==='function')vr(jsonp); return vr=jsonp }
 "seiqpggfewgkvugtzoz42hkx":["vrkunza","DudeBro"],
 "zvt5xn5szrqnsdw6mr3ygfqg":["vrnuno","vr_nuno"],
 "gvdclhnk3ysuz5sui5catxqd":["vrezai","Cameron"],
-"f67ooo636gfebnn5tsnufybq":"vrn7"
-}) // 2023-10-25T17:49:39.676Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"f67ooo636gfebnn5tsnufybq":"vrn7",
+"7vgob5plmcwa7mabwh3yjxar":["vrilyaprincess","𝔙𝔯𝔦𝔩𝔦𝔰𝔠𝔥𝔢𝔰 𝔊𝔢𝔴𝔦𝔱𝔱𝔢𝔯🔻🧙‍♀️"],
+"chly5xorfscofutlftgeaukw":["vramos","Vinicius Ramos Pereira "],
+"w6oxsdhnv3v43tr7yafcbqft":["vrei","Vrei Fanged"],
+"w5sfmiczh7nwy5v4y6xri3ed":"vraz",
+"ykcue7q7bxvdvznjvss6pskn":["vrosty","VRosty"],
+"7wso6g5bjtj6k3veft4mnt6d":["vrao","o Pablo Fernández"],
+"rwb7yc4we2otp23nhsdsb5yq":["vras","Stefano pittarello"],
+"77dfhv3rlojph3jv7ctipund":["vrla1988","Guntha "],
+"kextbjzvewidyo3ku3g2nixa":["vroomb","Stephanie"],
+"tm7m2cmmrjsn6pma5qh7olgg":["vravo78","유후"],
+"j4pfjfwil6ewflufbfpjt6zk":["vrose35","💜Vivi💜🏳️‍⚧️"]
+}) // 2023-10-26T08:46:29.721Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

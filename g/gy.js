@@ -211,5 +211,11 @@ var gy=(function(jsonp){ if (typeof gy==='function')gy(jsonp); return gy=jsonp }
 "3xrfgh5on4v5n4qddcio4ws2":"gyokurosamurai",
 "uuj6zhjo6w7m7tbv22sean6y":["gyeongkku","꾹"],
 "3sdsyhwicymee5eicar2hvxw":"gymrat57",
-"fz3thwtw5q6gpj42653az765":["gycbpp","추분 aka.고요"]
-}) // 2023-10-25T17:42:43.689Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fz3thwtw5q6gpj42653az765":["gycbpp","추분 aka.고요"],
+"krehtrpfv36un4roleuiggmr":["gyrokaleido","Hugo \"Amadeus\" Nuñez 🥀🖤💎"],
+"3uxpa6meac6eb6qcxwovktjk":["gyro2tons","🚨 Gyro & 2 Tons 📢"],
+"io76bfjtldzibir5sftpin75":["gyoneres","Gui Neres "],
+"5kdmduui7nspotqseytvjbfk":["gyodo","Gyodo"],
+"kvuqqmfcettd6dj4q6swb52z":["gymbunnyjim","Jim Bunny"],
+"2twvko7kjb26cji5rlet7fq5":["gyozhico","須藤"]
+}) // 2023-10-26T08:48:20.751Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

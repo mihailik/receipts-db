@@ -37,5 +37,7 @@ var wv=(function(jsonp){ if (typeof wv==='function')wv(jsonp); return wv=jsonp }
 "g4xbrguujdq23dwpabvdz6v3":["wva","W"],
 "7hc5p2z55bdpz65z2x6fwyl5":["wvwv","결"],
 "6jqbfpdf5vy2uhfgn73itmrb":"wvgabi",
-"muso3dq34wmb3pzdy5sfxiam":["wvscanner.com","Jason Tatem"]
-}) // 2023-10-25T17:18:26.454Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"muso3dq34wmb3pzdy5sfxiam":["wvscanner.com","Jason Tatem"],
+"oqqxz6o7n67oasitq6euakyu":["wvuplanetarium","WVU Planetarium and Observatory 🔭"],
+"mk3ayv5ihl5ywauptnzhwmt5":["wvrden","⛧ Rabid Horror Enthusiast ⛧"]
+}) // 2023-10-26T09:00:18.839Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

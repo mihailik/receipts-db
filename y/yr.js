@@ -79,5 +79,10 @@ var yr=(function(jsonp){ if (typeof yr==='function')yr(jsonp); return yr=jsonp }
 "i5x3ejvdzofx7jrgaolgtuk5":["yrlove","David"],
 "rpts7srwiqm3bj5vdzqd5otl":["yrnehh","Keebud_Tyrant "],
 "ieukvdhyx72exvjdmjlq6wwv":"yredxx",
-"5w4lamwnisgrwbiaibuyssnd":["yrnanasi","ⁿªⁿª₄"]
-}) // 2023-10-25T16:47:48.954Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5w4lamwnisgrwbiaibuyssnd":["yrnanasi","ⁿªⁿª₄"],
+"q72is2b6oi6lpvnj5rudtfmw":"yrin",
+"npwfnj6dgsjutmm7jhaz3lkw":["yricsm","あすぴ"],
+"urjtgpm22m3y3f2jatvkmjol":["yrd.info","Yannik Rödel"],
+"qvye2uwovoaiqq4j6p76llbc":"yrudolf516",
+"ndrn65px3pngd4es3ayxkxnw":["yrmm240","Яна Геннадiївна"]
+}) // 2023-10-26T08:36:36.689Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

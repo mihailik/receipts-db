@@ -343,5 +343,16 @@ var rs=(function(jsonp){ if (typeof rs==='function')rs(jsonp); return rs=jsonp }
 "y5gt3rfd53kmrmpaosxzywfi":"r-squiggle",
 "gymmbehgs7nae7m2hi7jp5vw":"rshd",
 "g3rrovon3iykrdpkfwx7pb7i":"rsp",
-"vaplrpsusgav2hofewqukyii":["rsouzacouto","Rogério Couto"]
-}) // 2023-10-25T17:58:05.270Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vaplrpsusgav2hofewqukyii":["rsouzacouto","Rogério Couto"],
+"jfdmfmxlltaw6zkzvryzilq2":"rsantiago",
+"coj7g7sqw2qe6qkhe7566ow3":"rstevens11",
+"pc5qy4ap2sggnc3bbz2cpvsg":["rsambuca","Richie Sambuca "],
+"wpwar52vrcf4jfgudlgzh4hp":"rsheehan830",
+"hvsobl4otazg7tv7364ysxin":"rsert",
+"32zhwhxorqmjakepi7ow357e":"rshibato",
+"bzagzd23ys5a3mnowfkj3uto":["rspwfaq","Scott Keith"],
+"7xhxl7jlqhtcoojrxdrwnv34":["rsrd","Russell Davies"],
+"4dm735c4idbx7ax7tc5eifs6":"rstalf",
+"34tjgufjgtvyzvolfvwp6amo":"rsambrg",
+"exbc4ocwzfi36ska6pdxenee":"rshkliarskyy"
+}) // 2023-10-26T09:19:13.959Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

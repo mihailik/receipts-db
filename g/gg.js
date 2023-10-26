@@ -226,5 +226,16 @@ var gg=(function(jsonp){ if (typeof gg==='function')gg(jsonp); return gg=jsonp }
 "voxuo5yxlgqo3t7awuwtherm":["ggulpeachu3u","꿀"],
 "s5usx35zc7qik7lxu2b4kcwx":"ggkenny",
 "4edqfbwcqog3y5swnhdwim73":"ggalvao",
-"amwv3dwxg4jiiwaakswmuyji":"ggerdsiii"
-}) // 2023-10-25T17:33:49.737Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"amwv3dwxg4jiiwaakswmuyji":"ggerdsiii",
+"x3xbgvhmn5nz5an3d6inoxcj":"ggwozzy",
+"257sb636bnvaj2y5fetsqvcs":"ggendel",
+"wsl4zhwy6qjbtrx4bhdn4dfi":"gggaaa",
+"5luemj6msqfb46f7cyhjldyt":"ggladman",
+"vdx3v7yr2ttvkt43j2oltuiu":["ggrockz19","Gee "],
+"vrkljbzql62vtqyk4v2zzwti":"ggscagliusi",
+"xmhzwmufsgjn7vwosq4syemp":["ggeeoo","Geo"],
+"m64ol2gbhf3bdqxs6wwzwk6a":"ggodori",
+"5hhovthtv7vzyifzvp6egevs":["ggwolverines","Gazza"],
+"6jder3zjiruj7nef4bylb6oj":["ggkaba3","G.G.Kaba - Hier für den Weltfrieden 🕊️"],
+"jop3iu4ppu5ptmu74jnjcinf":["ggar","깔깔"]
+}) // 2023-10-26T09:17:34.931Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

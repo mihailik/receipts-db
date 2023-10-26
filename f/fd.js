@@ -81,5 +81,13 @@ var fd=(function(jsonp){ if (typeof fd==='function')fd(jsonp); return fd=jsonp }
 "tw33isqqmti4pylla773n5c7":["fdmafc","FullDeck & Missing a Few Cards"],
 "42k5hokknhzmmklirb5zmgek":"fdokami",
 "7jhaxzq4y6c6noufw5hljauh":"fdlgo",
-"64ljq2gab5rbqc6q74tflpe3":["fdelbrayelle","François Delbrayelle"]
-}) // 2023-10-25T17:04:57.731Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"64ljq2gab5rbqc6q74tflpe3":["fdelbrayelle","François Delbrayelle"],
+"zsn2iqypvnf22bkhwuyqea2r":"fdachille",
+"ccobc25v6zlavr3cy45fvnfg":"fdabaghi",
+"m626ysslpxqgqmyhyq54pkl2":["fdalcin","Felipe Dalcin"],
+"bagqokmjjwktj5pyu3oprl5l":["fdograph","Fernando Silva Müller "],
+"nzxye7fpczdzlha6nssvaxa5":["fddsrtrcrds","Food Desert Recordings"],
+"qzc2m3oul5jujkle644bt6cn":["fdsmtg","FDS MTG "],
+"inpepvvs3yoqtwsi42zf7s4v":["fdnieto","Frank Nieto"],
+"gxymgna5hwzhblpivkz232al":"fdeitylink"
+}) // 2023-10-26T09:08:04.166Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

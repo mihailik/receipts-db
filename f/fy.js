@@ -24,7 +24,7 @@ var fy=(function(jsonp){ if (typeof fy==='function')fy(jsonp); return fy=jsonp }
 "vaajc5j2ivkyr3a5duklc74n":["fyhornz","used jockstrap ⛧🔞"],
 "vmmcxeogjmhljmxnmzcxogvx":["fyrekat","Chef Fyre 🔜 MFF "],
 "wfujyzkeymsgasthb7cfa53k":["fyoo","Fyoo "],
-"ylxdmw5yrj72tyvypepokmn6":["fyredjfwuskygon","Fyre the canine dragon "],
+"ylxdmw5yrj72tyvypepokmn6":["fyredjfwuskygon","Fyre the canine dragon (MINOR!!!)"],
 "z4www6hhr2bhken5dm7bqsxn":["fynn","Fynn"],
 "zv6awumphpnliblm7nlqs572":["fyodor","Fyodor"],
 "rnewx4hvzesxaddelnhmo5tf":["fyrashid","Fahmida Y Rashid"],
@@ -111,5 +111,9 @@ var fy=(function(jsonp){ if (typeof fy==='function')fy(jsonp); return fy=jsonp }
 "olu6zkdncec2zibgvj3kxyns":["fyrebird91","April"],
 "erhnrqd4o63tzbobum6clji4":["fynncobb","Fynn Cobb"],
 "7pndpzchm45nwzdnndtt4ihk":["fyridk","maddy 🍋"],
-"qg5lc2ah7jr7eij4xiingg43":"fyreriot"
-}) // 2023-10-25T17:59:54.778Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qg5lc2ah7jr7eij4xiingg43":"fyreriot",
+"aj6kg5mlg3dq3z5ixknuza2j":["fynnlhoudini","Fynn L. Houdini"],
+"lwsnvnzge6dagkkzajenhnz6":["fynnyplz","Nic"],
+"ptmyi3k7cvo5o3vdd7knhe4w":["fyzerk","bokumdemeyilokumdançokseviyorum"],
+"iofzzgdz4pz5twyav3huxjxw":["fyooze","fyooze"]
+}) // 2023-10-26T09:09:57.434Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

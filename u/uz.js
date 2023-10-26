@@ -86,5 +86,9 @@ var uz=(function(jsonp){ if (typeof uz==='function')uz(jsonp); return uz=jsonp }
 "b7os7yxrbp6ha3ufdkdh5zxn":["uzzah","Joshua"],
 "6vuvobihevr3sziod2niiq5w":"uzr12345",
 "nck2fon5ojfxkunfuuecpuik":["uzugijin","uzu"],
-"xwef3xblfud2ca6s44fn4jnb":["uzantonomon","Diogo Ferreira"]
-}) // 2023-10-25T16:46:07.953Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xwef3xblfud2ca6s44fn4jnb":["uzantonomon","Diogo Ferreira"],
+"d2hylb3yvfja7gzku4hjfyru":["uzai.fr","uzaigaijin 📸"],
+"vpp4ykvloapwgpsovqe37vhy":["uzcr0707","piyotaro"],
+"7lf5m7npwlfi4yoanupssqto":["uzunsn","M"],
+"vhntvv5hgve4g7o2mtru2mm7":"uzm"
+}) // 2023-10-26T08:58:10.312Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

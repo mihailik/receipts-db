@@ -185,5 +185,11 @@ var iw=(function(jsonp){ if (typeof iw==='function')iw(jsonp); return iw=jsonp }
 "faamvjcrlvx3rhx3krujppjb":"iwright",
 "j35z4isq66xuecftxpkchblx":["iwanaga","Yoshihiro Iwanaga"],
 "5c7cgbhf7m35impx5vsiwvnp":["iwieanders","IwieAnders"],
-"3gqpqow4mytdmqt3pet75fpr":["iwantoffthisride","Flavor town"]
-}) // 2023-10-25T17:59:54.367Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3gqpqow4mytdmqt3pet75fpr":["iwantoffthisride","Flavor town"],
+"7zhs73kdnewftdfvug44p6vw":["iwgnercarvalho","Iwgner Carvalho"],
+"rs4duhanmhswsuailsrzumvi":["iwhbutsg","กุด🪿"],
+"gyx22axnpc6th55dp2lhi22q":["iwpr","Institute for War & Peace Reporting "],
+"j2g22v4l5laxjghp5i4r53nf":["iwontsmthing1","Хамовитий мопс"],
+"fwcup66wzk6yqpjeyqeklckq":["iwasbornsick","Finn"],
+"hzcxfaapylwtwzx664yi5oux":"iwillsunder"
+}) // 2023-10-26T08:34:46.150Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

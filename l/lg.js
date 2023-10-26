@@ -116,5 +116,14 @@ var lg=(function(jsonp){ if (typeof lg==='function')lg(jsonp); return lg=jsonp }
 "a6ix6gcaaxxuysgnolc2rw3r":"lgndrymmbr",
 "gosykysxqqbyvsarllnbrgmt":["lgk.io","Lars lgk.io (DE) 🏳️‍🌈"],
 "o6fgr7dqzikqjftxecpwozez":["lgm","LM "],
-"ga23fng2v4c2y3sftm6dwv3s":"lgor"
-}) // 2023-10-25T17:58:05.684Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ga23fng2v4c2y3sftm6dwv3s":"lgor",
+"dkm5f7gkptrtemqlrjynfqxr":"lgoma",
+"cn45ijlwztbdfdzdm4pskap7":["lgedankenwelt","Leas Gedankwelt"],
+"l4n3siebqq66voosmpre4chd":["lgbtqplantsci","LGBTQ+ Plant Scientist Network"],
+"esgdf6g6h5y2663hezkijo3v":"lgibbs007",
+"eg4vmnwpskejfurf7veqb5am":"lgulen",
+"nq2kewgcjk2h6b66qxrfn3ri":["lgbtb2p","LGBT Books to Prisoners "],
+"b7wmpmk7vuutqerurtyolbur":"lgustavo",
+"2md36ajge5wxhbzrpbbvvii5":["lgforever47","블루윈터"],
+"m6n7kvvjy2zvbm7h66stirrw":["lgpaladin","Whsky"]
+}) // 2023-10-26T08:53:54.881Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

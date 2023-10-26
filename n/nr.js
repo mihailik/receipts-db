@@ -147,5 +147,15 @@ var nr=(function(jsonp){ if (typeof nr==='function')nr(jsonp); return nr=jsonp }
 "5pb53iwjvtntcubo7ahrwktj":["nreversibles","evenstar;"],
 "6c5udmirgcz5mxljbevycwsn":["nr7","Nr7"],
 "mi3gi5wo5nr3f3nwevwcasly":["nrrsp","M. Carter"],
-"tqpjoiarfju6w5iv5r75b7ou":["nrdofalltrades","Tim"]
-}) // 2023-10-25T17:47:53.110Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tqpjoiarfju6w5iv5r75b7ou":["nrdofalltrades","Tim"],
+"5wlstc3xthc3xh7giub7joay":["nrdslr","@NRDSLR@mstdn.social"],
+"vx4j7m4x7pkvjseeyterj3fk":["nrkennedy","Mr Nate"],
+"hf5bkmw3kjy6h6gfdwefmsvx":["nrutas","Dr. Andrew Saturn"],
+"tb2kio33aalm7ezphd5eb5lw":"nrrdgrrl",
+"teoh4ysauecv6xabmhips4el":"nrobin",
+"yvzftpwqdv2xr3xw6j6pdux6":"nrakesh",
+"smle2fct4y3uz6zmwk6xfyjt":["nroneaaaaah","Roreana◟́◞̀"],
+"hwejacucbm667fomom7nn77t":"nrobocop",
+"mc3qr33zooznvey7hop4oirf":["nre","Nouvelles Radios Euphoriques (nre.fm)"],
+"zh2lemcw6p7shnucj5ohzo2g":["nrutkowski1","Nathan Rutkowski"]
+}) // 2023-10-26T08:46:29.573Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -84,5 +84,8 @@ var i0=(function(jsonp){ if (typeof i0==='function')i0(jsonp); return i0=jsonp }
 "uoedsho6ybnj4panc3vtbskc":["i01719","‘ vitalina"],
 "rmpkymndfaxvozvvriqlh77d":["i94wrld","tatá"],
 "qkudemynu5vv74hxdekvoc76":["i3aby","I3aby"],
-"yqyqmhdgewqbibt6nch5344r":["i3dzs-5ajp4","alisamikose"]
-}) // 2023-10-25T17:41:01.186Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yqyqmhdgewqbibt6nch5344r":["i3dzs-5ajp4","alisamikose"],
+"7buxsxjszwgp4gszgdci54rq":["i3in","빈"],
+"wy3e4powff6kv4k2wr4h3ttf":["i20gmi","mira vitamina "],
+"3z65kl3sjn5iawtxz6jbrwyb":["i4196","i4196"]
+}) // 2023-10-26T09:17:34.608Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

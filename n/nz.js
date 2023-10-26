@@ -83,5 +83,8 @@ var nz=(function(jsonp){ if (typeof nz==='function')nz(jsonp); return nz=jsonp }
 "s3a6app4prs7mlc5iakur43x":"nzxt",
 "64el4fdjfg7tn6ba4372howv":["nzmrichards","Michael Richards "],
 "6q7nsypkpgn276mqpxezr734":["nzjanette","nzjanette"],
-"ci257qa7yb3c2zrxz4ougwgv":["nzd","Btc eth"]
-}) // 2023-10-25T16:32:14.550Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ci257qa7yb3c2zrxz4ougwgv":["nzd","Btc eth"],
+"dqk2a67yl64aulrb5dpsuzaf":["nzkatj","Dr Kat J"],
+"wujgn2bfwbizqc347xo6goim":"nzlebnik",
+"76s65jwzfi3zjwvaeh4mrz6p":"nz2th"
+}) // 2023-10-25T19:21:05.062Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

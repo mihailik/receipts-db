@@ -91,5 +91,10 @@ var ln=(function(jsonp){ if (typeof ln==='function')ln(jsonp); return ln=jsonp }
 "xdc7cvgvs5fwnqmmopq7dtzv":["lndngrndr","Gary "],
 "sf3htsa3pjc7nte5amxf26up":"lnj",
 "yp7e2uwmwwhkl3whrvhetdwa":["lnovo","Lari Novo"],
-"kg6q5cbmkoqw3apuc4vjy2yr":"lnick"
-}) // 2023-10-25T17:47:53.044Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kg6q5cbmkoqw3apuc4vjy2yr":"lnick",
+"36rdiqbsdwgqeipcyjihye6z":"lngr",
+"ybdmvdftb4zhiqjgnmt7va4e":["lne1999j","Josh_leber1"],
+"tgwxbvl54mg75j3vhrxb6lz3":["lndblmlndblm","Lindblom & Lindblom"],
+"rw3hwxnti7at3c4z375hiumi":["lnpgaceta.org","Gaceta de la LNP"],
+"ubnwwm72h26ozame2cbvxzr5":["lnrbry","Richard"]
+}) // 2023-10-26T09:00:18.908Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

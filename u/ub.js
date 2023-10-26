@@ -145,5 +145,17 @@ var ub=(function(jsonp){ if (typeof ub==='function')ub(jsonp); return ub=jsonp }
 "oiqb3pyepvaabjl7kmc66xtw":"ubik",
 "sgfh2zjaqga7xzn3eoy2qxzx":"ubiquitouschris",
 "3xf6a6f2qkaaurhuj3soieys":"ubernaut",
-"ei3wmqpvjk72ner7kralnstk":"ubdai"
-}) // 2023-10-25T17:44:34.870Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ei3wmqpvjk72ner7kralnstk":"ubdai",
+"5cbibfel2pm44n3pvvw4dxmb":["ubboubbo","Ubbo Ubbo"],
+"5ivxie5b72krkqrstewm72yx":["ubahnberlin","U-Bahn Berlin"],
+"53fiomevb6n5u6jngezhuzis":["ubitv","UBI TV"],
+"2gyulspg6emznlqfsyf635oh":["ubae40","Liz"],
+"tvogligkdzr3x2ntok42reiw":["uberwald","Hmasheim"],
+"deyr5r5sovbruifmdfrhgdw4":["ubsabandon","UBS Abandon BCC-104"],
+"kvr2ykpaeyv3vgyrkpvgh7t2":["ubigenuschel","Ubiquitäres Genuschel"],
+"abklmbmttmb47muuxjxkoyuy":["uberhobo","Uber Hobo"],
+"myytfamfbq4mlstvxwoly6iy":["ubiquitousrat","Roleplay Rescue"],
+"4qvaui4fd2uv2lyyxecq6yez":["ubakitan","ubaki"],
+"fti7bn35xkfdztshcuxp3lqo":["ubongumanah","Ubong Umanah "],
+"i2xrspgdqgsazg6ogidll7no":["uberwulfx","Uberwulf X"]
+}) // 2023-10-26T09:06:13.745Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -213,5 +213,13 @@ var df=(function(jsonp){ if (typeof df==='function')df(jsonp); return df=jsonp }
 "hwypagsqdbqddhm7r4lxxsgt":"dferrs20",
 "vle4qnxjbzrw33j5sdwz4jl3":["dfitzgeraldd","universal rent controller"],
 "xkyfb6qj6gyxefxclhg2jbcl":"dfitzger",
-"it6sbt2zsd4ccu2mkixmykzz":["dfmatos","dfmatos"]
-}) // 2023-10-25T17:32:18.978Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"it6sbt2zsd4ccu2mkixmykzz":["dfmatos","dfmatos"],
+"irz5r2m7tcdspxiqedsyndmn":["dferreira26","Daniel Ferreira"],
+"iirjuvvda72reqk6rfgqu2ua":["dfcesar","Daniel Cesar, PhD"],
+"ts4pz6t3chtf5rgzqwmd64a3":"dftbashley",
+"ajm67i7iitvhgtvvv552fzc2":"dfrye",
+"vsvjaoawb3uiywr6zgvjqo4i":"dflakoll",
+"qfnqyhijpb33swyefeqt7fyw":["dfwsusie","Susie Geissler"],
+"q4uvupylcrcarenyqin22tjk":["dfoss","Daniel Reed"],
+"3g2bznofqlvzxdurwrajcjjc":["dfki","DFKI"]
+}) // 2023-10-26T08:56:11.738Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

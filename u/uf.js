@@ -91,5 +91,9 @@ var uf=(function(jsonp){ if (typeof uf==='function')uf(jsonp); return uf=jsonp }
 "pbcraki6dgnkyavsh7unwi3v":["ufocrispycake","ufonaut with pancakes"],
 "otuntp4htphau3g5co7iqhuy":["ufukbenlice","Ufuk Benlice"],
 "ui33tn22g66pazwbagjcwvzi":"ufr",
-"jf3nvqmixy3l7eaush56um6n":"ufukg"
-}) // 2023-10-25T17:44:34.686Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jf3nvqmixy3l7eaush56um6n":"ufukg",
+"4kftet5utliopdvpjim4nflo":"ufconch",
+"zereoncnonfwrfuoqndzeg4k":["ufuaproject","ufua_project | Український футбол з низів"],
+"2rdjug4oooieulwjlmms5xl2":["ufccworld","UFCC - Unofficial Football Club World Championship"],
+"k3jnvnyy5vvfbt65ntahzc7l":"ufffd"
+}) // 2023-10-26T08:36:36.716Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

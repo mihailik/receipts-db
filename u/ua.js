@@ -138,5 +138,9 @@ var ua=(function(jsonp){ if (typeof ua==='function')ua(jsonp); return ua=jsonp }
 "53yfue5p2mcuw5jdnv5snu6e":["uastroboy","Game Uastroboy"],
 "iynpi6g76qltxkajoowv3pmk":["uakraken","Volodymyr Serhiienko"],
 "zavxr4w52vurwvhfh5w4scli":["uarroba","Usuario Arroba"],
-"5abd2kpp52vzeqpvksof5nqr":"uaemahc"
-}) // 2023-10-25T16:46:08.040Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5abd2kpp52vzeqpvksof5nqr":"uaemahc",
+"ed5vwxrj2mnkj5gazdd4xufe":["uarkeecs","Electrical Engineering and Computer Science"],
+"5dpx4cb6s74hra73o7jk2iap":["ualnat","ualnat"],
+"fypmw7l254owe3u5nbuqpiho":["uaipego","Maycon Pego"],
+"mkug5blwa53ylzostaspaivq":["uatu","Uatu the Watcher"]
+}) // 2023-10-26T09:09:57.586Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

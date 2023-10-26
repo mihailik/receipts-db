@@ -82,5 +82,12 @@ var yt=(function(jsonp){ if (typeof yt==='function')yt(jsonp); return yt=jsonp }
 "sbsyzxgkdg2arfigsxbsc5wy":["ytr","yutaro"],
 "a5ninoyvzp3ci6db5itrdm54":"ytp",
 "ilctpeyamsyn2d4d3l322wox":["ytm17","ゆう"],
-"krery7boppzmmsetba2e2aa3":"ytiac"
-}) // 2023-10-25T16:15:26.754Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"krery7boppzmmsetba2e2aa3":"ytiac",
+"ehyribbsw7qlmtw7zsiavjbv":["ytk3591","YtK@悠斗"],
+"jgsfl33thtmqs4uwory7bgnp":"ytremblay",
+"htmcukfqr5bntebankcbgijc":"ytaisei",
+"cyps7da7x72f2i2gm5u4jsvv":["ytrio","Fran😸🎸🌈"],
+"byvzfwwu7o6lfakbx2dp224o":["ytovv","yto"],
+"mouliwkgcfiytggc63owp6s3":["ytomita","Yu Tomita"],
+"q3t4b5t5kcy2tmliuof6ruon":["ytorona","САТАНА ДОПОМОЖИ МЕНІ ВИЖИТИ "]
+}) // 2023-10-26T08:51:59.540Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

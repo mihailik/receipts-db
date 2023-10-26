@@ -300,5 +300,21 @@ var sj=(function(jsonp){ if (typeof sj==='function')sj(jsonp); return sj=jsonp }
 "jry44oi24t34dceh6czppisx":"sjrobinson",
 "ptlwpafgtkpc7ak3nsylk73e":"sjebm",
 "nn45hgh7i6775ulvfejrkaon":["sjaspatat","Studio Sjas Patat"],
-"e7sfbyzwnt42htbiqjlevpvx":"sjbillard"
-}) // 2023-10-25T17:51:17.591Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"e7sfbyzwnt42htbiqjlevpvx":"sjbillard",
+"od7pxodzbkutkxgjeorw6wwh":["sjaber","Sjaber"],
+"5v7qqtg2owhr3arckxqbqpgq":["sjmreeves","Spencer Reeves"],
+"6htawpkygfjonkrayc6zkck7":"sjgelman",
+"oxjvdxhrkokdmkkqzbxspeov":"sjoe",
+"vmpfxk2tf6d6th5atiyyk4nl":["sjdean","Spencer Dean"],
+"avdup54cma2t4apo5lkgoenv":"sjdour",
+"fqn2t777xhgzsrhgafwvjfqu":["sjgower","Stephen Gower"],
+"ylyb3qyjuj23tmyxcusnwv37":["sjlilly","SJ Lilly"],
+"el2czyvejtsg6obntfwftgih":"sjtanen",
+"czbsrtefeushqnukrw7z253t":["sjstone","SJ Stone"],
+"4jtdcyja6wdakha2gujrjrft":"sjobalia",
+"efcbxwd6nibyjuynwjz533gk":["sjsucenteronethics","SJSU Center on Ethics"],
+"h2rwp7m6l5mondnm4nm4l3ah":["sjenettt","Janet"],
+"q5dpnvhh4btzihgb4r3sioq5":"sjthebestj",
+"6ymclhrkflggksi5ukf3nav5":"sjtheghost",
+"lckgtv2wwqncq5w2cwbfr4hv":"sjhalva"
+}) // 2023-10-26T09:09:57.603Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

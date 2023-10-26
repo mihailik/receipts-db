@@ -126,5 +126,10 @@ var tx=(function(jsonp){ if (typeof tx==='function')tx(jsonp); return tx=jsonp }
 "7qu4g3wdq3x334xbsxjmyhfw":["txwhodatchic","Shawna"],
 "xpca7k2bswlgatrxgdthqrbp":["txsoura.com","Victor Tesoura Júnior"],
 "bs4h2oaaueb7v32vwztb64tr":"txetxu",
-"4iz7eh6hlkpdj3pkhazyfcoz":["txema","Txema "]
-}) // 2023-10-25T17:49:39.665Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4iz7eh6hlkpdj3pkhazyfcoz":["txema","Txema "],
+"mhvvwhjqpz2sb24acnahfe5a":"txop",
+"5tfvevmabs7wagcfx2qdxhtc":["txdem73","Kent"],
+"gkprzjvkwc3au2cvcsvhhocv":["txori.com","Etienne"],
+"2l5o7iwetldxsn2w3psfymuy":["txusoonline","Txuso Online"],
+"tkflutvhge53aqtatzpjdqab":["txartwolf","⚡️Alex ⚡️"]
+}) // 2023-10-26T09:04:11.122Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

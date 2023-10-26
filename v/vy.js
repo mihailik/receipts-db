@@ -154,5 +154,10 @@ var vy=(function(jsonp){ if (typeof vy==='function')vy(jsonp); return vy=jsonp }
 "awtwqg2as73xdejxm2vgkaxq":["vynaspossky","Vynas Possky"],
 "fmqptnidvg65leuelclsgl46":"vylreth",
 "3y6ex3swqk3qp4rcfvipq3ez":["vyacellstudios","Vyacell Studios "],
-"bwulnovrs2bkpv5ixexmzrpb":["vydymon","Vydymo-Nevydymo"]
-}) // 2023-10-25T17:51:17.577Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bwulnovrs2bkpv5ixexmzrpb":["vydymon","Vydymo-Nevydymo"],
+"wwrjf2dagnz7szsnc3y6jkzn":["vythefirst","vy"],
+"jnizi4i7tabcpdhfjk62l2az":"vyrandia",
+"xyilxvhmfhlte5m77ehuxqnj":["vyshkvarok","освітянська еліта Харкова"],
+"m5qr33oczywo54imdpxlxjqp":"vynderunel",
+"luozhmamzzodxdcu55q6cnuj":"vysiealarune"
+}) // 2023-10-26T09:19:13.782Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

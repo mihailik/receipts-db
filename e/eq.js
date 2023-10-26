@@ -80,5 +80,8 @@ var eq=(function(jsonp){ if (typeof eq==='function')eq(jsonp); return eq=jsonp }
 "gqcg2pojw6unnwnli632sbqs":"equanimity",
 "tusqcux3btuyvw24ovo364d5":["equine","Torque Stallion 🐴"],
 "lehja66xelxrzzw33h35yjol":["equinusocio","Mattia Astorino"],
-"2zronclx5wix7f4wsunqtpgh":"equals42"
-}) // 2023-10-25T17:42:43.639Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2zronclx5wix7f4wsunqtpgh":"equals42",
+"the6477rx5oqqc5u6auho4y6":["equinoxmonk","Equinox"],
+"62dnwrb6d65fyf5rf6qe7fox":"equitial",
+"yiddoxyhp4d7dxtxbpwouy2o":"equalwuu5"
+}) // 2023-10-26T09:00:18.672Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

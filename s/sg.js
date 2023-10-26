@@ -263,5 +263,23 @@ var sg=(function(jsonp){ if (typeof sg==='function')sg(jsonp); return sg=jsonp }
 "dtjjekjlkgoge66ds7dh2cv7":["sgyffy","Christian Roy"],
 "kthudfcqyp3uth5ag25iyqqk":["sgtpapipo","파피포"],
 "swssovml6sr4jqtaktqbjhmd":["sgiron","Stéphane Giron"],
-"oelfppzghuakb34vpbfvunx7":"sglazer"
-}) // 2023-10-25T17:58:05.261Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"oelfppzghuakb34vpbfvunx7":"sglazer",
+"7ymdbuscnvmuxobssjz6thue":"sgthotpants",
+"nx62rb4uvpkfhvqtxrf5iwj7":"sgsgag",
+"7r3f7fanvlcg4bswmlwfob5h":"sgivens228",
+"3bqcpblrhoxqrfvlhie7h4uz":"sgedwards",
+"ofo6pbwzzwsk5nxyrfktesuy":"sgbutler",
+"vrr3bihohiabkdax74iwyia5":["sgthistlestudio","SusanG"],
+"d4foi2fhzicxeq7zutywwvli":"sgcb",
+"x3oiz3tupxxcbikiih3m3vas":["sgivol","Shahar Givol"],
+"r4xl22nv2k5jgfhzfqfpwwc5":"sgran",
+"qjxpx7ubn2bkfaqi4hmrt7wd":"sgl",
+"7ek37tzxjxxjqa43bgo5os6k":"sgmd",
+"zhtnrczzc4bpnhieecfxceuy":["sgpassage","Scrabble Grams Passages"],
+"43nn6ovigbi5yrkjx4bfnktp":["sgb1","stuartboorman.ca"],
+"wlouvp2cmu2vngaijxxhkxxt":["sgtpiddles","Sergeant Piddles"],
+"igbbijw56xnu5xs6utpqqrqq":["sgtetrius","Full Metal Dad"],
+"3c7pcqog3zvwgstbqmejvysb":["sgesticulation","Serious Gesticulation"],
+"6mx3stkpmynpu2urcn7ll34e":["sg15z","Zack 🏳️‍🌈"],
+"b3ryh7bhocyliqjp7g5e5n5f":["sgblikestoplay","The Super Gaming Bros."]
+}) // 2023-10-26T08:56:12.314Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

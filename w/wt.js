@@ -167,5 +167,7 @@ var wt=(function(jsonp){ if (typeof wt==='function')wt(jsonp); return wt=jsonp }
 "toaz3pjmuxboddkimang7luo":["wtfsteph","Stephanie"],
 "25v7lmkm5aea7tlodhxd3g5n":"wt6f",
 "nkg5mh3lvw6geslc6kiizfbd":["wtfark","Wtf"],
-"rtiqvofzfmijtufflw4ulr6o":["wting","William Ting"]
-}) // 2023-10-25T17:32:18.939Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rtiqvofzfmijtufflw4ulr6o":["wting","William Ting"],
+"cbe5wznluytorlxvtn2dhzre":["wtzt45","Gray"],
+"dhw4su7v6gqp3bd7gnsczxwq":["wtrca","Слезы виноградин"]
+}) // 2023-10-25T19:29:18.837Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

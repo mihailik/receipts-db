@@ -44,5 +44,6 @@ var zg=(function(jsonp){ if (typeof zg==='function')zg(jsonp); return zg=jsonp }
 "r54g5nczij7gyyqadhtmilqy":["zgrate.com","Z-Grate "],
 "2pxjevau4krepuehtspkef46":"zgalo35",
 "muyuw4n2jlira2xo64gvbfme":["zgd","ゼットン"],
-"we3rauq37vvfasksllqrmalk":"zgokce"
-}) // 2023-10-25T17:39:27.051Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"we3rauq37vvfasksllqrmalk":"zgokce",
+"2uegho7umyj3fg2ueyrghzk5":"zgottlieb"
+}) // 2023-10-26T09:08:04.323Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -43,5 +43,7 @@ var wg=(function(jsonp){ if (typeof wg==='function')wg(jsonp); return wg=jsonp }
 "kjs6f3hat3jmurjzdr7l7x63":"wgw",
 "qg2wlx4oipj3mp7bn7v2fxs6":["wgarndt","WG Arndt (He/Him)"],
 "mf427hqm22mm7v735mxnusj5":"wgrueninger",
-"na735jsb277nkalonibm5c5g":"wgtheo"
-}) // 2023-10-25T17:42:44.224Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"na735jsb277nkalonibm5c5g":"wgtheo",
+"34sk727w4fxdyov25yhyvats":"wgchoi",
+"mbbrm6oq2tsuvmvrzo4dyjxi":["wgr08","WOGURO(ﾀｹ)"]
+}) // 2023-10-25T19:27:43.327Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

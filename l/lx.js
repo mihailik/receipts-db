@@ -1,7 +1,7 @@
 var lx=(function(jsonp){ if (typeof lx==='function')lx(jsonp); return lx=jsonp })({
 "3ezqtjx5urchbsjs5ac23saj":["lxbrgr","BeLiFe"],
 "az5jv2j6xz5x7kylbzaamghr":["lxbelledejour","Belle"],
-"b32dfqicili7g3liyokuon2i":"lxzylux",
+"b32dfqicili7g3liyokuon2i":["lxzylux","Yurai~ ((Comms Open))"],
 "blvstnj25fh3yovtk45lcx7w":["lxndr","lxndr"],
 "ftjvnlzsizn4x5lsczyxuzhi":["lxreads.fun","AltText Alex"],
 "icv77jqse2vkykbeqkwvisvz":"lx9429",
@@ -55,5 +55,7 @@ var lx=(function(jsonp){ if (typeof lx==='function')lx(jsonp); return lx=jsonp }
 "zw7s2wm5rxm5gqtavrrvowsj":"lxjw",
 "z5v6ims2gyu4qltbhyvn5dqd":["lxstboii","Aaron Arcony 🥷🏽🌵"],
 "gczyrglq7yldpmvkknno2tgp":"lxmcf",
-"mtbiz3e5kl2h7la6i4oqduah":"lxna"
-}) // 2023-10-25T17:13:17.463Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mtbiz3e5kl2h7la6i4oqduah":"lxna",
+"s2kfan2ddxrlavwkihagxnyz":"lxk425",
+"32d6ay2h4hbldcsqbldayzo3":["lxx","お豆腐"]
+}) // 2023-10-26T08:36:36.751Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

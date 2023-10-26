@@ -24,5 +24,8 @@ var iq=(function(jsonp){ if (typeof iq==='function')iq(jsonp); return iq=jsonp }
 "32tjytjodnz6nfhjgeminrkn":["iquee","ique"],
 "ajbhlgqowypgs56wiag5cqq4":["iquites","Iquites"],
 "6vibseo5mwrtiqlfxkbm57dl":["iqmason","Isa"],
-"45k6wtusfiscudmlgyefpurx":["iqbal278","Axew Iqbal"]
-}) // 2023-10-25T17:59:54.264Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"45k6wtusfiscudmlgyefpurx":["iqbal278","Axew Iqbal"],
+"6rcyscjpkhj6tthfctpwoj5t":["iqo.nz","The Independent Quizzers of New Zealand"],
+"lau2nduvb5u3bthupuplczoj":"iqmutant",
+"godayhrdynw2dkxotpt4ozzk":["iqbecile","Iqbal"]
+}) // 2023-10-26T09:19:14.369Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

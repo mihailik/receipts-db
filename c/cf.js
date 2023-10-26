@@ -181,5 +181,14 @@ var cf=(function(jsonp){ if (typeof cf==='function')cf(jsonp); return cf=jsonp }
 "4lgm6reelp3ixvtsxtl2ojom":["cfriesen","Croberto"],
 "dfsn24okq7zxxkflhvi7dvg7":["cfactovic","Czeckoslav Factovic"],
 "cry32amwbu2kmgdmtpok7r3t":"cfairhurst",
-"6fepin5evia3jge7jmzcke6o":["cflusacards","CFL USA Cards"]
-}) // 2023-10-25T17:58:05.637Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6fepin5evia3jge7jmzcke6o":["cflusacards","CFL USA Cards"],
+"jhl2br3bfkmaq7cje2hlfz5d":"cfmyers",
+"rnneafj55v2qf6il6yjrv6ci":["cfozarks","Community Foundations of the Ozarks"],
+"h3m4jhfpbhyi5s3v6hs6v357":["cfle79","CFL 🏆 Pokalsieger2023 🏆📯"],
+"oicl6mu5rsehmlw57zcijdtq":["cflien","CF Lien"],
+"yuh37r6przxrnxqgxppqbygd":"cflichel",
+"qzpp4gp4nzsztlyb3zoeytkx":"cfaulconer",
+"t2cxpjb3jtjhfl63sijnjf2g":"cflarsen",
+"3q2bo7wjhuodoxwdoal3ulre":["cflorian","Florian "],
+"xijrril6sbthjmjtmihuzdsl":"cfritzy"
+}) // 2023-10-25T19:27:43.265Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

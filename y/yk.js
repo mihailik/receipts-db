@@ -124,5 +124,7 @@ var yk=(function(jsonp){ if (typeof yk==='function')yk(jsonp); return yk=jsonp }
 "rsqsnpwpe7vjg3xchw42h62v":["ykat23","ゆう"],
 "5toujnux57fuui4ii7xd3rvf":"ykassab",
 "25uujkcd3tquajbkyzfxhgnv":"ykr",
-"6cbclhx3idw47gus5lqn2exi":["ykfr","ゆきふる"]
-}) // 2023-10-25T17:37:32.389Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6cbclhx3idw47gus5lqn2exi":["ykfr","ゆきふる"],
+"evuaqdvblq5bhesz5jawc3bw":"ykayacan",
+"g6nqxjz7rqkmkewfgvu5sijn":["ykulnu","Dunning-Kruger Specialist"]
+}) // 2023-10-25T19:19:11.218Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

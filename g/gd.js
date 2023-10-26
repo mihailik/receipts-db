@@ -157,5 +157,15 @@ var gd=(function(jsonp){ if (typeof gd==='function')gd(jsonp); return gd=jsonp }
 "7u5b63mdcen5omft5hkwb3es":"gdcorner",
 "fzuzsmyt33lajiwjdo36w5bk":"gdelgado",
 "hizp3bkpr6ki3oc3rdib3hcc":"gdario",
-"c72owvklhhatasvoda5nt2pm":["gdnphotographer","Guardian Photographer"]
-}) // 2023-10-25T17:42:43.727Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"c72owvklhhatasvoda5nt2pm":["gdnphotographer","Guardian Photographer"],
+"j27vbejd2fgnckkz77mjmqyk":["gdsaly","Greg"],
+"i2nekyrb7gqheodqs42m435n":"gdarin",
+"o2ope6bvnfbul6h45j2gohxw":"gdorn",
+"pbckc4m3r34mha2zypsvimvx":["gdk","Metagdk"],
+"bnslybpcyo4vbmbd4joag57c":"gdori",
+"tllxpgqkkwhz7ns32waabgkm":"gdog23508",
+"omrfp3nd5r7rzcdgislpqxzn":["gdbrungdpieds","Grand Brun Grands Pieds"],
+"p6builpv6aozlkdbkh27yaej":"gdd63",
+"qcfvxdh73rarhwwlsthwwn5v":["gdnalk","GDNALK"],
+"zxiwschipttb34pmjqqvm3ut":["gdtaylor","GD_Taylor"]
+}) // 2023-10-26T09:15:42.888Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

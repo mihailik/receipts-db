@@ -97,5 +97,13 @@ var nl=(function(jsonp){ if (typeof nl==='function')nl(jsonp); return nl=jsonp }
 "mle476edsh3k6kfdpxtgg7fm":"nlebruhaha",
 "wmlchlgjm2yygxfdc24grxq7":["nlg","Nicolas Legrand"],
 "dnrfc3wwtjz4avkolrhlrr7z":["nleite","Leite com Café "],
-"6sczb4g34ngfcv3bbypoixq6":"nlux416"
-}) // 2023-10-25T17:30:41.763Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6sczb4g34ngfcv3bbypoixq6":"nlux416",
+"igjiwwbey3dnggqvba7f47as":["n-ls","Niels"],
+"mizwm5gdgfgdfr5w5dghujfl":"nlnn",
+"zyhov4vzlo47w3palhw6rf4d":["nlautey","Axeblade O Seven"],
+"7lgh5ycisngfkoptfhy3667l":["nlohmann.me","Niels Lohmann"],
+"wljip6cqgaqjtr67fqpipz4q":"nlv627",
+"wp4u3kzos5lthofauqmn7uq5":["nlp3","Nikki 🌸"],
+"o6khb2t5avoggsiktvb7ojvd":["nlbarber","NancyB"],
+"xt4kvmqemyda7absyymmkg37":["nl-lavigne","Nicole Lavigne (she/her)"]
+}) // 2023-10-26T09:04:10.968Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -90,5 +90,11 @@ var xr=(function(jsonp){ if (typeof xr==='function')xr(jsonp); return xr=jsonp }
 "i2aj7cxxqi6rotlyjrdmvyaq":["xrisa","charissa "],
 "6emrww464eybtiv6uz6nshtj":["xralex.es","XrAlex"],
 "bu5q72agcl7egnusutqmzo4e":["xrt126","jonathan"],
-"uq23w65tzs3rt555zompyi3z":["xr0n0s","Xr0n0s"]
-}) // 2023-10-25T17:47:53.006Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"uq23w65tzs3rt555zompyi3z":["xr0n0s","Xr0n0s"],
+"bsloeynv5hvsbrwoo5ti2gue":"xrayvision",
+"efw266zm6csne3sjkckqkl7x":"xray2526",
+"vt2mdg2c426u7wwf7iz4ar2p":"xrayrain",
+"m7cdfkxp7uo62gl7quqprw44":["xrnl","Extinction Rebellion Nederland"],
+"rwexympsppvaxv2qk6hv6cj2":"xray11011",
+"duxzp24s54rjyenddojn6vbv":["xruisx","Ruis"]
+}) // 2023-10-26T09:15:42.861Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

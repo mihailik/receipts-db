@@ -297,5 +297,20 @@ var bj=(function(jsonp){ if (typeof bj==='function')bj(jsonp); return bj=jsonp }
 "hpv2bgipbukv4af2xhjerxrv":"bjkelly",
 "qmj3vosic42s26iazybjidwu":["bjwilson","Brandon W"],
 "u4lzly4b7mrpysese7my5fxw":["bjartes007","Bjarte Sletteng"],
-"6ogpvkxm3kgijijhigaw2lvw":"bjlaurent"
-}) // 2023-10-25T17:54:47.789Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6ogpvkxm3kgijijhigaw2lvw":"bjlaurent",
+"vf5mcfjai64pesobftquurrv":["bjlokt","🌈🇨🇦 BJ Lokt Bear Daddy🌈🇨🇦"],
+"owmip3nd26u7nihjln4i7yod":"bjoernhasbergen",
+"cohbujskaal3fquszw4tqxpz":["bjorniep","Bjørn Terje"],
+"waouuauqisgndirqli44fggp":["bjonesy","Brandon Jones"],
+"wvqupmjmt3dt7cwijjgh4bf7":"bjrod",
+"44tyxtrjln3j4e2vlmpmwr6k":"bjornlie",
+"42x34lrl46cidhup2ps7dru2":["bjoern","Bjoern Poetzschke"],
+"xivfz4vksslpzwb2kwey565s":["bjarkovic","bjarkovic"],
+"uehp34nqhwz3uwjj3gozya5h":["bjerzyb","Bradley"],
+"hosawsrv5oscj7r25zzjdojw":"bjett",
+"t2ym42tsirp4qwakksp2cua4":["bjay","Der aus dem Radio"],
+"r7ivfkfmohh623hexhq6dr3x":["bjartnes","Bjørn Einar Bjartnes"],
+"rdfhk5x3ko5wk6krno2gxhpj":["bjornkusagi","Bjorn Kusagi"],
+"ew6epo3qjibf4b7pr7l4znqt":["bjnord","Brent J. Nordquist"],
+"vcmerd42rtptgnv6uw5t5pwp":["bjaj1","Jeff Allen"]
+}) // 2023-10-26T09:09:57.629Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

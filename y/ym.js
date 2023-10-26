@@ -127,5 +127,13 @@ var ym=(function(jsonp){ if (typeof ym==='function')ym(jsonp); return ym=jsonp }
 "qtp4zac37bxrtw3d64ybd3up":"ymenim",
 "iojv4qzwp3ovcj6ecg2qqydu":["ymmn","やまみね"],
 "gqov6lmepererdvnluvtpxja":["ymatoi","まとい"],
-"yplvgtz7n4cw2eqtayah6lhy":["ymkje","Ymkje de Boer"]
-}) // 2023-10-25T17:54:46.904Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yplvgtz7n4cw2eqtayah6lhy":["ymkje","Ymkje de Boer"],
+"nobwaf6mndhzaz6cegdkpbfp":["ymknow","マニマニ/しきまさせい"],
+"pj3fzr2gly4rfewdddhvqv57":["ymia","ymia"],
+"da2pwbh7qf2vjselgh2zsu4b":["ymirism","Rik van Straaten"],
+"v277spuy5n76nat2bkvsvvwp":["ymer","Rowan"],
+"nnt6k7n4xoafyt5lxitawwrp":["ymage","yma"],
+"452sfp4xkeahut7mehje65ip":"ymyn",
+"uk2yr7qaltbcy4tpky2tb5lj":["ymnrk","抹香鯨"],
+"isngd3hc4s5zv26ajysaom7e":["ymoreno","Yamir Moreno"]
+}) // 2023-10-26T09:19:14.434Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

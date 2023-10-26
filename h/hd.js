@@ -116,5 +116,12 @@ var hd=(function(jsonp){ if (typeof hd==='function')hd(jsonp); return hd=jsonp }
 "gvcdv5q6cd7ee4td27ufvm44":["hdogbob","화이트밥개✨"],
 "ir4ccjz26dtldf35chxsntnn":"hdfm",
 "wpwsrxzmvlabce524ulmvwpv":"hdvianna",
-"ukfrowqqfm64gdxsuvegg65a":"hdavis"
-}) // 2023-10-25T17:58:05.301Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ukfrowqqfm64gdxsuvegg65a":"hdavis",
+"qf4mrkorqh63r7tocuqhytgz":"hdav",
+"l5kcoxyvlwotfe373yazayv7":"hd69ca",
+"jl6lewo5s6gqm6h4alxcdmza":["hd-takai","Hideo Takai"],
+"mpy3n5ybgmhesrmyf23yiiqf":"hdwoodsmith",
+"o2qrdacsjykzk3e2wthawdci":["hdaigle","Hugh Daigle"],
+"zuhzo7x7ocxz5tkzpqj5tvgl":["hdemir","hdemikxxkm"],
+"3ojjclbmaccbprvc7nwjbgdz":"hdharris"
+}) // 2023-10-26T09:13:43.791Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

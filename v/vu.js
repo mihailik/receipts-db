@@ -252,5 +252,20 @@ var vu=(function(jsonp){ if (typeof vu==='function')vu(jsonp); return vu=jsonp }
 "zwesg4x5oxqnpcz53chm5zi7":"vulty",
 "4oxtirfhx3ggbyu77wzcx6xl":"vuon9",
 "tjcngl6urlbghwi3po6ghba3":"vuknikolic",
-"7u3p6drdsoxed6j5ir5mm7df":"vuprax"
-}) // 2023-10-25T17:54:47.677Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7u3p6drdsoxed6j5ir5mm7df":"vuprax",
+"qf2pa6fogxx2u62fp2wkhrfe":["vui","Vui"],
+"o4obcbt7qqwyskolh65ynwgs":"vududeman",
+"3nr7cbiphh26vf2xfzfoolii":["vu1p1n3","Vulp"],
+"44inknbqdqkbz4c7x3v32vcb":["vursavus","Barış Vursavuş"],
+"xymlbdoiwsfuychml2sgnpzz":["vulpesancilla","Vulpes Ancilla"],
+"274tec6d77ioe3jhjtobnnz3":"vudeja",
+"uk73qbxfdmzkfxm4rs7wpyab":"vurtua70",
+"sczvn5wg3mb6egmz2epnyadr":["vurgle","VURGLE"],
+"mhn2yrbqomoxg5gexid3xkln":["vuzeo","Fox in a Box 💕 "],
+"yxtrubqtkq5eiftuesxjok2n":["vulparia","Vulpi"],
+"rtuzg2pqyrtvj5xynbtj5z5d":"vulpis",
+"27kxc43sku6dgaq3kf64kgyu":["vulpixalyx","Alyx"],
+"sxbnkpbo4d5c4ljotbibef4o":["vulthra","Vulthra"],
+"tyuylt3peevs2xnd3kbmajff":["vulpez","Vulpez"],
+"36awbguurisqccwsnqk3tc4d":["vulgardinosaur","Vulgar Dinosaur"]
+}) // 2023-10-26T09:13:43.477Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

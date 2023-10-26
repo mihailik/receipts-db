@@ -382,5 +382,22 @@ var dd=(function(jsonp){ if (typeof dd==='function')dd(jsonp); return dd=jsonp }
 "7socob5oc6nfmlbumgkoau6s":["ddaan","Daan Vielen"],
 "pocyxfvdhd2pbsniy2znsabk":["ddogring","개리링"],
 "xs4aqnwvcoiogxvc25cycwjj":["ddove","D.Dove - MM Writer"],
-"ucschsghmpfjyxyejfcvprzm":"ddclark"
-}) // 2023-10-25T17:59:54.801Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ucschsghmpfjyxyejfcvprzm":"ddclark",
+"b77cfppyentdknreayamqhiv":"ddchamberlain",
+"loonvdhenxufrkmj5iergf5j":"ddak",
+"ldnath5qdj3of26t2hk7hisy":["ddilkies","Charli 🏳️‍⚧️ Ⓐ🚩🏴(She/her)"],
+"jqq3gort5epqikaiywt2qmff":"ddot",
+"hg57memkdva3q6ndxhmktspg":["ddragov1c","Danny"],
+"mokklfmn6ufw3k56medl6ubt":["ddohaenim","Meow"],
+"mu2tavu2cqtiggqmrkbhreyn":"ddgx",
+"euiqmacekt756hp67wjdheej":["ddlevine","David Levine"],
+"zajcjztyy5akwfj4edfpjrhk":["ddedecaf","DDEdecaf"],
+"dmajovgsnfkhkvujpnvrbobz":"ddraig",
+"yrtr3shwxe5j345ii5aohsnd":["ddsdnd","Chad M. Lensch"],
+"yav6asi7srhnxhu2dyqozqhs":["ddhll","씩님 / 김춘식"],
+"ru6rbm2hv2l7blhkwqbqby6u":["dduri","뚜리.시"],
+"gxkzpgmbplycyxraljqfgq2r":["ddongae","예?"],
+"h3sxxn7tmatdyelycxo5vrc5":["ddmiko","DD aka Miko Kiko"],
+"f7siur464dwc2apfr2pf7d5p":["ddrdaikenkai","djSOUTA"],
+"one5xptjai3xk5m2mbxvsfr4":["ddsfr","parochill "]
+}) // 2023-10-26T09:08:04.279Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

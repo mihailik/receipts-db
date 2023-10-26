@@ -232,5 +232,20 @@ var rr=(function(jsonp){ if (typeof rr==='function')rr(jsonp); return rr=jsonp }
 "dhysksx72lapw3lpusysai45":["rrtinnil","We’re Not Just a Blue Wave; We’re the Ocean!"],
 "vzgwjiawzdzomx5tajkpt3hn":["rradix","Radix"],
 "5wmhzi4tkgiltrn375x73k2r":"rrj2054",
-"ryuamsrg2ad6m64j33vwleos":"rrond"
-}) // 2023-10-25T17:27:12.262Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ryuamsrg2ad6m64j33vwleos":"rrond",
+"bi2cw4wuqxp42mwonqrrhmbt":["rrroodles","✦ RUDY!! ✦"],
+"b5vxtcdp3uklbhrhgmlpfiix":["rrrm-nn07","七臨"],
+"tzwe6agalcczvgkstvyhbpwv":["rrycra","RRYCRA➡️BKB2023"],
+"pybu22gpzibtwamyvlgau3qk":"rrrm",
+"g7gobzwkannokm6rou3hb4qh":["rraeubertochter","Rethcotrebuär aka Relactobär"],
+"fgokj7cfa4vip7b4hmo6agwr":"rrsp",
+"tfwmmcyst2bwithgszk2nvha":["rryyyaaaannnn","Ryan Aster"],
+"4wszg2ojmrpfhzybr77uexrx":["rrthiel","rrcuck"],
+"jkdpiergsdwluefgq5yoeoic":"rrs",
+"jq6u6aysvlelpfo2anismzio":["rreisig","Richard Reisig"],
+"j27iomvrwdu42rpkygbmwmf3":["rratpak","rratoween 🎃👻"],
+"bw4dt7n3q5z6cvadfujltvn6":["rredmond","RRedmond"],
+"iyda7dmwe6g32v3fy6c6xsoo":"rrightmer",
+"cdft2mo254jq7ps27xz3cqtt":["rredshift","Angelino 🦇✨️"],
+"kn6lvsu7vkpasroyjcluhuaf":["rrm0321","ろるめ"]
+}) // 2023-10-26T09:19:14.345Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -180,5 +180,10 @@ var tn=(function(jsonp){ if (typeof tn==='function')tn(jsonp); return tn=jsonp }
 "bopaczesmiohtlursmuqlodc":"tnkmi",
 "y22ttkgjzvekam4mjmyszddt":"tndr-chkn",
 "z3bn4v6ioegzf7hc7rxht4j7":["tnt78","TNT"],
-"miotdd6b25vy2f5ls2azebyw":"tnrmlkgl"
-}) // 2023-10-25T17:52:53.503Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"miotdd6b25vy2f5ls2azebyw":"tnrmlkgl",
+"ece2cxcc6pqukhlr5c7na4jt":["tntnerds","Thursday Night Therapy "],
+"l4yeph367jwhdphjvvz3jtur":["tnpapa","Thiago Papageorgiou"],
+"acyxmyr66vltl5nmuoyqd5kr":"tnbengals",
+"du5afuo6szkgabnvdeoz4pbg":["tneau","TiNo"],
+"hciqy5xmlh5jtqdjkfbpteg6":["tnbbc","TNBBC"]
+}) // 2023-10-25T19:27:43.402Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -156,5 +156,15 @@ var nb=(function(jsonp){ if (typeof nb==='function')nb(jsonp); return nb=jsonp }
 "yyw7mqzwbzg4wkt3uqegcqza":["nbcnewspolitics","NBC News Politics"],
 "mzfe3xw36dspxlzfldvzw67q":"nbkberg",
 "s7gt6svo53fzo2juf3cblvry":"nbayless",
-"wjwr6izp4nq2hwatlbsqr6t3":"nblue"
-}) // 2023-10-25T17:51:17.192Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wjwr6izp4nq2hwatlbsqr6t3":"nblue",
+"ttd3647cavtqza2vydhnaj52":"nbsquare",
+"kur2gmy6e4asy7k2epabfmaa":["nbmiata","bia 🔆"],
+"wjvnesn6l3gl6w3tytrtvgao":"nborderwriter",
+"3wjyqm42jalo3am5a6lvpceo":["nbu","NBU"],
+"pgy6pxzvii5xntfjy7sphi66":"nbaer",
+"xr5rutsjx7di5qvxjv4nghh4":["nbrianna","breetoplay"],
+"j2mpkvrbbaroyq7emzcxhxkh":["nbch","なべちゃー"],
+"zpfcvmea3osgfkjhg2msg3dl":"nbdangirl",
+"gdzl2mvbzepey7llm7xzf7ri":["nbostic","Nick Bostic"],
+"fvml5mlnk52pa4ksaibyzp7z":["nbblacksheep","Viv"]
+}) // 2023-10-26T09:04:11.141Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

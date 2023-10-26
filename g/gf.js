@@ -96,5 +96,9 @@ var gf=(function(jsonp){ if (typeof gf==='function')gf(jsonp); return gf=jsonp }
 "sxg66ao6zoo46blafi5xsslq":"gffmx",
 "wa2ug565wpi3e2kjectulvzt":"gfg",
 "x5nqq53u2zdvof7mb7uz2noy":["gflash2013","BlazeyDraicils "],
-"6bvmrr44vs7gpkssliictkvi":"gfannar"
-}) // 2023-10-25T17:54:47.784Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6bvmrr44vs7gpkssliictkvi":"gfannar",
+"bpbv4kt2cl4o4vbse5c6nctj":["gfunk","Jackie Channing Tatum O'Neal"],
+"fzxzjbsr4de5bhfoj5aajhi4":["gfred.me","Gfred🇬🇭"],
+"6ecos55bn5h2ei73ppavmwbj":["gflower","Grumpy Flower"],
+"yflwh7yhel2lxbufvlxxcq5s":["gfzw","George Williamson "]
+}) // 2023-10-26T08:58:10.438Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

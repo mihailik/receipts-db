@@ -29,5 +29,7 @@ var ux=(function(jsonp){ if (typeof ux==='function')ux(jsonp); return ux=jsonp }
 "poaqokbqmvjhrgouztazjppz":["uxuiabbie","abbie 🎃"],
 "6snuiyahnamiec5ll63m3mk6":["uxieu","Uxie🐀 Comms open"],
 "ofh2kiffs4njp72amknqow3g":"uxotl",
-"x2cdratf4zecvbeaqb4hblzg":"uxfuturism"
-}) // 2023-10-25T17:52:53.443Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"x2cdratf4zecvbeaqb4hblzg":"uxfuturism",
+"k7xyfajftu22nz6u7t4iun6h":"uxkafui",
+"osaq3b37mijk4ehvkxs3erg5":"uxprinciples"
+}) // 2023-10-25T19:08:52.379Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

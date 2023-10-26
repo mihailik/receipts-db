@@ -103,5 +103,9 @@ var lf=(function(jsonp){ if (typeof lf==='function')lf(jsonp); return lf=jsonp }
 "baryuulossztp4q3vdhlni7u":["lfresh","lfresh"],
 "lk42fp3shb2ffocpoqbe5kkt":["lfharlock","lambs 🐑✨"],
 "v27ryxugvubz3rv2qz7x4x7d":"lfnf",
-"xwlgb6vrvsx2jtxzomy2goja":["lfcruz","Luiz Fernando "]
-}) // 2023-10-25T17:47:53.197Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xwlgb6vrvsx2jtxzomy2goja":["lfcruz","Luiz Fernando "],
+"3plcs7qkloat5igi5s4ncrfz":"lfdo",
+"g5d5naifrvuiom6kv5agmeze":"lffnvt",
+"3bimynxu2dgjqpwpn2rrdsai":["lfalf","Luis Fernando A L Ferreira (NANDO)"],
+"njyjjkfzpzb7reu4z4incuy5":"lfchokie"
+}) // 2023-10-26T08:50:17.569Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

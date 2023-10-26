@@ -58,5 +58,6 @@ var vj=(function(jsonp){ if (typeof vj==='function')vj(jsonp); return vj=jsonp }
 "rxv5sdwlpbd3jgturker2wu6":["vjs11","vjs11"],
 "dghjavdzess7eauaj562dpco":["vjtoria","vitoria"],
 "u5zdjctwimgyanop6ebd73vc":"vjbarrie",
-"j3idsasx4nekmtppsyq33gmx":"vjks"
-}) // 2023-10-25T17:41:01.204Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"j3idsasx4nekmtppsyq33gmx":"vjks",
+"inv4svd3g24fv2zxnsfgprbn":["vjrp","Violeta J. Rodriguez, PhD, MSEd"]
+}) // 2023-10-26T08:43:02.645Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

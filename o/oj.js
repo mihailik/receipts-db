@@ -135,5 +135,15 @@ var oj=(function(jsonp){ if (typeof oj==='function')oj(jsonp); return oj=jsonp }
 "mp5c5ukt3fdbqu25zmbciame":["ojiji","Òjìji Igbehin AKA Leo"],
 "cqyb6lcoxfokwkgc3zbhtpnk":"ojas7wi",
 "2feohfpbviplc4svkwkl4tf3":["ojmiabox","Mia"],
-"oay2r44mi6h5it4unkaxnizt":"ojomb"
-}) // 2023-10-25T17:51:17.501Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"oay2r44mi6h5it4unkaxnizt":"ojomb",
+"bt6t2ihir7jzbaar6nip7dkc":["ojastro","The Open Journal of Astrophysics"],
+"wotipdq26fhnhazuavvez7i2":"ojhonny",
+"7r2co5mpq5b6vupdqjkecwbj":["ojaywayo","Jay"],
+"7puamqeolzd4tqfn6t5oxqwr":["ojama","Ojama Dic"],
+"uljb76pmcq275esa3ffp4cb5":"ojerez87",
+"brmvrpeq6grsdwsqglrgnahe":["ojoj","Ojoj"],
+"rhnyachqsyicb5uryr45c72y":"ojaidave",
+"ewrl3rtyoq2a3br2bmybhwhk":["ojukeo","💚Juke💙"],
+"tqumdfyrcmcruto2gqkntkbo":"ojichan",
+"kykomyt3ycan5w2xoo576wiq":["ojboy","OJboy"]
+}) // 2023-10-26T08:48:20.980Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

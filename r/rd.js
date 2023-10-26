@@ -247,5 +247,16 @@ var rd=(function(jsonp){ if (typeof rd==='function')rd(jsonp); return rd=jsonp }
 "2bpt35xsfzceoclvfatfmpmj":"rda",
 "wqiqhiehzkkf47cmm7uaunsf":"rdahl-phillips",
 "g4wdsjorqffuoxredi6mim3n":"rdoubleu",
-"3iyxzlbrfpfe742thodhs2lw":["r.dmrcv.me","Roman D"]
-}) // 2023-10-25T17:56:24.586Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3iyxzlbrfpfe742thodhs2lw":["r.dmrcv.me","Roman D"],
+"nbgnezlv4ca7kows4h47hjxd":"rdebusk",
+"yysemqh77uucpihgxfqyreuo":["rdbaaa.space","Ray Barnholt"],
+"ok26e2zmkleig4ofa6llpk5x":"rdasm",
+"etcbix6o5j75jvloq5nhkrjf":"rdigenova",
+"afatlekqytsqn7pgb6enujdh":"rdrivas",
+"llnrmsnjpggd52hcybmrqizh":"rdcomics",
+"gir2z4dotebuzwalsemdgul6":"rdhonn",
+"naqmotu67dys7io237e5kytw":["rdbomber","RDBomber"],
+"gjgjy3wovm6cy2nu5e3g65bj":["rdztz","cole"],
+"4nr7m4pkfev62i5ebdsemh6k":["rdone","Richard Donelan"],
+"orfts2pcd7idmxwooxl4fpjy":["rds9674","Rob S"]
+}) // 2023-10-26T09:13:43.646Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

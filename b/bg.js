@@ -181,5 +181,14 @@ var bg=(function(jsonp){ if (typeof bg==='function')bg(jsonp); return bg=jsonp }
 "uy7sbcrq5mexgtex2ofiysrs":"bgeerdes",
 "msf25jnsjcjtojvw2gl7vpxe":"bgarnett",
 "hn25plf2pjuu3pgrxnvknkyp":"bg68",
-"qrnc7kbit4msi2llfbjf5g6q":"bgorski"
-}) // 2023-10-25T17:27:12.167Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qrnc7kbit4msi2llfbjf5g6q":"bgorski",
+"gh2h5qywwsout6t5hbjhitvo":"bguizzet",
+"hmjnx4tirqo3mfritl55du5g":["bgatti","Bruna Gatti"],
+"jzwgco3qjyoypy57wkrutv2g":["bgrove777","Bob Grove"],
+"cqg6pozhwc6gs2ual5xpphhm":["bgtnsony","Keke"],
+"vyon72uqjeby4cv2zx673kre":["bg-fla","Bill"],
+"llsicepqlmu33rpogtqib4ta":["bgslaughter","Bryan Slaughter "],
+"dpn6hx3rzekbnvyxuyxx3n4w":["bguavas","jacki"],
+"y56faleddwirsfenx2vzezmg":"bgraydin",
+"e66or2c5bni6scmvvye3k5kz":["bgkran","Bruno Germano Kran "]
+}) // 2023-10-26T09:19:14.350Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

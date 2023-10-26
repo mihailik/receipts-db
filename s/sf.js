@@ -219,5 +219,12 @@ var sf=(function(jsonp){ if (typeof sf==='function')sf(jsonp); return sf=jsonp }
 "mmlm76fe5pqvcz76dqqcna7g":"sfostsfost",
 "gjjea2oqrap3z2z2wtymq3it":["sfliberal","SFliberal"],
 "jge3ncr3d4r22wlqdrznvzeq":["sfraneta","Sonja Franeta"],
-"ivojipi2tksc5iywywt55hva":"sfall"
-}) // 2023-10-25T17:56:24.447Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ivojipi2tksc5iywywt55hva":"sfall",
+"vfef6shxxsm7mezss5t6ighs":["sffmagazines","Speculative Fiction Magazine Subscriptions"],
+"e4edc7ncvcgyw2dgvyy25ezh":["sfcurmudgeon","Grandma John "],
+"m3xkdaur6uqc3bm3zzmfsvzr":"sfomsn",
+"3iauymu5pnpzaagj5xzaamsf":["sfdan","SanFranDan"],
+"entnn32w3nnqkbkqcojleoax":["sfpt","Société Française de Pharmacologie et de Thérapeutique"],
+"d6wrysjfqhd6f2odhfkjcqcs":"sflhusker",
+"ezzln5auntd6wzl4ucrg6lka":["sfeist3dart","Sabrina 🌸"]
+}) // 2023-10-26T08:50:17.154Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
