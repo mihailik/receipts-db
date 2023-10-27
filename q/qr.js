@@ -46,5 +46,15 @@ var qr=(function(jsonp){ if (typeof qr==='function')qr(jsonp); return qr=jsonp }
 "dylkmfwnlp5w2mayj6w6cgkc":"qritch",
 "m2jfk5bdy4bewnr2vyknb3s5":["qriticon","QRITICON en Yutú"],
 "d47aekkifhebyxxojafjotqt":["qrnrr","jett🔞"],
-"7gi7sairsmskzz3evjoqo3j5":"qrpyh"
-}) // 2023-10-26T09:08:04.265Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7gi7sairsmskzz3evjoqo3j5":"qrpyh",
+"elyelc5cz546km5chavqmq6w":["qross","Qross"],
+"ao5ogx44nx5t752x4p3kyooi":"qril",
+"mrl7gahjljsudnacg3eel3zj":["qr8","QR8"],
+"vitdu7i5ahvmvsd34w25tkii":["qrq","Quinton Quartel"],
+"eizsatbyivusqogz6yspiak4":["qrcoder","QR_CODER"],
+"qpxsyits4x2cy3kasbe7meif":["qromu9","紘"],
+"23hom4b4lponul45g76t6bg3":["qrw","Quinton"],
+"7jwbchrklrtvo2xpvrt2pdwz":["qrogenn","Qrog"],
+"h2pg4tgnbbedcqnktkavd5tn":["qrky","Juni"],
+"5qd4wl77pzdxx6ujyvjwmn25":["qrow92","Sam Correa"]
+}) // 2023-10-27T07:40:21.118Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

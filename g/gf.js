@@ -100,5 +100,25 @@ var gf=(function(jsonp){ if (typeof gf==='function')gf(jsonp); return gf=jsonp }
 "bpbv4kt2cl4o4vbse5c6nctj":["gfunk","Jackie Channing Tatum O'Neal"],
 "fzxzjbsr4de5bhfoj5aajhi4":["gfred.me","Gfred🇬🇭"],
 "6ecos55bn5h2ei73ppavmwbj":["gflower","Grumpy Flower"],
-"yflwh7yhel2lxbufvlxxcq5s":["gfzw","George Williamson "]
-}) // 2023-10-26T08:58:10.438Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yflwh7yhel2lxbufvlxxcq5s":["gfzw","George Williamson "],
+"ztmoolsqvshcu4h7w5r5yvr3":"gfluegel",
+"7emhinaw7asxgqjszi62k3sn":["gfcomposer","Gareth Foy"],
+"vhozsowud6h5hgqlue4uqiua":"gfanalytics",
+"grw3ddedetksnuzds7stl7fj":["gfbv","GfbV (Gesellschaft für bedrohte Völker Schweiz)"],
+"w76almnl65jmws6j6veq5axl":["gfiske","Greg Fiske"],
+"sakzu6qxm3w2dopszytw2wiq":"gfish",
+"sum45diyixk6dh4xce46nrrn":"gfv",
+"virlkmggdyy2g7y3suplutii":"gfo",
+"lb6joh5mi5kmzhilx2zfrcsu":["gfalls2012","Tom 💜 🏳️‍🌈🏳️‍⚧️"],
+"exjjm4qktszyijfqpjfh46ff":"gf-g",
+"lrrhawogfiemv3m76czcbhqp":"gffry",
+"yesruoc7u4b4wg2apfhpbtxb":"gfred",
+"ab3fqsvcsvz67w65qma4mahy":["gfitzpatrick14","George Fitzpatrick "],
+"a3x7vp2nivivfjboy7hynkix":["gfdoodledraw","Gabby🎨💎"],
+"diw6d36vaf46n3vrvjanuoqa":["gferreira","G Ferreira"],
+"yynutm7kak6u7xjeyvmgyroc":["gfxo","Mark F"],
+"gciof6omg32wf4uycfolnkkf":["gfoshizzle","Gary"],
+"yyoytqxrzbjnktob66ioupqj":["gfx-ho","GFX-HO"],
+"zpaghjohmrhtht66jj645mbm":["gfjdow","GFJDOW 🔞"],
+"5m47mkm3kfqcrnr44qqeb3k4":["gftelemann","Hannes L. 😷🇺🇦📯"]
+}) // 2023-10-27T07:32:36.817Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

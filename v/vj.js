@@ -59,5 +59,15 @@ var vj=(function(jsonp){ if (typeof vj==='function')vj(jsonp); return vj=jsonp }
 "dghjavdzess7eauaj562dpco":["vjtoria","vitoria"],
 "u5zdjctwimgyanop6ebd73vc":"vjbarrie",
 "j3idsasx4nekmtppsyq33gmx":"vjks",
-"inv4svd3g24fv2zxnsfgprbn":["vjrp","Violeta J. Rodriguez, PhD, MSEd"]
-}) // 2023-10-26T08:43:02.645Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"inv4svd3g24fv2zxnsfgprbn":["vjrp","Violeta J. Rodriguez, PhD, MSEd"],
+"wdkb3xqbjtw3hmprst7aqz56":"vjonesha",
+"32qdg343ko6cvjtjeijrsreq":["vjthakk","Vishal Thakkar, PhD"],
+"sq7clfjavnndxb6wip74kl56":["vju79","ValljuTheYeen"],
+"z7mjr44puym5omfm6bh52uam":["vji","Viktor"],
+"afu5v24lqzxbmdndksn2nv6n":["v-jimi-r","じみる🏳️👀"],
+"2a76e4b33lvhjwuafdtrqq3r":["vjr","Vicki Robinson"],
+"iwxj4tw43nzdemy52c3yfbls":"vjl",
+"wzexkcgjyt2r2qzocdpzrmau":"vjohns1",
+"hqoceuro6ksiwfdsnjz6oaty":"vjai",
+"gnjn4whvfml42u7k7f6gogpv":["vjr82","Vjr82"]
+}) // 2023-10-27T07:53:51.135Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

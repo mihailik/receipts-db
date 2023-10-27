@@ -67,5 +67,16 @@ var vk=(function(jsonp){ if (typeof vk==='function')vk(jsonp); return vk=jsonp }
 "zsu244uf3fc5vu3yrs7srf5z":["vklisman","Victor Klisman "],
 "avt6yo6ed4z5bpkqh7oxbvf2":"vky",
 "3olb4xprbpdktkgtk4ylozb4":"vktz",
-"5ftrvb4ve5sadatkc5fnuamd":"vkolstad"
-}) // 2023-10-25T18:29:31.563Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5ftrvb4ve5sadatkc5fnuamd":"vkolstad",
+"zqaqmn3aywve4gohvf3pwezy":["vkaku","Karthik Kumar Viswanathan "],
+"px526ssvvmzm7gdpwe23up7w":["v-katz","V-Katz"],
+"oowbtupgqzjmyyad4brzoakd":"vkum",
+"zq3moncsy25zeey54tcalapu":["vkellner","Vered Kellner"],
+"izbkc54ngamxhodvyumxcrbk":"vkongv",
+"syyjt5g5bdni4xfxtdzg2fe6":"vkodai",
+"w5vdintn5gpoiifmbunt3ver":"vkzyrt",
+"x4qv7fwt3i4hoktqpwn3ddcc":["vkimroyal","VKIM"],
+"hpdtysvmdteu2oexrmfnuoxj":["vkankainen","Ville Kankainen"],
+"zhown2da73bgdgokajhauuh5":["vkrain4uk","Твітерський емігАрант"],
+"x656q2dihnl7zvofqh5uprfx":"vkriss"
+}) // 2023-10-27T06:23:06.275Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

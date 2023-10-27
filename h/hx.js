@@ -34,5 +34,17 @@ var hx=(function(jsonp){ if (typeof hx==='function')hx(jsonp); return hx=jsonp }
 "fjwxv7crwuomvwpbemkm3pnh":["hxrdwired","HXRDWIRED (HAM)"],
 "a3xaj5exugkd2dqszjoulbkk":["hxllxon","Hel’leon "],
 "gycxq33rfsz2ynatxhhsjahm":["hxhippy","HxHippy"],
-"m2bbcc3rtees6fs4oh3o5cct":["hx2a","Jim"]
-}) // 2023-10-25T19:15:52.360Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"m2bbcc3rtees6fs4oh3o5cct":["hx2a","Jim"],
+"knx3cqgreh5oyfdrtqc3l4tp":["hxrx","ILYHXRX"],
+"vgvfrkvebfjw3ufmjsm5p7yu":["hxyz","gajo da gaja que vende em cons (oficial)"],
+"es2wniybejgoabcdrrjl2yg2":["hxcfairy","hxcfairy ⸸ alana"],
+"p6dzzn2cnhgipns25dcmbrqq":["hxhsui","sui"],
+"jjtsd4uym4aw3qhbdmqa3dqw":["hxdce","Hxdce"],
+"4oin2jtglz76hbhrqppkm2vn":["hxhugjj","Hxhugjj"],
+"pm5q6p6ecg7wp7wjlebrsmzp":["hxginn","Huginn"],
+"2vb6wltjeirje7b7rtd5cuhc":["hxxxxxx","hxxxxxx"],
+"eqsdrbnvpirkeli7xqtmk3mt":["hxcztm","ryon"],
+"u6sdbbdeytmonjjpfae4bdqm":["hxeol","함설"],
+"ynkn3wppexmhj5xoi335wx4h":"hxo",
+"nmz5l6xsyvsejihulrlf6wgi":["hxneycups","🌸zenobia hanamura fanpage🌸"]
+}) // 2023-10-27T07:20:55.342Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

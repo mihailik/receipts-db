@@ -18,5 +18,9 @@ var dq=(function(jsonp){ if (typeof dq==='function')dq(jsonp); return dq=jsonp }
 "n2vi7iebfdhspes53ckexzpm":["dqazazel","Retired VTuber Azazel"],
 "d2f4kk2w5hqflidbzyemqigg":"dqjones",
 "oji3d47jc4evgtpixpljkony":["dqrkou","24/7 migraine"],
-"rc7r32befjivxvkj73tvnuir":["dqb","Diane Bedwell"]
-}) // 2023-10-25T15:29:43.355Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rc7r32befjivxvkj73tvnuir":["dqb","Diane Bedwell"],
+"lo7uwthjzg6xmvph2osbw6j5":"dqian",
+"ldjs5p6gq7jwauksp62gzecm":["dqjote","キホーテくん"],
+"ae3v3pj2bebchfcfdc37gov6":"dqx",
+"hmmz6ltnubcdj2742oiw6a5o":["dqx.yepisan.jp","イエピィ"]
+}) // 2023-10-27T06:58:03.590Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -39,5 +39,11 @@ var wv=(function(jsonp){ if (typeof wv==='function')wv(jsonp); return wv=jsonp }
 "6jqbfpdf5vy2uhfgn73itmrb":"wvgabi",
 "muso3dq34wmb3pzdy5sfxiam":["wvscanner.com","Jason Tatem"],
 "oqqxz6o7n67oasitq6euakyu":["wvuplanetarium","WVU Planetarium and Observatory 🔭"],
-"mk3ayv5ihl5ywauptnzhwmt5":["wvrden","⛧ Rabid Horror Enthusiast ⛧"]
-}) // 2023-10-26T09:00:18.839Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mk3ayv5ihl5ywauptnzhwmt5":["wvrden","⛧ Rabid Horror Enthusiast ⛧"],
+"jnqphra2vy2wabrh6onbbzze":["wvangent","Wouter van Gent"],
+"sfi7655p5ckzpf2drll3ijix":["wv2ca2wv","Carol"],
+"53wckoj3r5sc3mafmhlfrqj5":"wvumountaineer",
+"3fgzecaee5m7hmguyrygvonj":"wvie",
+"eu27xpwsi2xo3ah4cwezq7qv":["wvermin","Wasteland Vermin"],
+"dhdhoctvgofj6xmxujow6fbs":["wvixen","вікс !"]
+}) // 2023-10-27T04:32:52.197Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

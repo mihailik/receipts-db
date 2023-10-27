@@ -58,5 +58,17 @@ var wn=(function(jsonp){ if (typeof wn==='function')wn(jsonp); return wn=jsonp }
 "7kfujdmdhmlswp3rjl6nvxl3":["wnsolwe","선목"],
 "5ovpinw3n6m2dl37i6fodbkk":["wnbrg","wnbrg"],
 "bwwbcgwld7x7f26ina556ha4":["wnj85","WNJ85"],
-"6epdfva4tudchih3k7i6v2s4":["wnggaming","WNGGaming"]
-}) // 2023-10-26T08:51:59.039Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6epdfva4tudchih3k7i6v2s4":["wnggaming","WNGGaming"],
+"it6ckt32tr5avwchajhqevpn":["wndy","wnd"],
+"2licnqpynsasdtszopuoxvpm":["wnladjetey","Wendell Nii Laryea Adjetey, Prof. "],
+"bv7pgzfkxq722xypyfbexxdv":"wndros",
+"yyxfayfqjzztmkuceekqqymq":["wnkm","わにかめ"],
+"6hpcuje7gd3li73w2fuiap4p":"wnienhaus",
+"uagtctndsouexryb4bo56j2h":["wntrwidow","cris"],
+"iihbv4izzrrdqu7athdfyaer":["wndnda","Wzlrnd"],
+"n4uyztsn7bv64i4mor23bfgp":["wncgay89","828 Gay"],
+"rp53ewl5azvp4rvqv7qjem7z":["wnsk","和之介"],
+"thblsiz5ga7ikr2ymsxikeye":["wnsdud","준영"],
+"tu2p7ggf43h4x6cmtvxcnklg":["wni","ウェザーニュース"],
+"wnogjnrzprvhiofe6wgki6rk":["wnitedragonite","Borealis Tianlong"]
+}) // 2023-10-27T07:43:19.522Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

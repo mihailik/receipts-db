@@ -87,5 +87,21 @@ var yn=(function(jsonp){ if (typeof yn==='function')yn(jsonp); return yn=jsonp }
 "xruu6nxr5i3nrtshamfzbyxa":["ynotinvan","Tony ynot"],
 "bv4nwshetpk6ebeawjcu4f7v":"yngves",
 "6zqpavubnjhg7nk7c4i5gclp":["yna","Yna"],
-"jhimfruimmxehor5heqltvgh":["ynaf","Naf"]
-}) // 2023-10-25T18:29:31.816Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jhimfruimmxehor5heqltvgh":["ynaf","Naf"],
+"zknzzjc5eiltasfijwal4g3x":["ynsnkz","casey"],
+"lffsx5zc2fhnmnyj4hdpp4mf":["ynnek7","Kenny"],
+"dbt2avirj53z64hfnvbh246l":"yngvelj",
+"gqj5svegla43ff7b5xqjqszj":["yngvelau","Yngve Laugen"],
+"qxvaabnhhwqacsgqcub5b7na":["yngvar","aka pyngvar"],
+"cfsdp4533axajxxykl54btse":["ynbkw","luiz"],
+"egxrrknci555x6vprxzlp2ji":"ynd",
+"5johymv2m47fu676n3ibmijm":"yngvarr",
+"iebo3rlrparvozvmojvx4yaw":"ynnel",
+"vhslnvcpktmkqli6luve2rdo":"ynghng",
+"po3x75i5ehlwdgivo73ls3xp":["yngleplass","Alexander Yngleplass "],
+"lxpugdso6y437swukvc2gn6v":"ynsd",
+"gw56i4t32nbibm3ztplidigo":["ynghsm","ひさめ"],
+"k57ojxfyrpniqy3gwpygnhip":["ynot4luv","Barbie Chette"],
+"aor5sx5yyvo4en4a5qpewc43":"ynn",
+"7ldgzk7cemf2luxbommfzm2r":["ynairo","内藤 泰宏"]
+}) // 2023-10-27T07:00:53.245Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

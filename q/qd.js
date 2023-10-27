@@ -17,5 +17,8 @@ var qd=(function(jsonp){ if (typeof qd==='function')qd(jsonp); return qd=jsonp }
 "p33oysgxpkxz6wvzqkfqovm3":["qdn-media","QuoiDeNeuf | Media"],
 "oyambgwdbedmtwqo5tfzrjfn":["qdr8","henry"],
 "tjm2btjqkelyvio75nq7srhb":["qdcelestial","QDCelestial"],
-"dzewdefvavxwsq73xbpxrzlr":["qdvbp","しき"]
-}) // 2023-10-25T14:27:50.035Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dzewdefvavxwsq73xbpxrzlr":["qdvbp","しき"],
+"dmt5qzth5cxdgxrkrwo7ya6u":"qdr3",
+"umw4vvgg7gyyabcfnh6vzb7a":"qdust0",
+"qe4ljkjrdk2ckhka4epgh6wj":["qdony","Miquel Codony"]
+}) // 2023-10-27T04:26:13.039Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

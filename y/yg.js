@@ -93,5 +93,15 @@ var yg=(function(jsonp){ if (typeof yg==='function')yg(jsonp); return yg=jsonp }
 "cazanartwibwsm27tmuorxnu":["ygorp","Ygor P."],
 "3peq62dpwjygaya2eyuh5ux2":["ygoreduu","Ygão"],
 "5ybqwpkpxvbn6eyxxlgrkldk":["ygourven","Yann Gourvennec"],
-"inakua57jkltnksweykkrwj3":["yggdrasil00","Yggdra"]
-}) // 2023-10-25T18:15:58.563Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"inakua57jkltnksweykkrwj3":["yggdrasil00","Yggdra"],
+"tdsrcccuh7xlu7dzmve5flby":["yggiezz","yggiezz"],
+"d7kdmrsefwopwnpmsroeiv6t":"ygoscar",
+"tirx4pzpal4fbgsfxyn7yylv":"ygramul",
+"wmisxqc46v4ccsg2utkzdyck":["ygkookn","deh"],
+"an7cl2opbf3nbylviyvxsu4z":"ygthb",
+"7fcmwuq3ipianaqtxaskuvxk":["ygram","Anders Roos"],
+"g6ozuv4waxuprn2eaourqa5j":"yg4h",
+"wj33l2pn56mcht4cvzb322hi":["ygormp","Ygor Medeiros"],
+"hrtkyhdhdxyortmpprdfebiu":"ygoraranha",
+"ktxjvonr4q5t2va7nsfhprki":["yguichaoua","Yvan Guichaoua "]
+}) // 2023-10-27T06:50:11.871Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

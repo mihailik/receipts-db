@@ -54,5 +54,20 @@ var uu=(function(jsonp){ if (typeof uu==='function')uu(jsonp); return uu=jsonp }
 "o72oiel7abuzc5saxxuy5tqw":["uupdog","saint :3"],
 "c547xjbgfth6624mjj7uhbkv":"uuouter",
 "scckfhlik3425nmk6m6etoiu":["uuyyaann","ｳﾔﾝ子ちゃん@青空"],
-"hsxuxyw6gepnbgalicygey37":"uuka"
-}) // 2023-10-25T18:36:44.418Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hsxuxyw6gepnbgalicygey37":"uuka",
+"qoxcqmooqkp7p6j7jxcfqxf5":"uuodan",
+"umxuqwcw3wmm6fuibmg72h5a":["uugotit","uugot.it"],
+"jiyo7xg5jrm6mlq3kqjwl7jd":["uublog","dr. barrold boners, LLC"],
+"4iju724z7o6bkhn6nksk6voq":["uurozgun","Uğur Özgün"],
+"vhgiqfozczqevmawrqcafr2c":"uunal",
+"e74chxlldm7eat66hn3kxdm2":["uurick","Erik"],
+"ugorhmzs7nxwj7io5tdrgcze":"uurunal",
+"yookfeicgmx25bjlhkh4a7kx":"uurf",
+"hr45kckx744kb3ck2azwgugy":"uub",
+"4tqgnfuiiia6xahtwncrpbae":["uuhhlily","spectre de lily"],
+"osblferdvtgzmoief537yzcw":"uuryayla",
+"kld5mjlcneucsh7bbvhfagig":["uuill","Will Cowman"],
+"utdi4xsohcva2b6abhs4ruji":["uu0615","ゆーゆ"],
+"aqlypi2he3tm6sg4fnu7ype5":["uuupppaaarrr","うーぱー"],
+"prrdqygzgjousnkzntany2zw":["uuunu","うぬ。"]
+}) // 2023-10-27T07:45:41.565Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

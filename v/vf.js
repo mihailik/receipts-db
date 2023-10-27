@@ -56,5 +56,16 @@ var vf=(function(jsonp){ if (typeof vf==='function')vf(jsonp); return vf=jsonp }
 "yy2c6jjx5a7wlpdqtyumzqfc":"vfreixes",
 "d3eb72mdnwqsqt6l7oxqtui3":["vfxlabs","Robin - VFXlabs"],
 "tllw2zoug534k3jzfdxymaky":["vfportero","Víctor Fernández Portero "],
-"4jjskbwpwuy3snlwvpj7kcea":["vfarina","Vfarina "]
-}) // 2023-10-26T08:48:20.985Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4jjskbwpwuy3snlwvpj7kcea":["vfarina","Vfarina "],
+"idptvm6fjk2lnmuwur53eqnb":"vflower",
+"nhrttvgybpitdj4h3pobdlgd":["vfldoorsoun","♡"],
+"jfm6dsrm3hapw6tobsrwr3uk":["vfinn","Finn"],
+"tr27tnapvgqz6gtazjn7k456":["vforvalensa","Valensa"],
+"wdmu4ooflsiimwxmigsu5n2q":["vfxpapa","VFXpapa"],
+"wiedsjan3xjkpag5wjmbqiiw":["vfrnc","Francesco"],
+"mjxsiztuph66c5wybsmgbsah":"vfranka",
+"2ryqgnj3t4rma3wu2fwalewp":["vfad","Hyu"],
+"sabv6kpvqek222g25ivlhhhy":["vfbchris","DoppelrundenChris🥴⚽"],
+"5cguax6z54ed2fedv7u5vs44":"vf26",
+"n7icbhneblak23ukq54cj5yu":["vfx","VFX hub"]
+}) // 2023-10-27T07:36:33.386Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

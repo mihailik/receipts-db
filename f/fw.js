@@ -68,5 +68,21 @@ var fw=(function(jsonp){ if (typeof fw==='function')fw(jsonp); return fw=jsonp }
 "25o6eaf5gfpn7voij32ceocs":"fwz",
 "yjpm4yaugbvo2bxcobgndcqj":["fwwaerztin","Feldwaldwiesenärztin"],
 "4ikkvyscle7kh6ew636oodx2":"fwh",
-"m4m7ihikuc7zm6vuzvrdhbp4":["fww","fww"]
-}) // 2023-10-25T19:13:58.204Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"m4m7ihikuc7zm6vuzvrdhbp4":["fww","fww"],
+"ghcx4hbu24xqlgbftomjmbl7":["fwips","Chii"],
+"j346ijf2ezrwwpwhuec6daxf":["fwumpkin","N 🪷"],
+"hd47p6bz7s3oaije5d2kjt4w":["fwtoads","Red Toads"],
+"uiectv62wysac4nxxjjdxsjh":"fwojciec",
+"jydrkxgov2o7iowrdofhb6dx":["fwoshy","fwoshy"],
+"uqmmngxnbhtlhsu5ygfuysjg":["fwatair","Fwatair"],
+"ixfcsvphe54bpatuhemx2ysy":["fwug","wufwag"],
+"fnk6dr2adakwjyzc2nxppb5s":"fwiffo",
+"rr3cockt3k7vd3kokchhu3ej":["fwogsie","Aspen"],
+"ds7fooirggpbo7maz6fytw5k":["fwipination","Fwip"],
+"im5kluui6y7njdobasdy5geq":["fwoosh","🖤𝕲𝖔𝖙𝖍 𝕲𝖎𝖗𝖑 𝕷𝖎𝖑𝖎𝖙𝖍🖤"],
+"vfjcij2buld324kgda5i3ll4":["fwfw","27"],
+"kxms4vhhyn53i4gd272qtvd2":["f-word.dev","The F-Word"],
+"4xl6c3renurmstkm3rwxx4p6":["fwar","Frankie Warren"],
+"izruneqadodtis2nmjbmjofs":["fwdrpg","Forward RPG"],
+"sypnwzwnkszvdqg6asvcidmk":["fwhprime","FWH Prime"]
+}) // 2023-10-27T08:07:46.390Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

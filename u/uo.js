@@ -51,5 +51,14 @@ var uo=(function(jsonp){ if (typeof uo==='function')uo(jsonp); return uo=jsonp }
 "eclqm6qge2i6yic75wm3k7jn":"uovardar",
 "d4zfnx7hwmtvxqviuvuhnmnx":"uofcwildcat",
 "4rds22l5lz2kvml7v4focjn5":["uofuneuronews","UofUNeuronews"],
-"y5zmisiroib6lyacu5zdv3hx":["uori","𝒰𝑜𝓇𝒾 🔞 artist@Vgen 18+"]
-}) // 2023-10-26T09:02:11.586Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"y5zmisiroib6lyacu5zdv3hx":["uori","𝒰𝑜𝓇𝒾 🔞 artist@Vgen 18+"],
+"7a5bgvgo7pwnsatrnw7ov2c7":"uozkn",
+"jgxjbhgevnmy4d2x32hk5y2s":["uobusiness","Lundquist College of Business"],
+"dme6w63aofkcxehxsswblv5r":["uolic","L'Asperge Illustre"],
+"bzoip7abu2pgw6adwghzb5ux":["uobener","uobener"],
+"bslgncx73oqccs7mo4wwg2dl":["uowunison","University of Westminster Unison"],
+"igw2mafdhuweypiz4bp6banh":["uooaa85","うおおあ"],
+"r6ba3q6fv6fajw7gvvqh7sd4":"uodii",
+"naf6diewmolbmb72ifgajnqq":"uojeda",
+"l3mm3ffhruq6n5wxiapbqljh":["uosan5","うお"]
+}) // 2023-10-27T06:44:51.309Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

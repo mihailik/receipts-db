@@ -31,5 +31,14 @@ var ux=(function(jsonp){ if (typeof ux==='function')ux(jsonp); return ux=jsonp }
 "ofh2kiffs4njp72amknqow3g":"uxotl",
 "x2cdratf4zecvbeaqb4hblzg":"uxfuturism",
 "k7xyfajftu22nz6u7t4iun6h":"uxkafui",
-"osaq3b37mijk4ehvkxs3erg5":"uxprinciples"
-}) // 2023-10-25T19:08:52.379Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"osaq3b37mijk4ehvkxs3erg5":"uxprinciples",
+"nqczbxv23iy2kx5k2ni4qgq3":["uxialovesyou","JollyFool"],
+"lgf7uht772y6kyb3aaq3ty5t":"uxpearly",
+"4mmo2xkz6nuwtkfi3rxqr6k6":["uxvic","Victor Adedini "],
+"ajch35vvdepoptupxx2geqjr":"uxninja",
+"z64trkz67pflcmeksd7yqmhc":"uxpanda",
+"44hojnu2afypq767zax4tgeu":["uxdragon","Uxdragon🔞"],
+"3hhajiqsvri2km3o3czsg7q5":"uxie",
+"sjvc2fi2qij27v2f2lyzqqwi":["uxu-txt","うさぎ"],
+"dd6ylxf2bl6lhteplakdorwa":"uxn"
+}) // 2023-10-27T08:09:22.309Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

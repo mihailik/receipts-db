@@ -43,5 +43,9 @@ var jq=(function(jsonp){ if (typeof jq==='function')jq(jsonp); return jq=jsonp }
 "5wo3otsp2o6iaatpriso6n3k":["jqj","Justin Jefferies"],
 "j6mbwe66k4aumcllp5wbom2l":["jquerque","John"],
 "zvcz4w7uocvmrcvqn4bxm34h":["jqbioethics","John Quain"],
-"cul73gbxqzngcpmtngopuq2w":"jqpublic"
-}) // 2023-10-25T19:31:10.070Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"cul73gbxqzngcpmtngopuq2w":"jqpublic",
+"kvztsnm2kmuvrtc7ww2f7u4q":"jqytang",
+"giys7ef2tigielypzenohqvk":"jqual",
+"4md55dvl5ayvmzybpabes4tv":["jqhi","J"],
+"tu5oxbeza7h3csxapqxmvw7j":["jquant","jquant — e/acc⚡️"]
+}) // 2023-10-27T06:53:59.173Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

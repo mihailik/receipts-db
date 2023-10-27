@@ -89,5 +89,16 @@ var yt=(function(jsonp){ if (typeof yt==='function')yt(jsonp); return yt=jsonp }
 "cyps7da7x72f2i2gm5u4jsvv":["ytrio","Fran😸🎸🌈"],
 "byvzfwwu7o6lfakbx2dp224o":["ytovv","yto"],
 "mouliwkgcfiytggc63owp6s3":["ytomita","Yu Tomita"],
-"q3t4b5t5kcy2tmliuof6ruon":["ytorona","САТАНА ДОПОМОЖИ МЕНІ ВИЖИТИ "]
-}) // 2023-10-26T08:51:59.540Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"q3t4b5t5kcy2tmliuof6ruon":["ytorona","САТАНА ДОПОМОЖИ МЕНІ ВИЖИТИ "],
+"mjly7vwfo536f57if7snwlga":["ytigerpaws","Yuri TigerPaws"],
+"crkssedvgnktt6ioqbonxej3":["ytjepoppinga","Ytje Poppinga"],
+"lp74sicbarn7gxxolnszwqnu":"yttygong",
+"bv5nhspxglp4eppbzwmmbtji":["ytnb","ytnb"],
+"3v6f3v2hb7wlwnkv4fp2bgkw":["ytteeb","I bought butter to make the bitter butter better "],
+"clnyikelkesaa3qp3oy5ycjy":["ytakasugi","不動産屋から不動産テックに行った人"],
+"d3lhxg5pxmcsxlxsov6ixqcm":"ythbpksungjin",
+"6bg5q6nqdml6exmfkv5355s2":"ytk999",
+"xkgk3zstwp3ux2qijswqinff":["ytbluey","Bluey"],
+"qgwcdx7q3endbaelcuzpxkqv":"ytakeda",
+"bcx3souzeb7jyw7b4j5x43ng":"ythos"
+}) // 2023-10-27T07:32:36.371Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

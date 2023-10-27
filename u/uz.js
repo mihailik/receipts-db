@@ -90,5 +90,16 @@ var uz=(function(jsonp){ if (typeof uz==='function')uz(jsonp); return uz=jsonp }
 "d2hylb3yvfja7gzku4hjfyru":["uzai.fr","uzaigaijin 📸"],
 "vpp4ykvloapwgpsovqe37vhy":["uzcr0707","piyotaro"],
 "7lf5m7npwlfi4yoanupssqto":["uzunsn","M"],
-"vhntvv5hgve4g7o2mtru2mm7":"uzm"
-}) // 2023-10-26T08:58:10.312Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vhntvv5hgve4g7o2mtru2mm7":"uzm",
+"nmaa4e5j2bdss67eatch5wgg":["uzukiforest","April"],
+"quox7yurpnzg3gz6gvm7r4ho":["uzbekistan","uzbekistan"],
+"ilvleifknzlzxneraiphuymm":["uzuview","inMonk"],
+"jmhyuf73p67lw2fi77djva2a":"uzigwezag",
+"xouilrvlfjmjfo3yaaeiszmr":"uzman",
+"tzqr4ub4mwgeqr64ljnmk7zc":["uzoo","Yuzo"],
+"gwkb7mlqb7qs6msvratgeic7":["uzaylicorumlu","Uzaylı Çorumlu"],
+"3cpqrkr7ayno4uiellx2pvdh":["uzunelendil","Elendil"],
+"4k5g3o7kxv6byxm27ei5oxip":["uzlasmazemini","Dornaz Alfa"],
+"sp2kmnkjwyxtwvoq7b4ylhq5":"uzayhepari",
+"7kqstmhztisdbx3zhs5cdwad":["uzs6c4","Achim H. aus B. am R."]
+}) // 2023-10-27T07:52:15.588Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

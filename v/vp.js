@@ -69,5 +69,15 @@ var vp=(function(jsonp){ if (typeof vp==='function')vp(jsonp); return vp=jsonp }
 "4dnyzgyioqlsnqrffksyt2di":"vp177",
 "u3zbwpce5nwvhlbcgezbkgqa":["vpupfangv","PupFang "],
 "xl7g2v6wyjelebibgdaylrnr":["vpatil","Vic"],
-"qcck5tt62e6zl2ng47rgunxi":"vpotus"
-}) // 2023-10-25T19:31:10.404Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qcck5tt62e6zl2ng47rgunxi":"vpotus",
+"u25qdkxkgipcimux4sfokqzl":["v-perjorative","SamH (he/him)"],
+"toog7w7w2mmcbdxkjswsxrnm":["vphd","Valerie Wetlaufer"],
+"3ilijscul3ty3fvxxlzdxe7u":["vposting","Aufhebene Gesserit"],
+"wgs426b6vnvifv65ma6bbhji":"vpryim",
+"hxan3e24prczm4mlxgw5pgxe":"vpcolares",
+"rkh44mfskdbrsb46vgdvbjus":["vpajaro","Verónica Pájaro "],
+"oovsuj4aw3o6iy4r2pjhoufl":"vpower",
+"ofpgbmreuapxkes7unigwac5":["vpressfeldt","Victor Pressfeldt "],
+"wt2ssqgevhpjjzzzsob56gsm":["vprincipe","Chergofino"],
+"onxlksytcxkzy3rp6wxzirvz":"vpatsaliuk"
+}) // 2023-10-27T07:27:26.321Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

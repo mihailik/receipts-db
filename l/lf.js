@@ -107,5 +107,19 @@ var lf=(function(jsonp){ if (typeof lf==='function')lf(jsonp); return lf=jsonp }
 "3plcs7qkloat5igi5s4ncrfz":"lfdo",
 "g5d5naifrvuiom6kv5agmeze":"lffnvt",
 "3bimynxu2dgjqpwpn2rrdsai":["lfalf","Luis Fernando A L Ferreira (NANDO)"],
-"njyjjkfzpzb7reu4z4incuy5":"lfchokie"
-}) // 2023-10-26T08:50:17.569Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"njyjjkfzpzb7reu4z4incuy5":"lfchokie",
+"6rhdjeloepa4pr6d2cozbhct":"lftyz",
+"yj2wxaoefwdbslblmn3j4flh":["lfaung","Ling Faung"],
+"mvj6v345gcujvcrad72kmnhe":["lfalch","Falch"],
+"j2bpkm2np2ccouj6ugbreie3":["lfcpero","Petar"],
+"4zx2dxvfii7dtpqlgjangwnq":"lfabbri",
+"bv37etkphdnpnzpyfd7afrie":"lfl22",
+"bj4mehisvp6c6ekvpxna6iyt":"lfrdr",
+"2o34cudt66gq66sag5gpktez":"lfcohen",
+"g4yf32ywh7hwyz6t2os6zfct":"lfabien",
+"wn2wneyyph6pzf64moyktw5g":["lfcr","Liverpool"],
+"hrs77lxqvzcn6nvu23ji2zt2":"lfpenha",
+"ny5j4psqesryweyxb4mo4ume":"lfelipeveras",
+"26vxxqh4ctpbveqr6vri4w66":"lftherios",
+"oslhmvz362glihx7midt6u5s":["lfinnegal","Laura Finnegan"]
+}) // 2023-10-27T07:22:33.124Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

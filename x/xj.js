@@ -47,5 +47,17 @@ var xj=(function(jsonp){ if (typeof xj==='function')xj(jsonp); return xj=jsonp }
 "iukxnanlgmvkrtwfcmr4c4du":["xjarid","Jared"],
 "t3a5ige6lo3eftj5upozeqsv":["xjimmor","xjimmor"],
 "hmqf2o2qfn3faxgiyeywdvbt":"xjd",
-"26ax4n7jsnj66k3or6s3p7vl":["xjenuine","jenelle 💕"]
-}) // 2023-10-26T08:32:47.730Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"26ax4n7jsnj66k3or6s3p7vl":["xjenuine","jenelle 💕"],
+"eml7z4dnlbtfceo3u2lgzwge":["xjibuuux","‧⁺✧Jibu♡"],
+"mizmuxll5bikej45md5xspw6":"xjpacheco",
+"itadgncadqwe6zw6g3q7z4po":["xjoeymillerx","Joey Miller"],
+"jzeafqoouq3hlgr3honk2n7k":["xjmay","XJ-May"],
+"55a2kj2wdkvz5npxnxtpublg":["xjtakax","Jacob Takanashi"],
+"vrtaayotdwx7vajqz4hlcz2t":"xjoanofarcx",
+"hsvyhr6r3gfktenwzemf6tie":["xjyoungx","Jas💕"],
+"55he773jq3zf4o5g6ehzzoki":"xjedx",
+"bs4eosvyuyrxr3vr3l36fr5v":["xjennersonx","Jen ➡️ Anime NYC"],
+"gfobya5u7dx43mvcii7dtzcq":["xjari","Jari🎙️"],
+"6msemm5n2oxhkigg6ju357wr":["xjenn","𝕵𝖊𝖓𝖓"],
+"vy5fww3qrjsq7jklduyfg5nu":["xjuntw178","乖小俊這樣"]
+}) // 2023-10-27T07:55:49.138Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

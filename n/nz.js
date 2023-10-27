@@ -86,5 +86,18 @@ var nz=(function(jsonp){ if (typeof nz==='function')nz(jsonp); return nz=jsonp }
 "ci257qa7yb3c2zrxz4ougwgv":["nzd","Btc eth"],
 "dqk2a67yl64aulrb5dpsuzaf":["nzkatj","Dr Kat J"],
 "wujgn2bfwbizqc347xo6goim":"nzlebnik",
-"76s65jwzfi3zjwvaeh4mrz6p":"nz2th"
-}) // 2023-10-25T19:21:05.062Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"76s65jwzfi3zjwvaeh4mrz6p":"nz2th",
+"cdfqyxr2hq7s5lyottywrnuz":["nzquake","NZ Earthquake Bot"],
+"3bkl77m6x3djlgsfhomsw5if":["nzhajime","Hajime"],
+"w32epthltj7ue5n67hazbqdc":["nzr1","Nazario"],
+"exff3btgjkcyli3qustq7xbb":"nzgn",
+"vn75rk3ir4ce5zxi2s3bomt2":["nzkko","niebieskazaba"],
+"4briwtoc4vfq77wxp7auy6ze":["nz365guy","Mark Smith"],
+"u7fyd2clkqbziyuhkugsfwij":"nzapata",
+"anondm5mpglxqin54b45vla5":["nzejustice","Former good citizen "],
+"fheef4neviex6kac3653s6mq":"nzbarry",
+"2uu54cds7wqml5ptxgqs4xfp":"nzs",
+"syztbakjxnrncnlmwcmkrpcm":"nzmedet",
+"ecccazq2vsp7lkh3o4shj3uy":["nzrkom","NzrKom"],
+"42ukhp4rc7eyfkgwqemqchup":["nzaretsky","Dr. Natasha Zaretsky"]
+}) // 2023-10-27T07:19:12.393Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

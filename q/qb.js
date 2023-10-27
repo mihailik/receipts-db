@@ -36,5 +36,19 @@ var qb=(function(jsonp){ if (typeof qb==='function')qb(jsonp); return qb=jsonp }
 "y7iz2mxzeahe5smndcmy4vfw":["qborg","QBorg"],
 "m4kgfct2x6wyc4vj3et5qhgw":["qbombband","Qbomb!"],
 "qwnaqkhnvfmf6ha4ycqgadmk":"qballlobo",
-"42vtnhkktebg7gnyri7oleez":["qbd","つじもん"]
-}) // 2023-10-25T19:08:52.476Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"42vtnhkktebg7gnyri7oleez":["qbd","つじもん"],
+"pev7jm457jojxw6gwhdt44le":"qbad",
+"kg7yfqjzi4zjjkbatwoqtxv7":["qballin27","Qballin"],
+"b5sw76zryhamcu4tc4dqcyfo":["qbrad","Qbrad"],
+"2pjl3s6qnokvrxqmiuq2ze22":"qbanharley",
+"ogoup6zpbgpxxgi633d5rubj":["qbort","Q*bort"],
+"rojoung22un3vhfv3frb4zri":["qbutfurry","Q"],
+"arebb76fovmcy6khyeyphhfp":["qbert","Roberts"],
+"itucs64coyv3irrq4fkmpowp":"qbisa",
+"wivbtzvepi5yz2ennpitybkt":["qbrx","CatsCradle"],
+"y2clobrw3izkitgenric4z6y":["qba75","Francesco Ronchi"],
+"cws6n77wzjstyz2qywaeezrw":["qbcubed","QB"],
+"3srqsmjgmczeu3diqubc3qpy":["qbts","river"],
+"zvlzpcrrxp4jbhaz6d4txojl":["qbeck08","D."],
+"qmogzjnk75wwdjih53ewjrhu":["qbane.me","尾"]
+}) // 2023-10-27T07:55:49.138Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

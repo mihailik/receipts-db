@@ -142,5 +142,25 @@ var ua=(function(jsonp){ if (typeof ua==='function')ua(jsonp); return ua=jsonp }
 "ed5vwxrj2mnkj5gazdd4xufe":["uarkeecs","Electrical Engineering and Computer Science"],
 "5dpx4cb6s74hra73o7jk2iap":["ualnat","ualnat"],
 "fypmw7l254owe3u5nbuqpiho":["uaipego","Maycon Pego"],
-"mkug5blwa53ylzostaspaivq":["uatu","Uatu the Watcher"]
-}) // 2023-10-26T09:09:57.586Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mkug5blwa53ylzostaspaivq":["uatu","Uatu the Watcher"],
+"eycpvbeitukiqsx4j23kmjed":["ualmulla","Ualmulla711"],
+"oojmnubutmcilm7pfglpybum":["uahali","Uahali"],
+"r3t3sjytaxjjwf4ldd6fiayp":["ualocal119","⭐️UA Local 119"],
+"m5ibebwqaov3rpnxlfexmzj2":["ua-melnyk","Melnyk"],
+"qtds6izc4kdcsbrivgx6fpy7":["uatamari","uata"],
+"y56qgrj2zyrwguovnisl5bjh":["uamm","海翔"],
+"abnmipn5v7avu5qudta22zrh":"uashurik",
+"43og64kg2tbdidcnj735dp5f":["uaifab","fabi"],
+"lcnpbekiwuob33mmzxrmvmaq":"uadiguzel",
+"yiqseyrvc5kjcjstnqgakh2d":"uab",
+"trsswm2t3yt5wmsovgr2q67y":["ualpaydin","Uğur ALPAYDIN"],
+"vv3r6p3jzmeelbuiqjigh4bj":"uannix",
+"w5h4rqvata4o7us7ldeyjymd":["uapass","UApass"],
+"accd6zatnpmgwl22uyqwg3gg":"uatas77",
+"deteogvt3r32gcatdsi4edfo":["uasneppy","Рей "],
+"dmd62levylqtw4auxku4qr5p":["uarizonalpl","UArizona Lunar and Planetary Laboratory"],
+"mtkpu2ai2tbzvhx2b24mloy2":["uapp","Universities Academic Pension Plan"],
+"ieg6ze6bigx5blxhgni5mjpe":["uasabi","deicha torar"],
+"rbfho7wb3qduiqt7i5gkfx7m":["uaimarco84","⚠️ marco 🏳️‍🌈"],
+"6bpj2gdpg65cpuernc5d6axd":["uadragonslayer","Ар ю лост, бейбігьорл?!"]
+}) // 2023-10-27T08:13:23.298Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

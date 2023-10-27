@@ -59,5 +59,15 @@ var wp=(function(jsonp){ if (typeof wp==='function')wp(jsonp); return wp=jsonp }
 "tqhxq4k2xqcoudk43o3r5fos":"wpsantos16",
 "s7mp45wx7f267nzmatuqu6k4":["wpak","WPAK"],
 "rkmxcqnxf2rmpxtkgvqqzswh":["wpwerbung","wp-werbung"],
-"73xvftvw5kzjbwuf32lfxakt":"wpexpert"
-}) // 2023-10-26T09:19:14.435Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"73xvftvw5kzjbwuf32lfxakt":"wpexpert",
+"4sogomkrprgr44sxsvzcf3dx":"wpac1966",
+"bv2kgaoe42m7gjjr3awevp7f":["wprancis","🖋 W❍lven 🖌"],
+"ugdfxjpvrr5zcxqstnnysolt":"wpcguy",
+"ejomjxkaharw25ssh5v4uqjd":["wplate","Wes Plate"],
+"q7du72aooea6gmyw4sgcfay4":"wpbnative",
+"e7iaoo6xxfccwx6m6t3q3vl3":"wparks08",
+"vqxza557bis4wbycxfcrcjza":"wpblo",
+"jbbhhnsqpz4qvyyvbw7lcgfv":["wpeaq","Wpeaq"],
+"cqptsnz2ledxe67tzigx766a":["wpham","wpham"],
+"2lczlxwn5kjvq6zln3fi6my3":["wplink","Link"]
+}) // 2023-10-27T08:09:22.270Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -50,5 +50,13 @@ var wk=(function(jsonp){ if (typeof wk==='function')wk(jsonp); return wk=jsonp }
 "wosqnysp2z55rz5tz2fq2a2w":["wkrkn","わくら"],
 "vyxjxh757jv3ukgb46jvi5vi":["wkrantz","Wally Krantz"],
 "tmoe2rtbj6hhy5onww2qdmsu":["wky","WKY"],
-"onduopdbcmb7zsg5jgktbtur":["wkeown","Wes Keown"]
-}) // 2023-10-25T19:22:44.952Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"onduopdbcmb7zsg5jgktbtur":["wkeown","Wes Keown"],
+"7hqujxfgo6l7psai3zlhhvrm":["wkayminer","W. Kay Miner"],
+"oo2mi33gk2s45n3vvongxgtn":["wkohakumedia","W.Kohaku Media"],
+"herje5ae7ghajcqw6v3piqfj":"wkvong",
+"mlgli4zm3l6cra24tw7ifwko":["wkqduddj","wkqduddj"],
+"3t2okwdqs4mo34kg2cax7336":["wkcooldown","The Weekly Cooldown Podcast"],
+"gphrpmbpjughuxre4s7mth6l":"wkay",
+"o6tfjn2tlcbtntzqx5xlznni":["wkndwalker","Weekend Walker"],
+"wpegnhij6x7izcyjs5qry7ub":"wkh"
+}) // 2023-10-27T07:37:59.983Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -107,5 +107,23 @@ var vc=(function(jsonp){ if (typeof vc==='function')vc(jsonp); return vc=jsonp }
 "l2jimrgdytmgas4f2737vptn":["vcl","Vick"],
 "ptultzg4avi5yllgiapa5uqw":["vcastellm","0xvcastellm"],
 "kttng26pj355vca3vbf2aa5g":["vcherniy","Втратили сором"],
-"dg4p45x2pcf5imwd5de3hhtg":"vchep"
-}) // 2023-10-26T09:00:18.918Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dg4p45x2pcf5imwd5de3hhtg":"vchep",
+"u4b5hgp7lthh74ory4nebzqn":["vcollstorm","Vcollstorm     The VOX"],
+"f6dnehpfkvfhlrphywcjjszt":["vcr2","Victor Rodrigues"],
+"zvm3iqh4qrlegvxk6nfjpweo":["vcrstatic","Vee but Bad"],
+"bz22v5iqgkfeu6en3v4aj3qy":["vcw","Veny West"],
+"5pjxf3pnbz5mlrdyounsidnc":["vcrowe","vcr 🏳️‍⚧️"],
+"yawshaa2oy3tszkvcfvj5xlg":["vccg","Very Cool Card Games "],
+"xkmytisjkush5fhyhf6kx3an":"vcds",
+"p2q5vwkzkbbcjbswpad6lp2g":"vcnt",
+"ti5opktcaxxhjk4z4pehqhxo":"vcnavi",
+"kdaesmwcdmy6of2u6matpufq":["vcdlucario43","Proto-Lucario"],
+"v5qstedzavlbpqztwhoytrsy":["v-chip","V Chip"],
+"aj6xqrvxzbu3d5yrlyq4qgcj":["vcampitelli","Vinícius Campitelli"],
+"ptpkvs7crbm4bjdgfnpr3vxo":"vchm",
+"nrcsx27skvv5tkg2digau3o6":"vcmolla",
+"rc6vtzssnewgsge7ce5d7y64":"vcalmore",
+"2vngnqrl27eiuissfpvhg4os":["vcarvalho","Vinicius"],
+"xdfm7zurfzpe2otwcsaqnxao":["vchatelet","Valentin Châtelet "],
+"p6tierllplmzma3ycdfvs3yx":["vcoimbra","Vagner Coimbra"]
+}) // 2023-10-27T08:09:22.292Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -8,7 +8,7 @@ var lx=(function(jsonp){ if (typeof lx==='function')lx(jsonp); return lx=jsonp }
 "klfw4s7ioxjeutkofqljbio7":["lxder","froggy"],
 "nzxth3zlzxeqfix47e2bq54r":"lxndrgud",
 "q3ngrevhsxnemos4acx4426k":["lxrosen","Tobi"],
-"skiljqwb4o2b2mgnvbxoezim":["lxvingnostalgia","𝐴𝑛𝑛𝑎 ✧⋆｡🌸"],
+"skiljqwb4o2b2mgnvbxoezim":["lxvingnostalgia","✧⋆｡🦋🎃"],
 "yxykwseztz6f7logrhk55t3e":["lxglb","Alexander Globus"],
 "ytjagqpmpebjvww3phwmqc2k":["lxnull0","1xnull"],
 "veemttp5hzhcegmesptquzol":["lxandrrr","alex"],
@@ -57,5 +57,19 @@ var lx=(function(jsonp){ if (typeof lx==='function')lx(jsonp); return lx=jsonp }
 "gczyrglq7yldpmvkknno2tgp":"lxmcf",
 "mtbiz3e5kl2h7la6i4oqduah":"lxna",
 "s2kfan2ddxrlavwkihagxnyz":"lxk425",
-"32d6ay2h4hbldcsqbldayzo3":["lxx","お豆腐"]
-}) // 2023-10-26T08:36:36.751Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"32d6ay2h4hbldcsqbldayzo3":["lxx","お豆腐"],
+"kjbyytz7pm7r2lvaxdh5rrai":["lxblecho","2009 greek financial crisis denier"],
+"ius7qwzp4digu2xb6hdk45rk":"lxgnzlz",
+"onhhwjlr7vp5m5gw6udreqj3":["lxxlawliet","₴Ⱡ₳ĐɆ ☭"],
+"pmnu5q55zstc4roc5puyuxs7":"lxkern",
+"bokjl2kpbosq5hdliucc3uyt":["lxrs","Laarssss"],
+"urmwf3jnpq42jbfcfea2tbw6":"lxxla4",
+"wva7p2icu52ilb3ohv4vy7ue":["lxanaed","|ω･`) ななし♟"],
+"uyspzyhrkh3d5uztwz2kpcx5":["lxjshrss","alex"],
+"vsu23xvca4fduc2ighxpsceg":["lxf","Alex Forbes "],
+"jpyrdch7pykoldfmcjjinkr7":["lxovw","LXO"],
+"3t4cywgkqzzmv5wi4lvoait6":["lxra","Lara"],
+"g4ze6mvmaesd6yub3hniyb4s":["lxvesiick","Wolfii"],
+"46xpoynm3onfwooie6bvdf27":["lxs","𝓛𝔁𝓼 / 𝔸𝕝𝕖𝕩𝕚𝕤 🏵🇪🇺💫"],
+"543sq7wzuyavf3u66itdjgv2":["lxiko","Lxiko 🆖️ God's Favorite Problem"]
+}) // 2023-10-27T06:21:41.793Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

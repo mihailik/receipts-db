@@ -64,5 +64,17 @@ var bz=(function(jsonp){ if (typeof bz==='function')bz(jsonp); return bz=jsonp }
 "ykektkjobe246xgnhncuhdb7":["bzrsvn","👻"],
 "ce4mzmdljaxqyib36xojl4ic":"bzigterman",
 "ea57xg5dkv42lovenzxkbv4i":["bzm","bzm"],
-"dykyd6dep44oc2cv7is53lpv":["bzeerz","криза"]
-}) // 2023-10-26T09:02:11.691Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dykyd6dep44oc2cv7is53lpv":["bzeerz","криза"],
+"mnpmy6jnjhkjl44ttgwoct7r":"bzlbub4",
+"nik7dgaxqfkdzecsbyqxwjp7":"bzblue",
+"6fanspwiwrbsyvaajmt2vijc":"bzilkamaya",
+"kdxz424hfcgbwgks3zx3zv75":["bzo9","김동백 🎗"],
+"a4pon4bo24j2xysz3y34jzmf":"bzzt",
+"owd7fktaaezf535ya5xj4alu":["bzra","Felipe Bezerra"],
+"rrhy43twn7hm5phe6n4hwss6":"bzytan",
+"wkvhqvzbyjyg5so2y5ym4bfm":"bzh",
+"m5a63rdfk3nwkj5ovdtngq2o":["bzkb","Andy Donovan"],
+"d3xxfwm4bots46vynbha27rq":"bzdn",
+"5vbesa7awrhsagionut5znft":["bzhplus","Jacques"],
+"oa2vg3yfvjjs6iup2k7ieyk3":["bze84","Bze84"]
+}) // 2023-10-27T07:45:41.574Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

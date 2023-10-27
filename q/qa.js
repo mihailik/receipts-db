@@ -15,7 +15,7 @@ var qa=(function(jsonp){ if (typeof qa==='function')qa(jsonp); return qa=jsonp }
 "wucfskia4gpd2yan4e2znxve":["qanbarian","شیر سماور"],
 "xs5dkvkseevkfhwqpqqyrfwy":"qazl",
 "yn67wdnnk4mjl27h6rsxbwaj":["qatapult","💲 Qat's Qulo 🍑"],
-"zefr6qbjuskqqfnnpzhhsnrh":["qamraqore","🌙"],
+"zefr6qbjuskqqfnnpzhhsnrh":["qamraqore","Spooky D. Qamra 🌙"],
 "viq6soit3porrokqnpt3vhfb":["qad.io","Andy Nichols"],
 "56zj7oxbry3qy5ef66u3alrr":["qatar","Qatar"],
 "dredw7s252n4zivzmibjigkp":["qaugusto","Augusto"],
@@ -106,5 +106,14 @@ var qa=(function(jsonp){ if (typeof qa==='function')qa(jsonp); return qa=jsonp }
 "movc46mqlwdyy3amccptyecb":["qani","Zar"],
 "5cickxxbph7ntbyprojc2dfl":["qatherine","catherine"],
 "rgbzszn3gpo6mojdxh3cku52":"qatar-wol",
-"ydigcqv4ebsv3hoyqk6gkpd5":"qazitv"
-}) // 2023-10-26T08:56:12.101Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ydigcqv4ebsv3hoyqk6gkpd5":"qazitv",
+"cm2b3mh46bmoatml3ervirz3":"qaryx",
+"lxatj2bmtl6gy3f6y464qvaq":"qaaimgoodwin",
+"onqxflbsow57dte4vbjcpo7k":["qattoon.de","Katja Stögmüller"],
+"mcoga26rpy724terjzxbzjyo":["qao","Kaoru Ono"],
+"kvwwiignt2l7xryfuml5v4tm":"qazikii2",
+"xeauiq7jdtijizmbqn42gmdr":"qadram",
+"jexbjbutdua7btytw7fo2ib6":["qayiran","qayiran"],
+"kzbpudibigawgr3dzynvxv7p":"qazwsxal",
+"e5jqppohbmhoqtq7jd6o5zmj":"qasimetal"
+}) // 2023-10-27T07:57:20.781Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

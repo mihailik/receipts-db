@@ -45,5 +45,9 @@ var wg=(function(jsonp){ if (typeof wg==='function')wg(jsonp); return wg=jsonp }
 "mf427hqm22mm7v735mxnusj5":"wgrueninger",
 "na735jsb277nkalonibm5c5g":"wgtheo",
 "34sk727w4fxdyov25yhyvats":"wgchoi",
-"mbbrm6oq2tsuvmvrzo4dyjxi":["wgr08","WOGURO(ﾀｹ)"]
-}) // 2023-10-25T19:27:43.327Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mbbrm6oq2tsuvmvrzo4dyjxi":["wgr08","WOGURO(ﾀｹ)"],
+"gtgzahjcxqw226ztrqo2yay6":"wguz",
+"wazvi3gbl7plz75genaxae5q":["wgreverend","WGREVEREND"],
+"cin5omexl5qr7ateh2h666px":["wgenial.com.br","Giovani Generali"],
+"4lvg6gmtgral73dflh7o5g5z":"wg1417"
+}) // 2023-10-27T05:39:42.370Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

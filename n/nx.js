@@ -48,5 +48,16 @@ var nx=(function(jsonp){ if (typeof nx==='function')nx(jsonp); return nx=jsonp }
 "eaduuzrufs43afj2ynhbevxe":["nxssnxt","Nexus_Is_Next"],
 "xpmqw7gf67myl3p5rhxb3y6i":"nxu",
 "l2u65vt5vemj66vjzd7fnfm7":["nx-3000","Marvin T. Raptor"],
-"wirrkt5y3s6mrd6q4x5wffyw":"nxxyxrk"
-}) // 2023-10-26T09:11:48.395Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wirrkt5y3s6mrd6q4x5wffyw":"nxxyxrk",
+"z7vxlx5w4ulwrjvmu5oekg4d":["nxnn08","Nxnn08"],
+"bkle3yhko6wtxkyaereg4jg3":["nxxdles","florecita !"],
+"uq7lztorlz3j3pwagx62ewg6":"nxbedreddine",
+"fzjkc6nfxi6a5sa5k7pgkvc7":"nxb4626",
+"hmviyupn6jhin4zuvrkdsmuj":"nx700",
+"dsnbiuuwjc74fujynrgwsj2z":["nxbane","Nx_Bane "],
+"t44bkvwthaipzqkb4clr43th":["nxz",":) "],
+"lmgqwy4xjalvdj7zlki3gcrp":"nxt2normal",
+"4yrikrupxknmtguj4e2ovij6":"nxrrxp",
+"bgnmhpb77ee4uodrwugukrsc":"nxth",
+"qwec5m2lqsugegatyttl5ck2":"nxen"
+}) // 2023-10-27T06:39:27.644Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

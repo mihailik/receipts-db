@@ -66,5 +66,16 @@ var sx=(function(jsonp){ if (typeof sx==='function')sx(jsonp); return sx=jsonp }
 "2oqgd3it5bpmbkjvxwlm6hml":["sxmmie","Sammie"],
 "p55e7mtod575ndbrsb6h2k4l":["sxyblkmn","Pat! "],
 "qehw3l3dt4wri3j6xljjcakt":["sxharw","sahar"],
-"7asyneeyxufhevgbwschg2td":["sxbgg","Géraud "]
-}) // 2023-10-25T18:57:04.402Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7asyneeyxufhevgbwschg2td":["sxbgg","Géraud "],
+"4hsi7xaoc7llyzxp4y2pmljz":"sxizb",
+"gmrgknyct2nr36ockbsojjiy":["sxpercoop","Coop 🕊️"],
+"eh7leack2rxrjhjxaznatuys":["sxmuel","Samuel ⛩️"],
+"wvsg6bnx7fyi7pah337vlc42":"sxdent",
+"xdscwxxmugiudsffsx25qq6p":["sxpphxre","Amy"],
+"zqq5v5omr4xklynsbvgtkxms":["sxxeann","🫧"],
+"7talg52p5r6pccg7vni4hx77":"sxvxx",
+"m62mqho3ki3amt2dhyiyklop":["sxkyu","˶ˆ꒳ˆ˵"],
+"dazpjcnfwwpd3yjkhscqie5t":"sxw",
+"ahaw4dzfxic5rs2hg5avoknh":["sxin","しゃいにき"],
+"iqa5pgxkdgengvblmqtsu56o":["sxzxr","しずろう"]
+}) // 2023-10-27T07:15:33.445Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
