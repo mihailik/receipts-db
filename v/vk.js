@@ -78,5 +78,12 @@ var vk=(function(jsonp){ if (typeof vk==='function')vk(jsonp); return vk=jsonp }
 "x4qv7fwt3i4hoktqpwn3ddcc":["vkimroyal","VKIM"],
 "hpdtysvmdteu2oexrmfnuoxj":["vkankainen","Ville Kankainen"],
 "zhown2da73bgdgokajhauuh5":["vkrain4uk","Твітерський емігАрант"],
-"x656q2dihnl7zvofqh5uprfx":"vkriss"
-}) // 2023-10-27T06:23:06.275Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"x656q2dihnl7zvofqh5uprfx":"vkriss",
+"kypudcn3ujrcjs3if33xchcg":["vku","Vijay K. ULAGANATHAN "],
+"ihp67r4zkegtkec2audjq5vf":["vkkodali","Vamsi Kodali"],
+"uuplinnh44wqnee45wuzzraa":["vkings","Vkings"],
+"xxx24rbs5zwy2l2uadc3pey3":["vkovtun","Vitaly Kovtun"],
+"pj4dqkfkuuylprkpwvcbv3yq":["vkasahara85","Victoria Kasahara"],
+"2drz42f7mvnjxh3wdonmgemq":["vk-ytz","VK"],
+"mejjwz3gxoxom62i5owgafba":["vkm","Veronica"]
+}) // 2023-10-28T13:23:15.413Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -6,5 +6,6 @@ var vq=(function(jsonp){ if (typeof vq==='function')vq(jsonp); return vq=jsonp }
 "sjhzmxzjw4j2gxt2jregq2ks":["vqico","İsmail Kaya"],
 "mfdqzw5soxteozvn4cutg5lx":["vqr","Virginia Quarterly Review"],
 "rwyherqb4oedyzw7xvyqnzdf":["vqp","Ver que pasa"],
-"bblsiregx4zfe6xw7swa2na4":"vquemener"
-}) // 2023-10-27T05:56:36.949Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bblsiregx4zfe6xw7swa2na4":"vquemener",
+"db2slcqayg5jlzbaeqaiqx4s":"vqnava"
+}) // 2023-10-28T10:06:56.965Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

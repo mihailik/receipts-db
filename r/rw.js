@@ -10,7 +10,7 @@ var rw=(function(jsonp){ if (typeof rw==='function')rw(jsonp); return rw=jsonp }
 "cqlzpe65zxyqzpgyogx7wqsj":["rwmartin","Rachel W. Martin"],
 "ev3otzgndu4qhbsi77bbibld":["rwmocha","鰻@Riko"],
 "f4v5kgxgz5l5ovje6osncp7h":["rwmonty","Randall Monty"],
-"giozywelalsioatikrs4e4tp":["rwarmont","Régis Warmont"],
+"giozywelalsioatikrs4e4tp":["rwarmont","Régis W. 🖖"],
 "iecbj27ykbm3uivrsxewt77v":["rwaluchow","Crypt Thing"],
 "iez5uwidebrnupbxqatbz2w6":["rw.stranck.ovh","RedWing Lu "],
 "j66goxxppsu7h72qsxdl5eug":["rwlatstetter","RWLATSTETTER ♿"],
@@ -165,5 +165,20 @@ var rw=(function(jsonp){ if (typeof rw==='function')rw(jsonp); return rw=jsonp }
 "ese55shanin5wulgt7nv6tsd":"rwrogers",
 "y5qjoqosy2i5ksj5ciff5dbc":"rwoody",
 "fzl3caoeb537bzg2qmmoijf7":["rwbysona","Rwby gay writer"],
-"vmkfip5zs45joasoqpogz3zn":"rwalsh"
-}) // 2023-10-27T08:02:17.427Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vmkfip5zs45joasoqpogz3zn":"rwalsh",
+"eafl7q3kx7yv66emmzuaavvm":"rwkirkpatrick",
+"rhh66j4z2axxprwyncwrlhia":"rwehnerjr",
+"sxna45s3fxlkdf4dnulwldrb":["rwinchester","R. W."],
+"ygn7lu6gdnsl74rbuetc5pfl":["rwv37","Bob Vesterman"],
+"wucqwq2gw4oqtvo2lqxhonnn":["rwac","Richard Conrad"],
+"7eiho6kdc5sgudrvom74o6iv":["rwheatley8","Rachel M. Wheatley "],
+"okzptnl3t4eelsfg4u5eulio":["rwabbab","RWABBAB"],
+"umtvqtdxqitfmcgrtbxuzktj":["rwsmith","Robert Smith"],
+"nzhmi4fn7iibs57hokqdcayv":["rwbyscreencaps","RWBY Screencaps"],
+"uhveuqbulbltac2iiscntek5":["rwelzenb","Rebecca Welzenbach"],
+"gvmky326552gjzyezbayaam7":["rwetzler","Rachel Wetzler"],
+"kgwzevi3zz6bdjhqauimdebg":"rwkplay",
+"lpldkvo7e6gf7ppl4z5myody":"rwhobbs17",
+"5mexdgueuf57xunlkgtld27s":["rwgasm","RWgasm🔞🪦"],
+"ywilxnwpo2c2skgarklv2wxn":["rwernerrr","Raphael Werner"]
+}) // 2023-10-28T14:33:59.819Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

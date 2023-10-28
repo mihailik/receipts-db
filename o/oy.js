@@ -200,5 +200,12 @@ var oy=(function(jsonp){ if (typeof oy==='function')oy(jsonp); return oy=jsonp }
 "qcovfgvsilwwgsuo3n5cvru3":"oyaitsumi",
 "cuxtnbq5pxk34j6bznbvqeek":["oyuzudane","おゆず"],
 "j3dydtr53smzlga5udpjxkyh":"oyvindma",
-"mskzwkjvrtmkcnmg2ym74w4z":"oya1"
-}) // 2023-10-27T07:55:49.150Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mskzwkjvrtmkcnmg2ym74w4z":"oya1",
+"m4v2skzs5yd7c74tanncchaq":["oynezra","Oynezra"],
+"6rjhbkncrn7ocgtct3j4vxqj":"oyvindsteensen",
+"x223ker5xxji6uqghuw5u2rv":["oystermustroom","cunt dracula"],
+"tcrzumqcxgnilkmj6bqmv6qg":["oyamamahiro","Mahiro Oyama"],
+"hpkgzjfx5s3rgwty3sooeu32":"oyansa",
+"p6vkflypu2lujapquvksuawn":["oystercatcher7","oystercatcher7"],
+"643fjpeolqsaszvriugavmzu":["oyvi","Øyvind Berget"]
+}) // 2023-10-28T14:49:26.146Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

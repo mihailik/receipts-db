@@ -71,5 +71,14 @@ var lx=(function(jsonp){ if (typeof lx==='function')lx(jsonp); return lx=jsonp }
 "3t4cywgkqzzmv5wi4lvoait6":["lxra","Lara"],
 "g4ze6mvmaesd6yub3hniyb4s":["lxvesiick","Wolfii"],
 "46xpoynm3onfwooie6bvdf27":["lxs","𝓛𝔁𝓼 / 𝔸𝕝𝕖𝕩𝕚𝕤 🏵🇪🇺💫"],
-"543sq7wzuyavf3u66itdjgv2":["lxiko","Lxiko 🆖️ God's Favorite Problem"]
-}) // 2023-10-27T06:21:41.793Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"543sq7wzuyavf3u66itdjgv2":["lxiko","Lxiko 🆖️ God's Favorite Problem"],
+"wb6gl7i4ezjxt224flfrv56m":"lxchavez",
+"qncdksg57bzi3w4rllngrv4a":["lxhug","抱豹"],
+"3migntbubcmhaeq3ihstvpqm":"lxlx",
+"qfnhtm54l3ucvlqaoy74bjjm":["lxstmyth","Z3RO"],
+"epdtlrazn543jj5fducqoc5u":["lxsdr","Alex Seder"],
+"rknieva6vye4zm4yf6g4pnyf":["lxzxbxth","lxzxbxth "],
+"6ujooaahz6oz3ujywcrodqal":["lxversarcana","maylie"],
+"hylz325f7zbbukl5kh5btjjj":"lxr",
+"jhpb2wv6qqalgsyrptm6hogw":["lxhaba","Lars Hasvoll Bakke"]
+}) // 2023-10-28T14:44:16.183Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

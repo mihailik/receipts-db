@@ -88,5 +88,14 @@ var fx=(function(jsonp){ if (typeof fx==='function')fx(jsonp); return fx=jsonp }
 "e4u36bnwwyt7z5vbrcucuove":["fxbx","Foxy Box"],
 "czevyvcrauynfp4fw2gjzdrb":["fxmik","Mik Fox"],
 "hmb5zp3mvdm7fpadftrcy5gd":["fxdanesi","fxdanesi"],
-"wj7njfragazz2yvj3dvjnfc7":["fxckology","🔞Smol Void Entity 🖤🌙 Commissions Open!"]
-}) // 2023-10-27T07:45:41.361Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wj7njfragazz2yvj3dvjnfc7":["fxckology","🔞Smol Void Entity 🖤🌙 Commissions Open!"],
+"ub67u5yhbbv2xwr7h4hgn7o3":"fxggotnoodles",
+"eqphttdg6rmwhu2dlysdtzhg":["fx3313","FX3313"],
+"nwf3yefie5e6wsrz7gvyzdlb":["fxwooyoung","ٓ"],
+"n4zoiwb5z7mooy3d4cxweldx":["fxckyoumore","Fxck You 🎃!"],
+"wy37okxuuwb3d2zif5cedzfl":["fxcosta","Felix Costa"],
+"rchfz5idmm4ja74vys37roee":["fxxkma1ife","okaka"],
+"v4sbqq2ikuwkrhgimydet64w":"fxckingnoah",
+"4vdopjheyhgrf6r6p2iivp6i":"fxi",
+"2al7bdkgc6av3nkdm5t7j6ie":["fxinthemix","FXInTheMix"]
+}) // 2023-10-28T14:49:25.818Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

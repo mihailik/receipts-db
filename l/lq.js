@@ -19,5 +19,7 @@ var lq=(function(jsonp){ if (typeof lq==='function')lq(jsonp); return lq=jsonp }
 "x6uxbgbnz7agqegf6jffdtxc":["lq440","LotusQueen440"],
 "iybn4rt2svrl46bo3bxo5q7u":["lqviolette","lqviolette"],
 "gnit2rxjn2f7evxbr2u4bapo":["lqmount","Lisa Q Mount"],
-"qbfexatkp256xf3b7vccgfa7":"lqmana"
-}) // 2023-10-27T08:00:50.448Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qbfexatkp256xf3b7vccgfa7":"lqmana",
+"qetasg3tui6kpbt5gbldrzjm":["lqmquebec","Littérature québécoise mobile pôle Québec / Lab Ex situ"],
+"eltede6v2onnlk7hiuss2bpx":["lqitipl","따궋"]
+}) // 2023-10-28T11:31:37.873Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

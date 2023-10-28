@@ -131,5 +131,17 @@ var vt=(function(jsonp){ if (typeof vt==='function')vt(jsonp); return vt=jsonp }
 "4c3ma54wpfw6qpmxpxti4un3":["vtreo","Vtreo"],
 "q7yg3wu55magt53r6b5yjk5r":["vtakeru","vTakeru 📃"],
 "5hq4zjel4vnqr2okv53fjvmm":"vtr7hvtrcck",
-"jjwgagz62ngk544j4jqiougt":"vtmonster"
-}) // 2023-10-27T08:11:33.340Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jjwgagz62ngk544j4jqiougt":"vtmonster",
+"wdno4773oew6ua4avxkdkkdr":["vtza","VTZA"],
+"u5hdls75akbyz3osxwhlqtha":"vtchill",
+"ykgutzo7naw3jbph45dvk5e4":"vtclare",
+"u3iy4jzop7ewhg3pph57zx4w":["vtatsuo","Vincent "],
+"xvqfqlkwrm5pvltxe5mggu6w":"vtscribe",
+"dmvbimrx4odmag3cdcpvzvin":["vtqueennovastar","Queen_NovaStar | Elf Demon VTuber"],
+"zb5vuvz3l77ikmrwnuvobnhr":["vthot4","Victor Martinez"],
+"tin5vw4fuazwpb43ja3zpv5b":["vtcvnz","BEHAPPY"],
+"ta2xqcn2dqgjrjwb6v7cdubw":["vtlive","VTLIVE 🔴"],
+"wme7pheenhuny7ijsezscegj":["vtherli","Vasumithra Therli"],
+"rw7hwfd6rimxqb3ubhupe7aa":["vtmomo","Momo"],
+"3s2qudw3za3zgagvebfobtis":["vtisaac","Veronica Isaac"]
+}) // 2023-10-28T14:44:16.179Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -171,5 +171,12 @@ var gp=(function(jsonp){ if (typeof gp==='function')gp(jsonp); return gp=jsonp }
 "yfqn7i3thucgg5u4o65j6x3y":"gpersoon",
 "2sfjbck4oc6hqcq233sshjmd":"gpmota",
 "6owkj4v25qu46rd5a3mqdql5":["gparali","Boardgame Ramblings"],
-"m56wbsmuv7jwcwb36i6aieyf":["gpawalraven","Gideon Walraven "]
-}) // 2023-10-27T07:52:15.035Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"m56wbsmuv7jwcwb36i6aieyf":["gpawalraven","Gideon Walraven "],
+"i45rcjvcatdr2shkt6w2x5by":["gplumiere","GPLumiere"],
+"nr2vbthtb4nrpji4gjode3wc":"gproducer",
+"ayfjzco7x7chrpobpuckiqnl":["gpemberton97","Gregory Pemberton"],
+"dzmlnsll5vpj5cjiqq5gl6ak":"gps1138",
+"l5y5xkccen6dazcpzh3cif4u":["gpwcbj","Gary W"],
+"5ha2un2m26qdlnx36gzud5ou":"gportt",
+"fdsolwodxux7fhvpj6vkiujd":"gpriv757"
+}) // 2023-10-28T13:49:24.473Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

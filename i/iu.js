@@ -89,5 +89,11 @@ var iu=(function(jsonp){ if (typeof iu==='function')iu(jsonp); return iu=jsonp }
 "7otzffijyr56pn6a677ppiwz":["iustacomet","Justacomet"],
 "ycceaommvlrdia44qosndjg4":["iul6ka","Боже, вавку треба кончити!"],
 "5bw5x5zk37hhxa4hov3havml":["iucundus","iucundus"],
-"elr5zwdel56xa4gkkc5z56mk":["iuvenis","iuvenis"]
-}) // 2023-10-27T07:03:32.780Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"elr5zwdel56xa4gkkc5z56mk":["iuvenis","iuvenis"],
+"kvdlcufiocshvhsq2pbv3zxd":["iudexneoma","Neoma"],
+"jloj3ksrp2lgufpuypdopd43":["iurref","iur_ref"],
+"wnguwsjszj3ioicdugmccy7r":"iusan",
+"e5gkqrey2lezmibrlyeeumiv":["iuciferoftheend","iucifer 🔞"],
+"357g2pneqqswybjxr3zkfh25":["iullaxy","イウ"],
+"nplbueizuh7jfwyfvp3ztobr":["iuthor","j ✧ "]
+}) // 2023-10-28T12:57:10.686Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

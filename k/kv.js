@@ -218,5 +218,24 @@ var kv=(function(jsonp){ if (typeof kv==='function')kv(jsonp); return kv=jsonp }
 "2acnxz5ncbej6gpisb3uhdqg":"kvndsantos",
 "jt2e24fzyxrtipclzmolwoa3":["kvil","Kevin Vilim"],
 "lxyivxffvszrkxqvdni3ecan":["kvarvagiannis","Konstantinos Varvagiannis"],
-"o2myidzuyq3em2t755bpkjtj":["kvthetank","KV"]
-}) // 2023-10-27T08:09:21.792Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"o2myidzuyq3em2t755bpkjtj":["kvthetank","KV"],
+"omvspi5pe6bdnutu2qandai6":["kvt","Наглядач звичайний"],
+"blv4o5qn6r2cglt6xoo5pkit":["kvasolya","квас "],
+"vlicxju5ykzadfquhnfne4b5":"kvasmj",
+"zuz2dcxli2zz4365grkgwu5m":["kvantus","Kvan"],
+"dnfasy32rqzsyzkrkhuolvxr":["kvetkafizalisa","Кветка физаліса🍁"],
+"bnrnjoeobhtvzaghgyxqyzcr":["kvfkaesk","annie"],
+"azemmeungnmiqyovgfrbd5cs":["kvaldec","Krešimir Valdec"],
+"dzp4tib6ordf7y7h2gmw2vxf":["kvnforsberg","Kevin Forsberg"],
+"ecdhznuo23ljjlgwa2ypwcnc":["kvchandte","Shadii ΘΔ"],
+"y7rngttgwrck6zmwaecartsa":["kvachon","Katie"],
+"ltr6csp24f5ic3xitg6x44fn":["kvittingseerup","Kristoffer Vitting-Seerup"],
+"6njpqep45lwm4kxtv2pk4ke6":"kventil",
+"cozmtdjzofbkv3ipqouaczwi":"kvsmoove",
+"pdfc5cyzqhevdjej6l3cg7jb":["kvnclmn","KC"],
+"w5ys5a6n6ezfkbkqoolova4a":["kvnprd","Kévin"],
+"yn3h3atxi7lc7dujhaxwkk6t":["kvngbam","Brandon"],
+"lfrkrixitmhp7mb3imi7wpfl":["kvnsim","kevin céu azul"],
+"lqylbrdvwx3wi645yqsn3oro":["kvrapcu","Mih"],
+"i3kabrwfglix5gt2fm6fno34":"kvinato"
+}) // 2023-10-28T14:45:48.320Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

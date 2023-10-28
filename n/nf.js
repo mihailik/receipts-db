@@ -171,5 +171,12 @@ var nf=(function(jsonp){ if (typeof nf==='function')nf(jsonp); return nf=jsonp }
 "fdxvkf7572tizsb7a3bcjalu":["nfteef","NFTEEF"],
 "3bfyirotqjn47qv3k6od5zud":"nfinch",
 "se3z7uuxer4gfjby5m5q7bys":"nfries",
-"24kieg67j37sjdihpe6ab4bj":"nflbaltimore"
-}) // 2023-10-27T08:15:07.733Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"24kieg67j37sjdihpe6ab4bj":"nflbaltimore",
+"5cty374mqes4ejfhgi5p4ehp":["nflack","Noah"],
+"urx2qvsg536odbzx7p73zkmm":"nfliving",
+"eb6zayh72vaazj7ies5pgjns":["nftmilk","NFTMILK"],
+"x6dhp7pso3rzr7yta4crok7l":["nfty89","Nifty 🪼"],
+"qcg4dqojn4vzffkt6elo6mb3":["nfb42","Constant Fractal"],
+"6dpilh64gb3eiqbesm3e4xar":["nfnnmidata","Tenament Funster"],
+"36t4sci2usylhpqy3lq6ostt":"nfxgt"
+}) // 2023-10-28T12:11:00.781Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

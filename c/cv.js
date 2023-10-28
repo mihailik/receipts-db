@@ -168,5 +168,17 @@ var cv=(function(jsonp){ if (typeof cv==='function')cv(jsonp); return cv=jsonp }
 "aot2fe2hvzav3kdyv2bp4ixs":"cvf",
 "2rva5jt6gngz6j77zafdh3yj":"cvrc11",
 "cml7lqrd5hi2qr6pdushrjjt":"cvoigt",
-"tusuqtui2wrd6j3nyxakzsum":["cvq","Cliodhna Quigley"]
-}) // 2023-10-27T07:29:40.902Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tusuqtui2wrd6j3nyxakzsum":["cvq","Cliodhna Quigley"],
+"foizftsy2qcg4fmolgghlgl3":["cversteeg","Chris Versteeg"],
+"bzyqc4xx6zbwsda56lhvjmnw":["cvyah","cvyah"],
+"s5ti7xy6c7kgox2ceebymxxt":["cvcvcccd","사카냥"],
+"rbvqvf2l6jkzyb3cus7kpdf5":["cvald","cal"],
+"w4phjuundpjmnwr2g6mshtum":["cvollbrecht","Ceci Vollbrecht"],
+"wqcrt7gqczsje2fwmsci433z":["cvrt","Andrew Walkingshaw"],
+"j4t5dgvcdduj3y6kunq6emah":["cviatoj","Cviatoj Mykytovich"],
+"ead5a5zsd6ahpbbqc4pbscza":["cvntcalderone","La calderone "],
+"7dx5as4zefc3q6dhhwcqzl5y":"cvbn",
+"yg6xozhuldz7vprypbt2cavp":["cvansickle","Caroline VanSickle (she/her)"],
+"5vldkf3ll2luwi3puyljfq2p":"cville-ute",
+"vu5baqbmnil2bwxkueoaizz3":["cvallejo","Camila Vallejo"]
+}) // 2023-10-28T13:16:40.200Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

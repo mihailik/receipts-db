@@ -86,5 +86,13 @@ var bv=(function(jsonp){ if (typeof bv==='function')bv(jsonp); return bv=jsonp }
 "oy2yzcevlgun6e64vp4gq2nj":["bvgmusic573","BlindedVanguard573/BVG music"],
 "upaqg6l2igxp2wq6n26vi7df":["bvalentine14","Ben Valentine"],
 "ukmujjsrid53wyzvofa3wq6w":["bvzpiranha","Simone"],
-"wadoc2tbd5osuplp46ecg7ti":["bvnnykult","K"]
-}) // 2023-10-27T07:45:40.997Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wadoc2tbd5osuplp46ecg7ti":["bvnnykult","K"],
+"5obd4da7mwqj3lk6cd54aku5":["bvanderaarde","Danga"],
+"thhsgdqdemck35b4n4lfu2of":["bvtchboots","Astrid the Service Butch"],
+"oujcyc6mtgczeuvq3zxa726r":["bvl","블블"],
+"y3uw4ad7c2e3igrazo2wce5t":["bvalderrama","Ben Valderrama"],
+"rwjco3vtr37x53wutgo4spqd":"bvdw",
+"tpg5fbq2rkwem4h3y4dpeelb":"bvttlas",
+"n6bd7p4gsys6raec4eeff5do":["bvibs","BRAUNSCHWEIGER VERKEHRSINFO"],
+"576zpdhl575lmn2ii7npxyfe":["bvsmv","BVSMV"]
+}) // 2023-10-28T14:44:15.579Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

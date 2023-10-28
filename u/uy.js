@@ -44,5 +44,10 @@ var uy=(function(jsonp){ if (typeof uy==='function')uy(jsonp); return uy=jsonp }
 "npe5utz57zmb4ij3u6jvjoa7":["uyako919sk","うやこ"],
 "g6g6ppkcjstdpbgdliw5htrq":"uyuyanfilozof",
 "vujle4wlh47mprnu7eonpmau":"uyseali",
-"fvlwgbbrugifjd3mjugnxgvp":["uyvlala","🪐 irh."]
-}) // 2023-10-27T08:13:22.812Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fvlwgbbrugifjd3mjugnxgvp":["uyvlala","🪐 irh."],
+"xrcv2j3zompaqnc5k4z4f5un":["uyasasano","ささのうゃ"],
+"6plv7ksgcmet72q6vixdmzwd":["uyuuny","uyuuny"],
+"6yhwfkytbm6psic2f2hghiwk":["uyeon","우연"],
+"ihkw4ml46yw3iwd6useyskpb":["uyuaa","嗚咿嗚啊啊老祖"],
+"uuetkbcpluhbpgtrk6qxpymv":["uyesta-pub","ウエスタパブリッシング"]
+}) // 2023-10-28T13:56:00.976Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

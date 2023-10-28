@@ -120,5 +120,20 @@ var hc=(function(jsonp){ if (typeof hc==='function')hc(jsonp); return hc=jsonp }
 "dxmad6wg4ar3jl72l7liabny":["hcfawa","Health Care for All-WA"],
 "oz2jtobgnexbk6pivmuntf2g":["hcgo","hachi"],
 "hn5sfc3ynzbtwbb6eqs4aqpb":"hcrdama",
-"wndlunimiskidgyglq5xmt4c":"hcdems"
-}) // 2023-10-27T07:29:40.903Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wndlunimiskidgyglq5xmt4c":"hcdems",
+"vdsbeswxuvardsdz4tj4auur":"hcullman",
+"izjqnhwnc3xabej236nauwae":["hcl5461","봉두"],
+"xvvbuoxdgid5pwvkaccbqbmu":["hcodeliewrev","shyn"],
+"e6t4itidxb6iowbfhdoj5m6d":["hcw","DaDu"],
+"6w4tcs4tvjwygqjlcde5elog":["hc177","홍차"],
+"zkcajwabwfyp422wfqldaof3":"hchen",
+"jfharj6gnbgv7vqdvt24l7te":["hcha","Hongcha🧸"],
+"ugmmsmbcclqky4kif6nilqsd":["hcli-dexo","Dexo"],
+"jyx3lm5ptdrsoipa6o3melaf":"hcikate",
+"mbadlegd74g5befckzmygatf":["hchano","🖤 be good to each other ❤️"],
+"qr2n4oobborhyz6ba5q46qp3":"hcho777",
+"onvwda57llwdr24kmk4b4xc3":["hc20002","荷蘭人"],
+"l7dwmb2dpxx7bihmjpp5ovse":["hc1059","Heather Carpenter"],
+"yoznrzmbmn3r4gpm5mzzshsy":["hchelfand","H.C. Helfand"],
+"mecolrgwazhq2cfsrzobzeeo":["hcarvalhal","Helder Carvalhal"]
+}) // 2023-10-28T14:52:24.828Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

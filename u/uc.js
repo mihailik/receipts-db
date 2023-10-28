@@ -22,7 +22,7 @@ var uc=(function(jsonp){ if (typeof uc==='function')uc(jsonp); return uc=jsonp }
 "xbmlqmwh2c3p5zu4lrxbyvcs":["ucgcaw","Taka（タカ）"],
 "xcbnex4tdl2fa3bjopeviia2":["uchidashusaku","内田 周作"],
 "xksb6owd5pso7xledoeo4kzl":["uchelwrol","Uchelwrol"],
-"xt3law6gnhdscov3uvd3pmvf":["uchihafuriosa","Freya"],
+"xt3law6gnhdscov3uvd3pmvf":["uchihafuriosa","Freya *Almas enREDadas - Amazon*"],
 "s2pmc3cc6rvtihbqwfyrdsja":"uchioke",
 "gzckpvyh4pu4kjjgpl32ikap":["ucantblikeb","Batiste"],
 "v5apoeyfaviqoet5tgilgaya":["ucer.us","Tunca Üçer"],
@@ -180,5 +180,19 @@ var uc=(function(jsonp){ if (typeof uc==='function')uc(jsonp); return uc=jsonp }
 "zfksl6dmze4lssruz7n5voos":"ucdearth",
 "jnywq2vg2ah2jeijyaj54vt3":["ucberkeley-cto","UC Berkeley CTO"],
 "3hzqz5zvwhw6qv6y7vry5wau":["uchiba","uchiba"],
-"jr6u4hvin37elmwqwuz3gk7g":"ucantalas"
-}) // 2023-10-27T07:50:43.244Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jr6u4hvin37elmwqwuz3gk7g":"ucantalas",
+"bwa75upnlya75m3qkbdf44zu":["ucanthandlethis","Chaotic neutral grad student"],
+"vez5igtztl2pux6uq7cqeizb":["ucokagaya","かがやん"],
+"tgbmhhojb2hl5kgxpvfopegd":"uchi619",
+"gf4thyxzgw62etkkxpu7tywm":["ucscgenomics","UC Santa Cruz Genomics Institute"],
+"purd2pnlfunsn7h6l2httrlu":["ucas","Uwe Caspari"],
+"w25xz4bjj5ewes4eycodtvpj":["uclamaltese","Chad"],
+"pl65jypdwdl747yl4mo36ilp":["uchako","uchako"],
+"4scndqhl7ygvqqnvznlmoh7s":["ucy","Ucy"],
+"dknzprllaa2szgfwftr6rw5x":["uchennajerel","Jerel"],
+"uin4ajiz2pejvyjkqjcdtggw":"uconn43",
+"3cpjc7m2lybt4gxkobphphih":"ucustandrews",
+"etqjygkpp2pzbnp2qlpw45ue":["uchuu","DJ Uchuu"],
+"huhaz4liqyjxhaft7ycleo75":["ucaftbayarea","UC-AFT Bay Area Chapter"],
+"fm4okb66pw57u3f2x2d5grwt":["ucubetuco","𝕿𝖚𝖈𝖔"]
+}) // 2023-10-28T14:37:15.585Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

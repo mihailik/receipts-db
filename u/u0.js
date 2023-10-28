@@ -74,5 +74,8 @@ var u0=(function(jsonp){ if (typeof u0==='function')u0(jsonp); return u0=jsonp }
 "e4agumc3cmz5ec5qtdsf25w3":["u1anoa","u-1anoa"],
 "ztivvwsbqas6c67w57fhohe5":["u4mut","u_4뭇"],
 "kik3svatq7py6jshtfi4arfg":"u3f7",
-"den5xxfdhe6zao52kmoap22b":["u594official","Unit 594 🛂👕 (Official account) 🔵"]
-}) // 2023-10-27T07:55:49.331Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"den5xxfdhe6zao52kmoap22b":["u594official","Unit 594 🛂👕 (Official account) 🔵"],
+"4j3i7umz7ujclqz6hggbuiqi":["u2tours","U2 Tours"],
+"hk6tacrvbuhoze5xho3wqpac":["u3927km","u3927km"],
+"nfcssrcnmy7ljqv5gyixhwmc":["u-030-u","맹"]
+}) // 2023-10-28T12:46:27.802Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

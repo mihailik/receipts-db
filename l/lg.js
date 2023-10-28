@@ -152,5 +152,16 @@ var lg=(function(jsonp){ if (typeof lg==='function')lg(jsonp); return lg=jsonp }
 "2cwvzqtsqw7a3vebqt6a7qkn":["lgbacteria","Leonor García-Bayona"],
 "e3s26zkovpb3ib7dajqkkw2p":["lgbostrom","LarsGoran Bostrom"],
 "3ojaxxtpy34ksmovlq57kcqd":"lgolobish",
-"5av7k2qbnq2a3xnjgqlectep":"lgjosi"
-}) // 2023-10-27T07:37:59.935Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5av7k2qbnq2a3xnjgqlectep":"lgjosi",
+"wewfgmdyq6rk2l2l36zng7yb":["lgbtq-luna","フツーのLGBTをクィアする"],
+"gfmx3yas23vt34buzoh3lkwn":["lghtster","Orest"],
+"ut3neo23klmadylpbudsomvm":["lgamaterasu","LGAmaterasu"],
+"32m6mgafcyqu2bxffqlih3rr":["lgazire","Lucas Gazire"],
+"2k2jn2cg7jayif3ixeiwvyug":["lg2234","Luiz Carlos"],
+"bt5zlykf3yfvldmhcfdm4ouy":["lga","Lys Gazabu Aspara"],
+"oxvnhf4dxolhngks654sysna":["lghgseminar","London Group of Historical Geographers"],
+"aoxgutrktnkwhm6scape2ggc":["lgarrido","Lúcia Garrido"],
+"btqvttt6fouljcsczlly3wpe":"lg83",
+"igva4phzoxy5epxlh6nbntj5":["lgrw","Yzerman’s Right Knee"],
+"lsbjxphh4srgihlxj52pcnnw":["lgbtqia","ethy (will not be making a halloween pun it is a pagan holiday)"]
+}) // 2023-10-28T14:44:16.086Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

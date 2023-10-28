@@ -96,5 +96,17 @@ var fk=(function(jsonp){ if (typeof fk==='function')fk(jsonp); return fk=jsonp }
 "rgxlrkbewm65rx77cy4mpwkq":"fkeles",
 "ivzq4g6q5huudtjhsap632zm":["fkzamel","Fajer "],
 "64gj7t73nnhk6y2wmlnh2zwy":["fkyeah","Stephan"],
-"jocjk4ipctwv4tdjun2hjbgf":["fkr","fkr"]
-}) // 2023-10-27T05:48:42.758Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jocjk4ipctwv4tdjun2hjbgf":["fkr","fkr"],
+"ry2mndfdadwhq2hbie42zsda":["fk-austria.at","FK Austria Wien"],
+"c2lxfndcwxrkt7m6cy5hrita":["fkalias","mr witches "],
+"lqbnurcand4xr5v7ucldpngz":["fkasatt","fkasatt"],
+"zi7uu4yxeelshqrvi3g3vplh":["fkttb","🐌ㄹㅅ"],
+"lx4aep4diepi2v7pzpg4bqrk":"fknrtrd",
+"hwebhpdklztdxlxcj5h2oauu":["fkeodkix","몽청"],
+"jotctivwvj52lwg2rpvgjiaj":["fkworkid","F.K"],
+"o6p7lpranw2d6yk472f6p56d":["fkvls","제링"],
+"cps2ncslujcnlwtidiy7rhr2":"fkdyourdad",
+"dtct7752c6n5e4nacksujcab":["fknboz","🔔⚾red october greg⚾🔔"],
+"b4zglcmgnzwwfa2xbnlhicsd":"fkacammeraycraft",
+"lxx6ta3upg56huyd5tsgqica":["fkdemetri","Demetri Murray"]
+}) // 2023-10-28T14:30:33.000Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

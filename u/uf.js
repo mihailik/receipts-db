@@ -108,5 +108,13 @@ var uf=(function(jsonp){ if (typeof uf==='function')uf(jsonp); return uf=jsonp }
 "bg4dwktw7ptryzt7ynhjk3zo":"ufkun",
 "mzmyjgnk2i67lwdy3lbwbqcn":["ufopixz","PixZ"],
 "sii2cs5n67onlwg5zerfodow":["ufoparty","ufo party | tired artist "],
-"mswsmoqgqrf7xposnjpkv7xg":["ufo9973","UFO"]
-}) // 2023-10-27T07:47:07.972Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mswsmoqgqrf7xposnjpkv7xg":["ufo9973","UFO"],
+"uthdwg3nd6rqmtad7bh7nssp":["uffi","y"],
+"hqitfthlqrn4qboumdn6anrs":["ufiawekake","フイワ"],
+"p2ucpjgk7j3xtzhzmsajpasd":["ufcrow","Crow"],
+"ihefrixwrrogndxaet25dn6q":["uffedimon","Uffe"],
+"pulpgnv5gvqugxszbmvaygc7":["ufchem35","Ugur"],
+"pqditlabbqk3wnp5cgl5l3pg":["ufokey","R.마빈"],
+"jrnbywpckzea3wqag3rkl25u":"ufoshock.moe",
+"bwxrumsxeodwkcz4uuen232l":["ufocatchu","Chuchu"]
+}) // 2023-10-28T14:45:48.192Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

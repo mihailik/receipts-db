@@ -195,5 +195,25 @@ var tg=(function(jsonp){ if (typeof tg==='function')tg(jsonp); return tg=jsonp }
 "v6npcxfpeoktkndbhhavo3ng":"tgriff",
 "5jmgzvdltxkkkk6d3fnorqhz":["tgrblair","Blair the 🐅"],
 "qo4nhak5bgvezyb2s4tbjbof":"tger61",
-"r2mmkslqr5eojcahgdxmklid":["tgnsfw","TG_NSFW"]
-}) // 2023-10-27T07:50:43.367Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"r2mmkslqr5eojcahgdxmklid":["tgnsfw","TG_NSFW"],
+"kykbwdfocupmhs3h33idd42j":["tgcfabian.nl","TGCFabian"],
+"6dtixlmhozpfnkkhk5tmt3jd":["tgmgavyn","GavynTGM"],
+"vb73bg6tjxi2gtss5nmbizof":"tgkka",
+"p3sccjqktqk2h2e4ikwbpbv2":["tgibson","Travis Gibson"],
+"sast27wtlcsphgewk6u6eq3x":["tgam","Tanner"],
+"kc5accfekffrtiopd74ajau5":["tgowl","The Goddamn Owl"],
+"2apand4wuk6idjgyyjqljjni":"tglazi",
+"ra6fwpomn2am6d7tp237mayz":["tgbmore","Teresa Groesch, PhD"],
+"dkklo5qll2gev37amz6jncvc":["tgirl-mel","Mel 🌹"],
+"blkerda5d2qurhkmkiwfhmzk":["tgeoghegan","Thomas Geoghegan"],
+"fncfkkr5e7b5zjzwfxfrzjzu":["tgheggem","Tor Gunnar Heggem"],
+"6xfo7vxucdjkjak3yvuypcjq":["tgbelt","Tom Belt"],
+"rx6yztowk4jv6o6jbbpw75mb":["tgsquirrel","無題🐦🐦🐦"],
+"4iwmbfiidmyznlzixsemnxyq":["tgirlpuppy","do you think kanye killed him self yet?"],
+"nkgof5p6cg7m3emtqyvr6fn7":["tgriffiths","TG"],
+"56a2bxkk2gihu3epbhnxch57":"tgrv",
+"55ditfndijhiyqear636p4kt":"tgasanzmag",
+"b5jzay5yhhweno5iedhedsoo":"tgrtsuru",
+"qfujbnrrs27wybge56rxo4fl":"tgwlc19",
+"peg3xobcgwyqpmm7ku2gryr3":["tguerra","Tristan Guerra"]
+}) // 2023-10-28T14:32:12.278Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

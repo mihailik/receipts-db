@@ -84,5 +84,12 @@ var xb=(function(jsonp){ if (typeof xb==='function')xb(jsonp); return xb=jsonp }
 "bkwxztffkumcdmd22yz6mj5l":"xbarbera",
 "cb5homptzjxebqp5tq46kbxf":["xberfel","xBerfel"],
 "hcwim5ur4ky6imfl7px5f7i3":"xboxue",
-"tjghs7seuwg6vzlq3akqhga5":["xbox360","Big Farter"]
-}) // 2023-10-27T07:55:48.656Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tjghs7seuwg6vzlq3akqhga5":["xbox360","Big Farter"],
+"o4cdadvukzfievlwpum6jd2y":["xbrandynx","Brandyn [EN PNGTUBER]"],
+"ovqlpygbqcsknjm6vy54nm5d":["xbleaxhx","kirsty =]"],
+"blfxfprsiihs3oglrz7tu6ms":["xbloodyknifex","xbloodyknifex"],
+"rn6q66xv3fvxun3jv5dwyrhz":"xbox17",
+"s5pkuxm56idgztafac4yuexd":"xbadwolf",
+"mjjtczvnui7vkoizbeog4ot6":["xbaddog","༺ 𝖇𝖆𝖉 𝖉𝖔𝖌 ༻"],
+"wyrh4yldy32dqvpf6xs3r4jk":["xbikuta","xbikuta"]
+}) // 2023-10-28T13:28:37.118Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

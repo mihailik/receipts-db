@@ -95,5 +95,14 @@ var yr=(function(jsonp){ if (typeof yr==='function')yr(jsonp); return yr=jsonp }
 "m2fp3xrwlsdfu5q2nhzg6di4":["yrevawolf","YrevaWolf"],
 "qa2bfbioom23farxis4y6uln":"yrcanawyolp",
 "pe2xtolbfiqxbyeaihol4bav":["yrixz","𝔃"],
-"bbokz5sz64va4ulx7aqcgy2r":["yrcoo","cory"]
-}) // 2023-10-27T06:53:59.162Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bbokz5sz64va4ulx7aqcgy2r":["yrcoo","cory"],
+"wmwpzfbkmlgvsealqcetistu":["yrrzy","Yrrzy"],
+"vacrdo6vcwxoc57fx6vy23by":"yrz",
+"ytcap6kmlrlpvh74xmqkr36j":["yr-pong","핑퐁"],
+"34vo3ifjtqcikptq5qrkopk4":["yray","연다 字 말랭"],
+"b4rzjqv6vhh4iknwj7lch24u":"yrbffanna",
+"kweu6fosy6b3f4extmfm7w7m":["yrsch","Azen"],
+"2ktudmtryprkoq7ln5if75o6":["yr1226am","依"],
+"y7c4qhdqpjnmr2uljrzrotpy":["yrs","YRS"],
+"l47oxs7cjbm7n7vvsn7fneu6":["yranimedaddy","Твій аніме папаша"]
+}) // 2023-10-28T14:39:07.420Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

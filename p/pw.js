@@ -165,5 +165,15 @@ var pw=(function(jsonp){ if (typeof pw==='function')pw(jsonp); return pw=jsonp }
 "ejs2g6tdhb2cxrhus7bchxc2":"pwnyy.tv",
 "gningd5577zc5nzeqatqrrou":"pwoodard",
 "vvfqugdhoffedberipb2bmw2":["pwn.science","detro"],
-"lps26lfazae7rodeheufo4cr":"pwalz"
-}) // 2023-10-27T07:52:15.417Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lps26lfazae7rodeheufo4cr":"pwalz",
+"fgsjha3rsrl5hqh5qsjzmnke":"pwod7",
+"w5wibhzp67sozitzgy6advez":["pwtk","pwtk"],
+"xk2moavrwa5hcsbnwrzhqfij":"pwassonchat",
+"t36ot6xgtewn2oflhiq4mam2":["pwinny","Pwinny"],
+"rtx6sfnuy7mkjdsgchvyf42e":["pwnz0rzombies","[klaas]"],
+"l53gzrxfreknfb3u3zrnnkr7":["pwnageswitch","Pwnage"],
+"tdtpppgyukdavx6yhp2teccb":["pwfregonese","Pierre-William Fregonese"],
+"qswky6u7w36jovuzh6irgdue":["pwtizza","Tizza Strifehart"],
+"6w3hmbqpyt7vqutrh5anliws":["pwann","Pete"],
+"xmiuyx6uyrrxc7swmhc6lu4w":"pwood26"
+}) // 2023-10-28T14:03:15.306Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

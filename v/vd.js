@@ -69,5 +69,15 @@ var vd=(function(jsonp){ if (typeof vd==='function')vd(jsonp); return vd=jsonp }
 "3wammyhqgghc7s3gryxfl23a":"vdevendetta",
 "ouhngxdr7vy2algry3fwxj2a":"vdussault",
 "eabotqrrj7fudo3ceedzbyh7":["vdahrul","Joe Seph"],
-"olf7vrgrf6dzp5fj64h5z5fx":["vdeviance.online","VDeviance"]
-}) // 2023-10-27T07:29:41.359Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"olf7vrgrf6dzp5fj64h5z5fx":["vdeviance.online","VDeviance"],
+"bta2knthhzdugvxa7bg3i7no":["vdal","Vdal"],
+"s5ghle6c7tuxipfx7k4sqne3":["vdulabic","Vedran Đulabić "],
+"b7umdwgflunvko26pfkq6mbd":["vdmplt","vadim"],
+"qdrxzqlophsup64irlgl6mvh":["vdssll23","디"],
+"chrqqmzfb56452fdev3p445u":["vdia","v-d-i-a"],
+"wc7pch5tretb5h6b2mij2mox":["vd1x","Adi"],
+"nmuyzpb7lpk7p3kfqarnrbfy":"vdovault",
+"b5zy55dqo2qpsguphlclfnbq":["vdych","Delete "],
+"z45ruat4rifgo44iuxgzvic2":["vdevictor","Victor"],
+"jwxoohszyhmjfxzjhvjcj5to":["vdossett","BusyVdoss"]
+}) // 2023-10-28T14:17:16.921Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

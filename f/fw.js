@@ -84,5 +84,18 @@ var fw=(function(jsonp){ if (typeof fw==='function')fw(jsonp); return fw=jsonp }
 "kxms4vhhyn53i4gd272qtvd2":["f-word.dev","The F-Word"],
 "4xl6c3renurmstkm3rwxx4p6":["fwar","Frankie Warren"],
 "izruneqadodtis2nmjbmjofs":["fwdrpg","Forward RPG"],
-"sypnwzwnkszvdqg6asvcidmk":["fwhprime","FWH Prime"]
-}) // 2023-10-27T08:07:46.390Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"sypnwzwnkszvdqg6asvcidmk":["fwhprime","FWH Prime"],
+"2vpurzwacbb7c2ust4v2d3mp":"fwb",
+"u5gaweu46b3e3nrib4cip5gv":["fwooshe","fwoosh!"],
+"jsauvyug2hqc3xrhsowlawmu":["fwdflock","The Flock"],
+"efy2figjwdmha7iqbuibkpf5":["fwankiestein","Frankie"],
+"eaec5z6r6nltpux36mmy6ze2":["fwolf","Fen"],
+"n3bnw6crqw56y5n43vhykrmz":["fwpx","fwpx"],
+"un6ajnajfg3567tyxs43nuuk":["fwspxce","spxce"],
+"6kxwdmksaz6cwhf2juok4j7m":["fwaimsteen","Amy"],
+"ann5xl6ywydhip6vijtcdwoa":["fwflunky","Flunky Wolf"],
+"xqpuemis3uqgjx6iezjv26jx":["fwapcompany","Fwap"],
+"usez4qbakelhi43vmrjpytkd":"fwip",
+"leaupwpzlgbosywcjcacvasf":["fwua","Fwua"],
+"qq7lf42vfqauzmjlg45r2z5j":["fwapod","Nuffink and Like It"]
+}) // 2023-10-28T13:02:17.147Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

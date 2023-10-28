@@ -11,7 +11,7 @@ var vn=(function(jsonp){ if (typeof vn==='function')vn(jsonp); return vn=jsonp }
 "mdzcpfi4ndxg3jb4w6uslxmn":["vnnz16","Vincent VNNZ Vogel 🧝🏽🤖| 🇮🇩 VTuber"],
 "t2zaitk7vlq5v4amuoiparba":["vnangia","Varun Nangia"],
 "u2vkawh5h36xdo6q5azqly4k":["vngnc.xyz","izzy"],
-"zemuboyqru6qpdiufhch2lax":["vnavarrowriter","Bishop V. Navarro"],
+"zemuboyqru6qpdiufhch2lax":["vnavarrowriter","Bishop V. Navarro (they/she)"],
 "oqpyekkaxioc2zqardqzrdl3":"vnedu",
 "bcffkjazllpfeyydp2gycdzg":["vnssjqm","Vanessa Joaquim "],
 "xkmhdsltrndp2dalnd47gewz":["vncbalzana","• o balzana •"],
@@ -80,5 +80,9 @@ var vn=(function(jsonp){ if (typeof vn==='function')vn(jsonp); return vn=jsonp }
 "2xmmdcfivlrkptnab7kqjt72":"vnprovidence",
 "5yf5iplya2livnm5xbwiwrdx":["vnstudioelan","Studio Élan"],
 "iabat7jsfw5igicdoq7hki6w":"vndy",
-"4dly3seawhcp2447n3wq6vct":["vnz","Vincent"]
-}) // 2023-10-27T08:15:07.733Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4dly3seawhcp2447n3wq6vct":["vnz","Vincent"],
+"7l64xdk6g2sfwapznyzagezb":"vnj",
+"tf3h2loec2te2p47ryrkeuvt":["vnne3","Vanne 💜"],
+"fxg2djnscvmhmbo5xg2ubyiq":"vnckor20",
+"yalulx7iaeu7ksnfhadui7ne":["vnoonan","Wacky Wavy Inflatable Tube Man"]
+}) // 2023-10-28T13:11:28.030Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -96,5 +96,13 @@ var fp=(function(jsonp){ if (typeof fp==='function')fp(jsonp); return fp=jsonp }
 "hd2tgj4omqx6rznrzg5m4fcn":["fpie","Frédéric Pierson"],
 "5wnf54kashghktkkhgr4ekeq":["fpetitprez","Florent Petitprez"],
 "n3aprapdacda77s5nowqkv4n":"fpower",
-"3wkieoe2fnrrvh4clpisiffx":["fpinte","Fpinte"]
-}) // 2023-10-27T08:07:46.401Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3wkieoe2fnrrvh4clpisiffx":["fpinte","Fpinte"],
+"aiyxkvqqqzyxozuwgyzn7b33":"fpyro",
+"67um4wed75mroe2iawdak65q":"fproulx",
+"6pkrwgbraabaexrxtq3b7sie":["fpascale","Pascale"],
+"54a6bhfctxwzfol2i3vxwvy7":["fpofgambia","FPofGambia"],
+"72ctf6au3qbvvzewjxjotndk":["fpresilli","Fabricio Presilli"],
+"xgc2qvzwtyzsfvk2jwxmrid4":["fpintodacosta","Fábio P. Costa"],
+"ybj2tthrkjsojw4sw57fb2ye":["fphberlin","fph"],
+"5z74o43vhlpoesze2kqjt5oe":["fpxpl","온랑 | 리리"]
+}) // 2023-10-28T14:21:50.696Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

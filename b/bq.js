@@ -17,5 +17,8 @@ var bq=(function(jsonp){ if (typeof bq==='function')bq(jsonp); return bq=jsonp }
 "476i22xdmyibc5qmx2sdlkqh":["bquiz","Bquizma"],
 "fz3xrcnb2pbku3qbtkpcimga":"bquizma7",
 "c2rypskyjlnpw24ys62n2m3c":"bquell",
-"scc4w7hiyxs5onsg7uawilww":["bqmusic","BQmusic"]
-}) // 2023-10-27T05:01:00.501Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"scc4w7hiyxs5onsg7uawilww":["bqmusic","BQmusic"],
+"vhnrsip5ka6dndztql6ilzzj":["bquintero","Bri"],
+"yujyidkzs25ki472ljxqugay":["bqrel","Bec"],
+"vdf322p3szd57x5bijhelmpt":"bquarderer"
+}) // 2023-10-28T13:47:52.536Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

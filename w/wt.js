@@ -186,5 +186,13 @@ var wt=(function(jsonp){ if (typeof wt==='function')wt(jsonp); return wt=jsonp }
 "pnig6gdq6s4xotw7zs2fxtlm":"wtrs",
 "sfgf52546gzokvminoza3kix":["wtakeshi","Ｗタケシ"],
 "c7zrjj3kxyos335oio7w3i6m":"wtnsantos",
-"zgywjsijyy2amwfj4sbp7qca":["wtc","World Trade Center"]
-}) // 2023-10-27T07:10:12.230Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zgywjsijyy2amwfj4sbp7qca":["wtc","World Trade Center"],
+"73nsy5fnqm3qbyc7nrjrnc4w":"wtf-tank",
+"ozolppbaea7624pyf4grgxrx":["wtiu","WTIU Public Television"],
+"l6wiigjhxfggatb2x2ly65vc":"wtallent11",
+"ozn3e6nrwjvh4pkjr5nvo5xr":["wtjessy","Jessy"],
+"57zeyskualxjn33svcgjlefu":["wtftnf","球²"],
+"et5dblilp7ozw2zlofc2by6u":"wtfoote",
+"q2wlfffagan3ugqfscsiin2g":["wtsfan","WTSFan"],
+"3ppzlbllo2ud4bjc7u2az2w3":["wtstephens","Travis Stephens"]
+}) // 2023-10-28T14:21:50.896Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

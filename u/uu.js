@@ -69,5 +69,13 @@ var uu=(function(jsonp){ if (typeof uu==='function')uu(jsonp); return uu=jsonp }
 "kld5mjlcneucsh7bbvhfagig":["uuill","Will Cowman"],
 "utdi4xsohcva2b6abhs4ruji":["uu0615","ゆーゆ"],
 "aqlypi2he3tm6sg4fnu7ype5":["uuupppaaarrr","うーぱー"],
-"prrdqygzgjousnkzntany2zw":["uuunu","うぬ。"]
-}) // 2023-10-27T07:45:41.565Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"prrdqygzgjousnkzntany2zw":["uuunu","うぬ。"],
+"y43dv35w5jszgcqazvxxrup5":["uukknnu","유커내"],
+"42zvnout4lvzn7t3pzrfukg4":["uuchatex","UUC"],
+"jtmn46k3th6dxk35ho3eua5g":["uuuuu2","ㅁ_ㅁa"],
+"6vd7fucs6xjgt23bcgobrsky":"uurpnarc",
+"mditox4dhins3bvthywplxtu":["uuk0","창섭깅"],
+"xc54gkczk5ihoxsk266m2log":["uuning","유닝"],
+"4oqzcnlctm3dswoo2msviipv":["uuinee","유인"],
+"vs2mllngwde2v7ouig7wh5iw":["u-u-akak","Ren"]
+}) // 2023-10-28T14:14:32.565Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -60,5 +60,9 @@ var uo=(function(jsonp){ if (typeof uo==='function')uo(jsonp); return uo=jsonp }
 "igw2mafdhuweypiz4bp6banh":["uooaa85","うおおあ"],
 "r6ba3q6fv6fajw7gvvqh7sd4":"uodii",
 "naf6diewmolbmb72ifgajnqq":"uojeda",
-"l3mm3ffhruq6n5wxiapbqljh":["uosan5","うお"]
-}) // 2023-10-27T06:44:51.309Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"l3mm3ffhruq6n5wxiapbqljh":["uosan5","うお"],
+"paz723izst5wbzchtlwdlz4w":["uolliw","Paper Plane"],
+"4vuzgad6p5jewq4wnli3jnd6":["uopwn","버터"],
+"6lub22rqx4pk24l4m5pe45hl":["uoshin","魚村晋太郎 a.k.a.ojiki"],
+"zzwnghkrdgmn3njtmoe2xz5s":"uofuutes"
+}) // 2023-10-28T11:17:16.474Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

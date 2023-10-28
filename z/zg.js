@@ -6,7 +6,7 @@ var zg=(function(jsonp){ if (typeof zg==='function')zg(jsonp); return zg=jsonp }
 "do2hca662j5eiqjhftswfkgj":["zgrrrl81","zgrrrl81"],
 "egfoou5txxevyvmtkqh4mhw7":["zgreenberg","Zev Greenberg, Ph.D."],
 "fucsdbkfihddt2evwnxuyb47":["zgfgaming.com","Ra_Zim"],
-"jj4plfvtpnrz5hn2zimudmeh":["zgatoso","z_burrion"],
+"jj4plfvtpnrz5hn2zimudmeh":["zgatoso","zkittybear.deadnsad"],
 "lkbvrg32feagoyjx3ipe4qhw":["zgtcooper","Zane Griffin Talley Cooper"],
 "nm54gze6qf3ne7hxoot4budh":["zgur","Zgur (le même mais sans le _ , BlueSky n'en veut pas)"],
 "oeezujhxhr7agtljokalh2uk":["zgr","Zach Graves"],
@@ -54,5 +54,14 @@ var zg=(function(jsonp){ if (typeof zg==='function')zg(jsonp); return zg=jsonp }
 "2fwa6j5hdpcg4fm5hb3qfyt2":["zgriff","Zack"],
 "7yaqrfe24sstkf7pmw2jk3gb":["zguilandokht","Zahra Guilandokht "],
 "2u5ze7jjjx3qbbkbkztkc5de":"zgeer",
-"wyapqditqahm6jw5sff2mqib":["zgee64","Zgee"]
-}) // 2023-10-27T07:48:34.682Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wyapqditqahm6jw5sff2mqib":["zgee64","Zgee"],
+"c7muqassufpwquvkzfkgcd3w":"zgmcm",
+"fg5yqbqjdfcsrwahdap2t62w":["zg9064","zg9064"],
+"6rsgrqf75ge3jem2fgtqbqgf":["zgoenmusic","Zane A. Goen"],
+"5s25yyittgw4sqfnp3a4gpbh":["zgrisham","Bistromathicist"],
+"2rsvvasenibiz7lhq5sevqvf":["zgurblax","Nikas Aliagos"],
+"h2n3tvqihgjqkydikkew2f3e":["zghadyali","Zoher Ghadyali"],
+"mtsqxvvtijfyrnqdsglqvll7":["zgmfx10ar","FA"],
+"jmmzfn72ckhjvsjdf2rftlj2":["zgameenergy","Z Game Energy"],
+"n7o2trsl7qnfp7aqnh6l36y4":["zgu0425","咖波魚"]
+}) // 2023-10-28T14:47:20.884Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

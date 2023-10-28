@@ -13,7 +13,7 @@ var nz=(function(jsonp){ if (typeof nz==='function')nz(jsonp); return nz=jsonp }
 "omn2hryawxmvfzqrlvixuklp":["nzheretic","David Mohring"],
 "ovmlybqkdxfibxdbllv5rc5t":["nzneep","Eileen"],
 "r4kmn75mjiflx7vaouzc4zht":["nznurs","Anı biriktiren kadın"],
-"u52teepg2n3jkfg5doo7skjc":["nzpolkermit","Where are the costings, Lux? Kermit"],
+"u52teepg2n3jkfg5doo7skjc":["nzpolkermit","NZPolKermit"],
 "uwkvnd5yjllr3leg4bwsge7p":["nzdeb","Deb D"],
 "w7wfl65iveli36lewydwk4a6":["nzfs","nzfs"],
 "ws3e4rs3qoknbkvt6rgz5xiu":["nzagalo","Nelson Zagalo"],
@@ -99,5 +99,16 @@ var nz=(function(jsonp){ if (typeof nz==='function')nz(jsonp); return nz=jsonp }
 "2uu54cds7wqml5ptxgqs4xfp":"nzs",
 "syztbakjxnrncnlmwcmkrpcm":"nzmedet",
 "ecccazq2vsp7lkh3o4shj3uy":["nzrkom","NzrKom"],
-"42ukhp4rc7eyfkgwqemqchup":["nzaretsky","Dr. Natasha Zaretsky"]
-}) // 2023-10-27T07:19:12.393Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"42ukhp4rc7eyfkgwqemqchup":["nzaretsky","Dr. Natasha Zaretsky"],
+"4tg5sfo5rg7egjttn6xz4j67":["nzmistressv","NZ Mistress V "],
+"de5o5ydyhla4mwhsm6xadswb":"nzchest",
+"xck2toit4sqzsjkbymqjaapj":["nzsarah","SarahBfromHB"],
+"ogo2jcqkmhwvnaayvckgtcli":["nzx.io","Nicolas Vivet"],
+"u3ig22uskuzi56e4mjsgtfrz":["nzgreeny","Greeny"],
+"4mru6kl3lmvtdzvdjc72xoof":["nztomas","nztomas"],
+"4uzeqrh46pad5klf273figei":"nzfgc-tawhs",
+"lezy3vtdcnb624hxdzyqudeg":["nzjo","Jo"],
+"w65ly26otnb5zto5j5psrhss":["nzorach","Nat M. Zorach, AICP, MBA"],
+"tgqidiitycxi3g7zml7mx3yi":["nzmm","Matt M"],
+"qkyd767icf5iih7bllm2b33m":["nzpug","New Zealand Python User Group"]
+}) // 2023-10-28T14:13:00.985Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

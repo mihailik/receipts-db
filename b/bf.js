@@ -154,5 +154,14 @@ var bf=(function(jsonp){ if (typeof bf==='function')bf(jsonp); return bf=jsonp }
 "pi3x5ri3opbilbjvmyx7npjm":["bfioca","Brian Fioca"],
 "rfiwmcbecn3ypan7yq6nyhq7":["bfeelzebub","ʙᴇᴇʟᴢᴇʙᴜʙʙʟᴇ"],
 "pmqhlynobgwrpatheqcqub4o":["bfwhtr","뽀이"],
-"vbkz3bfhrucwtfq7ujm3ohno":["bfletcherwatson","Ben Fletcher-Watson"]
-}) // 2023-10-27T08:03:50.997Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vbkz3bfhrucwtfq7ujm3ohno":["bfletcherwatson","Ben Fletcher-Watson"],
+"3xusj65w7n7nx7bjcbsdlxlc":"bfarrow",
+"ifoe64jc6s47s7ihejenhhop":["bfredl","bfredl"],
+"hbc6k7uqpchoxnl7kz5tjkdl":["bfdi","snail"],
+"s2jy3tilki5hf6ssfskbhe57":["bfreitas","Boo-by Frightas"],
+"6rzbme5eoywlmticz6dpec2m":["bf-kommunikation","BarriereFrei!"],
+"2s4gaelfis76xgfxnsbpuvo3":"bfognarly",
+"golr4oa6xagcsw4at4ds3qit":["bflatminor","nico ¯\\_(💛)_/¯"],
+"6vsgvll5jyip5goxsogmalpw":["bfloknudsen","Bjørn Flo Knudsen"],
+"pebieul5sgsracbhlxr6bf2d":"bfretz"
+}) // 2023-10-28T14:44:16.140Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

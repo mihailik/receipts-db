@@ -58,5 +58,16 @@ var wk=(function(jsonp){ if (typeof wk==='function')wk(jsonp); return wk=jsonp }
 "3t2okwdqs4mo34kg2cax7336":["wkcooldown","The Weekly Cooldown Podcast"],
 "gphrpmbpjughuxre4s7mth6l":"wkay",
 "o6tfjn2tlcbtntzqx5xlznni":["wkndwalker","Weekend Walker"],
-"wpegnhij6x7izcyjs5qry7ub":"wkh"
-}) // 2023-10-27T07:37:59.983Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wpegnhij6x7izcyjs5qry7ub":"wkh",
+"ttbqpzj4s2pjutmchdm2jskw":"wkrav",
+"xw3nr5b2rsi3do6ife4w4ius":"wkm",
+"2f7hvry3evxe5x25wgabjew3":["wkls","wes"],
+"baur7auxch42goacbwabiane":["wkikk","Wkikk "],
+"2bkvndqlqxxkymvp7p54qpsu":["wkdbanterlad","robert"],
+"srb5owakkn4seh3piax5tb5h":["wkd1105","둥글"],
+"nq47a7aatwierhz5u23c2acs":["wkdtmdgml21","아이라"],
+"pxpfkcrvyos63occxtymo3tg":["wkmiswgwg","わかめくん"],
+"wk6f245pxsuieto3fjrp6k4d":["wklumpen","Willem Klumpenhouwer"],
+"w53m5bjlqvgra43vgp5gik2b":["wkqejr","📍은쟁"],
+"gc2dsrps5k26h5zddcdlmu7b":["wkulhanek","Wolfgang Kulhanek"]
+}) // 2023-10-28T14:47:20.650Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

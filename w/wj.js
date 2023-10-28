@@ -61,5 +61,14 @@ var wj=(function(jsonp){ if (typeof wj==='function')wj(jsonp); return wj=jsonp }
 "lyurgtx665z7fun5yjm2ouyz":"wjl11",
 "a3hfozmon4puihpic62h7jnn":"wjrguitar",
 "eeguaxtlhjpkkjmuezsvcohk":["wjm","Wyatt McDonnell"],
-"6rtmrxrdk7k2n3hncgqm53q2":["wjorda87","Will Mac Siúirtáin"]
-}) // 2023-10-27T07:06:20.876Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6rtmrxrdk7k2n3hncgqm53q2":["wjorda87","Will Mac Siúirtáin"],
+"46ldn7cwif4ow7gygmt6hvco":["wjdalsgml100","곰말리"],
+"krdnh6dy6vwukqooonqoxbaf":["wjhayesjr","WJ Hayes"],
+"72xz33gcveh63ggllihlk3ls":["wjamesmci","wJamesmci "],
+"lmwfqtd4pd3ph7iziizbktlm":["wjrdu","저겨"],
+"subsf5z6oszcrex74jaovt26":["wjdwjd000129","이서율"],
+"l32ijhsvqatli3pxxikqnheq":["wjdsus50","λ 람다 그 람다 맞음(LAMBDA)"],
+"ayji62scvbukkufmeqlak43q":["wjtje","wjtje"],
+"w2oe34r7zvilftwxtrkx56lz":["wjfdla","절임"],
+"fb6ug2jckdu2zn6hlqenlu5f":"wjstnqls44"
+}) // 2023-10-28T14:23:48.025Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

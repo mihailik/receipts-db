@@ -6,7 +6,7 @@ var i0=(function(jsonp){ if (typeof i0==='function')i0(jsonp); return i0=jsonp }
 "jgxgufw7wii7xoumpn763yoy":["i3oone","Boone"],
 "kbmzcninxhbjx7djk3t7b3p2":["i2skwtr","livie "],
 "lgupx7ksugjq7ad5iqpgxsfp":["i9nbuende","Initiative 9. November Bünde"],
-"n3apqlglfbnp55ufpu4all7g":["i4law","bela adormecida do seculo XXI"],
+"n3apqlglfbnp55ufpu4all7g":["i4law","jay ×͜×"],
 "nmjh4dj7ddk4r35fridgpgs3":["i7i71ll1nightskys","⑉⑇⑆⑈"],
 "ogao6iattj4afwa36gctx6iv":["i24predsfan","Katherine T."],
 "r576lp4zyci2jbamcu5kddye":["i9oo","i9oo"],
@@ -103,5 +103,13 @@ var i0=(function(jsonp){ if (typeof i0==='function')i0(jsonp); return i0=jsonp }
 "h2egvnxmhzkjktbo55r7oxdk":["i666saber","s"],
 "bhhdxm75yxx3muabf6tqgt4g":"i3z1zi",
 "pzkfvbtmzbbz6dixmzpht2nd":["i407250234i","ABCIII"],
-"byaxwvcmome45qwkv3aqbz3c":["i30j40","캐붕"]
-}) // 2023-10-27T07:53:51.108Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"byaxwvcmome45qwkv3aqbz3c":["i30j40","캐붕"],
+"s6k3ob2i6i4gkfz2daeb43ks":["i40blitzkrieg","Blitz (CEO of SPI)"],
+"b5roe4cukyontx6gczvezil6":["i9j","stibb"],
+"wqoyetjbh3ljwl4yawea43hv":["i2sipenzo","Kim무리"],
+"7keimmbdwv7u7taogw7kydqr":["i3ananacakecake","neil!"],
+"onpv25xm6elai7bo4orqegtn":"i4mlou",
+"4bphzlhffckyc7pudcsgy6v3":["i7np7m","Irgendein Pseudonym 😎 📯"],
+"o6nowvopbscrees3fu7mqzwu":["i4kafka","amy"],
+"lyiqbvur6kx7iz3wbvgrcmkj":"i3ecci"
+}) // 2023-10-28T14:49:26.344Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

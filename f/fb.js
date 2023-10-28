@@ -119,5 +119,21 @@ var fb=(function(jsonp){ if (typeof fb==='function')fb(jsonp); return fb=jsonp }
 "7iwp4yjucyklbq2hle74chwz":["fblastman","Fblastman"],
 "rkhldnoaye3wlzbzqdl2j77q":"fbagocius0",
 "m63clpms6rqgplgtovfxls5a":"fbuccino",
-"aqtlfbxmn7w3763wp2mxwyvm":["fbhqtr","✩"]
-}) // 2023-10-27T08:09:22.384Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"aqtlfbxmn7w3763wp2mxwyvm":["fbhqtr","✩"],
+"dsk2mnaskf23cwljz6mzq6xj":["fbillard","Fabien Billard"],
+"qbjdkgkqfvwn5hbsbzvml7cr":"fbomrl-metanik",
+"kbgb2t7wb7agtienivdsgzti":"fbskyler",
+"pkzaeysbfx52wq2osxgzbbgz":["fbjacques","Felipe"],
+"dv6bljzanmscw2rqthn4d6t4":["f-burr","Mark Strawbeawy🐻"],
+"hpbog5jz43ac2lqiujkiu4tq":["fbsz","fbsz"],
+"vwrgmexzmn7sjbxrhwu2ec7k":["fbref.com","FBref"],
+"uauzychlawmxwtx7ui2gcfb2":["fbautista45","Fabian A. Bautista III"],
+"pyiukjlmimt76zjge62xhpts":["fbsxix","FBS"],
+"zb2cmzypddtwvemycj5sa4gj":"fbagocius13",
+"7q4ywuqknw2audp4dzh2dr6o":["fbeckpeccoz","Filippo Beck Peccoz"],
+"lztssbahaebzke7s7mswu4w4":"fbrcmelo",
+"iqehvaw45qziqtliwa43hydw":["fbmacd","FBMacD"],
+"2fo4ap6g4leeyyg66jnejy6v":["fbarnes","eff barnz (epic)"],
+"3mwxsp63z5jlwohxk7wfdo2j":"fbts",
+"rykmcd6hp5gcozxxdeo2alry":"fbagocius16"
+}) // 2023-10-28T14:47:20.865Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

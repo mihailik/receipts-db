@@ -9,5 +9,7 @@ var qy=(function(jsonp){ if (typeof qy==='function')qy(jsonp); return qy=jsonp }
 "2axiop33vewgfzefxpzq2qmq":["qyz","Quinton Zondervan"],
 "ku7f6vyvhb4qz7baghfkkbrc":["qyunii","auby"],
 "iion6dgox2e24hidnmdvlokh":"qyizhen",
-"dgjdcaluvmryfdndqb7dhvlg":["qylvaran","KILL-varan "]
-}) // 2023-10-27T07:20:54.681Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dgjdcaluvmryfdndqb7dhvlg":["qylvaran","KILL-varan "],
+"ec7agxf3iqol363jzduoiwf6":"qyurryu5",
+"lt7ezltx7i6e7o7munzboe6s":["qynote","쿼얀note"]
+}) // 2023-10-28T11:47:24.459Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

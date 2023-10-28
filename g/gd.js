@@ -199,5 +199,24 @@ var gd=(function(jsonp){ if (typeof gd==='function')gd(jsonp); return gd=jsonp }
 "cgpnkgci33p4g2h3uif6wbjk":["gdubbstl","Grant"],
 "6ekioom4hnkxldgx757nlwvh":"gdaygus",
 "i2qolfgrkhvyd544uszxkgco":["gdocexpo.com","Game Devs of Color Expo"],
-"cuvqpshhyz2rc5gezk54u2ni":"gdidart"
-}) // 2023-10-27T07:29:41.346Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"cuvqpshhyz2rc5gezk54u2ni":"gdidart",
+"yfsil4lwcselzpjpx32do7ak":["gdrawart","GUSTΔ"],
+"cxny46lx6bre6reuycylm77v":"gdr",
+"oj25he6qkmqaj6nh3n3utwsd":["gdf","GDF"],
+"lqpyyl565ri5ab2qfgxpe47d":"gdog23506",
+"z6axozx6vwnnp64rn4ebjaqk":["gdeichen","Gavin Deichen"],
+"jhhq3jd3ojvqpeu7l2jgo6rd":["gdragonrednom","Gary Dragon"],
+"mnatbv3vh7o6lfhv5lioxncz":"gdsheriff",
+"q5ovftygfo4xkuqdhhtomu7n":"gdtc2",
+"t7mtuluhwrump2bsnlgtsf3x":"gdgddg",
+"zcyvrdlbi6lw6bmty6bshzie":"gdipietromusic",
+"abqfyxdbdhhgqfgjuz7xvc2c":["gdhex12","hex12 @ 🇰🇷"],
+"vcvbd7w5vdtfupijzcuxaabn":["gdnbyg","Freya."],
+"m6weqqk6dsevwklwykfju4wo":"gdharpo",
+"gqn44jqxqayaa2277braofhg":["gdchans","GD"],
+"3e53zzn6qnfhxwb447glbhiy":["gd2hoya91","ほやまの"],
+"lxmpmjaxhcajbzfm5btyhk7r":["gdubultimate","G-Dub Ultimate"],
+"4nfebrlmqskafix54wxggwed":"gdubz",
+"y2yxeht2yf6al5oamn27ljct":["gdnicholson","Fomo"],
+"flsejkhtfrhimjr466tlf23t":["g-dota","Dots, the empress"]
+}) // 2023-10-28T14:23:48.300Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

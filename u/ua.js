@@ -162,5 +162,20 @@ var ua=(function(jsonp){ if (typeof ua==='function')ua(jsonp); return ua=jsonp }
 "mtkpu2ai2tbzvhx2b24mloy2":["uapp","Universities Academic Pension Plan"],
 "ieg6ze6bigx5blxhgni5mjpe":["uasabi","deicha torar"],
 "rbfho7wb3qduiqt7i5gkfx7m":["uaimarco84","⚠️ marco 🏳️‍🌈"],
-"6bpj2gdpg65cpuernc5d6axd":["uadragonslayer","Ар ю лост, бейбігьорл?!"]
-}) // 2023-10-27T08:13:23.298Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6bpj2gdpg65cpuernc5d6axd":["uadragonslayer","Ар ю лост, бейбігьорл?!"],
+"4i74ap6wthyt5uzndedvzsd6":["uasunrise","Хтиві та Розбещені"],
+"7rd6jpnhopx44jp4egupn7og":"uabaits",
+"3gsrubln5q2i2vxpzp3e2beg":["uau","n."],
+"ayfiytqsy7dkuduxzzqjsn3n":["uangellea","angel"],
+"m32snheme2nm6icz7kxtlj2f":["uaitniu","Allen Booz"],
+"jxzhoqj4talnoipduooq46zs":"uaroman",
+"lyu2j7awqenijodldt2rmjg6":["uablackmetal","UA Black Metal"],
+"omic43evlqzpj2kgesphnpx2":["uarex","𐎤𐎢𐎽𐎢𐏁"],
+"sbd45onxg7k3o7mjh6cyiusi":["uabanderivka","Єнот в шокови"],
+"urhtanix4dp34wwdpl6xy3yq":["uafedir","🇺🇦Fedir"],
+"67joat7kx7zb2bzlaya5ursh":["uangbutter","휘난새"],
+"ejmtc6yztgsx7vbey6gdv2i4":["uabober","Придніпровський бобер"],
+"wdui3wtj2bllriszxjkawsuf":["uarmykeg","앙큼뽀이"],
+"lfkrmqs5j7utjvcrfmaqzeim":["uahabeschmerzen","d0nky"],
+"5vq5u3vih37p7l3tsnlbhjoh":["uapmapper","UAP Mapper"]
+}) // 2023-10-28T14:44:16.200Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -2,7 +2,7 @@ var qq=(function(jsonp){ if (typeof qq==='function')qq(jsonp); return qq=jsonp }
 "6te25hmel3zfpozxymznse5w":["qque","Queso ☀️ 🧀 🦊"],
 "opxu2hvec4x4v436pwueqpf4":["qquipart","Krish"],
 "rk5j346rxdy27awn5lcd7ksb":["qqlettuce","lettuce"],
-"tmt7nj4notfwz2cdva5s2aen":["qqzm","Stephen"],
+"tmt7nj4notfwz2cdva5s2aen":["qqzm","All Hallows’ Steve"],
 "rfngarc7ayclly7uc5b6e7cy":"qqq",
 "brhnvy47jb642tkilyd3jsyo":["qqcoisateaviso","amy adams vendendo bolsa em the office"],
 "4s2dq44kern6qjcjlggh6ipr":"qq0",
@@ -34,5 +34,7 @@ var qq=(function(jsonp){ if (typeof qq==='function')qq(jsonp); return qq=jsonp }
 "gddrit26c2w36xt3iogbgarr":["qqueenlyart","This is not Norah"],
 "va4dq3hhcjjskpciyku27y7x":["qqtuzi","Tuzi"],
 "ua6jhdki5u2mmixwy6p3utbn":["qqqmms","Enne🎐"],
-"fckpitwkfj5ddp6csk5df3qi":["qqqiippp","虎虎"]
-}) // 2023-10-27T07:15:34.100Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fckpitwkfj5ddp6csk5df3qi":["qqqiippp","虎虎"],
+"qrgmh3vhfq4nm33eppossxqi":["qqqqqqwq","💎QingQ💎"],
+"5e4kttcgjqiwodbumbagiege":["qq1qda","𝑏𝑖𝑏𝑏"]
+}) // 2023-10-28T14:37:15.519Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

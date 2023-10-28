@@ -93,5 +93,14 @@ var fg=(function(jsonp){ if (typeof fg==='function')fg(jsonp); return fg=jsonp }
 "6dqqynv3bezzmsigvh2ls2xl":["fgherman","Felicia Herman"],
 "nabbz7s3yuxiipwy63dlp5e2":["fgazzelloni","Federica Gazzelloni"],
 "v46eyq5vtxeuzjhfeil2bb2j":["fgnano","なのB"],
-"sc7dvbdzf32ak6pxkrlser4i":["fgt2199","FGT2199"]
-}) // 2023-10-27T07:57:20.745Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"sc7dvbdzf32ak6pxkrlser4i":["fgt2199","FGT2199"],
+"ttv74pprkmf7xhlzbvqlgyxa":["fgronvik","Gym/School balance 🦢"],
+"n52idcwn4e46kkclwymjlaaa":"fgsoftware",
+"bonqdkywza2ournakydwtn7i":["fgj","A"],
+"ik3om4d7ldbc4jvsgr2iehja":"fgr999",
+"wikhy6jrcv7vsanu5tm777ti":"fg-academy",
+"u7jyztxcqttvpqyckdpbfw2t":["fgsyaga","しゃが"],
+"cnsw5k6yf5ok5rdw5l4mprnx":"fgeorge25",
+"vle7ly2htfkopmmdnow4ql7d":"fgghjjkll",
+"pj6k27ptjs4cm6snsnasrwpu":["fgarfias","Francisco Garfias"]
+}) // 2023-10-28T14:14:32.350Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

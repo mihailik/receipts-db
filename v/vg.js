@@ -103,5 +103,14 @@ var vg=(function(jsonp){ if (typeof vg==='function')vg(jsonp); return vg=jsonp }
 "wpqrhm3b2wcd4baot7ojvoy5":["vgnesis","Gnesis Villar"],
 "cgo76gdtgpogafjwsd22zma4":["vgoeoxt","오만둥이와편육"],
 "wiu5bt5qmsio2n3xolepzakk":"vgkid",
-"qiqy2fpzn4zei5qst4op6usm":["vglogoarchive","Video Game Logo Archive "]
-}) // 2023-10-27T07:58:50.606Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qiqy2fpzn4zei5qst4op6usm":["vglogoarchive","Video Game Logo Archive "],
+"lhbbd7y4ni6zozilrrsmd2il":["vgarou","Vgarou aka Seb"],
+"kuprqo6kqyspwkmtfqwsldkn":["vgranosalisv","Heisenburger"],
+"om5e6d7uokih2kkjpetr7ebz":"vgsouza",
+"rextlparbd5amycxd7jr3rg5":["vgelfand","Volodya Gelfand; Northwestern University"],
+"ks2od4dwnr5dqx3xaf3zd6ug":"vgal",
+"3gjtmilevs5fw5uqik3bewmp":["vgcake","vgcake"],
+"zxooflhm4umj57n7mmyh5jqf":["vgbhieel","Vitor Nascimento"],
+"ax3rvpuzmafdfi37zbuhjplt":"vgotaskie",
+"tsuh7pk5g7wqn3nnc6rxkpod":"vgmtogether"
+}) // 2023-10-28T14:04:52.976Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

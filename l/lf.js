@@ -121,5 +121,8 @@ var lf=(function(jsonp){ if (typeof lf==='function')lf(jsonp); return lf=jsonp }
 "hrs77lxqvzcn6nvu23ji2zt2":"lfpenha",
 "ny5j4psqesryweyxb4mo4ume":"lfelipeveras",
 "26vxxqh4ctpbveqr6vri4w66":"lftherios",
-"oslhmvz362glihx7midt6u5s":["lfinnegal","Laura Finnegan"]
-}) // 2023-10-27T07:22:33.124Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"oslhmvz362glihx7midt6u5s":["lfinnegal","Laura Finnegan"],
+"lm6ns5kyorskefmx4bkk4qks":["lfvm","Hatsune Mike❌"],
+"5c7ea3p56q7pzir6zgitab5x":["lfgr60","Löwenfans gegen Rechts"],
+"auzl3luhp7fmlzekt2dyy7a2":["lfumarco","Luca Fumarco"]
+}) // 2023-10-28T13:23:15.809Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -59,5 +59,8 @@ var xj=(function(jsonp){ if (typeof xj==='function')xj(jsonp); return xj=jsonp }
 "bs4eosvyuyrxr3vr3l36fr5v":["xjennersonx","Jen ➡️ Anime NYC"],
 "gfobya5u7dx43mvcii7dtzcq":["xjari","Jari🎙️"],
 "6msemm5n2oxhkigg6ju357wr":["xjenn","𝕵𝖊𝖓𝖓"],
-"vy5fww3qrjsq7jklduyfg5nu":["xjuntw178","乖小俊這樣"]
-}) // 2023-10-27T07:55:49.138Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vy5fww3qrjsq7jklduyfg5nu":["xjuntw178","乖小俊這樣"],
+"u7tdtdra7mkxajxkyrxyrpjk":["xjmaw","Alex Maw "],
+"k34t7bpuhb5l6jp2dyq5u2at":["xjamarkleyx","Jon Amadeus Markley"],
+"74plcraxcrhmhegjtasdbd5g":"xjennyx"
+}) // 2023-10-28T13:16:40.206Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

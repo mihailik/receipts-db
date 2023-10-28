@@ -49,5 +49,9 @@ var qe=(function(jsonp){ if (typeof qe==='function')qe(jsonp); return qe=jsonp }
 "vuxho3borvxgbodk6ehttrq6":"qexnar",
 "z3422xucywmzgpsm6p7uxufj":"qet",
 "36grcylvm3m2rqij4q7orb6h":"qeshmi",
-"qbbd4vstubawpyj6sbktkzbb":"qep"
-}) // 2023-10-27T06:47:16.875Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qbbd4vstubawpyj6sbktkzbb":"qep",
+"4uaifdohz4ir7cpuyyvv3r4r":["qeiii17","Liz Minski"],
+"fgavkr3b6ebd3cxakzhp3unl":["qeebsky","deepsky"],
+"7wxo4yqzekn2aqrnnv4ajdag":["qephire","S'qephire Sadoree"],
+"bxoyk67fxydqxzxpbujkztfw":["qe0f58bah","평균기온9도_2"]
+}) // 2023-10-28T11:21:01.397Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

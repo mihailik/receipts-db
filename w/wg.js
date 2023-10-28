@@ -49,5 +49,14 @@ var wg=(function(jsonp){ if (typeof wg==='function')wg(jsonp); return wg=jsonp }
 "gtgzahjcxqw226ztrqo2yay6":"wguz",
 "wazvi3gbl7plz75genaxae5q":["wgreverend","WGREVEREND"],
 "cin5omexl5qr7ateh2h666px":["wgenial.com.br","Giovani Generali"],
-"4lvg6gmtgral73dflh7o5g5z":"wg1417"
-}) // 2023-10-27T05:39:42.370Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4lvg6gmtgral73dflh7o5g5z":"wg1417",
+"56ztljp552gbmf5jku6ze4fz":"wgpearson",
+"g7hpdbo4h6ub33cxtafhh6sm":"wgood",
+"j5uxh3yebql46bm4hctgrwh7":"wgingerbear",
+"ro6pxdrnwj65trdcx2gind5a":["wgwaifu","liv"],
+"swaexh4hzyuyfw3w3zryfgmk":"wgcrforever20",
+"uabtvij332efg2o3qs5maoaz":["wgrey","W그레이씨"],
+"z4om5z2ogtgkai5r4xtnmjow":["wgoggin","Bill Goggin"],
+"5p3qdobyapl3kjb65zr2wucd":"wgglz",
+"kyqheovxvsoow3wphc4ljx4z":["wgsaraband","William G. Saraband"]
+}) // 2023-10-28T14:30:33.155Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

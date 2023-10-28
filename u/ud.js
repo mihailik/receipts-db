@@ -136,5 +136,17 @@ var ud=(function(jsonp){ if (typeof ud==='function')ud(jsonp); return ud=jsonp }
 "dthkbyqji2b56fxsvftacjqd":"udm",
 "lk3gtwohlxfsaojgltx5yigq":["udderotter","🏳️‍⚧️Kiin!🏳️‍⚧️"],
 "qr3spyf3s2kxtxiwfm73qqgh":"udon-soba",
-"m7fvwptmadrd4un7t63ynqqk":["udan","유단이"]
-}) // 2023-10-27T08:02:17.513Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"m7fvwptmadrd4un7t63ynqqk":["udan","유단이"],
+"xozsbelydrtwskvkgsippkuk":["udu-kuso","うづくり"],
+"vsb4kafhlq5q6shuuw54jime":["udonsoup1","Udon Soup"],
+"xcr7pgyyjthzx4a2zzzvuwks":["udgita","Udgita "],
+"5l56fnyz3f5ctlbb2xr6y2ef":"udibrick",
+"nest6hvxzhiwdwahtgczvbqp":["ud0ng222","유동"],
+"jkn6kz5wszjex2cfnxqqmpek":["udabi","うだび"],
+"ateoevny6qaeifg3qks7rehk":"udedwin",
+"nuuyr2jaaegotyigxqzutj2s":["udukihp","うづき(しがつ)"],
+"epi3wwv3saq35aqswtnvpll6":["udonya44","悪魔のうどん屋"],
+"lgjojtelhad3pf4ubvb57mub":["udkyle","Kyle Conner"],
+"earqxt3r7t4nwut4oshc3ok5":"udoy",
+"qluwz4pshuljgihe6ocxfip6":"udderlydylan"
+}) // 2023-10-28T13:59:38.314Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

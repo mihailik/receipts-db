@@ -111,5 +111,21 @@ var e0=(function(jsonp){ if (typeof e0==='function')e0(jsonp); return e0=jsonp }
 "ljfxghw54ixvmiglzph2np6v":["e6ca53","miyachi"],
 "3bi22eg4xyz4xner43pxyqv2":"e10k",
 "nkjnfrkjd3qmshrubgodvntz":["e4t","Elite dos Quatro Traduções"],
-"f6di7li7wawsybi7hhea2qjh":["e621dotnet","e621dotnet"]
-}) // 2023-10-27T07:37:59.886Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"f6di7li7wawsybi7hhea2qjh":["e621dotnet","e621dotnet"],
+"vaylbbllbmve5nw7hya5hhoy":["e0n00","어누"],
+"wlmjoarc3v5zus55hklmv4fw":["e2ecg-sd2id","아모"],
+"g6lqiwggddpwskmwou6polou":"e10",
+"e3l2ro3b44kcmocvtfsreflx":["e43921458","비비"],
+"fst3ahdtqo7szslyetl35ysg":["e99","Emmanuel"],
+"ib4uylb7szwipx7w4mmnqvgi":["e40536","SEVEN "],
+"jdzszzxsnflrpo6ybresc34v":["e1de3","El Dee"],
+"t56upkm7ahd44eips4kyldjn":["e4von","사본"],
+"2qewebe5cciieb53hzfwaus7":["e19","경한"],
+"ajqjvcrexccsxoga3udya3l6":["e100e100","수아라네[E100]"],
+"fxfddymg7n7ap74i3qlg4ba6":"e217",
+"m5icykv2p66rmy4sgtfmgdey":["e6e3h","ひとまず"],
+"2s2zvas5fwhusikht3l6n4ei":["e9lara","くらら"],
+"l5vkpcg6a3uf6qgxrko53zzj":["e1d2eneve","E1D2EN"],
+"mpdswvywnbpldappka2447pf":["e4m7g6","Eric Graham"],
+"upnben3yon434wg6v2lru4yx":"e1pollodiablo"
+}) // 2023-10-28T14:50:54.574Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

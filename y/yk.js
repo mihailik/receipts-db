@@ -147,5 +147,16 @@ var yk=(function(jsonp){ if (typeof yk==='function')yk(jsonp); return yk=jsonp }
 "pzeexvgxc5n3o24v6ns5qu3g":["ykino","Yuma Kinoshita"],
 "yqa5fh4jjl7ldodpoc547qik":["ykowashita","YK"],
 "3ucxo4n2bxv7ehc5ekz2tg6i":["ykdrm","にんにん"],
-"ekcgvoie3ptvispzhwhem33n":["ykaest","dayana"]
-}) // 2023-10-27T08:06:15.823Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ekcgvoie3ptvispzhwhem33n":["ykaest","dayana"],
+"5qid2vsoht7mpd7qgs3zkl4a":"ykyono",
+"6kjcbj77gzvlnzgh4mgiky2u":["ykfj","藤彦 祐貴 Fujihiko Youki"],
+"eyscmfsnc2qlyxc3zlstald6":["ykittan","とうふめんたる"],
+"k5vyoe6r4afgcay4k2mrsagw":["yktt","よこたて"],
+"dcxxuyqmytl4x3357vv6xx5f":["ykhm","ykhm_ob"],
+"fm666mx6jg2l7cpvfj45la7c":["ykatagiri","片桐"],
+"m3uu6dtcrwguicmgm3ob2wjs":["yknowyna","Y'know...Y'na?"],
+"b5et32awpeaynp22dyxts27r":["yknm0220","✨윸님/62✨"],
+"skdc2w6oubavciqgrxkhssme":"ykorolyk",
+"s2qkdcm7igxr3jxqprnrllyq":"ykushch",
+"cjkgwug4ozcwiahacvrrh3i5":["ykhkrin","あまねこ"]
+}) // 2023-10-28T14:52:24.814Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

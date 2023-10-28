@@ -4,7 +4,7 @@ var zf=(function(jsonp){ if (typeof zf==='function')zf(jsonp); return zf=jsonp }
 "6gmtdexnravcgbru5ylk56ra":["zfurnas","Zander Furnas"],
 "iywtsqlb72hrkjdwd6todxbx":["zfgtrier.de","Zeit für Gesundheit Trier"],
 "t4xfo22siaxvkmgz5vdn2nk7":["zfrazier","Zachary"],
-"t6z2cmcdumsl2hrg4j6c6xdb":"zfx",
+"t6z2cmcdumsl2hrg4j6c6xdb":["zfx","Zfx94, Volxfahrräderverleih ANTIFA, Antikatholik"],
 "yskqr6hmzvxt7gl5rz45fnke":["zfisher","Zac"],
 "htju2svyul4dplgybtmyivaz":["zfab.me","Fabricio Zillig"],
 "5zvl7xelykedeii4nk4ms5mx":"zfav",
@@ -41,5 +41,8 @@ var zf=(function(jsonp){ if (typeof zf==='function')zf(jsonp); return zf=jsonp }
 "2z4c5whsan6obks3vgjyizr7":"zfcook",
 "4rrih5meoo6gckxqfdwyphr5":["zfj.network","ZFJannik"],
 "qlgo6zrsohi2opvecav3hoxi":["zfsaffrette","Zita Foley Saffrette"],
-"xya4hjvlcvwi75u4b5yi4njy":"zfubarz"
-}) // 2023-10-27T07:48:34.576Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xya4hjvlcvwi75u4b5yi4njy":"zfubarz",
+"auk6akbscouvehjm6jw4g74q":["zfursee","Zee"],
+"vg6q5agsl4jwze3qqozf4y4j":["zfx7z6",":Q"],
+"tpxzeaqgyhk7p4d3hakmldfy":["zfeder","Zach (normal)"]
+}) // 2023-10-28T14:25:22.168Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

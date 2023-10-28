@@ -53,5 +53,11 @@ var wf=(function(jsonp){ if (typeof wf==='function')wf(jsonp); return wf=jsonp }
 "vbidyovf6bq3cwe63mfwgxfa":"wfly",
 "b5adwievt3x4wju2mn3dejby":"wfdfevents",
 "vkr4hqsnq74z6x5elsp4lob5":["wfminnick","TheWriterFantastic™"],
-"274a5fwrwrq2cod25n3dvgk3":["wfurball","William Furball"]
-}) // 2023-10-27T07:40:21.160Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"274a5fwrwrq2cod25n3dvgk3":["wfurball","William Furball"],
+"zvrw2nkwmo3abzwf7hyl4j3c":"wfmanning",
+"jgar52ecrgwljt335ssjldeh":["wfiresoul","WFiresoul"],
+"qzww2tz3agjxjwoel272p6hy":"wf04",
+"74hjqhbtqezskg5dxm6xr3vj":["wfiu","WFIU Public Radio"],
+"uxckrh35x5qqfj6s6lbfxb37":"wfnycle",
+"ejztm3xnykqaugsox7eoqqip":["wfpremo","Primeaux"]
+}) // 2023-10-28T13:44:18.605Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

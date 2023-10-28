@@ -56,5 +56,11 @@ var qr=(function(jsonp){ if (typeof qr==='function')qr(jsonp); return qr=jsonp }
 "23hom4b4lponul45g76t6bg3":["qrw","Quinton"],
 "7jwbchrklrtvo2xpvrt2pdwz":["qrogenn","Qrog"],
 "h2pg4tgnbbedcqnktkavd5tn":["qrky","Juni"],
-"5qd4wl77pzdxx6ujyvjwmn25":["qrow92","Sam Correa"]
-}) // 2023-10-27T07:40:21.118Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5qd4wl77pzdxx6ujyvjwmn25":["qrow92","Sam Correa"],
+"gkpbh72zubh4fe6brsx6kt7k":["qrow","bad luck charm"],
+"2zdc3oghe4ah6ptqzfzioykl":["qrusher14242","Qrusher14242"],
+"g2nbzuzxoxdyu7n3viezlpsn":["qryosity","qryosity ⭐🌙 Live2D Rigger"],
+"fexkac32o6f7ndxf6fzosdq6":["qr-codes-are-qt","QR Codes Are Cute"],
+"q45q7nqxq23qgy32jrmjhbms":"qridaisensei",
+"d72eos3ypl2bnqetw22vjmnb":["qrom","くろむ"]
+}) // 2023-10-28T12:41:10.203Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
