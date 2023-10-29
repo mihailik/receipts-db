@@ -1011,5 +1011,22 @@ var wr=(function(jsonp){ if (typeof wr==='function')wr(jsonp); return wr=jsonp }
 "zyhoptnw2rw3enwkxvzaxynj":["wr3h","wren"],
 "qhrlqmjczigfbt3wbh4rbhbv":"wrmsr",
 "4h42jep46wehq4xdjhcjo6zv":["wroclaw","WroclawGuide.com"],
-"56vg2l27lj2jt3qhoh6r2i37":"wrinklewroes"
-}) // 2023-10-29T19:22:42.104Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"56vg2l27lj2jt3qhoh6r2i37":"wrinklewroes",
+"44duhaekn6odkmj7g2axbrw4":["writingchallenge","The Monthly Writing Challenge 🖊️ "],
+"kagucdlfc4jwc3rsygcdn7x2":["writesofway","Writes of Way"],
+"uuweczgb23jghmhn3567oacl":"wroclawguide",
+"zkzwaqcrkwrv77gelggkzc2s":["writergeek","Deborah Talbot (Dr)"],
+"sz5lelq6nyx7d65hzfwftmdr":["wrunks","carl"],
+"z32uqymd4dxwxtctnmcy7agj":["writerkat","KylieT"],
+"ayvybowervgzodv475v3y35t":["wrios","eri"],
+"2lt63zeo4rqzcztmjhc6knvk":"wronglever",
+"dp2sy6jbjhiuicfmdpifp6mw":["wridgeu","Marco"],
+"v2z5ul4xvms6qidrf22q5lss":"writers-block",
+"m5pmjen3yjtxwzwe5i6colk6":"writefirster",
+"nadalgqmyie3z2i3iupjcg32":"writer-a",
+"trkcfhx5yxm7jmanbiq42wh4":["writeups.org","Writeups.org"],
+"ti44qt4zyfzzwgmsalzhutbc":"wrernf",
+"i3ae6zyo7owpkt6yuzrjtvic":"writerkayan",
+"oqhg3p3cmmnvwkfks2s5gkgy":["writefestbe","Writers Festival of Belgium "],
+"t6jqcrylid7cpjc7res7ottk":["wrcs","Walter Somerville"]
+}) // 2023-10-29T20:51:40.169Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

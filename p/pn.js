@@ -229,5 +229,9 @@ var pn=(function(jsonp){ if (typeof pn==='function')pn(jsonp); return pn=jsonp }
 "by6djhdshfi7xyj27izlk5fp":["pniedent","Paula Niedenthal"],
 "tkwmdsvfq5sr23oyz3ouaum6":["pnorsei","Infidel"],
 "hyrbyxhucdtbqermkkqmpl5x":"pnutbuttrscoob",
-"kzbh4imwcbok6u5a3fc64hfs":"pneuma163"
-}) // 2023-10-29T19:02:13.737Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kzbh4imwcbok6u5a3fc64hfs":"pneuma163",
+"q73hsokmtqrpvjh7qddscgvm":["pnl","PNL"],
+"5so2qnosv5edfo535fufxdwt":["pnn","Potsdamer Neueste Nachrichten"],
+"icyyxrqyedyhx6c2pqxultm7":"pnicholson",
+"5ai7y3w6bjqgmvdu6paklinp":"pnlp"
+}) // 2023-10-29T20:34:53.283Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

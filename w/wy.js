@@ -553,5 +553,15 @@ var wy=(function(jsonp){ if (typeof wy==='function')wy(jsonp); return wy=jsonp }
 "luwr4jv2r36ms7o3ox72cjnq":["wyvernmoss","Wyvernmoss"],
 "jnst2t6sc7itp6maunqpk5s2":["wyrmwoodpyro","Wyrmwood Pyrography"],
 "enppzss7ee6dxcwmnwxtwr3c":["wynti","Wintyr"],
-"mce33gzhazch7yh5gggcanrp":["wyclefparmejean","d—y is on bluesky"]
-}) // 2023-10-29T19:19:45.955Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mce33gzhazch7yh5gggcanrp":["wyclefparmejean","d—y is on bluesky"],
+"t5qprgujca6jm6mbjc2wklnb":["wyum","wyum"],
+"ueyl7dbc6rswp3ky2vutkurk":["wyvernhearts","wyvernhearts"],
+"mkqzcpgp4b6j2l3z22agwsen":["wyntersolstice","Wynter"],
+"wexyszjzncrcvxz4ez2kst4z":["wyetea","和井 丁"],
+"m7fpslqw67eorzhwbxufucap":["wyvaranus","Wyvaranus (🔞)"],
+"qur4xsikl5tvk7rec6cji6au":["wyoruralguy","Wyoruralguy "],
+"llxtungi7znokdwo4hdkldh3":"wytchdaddy",
+"hk2xywckeucew4irmjzqvv5t":["wyntersmol","🌸Baby Kitty Wynter❄️"],
+"s7oum3bl4p4l4sdg5v3vkhye":["wykia","wy"],
+"zsspptgv2g53c5yn3yk2kobe":["wyrdnerd","a_wyrd_nerd"]
+}) // 2023-10-29T21:01:58.502Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

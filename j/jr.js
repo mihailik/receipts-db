@@ -966,5 +966,22 @@ var jr=(function(jsonp){ if (typeof jr==='function')jr(jsonp); return jr=jsonp }
 "lxrtgw6ghxjo4gogvyisslya":["jrpg-meathead","JRPG Meathead"],
 "5wgy2mt7kpwmkl2bdkiqye2c":["jrod32","Jessica Rodgers"],
 "gwzex4a66lq7yj6zpkqyivvf":["jrichstein","Jörn Richstein "],
-"zr342jr6dosoftgukp76svhi":["jrvollhardt","Johanna Ray Vollhardt"]
-}) // 2023-10-29T19:22:42.105Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zr342jr6dosoftgukp76svhi":["jrvollhardt","Johanna Ray Vollhardt"],
+"vu2ujd4hlrjv2y4v472flnbe":["jrdn7","ᴊᴏʀᴅᴀɴ"],
+"e4bbpqjrljt77zmfjrr354co":["jrivasm","Jon Rivas"],
+"rfjhco5l5c5jzhfgvfizyy6y":["jrwaugh","J.R. Waugh"],
+"7dwfiqoi7z23rfpk2nrmdv7m":"jrogun",
+"7r6fa54ubpzmogpcfkwlrce2":["jryalt","Jare Bear "],
+"flmmk3ykr72oh7r5ylwwvfu6":"jrobens",
+"4glwdm3lu25nepspwwe2tkci":["jrdd","Joshua Drakes"],
+"dx545zrciaj7wqbp6uvo2joi":["jruddy99","John Ruddy"],
+"x5q6kdqycruirccgmkbp4vfq":["jrgns","Jrgn"],
+"3p7a27rp7akabpj2wst25ctq":["jrphotography","JR Photography"],
+"ppylwxjy6ardqdyqvyag2xmp":["jriggles","Riggles"],
+"46zigxbaltglhm4v46icsrkj":["jrshitbitchbear","God Shrinked My Johnson But I Fought Back"],
+"u57mzg2og5opxluu2ofs5pbo":"jrxhs",
+"knqonvhc7aq642facz7iy3xt":["jrradatz","Jörg R-R "],
+"hemjkf6sk6dfzqfgigadater":["jrmcc78",".JRMcC78."],
+"tolrfv5zuimwsxj5kmym5gdq":["jrocketz9","Jonny"],
+"it5hqifwh37zbyucxc5t5xaf":["jriggs","Riggie Smalls"]
+}) // 2023-10-29T21:00:29.099Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

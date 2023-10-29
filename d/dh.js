@@ -584,5 +584,15 @@ var dh=(function(jsonp){ if (typeof dh==='function')dh(jsonp); return dh=jsonp }
 "nyx2wc6y6jwk4mvpv55qoo7i":"dhsynth",
 "mhhens6j6tzcchhr4kfqj7p6":["dhume","Sadanand Dhume"],
 "qqcfavluhkder22lw5ogxvrw":["dhachfeld","David Hachfeld"],
-"4qptlzqaa5lrejzaqekg5wqa":"dhruvaha"
-}) // 2023-10-29T19:22:41.520Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4qptlzqaa5lrejzaqekg5wqa":"dhruvaha",
+"mbxobnbzsj6x3anzcgfp7ovg":["dhanbir","Dhan"],
+"dkknis2sma4nrld7l6qfjy2f":["dhvt","AlorsOnDance"],
+"ga3ifl3xmia7czno6wuvs6m7":"dharmabums",
+"z5fneae3h7nmnxhxyvezkw5j":["dho08","DHo 🐶🔎"],
+"xjuewqf22a65mr67oaeadpom":"dhlocke",
+"ycasscc5elh5u7fgvjloynpo":"dhupi",
+"zui7ww6kfkxrelhw3p6v6hzd":["dh-researchhub","Digital Humanities Research Hub"],
+"tlzhvhclg2f4gzwanuq2amjs":["dhoffmann","Dustin Hoffmann"],
+"kyashtcbaa6qoiiz2ukgskbg":"dhoalid",
+"5j3ciuatthfo4z6nu7mvpwkl":["dhaas","Dani Haas"]
+}) // 2023-10-29T21:01:58.481Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

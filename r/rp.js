@@ -323,5 +323,12 @@ var rp=(function(jsonp){ if (typeof rp==='function')rp(jsonp); return rp=jsonp }
 "kettzxwptsw3xlww5bwy5aii":"rpn42",
 "hf4att4frwrtbm7x66skceci":"rpg20",
 "wiohzpi3e22few6qytgbnlas":["rpethiyagoda","Ravi Pethiyagoda"],
-"bdhdtp7hp3aegb6ji5vws3fz":["rpgmaker","RPG Maker Network"]
-}) // 2023-10-29T18:29:40.655Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bdhdtp7hp3aegb6ji5vws3fz":["rpgmaker","RPG Maker Network"],
+"dyjyk6z2qgsvagdnrejqeclj":["rpgrobot","Rpgrobot"],
+"uhkkdhgwgzgu4wubiq6mxpq7":["rpjeans","RPJEANS"],
+"fso4olttket6b7w7k3qsi4jk":"rpbartone",
+"fabuzxteoknnogx56m6lyjs5":"rpaulint",
+"hhn73iatgld7mlupuwflyoju":["rpwester","Rolf Wester"],
+"ch3qbqkbujcw2igoza3wthyw":["rpjohnst","russell"],
+"jqj3dnxzjeuf5nk4y73fgwsp":["rpwhardware","Jeff Clukey 🧟‍♂️"]
+}) // 2023-10-29T20:56:36.862Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

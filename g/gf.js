@@ -152,5 +152,7 @@ var gf=(function(jsonp){ if (typeof gf==='function')gf(jsonp); return gf=jsonp }
 "tgkgeoq2arwwvyu336jlm7ye":"gfkbill",
 "asggmyqfzcmr7lmekb7cpi3i":["gfritchey","Grant Fritchey"],
 "ssrtlt7pym656ozqk4rb4odt":["gfloridi","Ginevra Floridi"],
-"yukhcyf37itiz774f4zj5ig2":["gfmaterialpod","Girlfriend Material Podcast"]
-}) // 2023-10-29T18:31:09.568Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yukhcyf37itiz774f4zj5ig2":["gfmaterialpod","Girlfriend Material Podcast"],
+"gxfp2ko2ta4awaigselnxyeb":["gfitz","Gerard Fitzgerald"],
+"cvuql5imbikzds7gih5nkpur":"gfullerton43"
+}) // 2023-10-29T21:01:58.344Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

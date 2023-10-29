@@ -352,5 +352,16 @@ var dg=(function(jsonp){ if (typeof dg==='function')dg(jsonp); return dg=jsonp }
 "6sh6cip3bl3y7n2zigw32dpq":["dglendening","🌾🌾🌾"],
 "n4sss6gpa25h2rir7szae2bq":["dgoldwert","Danielle"],
 "3otzzi2rt7ddk6x5se522zx5":["dguckenheimer","Debra Guckenheimer"],
-"244xvtwm2aqecsxqhcpu44kj":["dgvgvg","쓰읍.."]
-}) // 2023-10-29T19:00:43.239Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"244xvtwm2aqecsxqhcpu44kj":["dgvgvg","쓰읍.."],
+"omb67r7rwn6wqjtgiawbk657":["dgnaegi.ch","Daniel Gnägi"],
+"k2brbngvbaucew5oqhorjjpi":["dgolucky","David"],
+"difjfjt2cmcd34ixzrvyjljf":["dgmecfs","Dt. Ges. für ME/CFS"],
+"drb4fprz3wrg3has6leyaqfb":"dgreins",
+"z3icdtc7f2qbnemwnmbvqup3":["dggz","Jagan Anime"],
+"aur23njqweot26yryddwdtes":"dgfrmhll",
+"3q76y7worvtvglmixehkig7l":["dgbniedersachsen","DGB Niedersachsen "],
+"4h7sthxbrsolmssbhbwas6om":["dgottleib","Danny Gottleib"],
+"axzqjqlb2nx5tuwjildpj6rb":"dgarcia",
+"qtmfdqtswexhcgtr7md5guh4":["dgrey","Darren Grey"],
+"cvxtqddaw3eljihxdlnjngyu":["dgoicocheap","Daniel Goicochea"]
+}) // 2023-10-29T20:45:02.794Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

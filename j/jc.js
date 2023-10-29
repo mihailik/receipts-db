@@ -1018,5 +1018,22 @@ var jc=(function(jsonp){ if (typeof jc==='function')jc(jsonp); return jc=jsonp }
 "2cwlyfybzj7zcwvwhdhhnjqh":"jcw1967",
 "cf7mqav6s337ymlfcwo56hch":["jcjohnson","Jsquared"],
 "s3beom2j7xr2h2ao6uxqilxi":["jcfellamd","JCFellaMD"],
-"fhnzbnj6impezvqd64wqxcm2":["jcultecon","Journal of Cultural Economy"]
-}) // 2023-10-29T19:15:58.833Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fhnzbnj6impezvqd64wqxcm2":["jcultecon","Journal of Cultural Economy"],
+"7hllpp3vqsby6ipenpe6urpj":["jcbehrends","Jan Claas Behrends"],
+"cq6bngrhjcqzvhtrpf5oj3pm":["jcbublitz","(Jan) Christoph Bublitz"],
+"ihdjwpb2lv6d7vmf45kec3p3":["jcaf","Juliane Fürst"],
+"kr7hdax4yjbyhbzjpbt6ckbt":["jcwagner","Jens-Christian Wagner"],
+"i5qzagpx5lrhuqnzdjrhr2pn":["jcassidy","Cassidy"],
+"umnrgwfth7poow52mtqm6buh":["jchingweilee","Jenny Ching-Wei Lee"],
+"gt52xdu5abf4rccetfr2oxlo":"jcbbnvt",
+"jrejse6usy4tasem4zhs5aqg":["jcagundlach","Julia Gundlach"],
+"ghqyz537x7ldrvv72bhivpru":["jcjouh","全婆俠豆芽"],
+"klf5yxwwzs6ljkpqdd5ysmgj":"jcs88",
+"sbjmp4hhddg5u2he4mgflfsg":"jcszombathy",
+"e3rsqhs6akvvs46unn3cwmkp":["jclarkkohoutek","Villa Fella"],
+"xdhndt3njle6yw7nxhhy6gub":"jcbouchard",
+"y4osryrucufeuamalkpl7zn5":"jcbohnerth",
+"2tn3kvn57xjturljpegwcevs":"jcbuer",
+"kvxwgenfdooh2afgh7qmkovj":["jcdynasteel","JC Dynasteel"],
+"hgedttp6zazgjmeklohfyhdv":["jclenzi","Jeremy Lenzi"]
+}) // 2023-10-29T20:58:56.797Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

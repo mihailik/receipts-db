@@ -371,5 +371,15 @@ var rd=(function(jsonp){ if (typeof rd==='function')rd(jsonp); return rd=jsonp }
 "2xzw6pp6y5b6sfsxfuedrmhe":["rdottb","R dott B"],
 "ykyho2ros6fysarey7johtz5":["rdangler","Rep Richard Dangler"],
 "v6y63c54iecyzlxp3vrxvwv2":["rdisc0mb0bulate","Ro 🏳️‍🌈"],
-"rzxxyz3t74epdyl64773ex3m":["rd90022","Rob"]
-}) // 2023-10-29T18:55:34.084Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rzxxyz3t74epdyl64773ex3m":["rd90022","Rob"],
+"gmvuwz3pgm5yusaavgpsszxb":["rdennisjr","Dennis"],
+"7zvqzysbzs24l36vmcrhvmac":["rdwn","Mahmoud Radwan"],
+"kg6xiraqavsl7nhxzbktxzkg":["rdieckhoff","Ruben Dieckhoff"],
+"7ligxx5sszflrnmxb36vgmlm":["rdnardin","Rodrigo De Nardin "],
+"7iln3hpsxghwltsfjq2m7fnn":["rdanielkelemen","R. Daniel Kelemen"],
+"os23nz2vpipnfh5jkqn7mbo6":["rdl-aktuell","Radio Dreyeckland"],
+"zlxzb7dp7xjklemykjmz63u2":["rdjs","Rob Smith"],
+"uhxm77pam5gq3cfphped5pe4":["rd-bln","Roland Dathe "],
+"micvsy2poi7iw6mzi3gvndwd":["rdatatable","data.table Community Team"],
+"3ltnplxitsg4ok6mxh6kxe5y":["rduppydup","Ryan D."]
+}) // 2023-10-29T21:00:29.189Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

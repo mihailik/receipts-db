@@ -204,5 +204,7 @@ var cv=(function(jsonp){ if (typeof cv==='function')cv(jsonp); return cv=jsonp }
 "4enchoyiqpvehtgz3swxnybh":["cvoelker","Christian Völker"],
 "zk6gbbowcylfog52fjxmzeek":["cvitiello","Dr. Christine Vitiello"],
 "h74jam7ntvwbepy72affkx6f":["cvanv8","Carl"],
-"styzaeivq4cwkup2wurtc7j6":["cvm","Cvm"]
-}) // 2023-10-29T17:15:59.548Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"styzaeivq4cwkup2wurtc7j6":["cvm","Cvm"],
+"ajizxondjcnxewckljx6j64j":["c-vassili","C-Vassili"],
+"3ypn5scumzb3avilg24aeq6k":["cvila-museum","Christopher Vila"]
+}) // 2023-10-29T20:09:40.555Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -166,5 +166,9 @@ var vt=(function(jsonp){ if (typeof vt==='function')vt(jsonp); return vt=jsonp }
 "bdhg3z5doji2nwdbyyibfrmh":["vtvsqazjjguhfrd","時雨ヨシ"],
 "ki7ik6oi4xa4ohffta3gpvzo":"vt27",
 "g4mntnuldthyvxdmdauwecqn":"vtryan",
-"dbeyngdoz25qduqbiqtcdmu5":["vtmonii","Monii Q"]
-}) // 2023-10-29T18:36:33.192Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dbeyngdoz25qduqbiqtcdmu5":["vtmonii","Monii Q"],
+"ypoeq32yvn5hzpkp7ydcmszl":["vtwhite","vt_White"],
+"nvg6j5p2lyintnfgmgrvihhr":["vtfishgirl1","Linda AKA VtFishgirl1 "],
+"ugdljhbce4hfva453yapqcgw":["vtubersweets","Sweets! 🐈‍⬛ || [cyberpunk vtuber]"],
+"o4ptyvqwnni4v4ot2jeisfe3":["vtmira","VTMira"]
+}) // 2023-10-29T20:53:39.151Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

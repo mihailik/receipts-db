@@ -456,5 +456,15 @@ var hr=(function(jsonp){ if (typeof hr==='function')hr(jsonp); return hr=jsonp }
 "msmww7zzmbn3rblnqh3jyfdx":"hreflex4",
 "ykpl3a67bvlydawsb6577rll":["hroadfeldt","Holly Roadfeldt"],
 "s5kyqv5l5bu52be2px3kehoh":["hrakbkgosaioshi","おみゆ"],
-"hfuvfo5mcekk5kn26kcn4w5f":["hr-tante","HR-Tante"]
-}) // 2023-10-29T19:15:59.380Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hfuvfo5mcekk5kn26kcn4w5f":["hr-tante","HR-Tante"],
+"5fxqdcz67wr77amuapvtfdmh":"hrartist",
+"fiyit3pqjtwmhbv2s6gkc6la":["hrene","René"],
+"xng3mlh5nw4m2yrdjx2ospw6":["hrae","🌵Hraaahlamort🌵"],
+"xs22mgsddtgvsu2a5x7plfdg":"hrtny",
+"iqhkhrizopqo34ltlmn37ycv":["hriedel","Hendrik Riedel"],
+"szuqjfuwghhsu65crjpyehas":["h.ritter.me","Hendrik Ritter"],
+"6ylum2frmrpsl6jdblqvvfxe":["hrcowan","Henry (Raffles) Cowan"],
+"jymyxsagzd4koh4v2p6wyufr":["hrnilsson","Herr Nilsson"],
+"lakcos23dmxovcuzte26kaca":"hrishee",
+"uj47ncrlwkgksioqv6gilz4h":["hrtdemon","lia"]
+}) // 2023-10-29T20:50:04.578Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

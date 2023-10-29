@@ -186,5 +186,7 @@ var hk=(function(jsonp){ if (typeof hk==='function')hk(jsonp); return hk=jsonp }
 "jwboiodbcu222tfg5z47rn6r":"hk1g",
 "mcungc6jukdjpxq3ngeo5prs":["hkhodai","hema khodai"],
 "sgsy6v67copkm5mx25n342xd":["hkc-no","Hong Kong Committee in Norway"],
-"imf3wj3rn7vofsmgrovi2bla":["hkwissenschaft","Maho"]
-}) // 2023-10-29T19:07:15.226Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"imf3wj3rn7vofsmgrovi2bla":["hkwissenschaft","Maho"],
+"2kamyh2c2ym3vezkmylbilvw":["hkw1981","Hazel Wright"],
+"atiw27liy47fyp35yv3l6g64":["hkrinkle","Henry Krinkle"]
+}) // 2023-10-29T20:46:32.485Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

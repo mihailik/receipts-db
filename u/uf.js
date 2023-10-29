@@ -133,5 +133,7 @@ var uf=(function(jsonp){ if (typeof uf==='function')uf(jsonp); return uf=jsonp }
 "3mnnkh4wyfzt2yc5ncetl2uy":["ufsoc","Fumiya Uchikoshi"],
 "leonps464vf56w5njbrdnpxg":["uffda","stephen "],
 "l3ndobcdti57wxx4jphwfxhg":"ufplantpath",
-"xt5xhbgzeete3s4276x45uho":"ufotter"
-}) // 2023-10-29T18:54:05.653Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xt5xhbgzeete3s4276x45uho":"ufotter",
+"mvbmq4apnkxgnmepvand6br6":["ufovereinherne","Jessi 🛸🌈"],
+"zqydjvlxipzewyumvr6wdm4u":["ufocommander","Ufo Commander"]
+}) // 2023-10-29T20:24:02.426Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

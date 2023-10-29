@@ -344,5 +344,11 @@ var dp=(function(jsonp){ if (typeof dp==='function')dp(jsonp); return dp=jsonp }
 "uuttybouvykwwiskshqnviuv":["dpsmith","Dee Smith"],
 "vugdtv4k27jxyubexvhcclkp":["dpacoordinator-aic","Amnesty Canada Campaign Against the Death Penalty"],
 "tkqqpomveotbur22co4limu5":"dpoppleton",
-"5v5whpe4d5znesmxeglhbohh":["dpshr000","96세김에녹의인생마지막메리고라운드"]
-}) // 2023-10-29T19:17:28.237Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5v5whpe4d5znesmxeglhbohh":["dpshr000","96세김에녹의인생마지막메리고라운드"],
+"pratu7hmemczcnfsfaus63gy":["dpagliaccio","David Pagliaccio"],
+"ke2ixzoxsbxuyd3ziiqttzqy":"dpucino",
+"26vrk3s4ktpv55jl7rogmz2a":"dpshepherd",
+"vaeqt5keaz64vzmisy25l7mz":["dpofficer","DPOfficer"],
+"ziihxp5zwraapntfvnhoaljl":["dpjedi.org","Data-PASS JEDI"],
+"xlvt7t3lz3pyhnqjzg67caqr":"dpmanwithaplan"
+}) // 2023-10-29T20:58:57.366Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

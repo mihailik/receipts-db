@@ -128,5 +128,6 @@ var eq=(function(jsonp){ if (typeof eq==='function')eq(jsonp); return eq=jsonp }
 "dhpbqwxe433kldweac6l3ry5":["eqph","-EQ-"],
 "cavcx536cqqdhafh4u4qc3c2":"equigray",
 "nbn42kdcsikeryx4lgwazsmw":["equestriadaily","Equestria Daily"],
-"isj2qru5yqd72hzff4lekcl3":"equiscu"
-}) // 2023-10-29T16:39:09.245Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"isj2qru5yqd72hzff4lekcl3":"equiscu",
+"n7kq3cspxryfjfkc3dmuz6fb":["equilax","Andreas"]
+}) // 2023-10-29T20:33:22.876Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

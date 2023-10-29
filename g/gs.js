@@ -341,5 +341,9 @@ var gs=(function(jsonp){ if (typeof gs==='function')gs(jsonp); return gs=jsonp }
 "sh6t5ajr7orcjhmwb7hylkln":["gsundell","Gustav Sundell PhD"],
 "d7qkljvp2frg7m6glrtwxzm3":["gschwenzi","Gschwenzi"],
 "qdnmv4qqdx4bwgdjqkq54kcu":["gsprocne","Dia"],
-"o3ajmtmrnvkszh3jmgbmhoit":["gscheitername","Jutta "]
-}) // 2023-10-29T19:12:24.805Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"o3ajmtmrnvkszh3jmgbmhoit":["gscheitername","Jutta "],
+"dtcj2avyrblfpqmzjbmnsrdb":["gsflairarcorde1","PierreHB84"],
+"4mhpmptgxz3niwjk5trzperz":["gstra","Gabriele Trapp"],
+"jmmr6o6i4ppflkcxbt5cipm2":["gsberlinev","Gesellschaftsspiele e.V."],
+"lu2xrydeqppogwcncybc5dfk":["gsides","G Sides"]
+}) // 2023-10-29T20:25:30.501Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -211,5 +211,10 @@ var ww=(function(jsonp){ if (typeof ww==='function')ww(jsonp); return ww=jsonp }
 "kd7lft2lm47vheuy5bpvbm3z":["www.intuitivepublicradio.network","Intuitive Public Radio Network"],
 "mamxemyo35cgtbg3aicjq3am":"wwyk",
 "x3ruco5usv5uothu2bxmxwr4":["wwars","ByteWare!!"],
-"w4vz2nlhjqceehjpnnprb33b":["wwwkawasemi","わらいかわせみ"]
-}) // 2023-10-29T18:59:13.290Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"w4vz2nlhjqceehjpnnprb33b":["wwwkawasemi","わらいかわせみ"],
+"54z4xmqgy53cljpoo6v3zn4y":"wwladymdo",
+"3scbfvuizd4klitveyx5ufai":["wwf.de","WWF Deutschland"],
+"vwondulindbvstc4nwrqyx2g":"wwrenn",
+"mbvkxfljpz7sncqmi642ix5f":["wwttpodcast","What Were They Thinking?"],
+"gcgt3uewrepc5l3mpllmh4ki":["wwilliamc","W"]
+}) // 2023-10-29T21:04:10.420Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -182,5 +182,12 @@ var zw=(function(jsonp){ if (typeof zw==='function')zw(jsonp); return zw=jsonp }
 "tucktynl355al2skyriwwin4":["zwf90","Zwf90 "],
 "nkl4caryyafv6rj7hfw26dfs":["zwiebeltreter","Zwiebeltreter"],
 "tl5co2lltsdgqd4er655gfrf":["zwischenstation","SysiFutti"],
-"wikniw42fu673hcr7tg3sz57":["zwiegespalt","Zwiegespalt³"]
-}) // 2023-10-29T19:15:59.674Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wikniw42fu673hcr7tg3sz57":["zwiegespalt","Zwiegespalt³"],
+"o52hje7zboerldkso5vksydf":["zwetschge","Rami"],
+"e4qfwydsedohkrnybrlnwlia":"zwitscherlinge",
+"43kawtb3m4ivic6qdgu54msn":["zwern","Sven Hansch"],
+"7une4xsfengybpzos2bpjjv6":["zwillizwei","Zwillizwei"],
+"wnn262htewd4eaiito2edadd":["zwoelfnull","Caro"],
+"demebhvjht7kten3sm3czyvi":"zwischenfall",
+"5egd34zzhkc76invcwtw7qqw":["zwetschgenmann","Zwetschgenmann "]
+}) // 2023-10-29T20:20:02.411Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

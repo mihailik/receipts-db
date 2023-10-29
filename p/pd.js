@@ -363,5 +363,12 @@ var pd=(function(jsonp){ if (typeof pd==='function')pd(jsonp); return pd=jsonp }
 "ikqayrfeyprhhhqoyinfoauj":["pdalgd","Peter Dalgaard"],
 "2tyyl3vy6tx3l3hsoyiwvdm6":["pdxmerovingian","YCP"],
 "bfr7lykql6eigq6ozssvwimn":["pdsnph","☆(Marion Ravenwood enthusiast era)"],
-"j6wp74uxkw5qzga34puquhiz":["pdcawley","Piers Cawley"]
-}) // 2023-10-29T19:05:45.166Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"j6wp74uxkw5qzga34puquhiz":["pdcawley","Piers Cawley"],
+"nfxjaqskzq4hbqvutkj37rs6":["pdominguez","Patricio Dominguez"],
+"5466i72ztc6h3c6bl63j7nwo":["pdigiulio","Paola Di Giulio"],
+"yt6pez3a4jhr65n62uilqoqd":["pdansmabul","Personne dans ma bulle"],
+"dtlj4cygy7xl5qy4gd4npo4c":["pdazu","Plantfather"],
+"uref7rbisqyky7nrshn5fmeu":["pdinger","Patrick Dinger "],
+"3jzocckzrij3axwkks3cxnwr":"pdpmanj",
+"qmtrquizwyrn2u4i2b3opkbt":["pdxpaulie","Paul Fellábañan"]
+}) // 2023-10-29T21:00:29.282Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

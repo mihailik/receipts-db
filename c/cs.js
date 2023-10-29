@@ -705,5 +705,20 @@ var cs=(function(jsonp){ if (typeof cs==='function')cs(jsonp); return cs=jsonp }
 "xvuq3elifsog2qsjh2quww6f":"csharp",
 "yg5pipgbmunab4n24em6fahv":"cswift",
 "qzhaxffxmo6zbcz76x2a6k6d":["csizel","C. Sizel"],
-"qmzzarsrpn44odrxcociu3a4":["csada","Cassandra"]
-}) // 2023-10-29T19:19:45.936Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qmzzarsrpn44odrxcociu3a4":["csada","Cassandra"],
+"6f5yea3ur67e7eqvhnzify6d":["cscoop","cscoop"],
+"rgqazjf6nopwtcvsjynenwfu":"cstrzadala",
+"v6xw3n47lxyr546cb5zi6frz":["cstyrer","Clewin Stÿrer"],
+"j56kr5jju5vivfjthmcyxtf6":["cschweighofer","Clara Schweighofer"],
+"iac7vdm5xo2bisqkwqjzwjne":["csferguson","Connor Saparoff Ferguson"],
+"62oxmb2p77pgy4qi6hakdbap":"cschuster",
+"hmwra6wprs6r5xhbfh3tswme":["cslamo","Claudio Slamovits"],
+"qcid5djp32xz5ntpexs55egr":["cs1903","Chrissi"],
+"bfh64dvgbgaylm73rx32onap":["c-serg-v","Serg"],
+"ndxd4h47nhylsdfke4x4arlk":["cskwriter","Dr Seán Ketchem"],
+"e7dsl7dm4gknrgqxwnmsyf7n":["csabel","Christopher Sabel"],
+"lncfmrlaipmab6muuzahcifc":["cssmit","Chris Smith"],
+"5i63kapeccend4yynsylidqt":["cscharun","Dr. Christian Scharun"],
+"6kjdfcclfi5eiu2a742xkava":["csyddion","Csydd"],
+"ekcowvkvgwnibvapl62b3ult":["csc-krefeld","Cannabis Social Club Krefeld"]
+}) // 2023-10-29T20:55:07.573Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

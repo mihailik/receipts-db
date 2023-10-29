@@ -316,5 +316,15 @@ var nd=(function(jsonp){ if (typeof nd==='function')nd(jsonp); return nd=jsonp }
 "5y5vbjdnz3iatqi34iqnliz4":["ndmethodists","Nottingham & Derby Methodist District"],
 "53q5j6zdniivqtywpliymeto":["ndelacerda","Nicolás de la Cerda"],
 "bpiapjxhnkwvbb7gupd5qofh":["ndaniels","Noah M. Daniels"],
-"jylb5euyurhnujspwpjcwog5":"ndocist"
-}) // 2023-10-29T19:14:31.056Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jylb5euyurhnujspwpjcwog5":"ndocist",
+"s7tqg2z4qdoh26bp4apcsm7w":["nd8th","Западенець"],
+"nkut5uqoxvnpy3wydpw3l3p4":["ndkyhc","冬"],
+"ppaguglnetprwiqjay4jypfb":["ndx","N"],
+"e7sqed5ishv6myklgrm7rgq5":"ndkemo",
+"tecxjhkeq2yjr2ju5hhix4ho":["ndmonaghan","Nolan Monaghan"],
+"wqbh45sjmcqzf2w4v3l453rw":["ndrrecherche","NDR Recherche und Investigation"],
+"mwjb5mnxf5shg6hjwrg5tvq3":["ndrwdn","Andrew Dean"],
+"nsfepz2jy6mv47q4cit3gn3k":["ndiyilii","al"],
+"o5m7r4dgcbndw3acv7uvk4f4":["ndrewweaver","Andrew Weaver"],
+"wrl4ht3kiokkbsnydcx2kalx":"ndmd"
+}) // 2023-10-29T21:04:10.403Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

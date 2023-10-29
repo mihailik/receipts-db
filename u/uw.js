@@ -147,5 +147,13 @@ var uw=(function(jsonp){ if (typeof uw==='function')uw(jsonp); return uw=jsonp }
 "v3kvru47rhdji4bnxqfve6we":["uwurenji","Renji"],
 "3cvl5rnqlw4okf26jja2ebld":["uwumanjack","UwUman"],
 "nnyh6wufodbadz3zikwi6u2i":"uwugimotowo",
-"b4vp7e2htqtaigkjr7ftwmpb":["uwusman","uwusman"]
-}) // 2023-10-29T18:10:02.654Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"b4vp7e2htqtaigkjr7ftwmpb":["uwusman","uwusman"],
+"xik5kspprl3vxhmk3lbtb3v3":["uwejackwerth","Uwe Jackwerth"],
+"kzhpjoocqxufhrstthtxk3cj":["uwuri","UwUri "],
+"7a2nxmu63xgoqhk3waq6xq3i":"uwsthoughts",
+"ggkgt3qrxhexvlrgidkgecxl":["uweulzhoefer","Uwe Ulzhöfer"],
+"oxf5ohvbq6jhynrrqhsajgph":["uwglobalcollege","UWinnipeg Global College"],
+"c7ev7y3vglyzq3jfglfx2omf":["uwunom","nom"],
+"s4rqw7nkujyucvczyb5ouezg":["uwelutz","Uwe"],
+"c3qr2cnajk3ngxvuqn7tegk2":["uwaful","Yuaning"]
+}) // 2023-10-29T20:56:36.809Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -198,5 +198,9 @@ var oj=(function(jsonp){ if (typeof oj==='function')oj(jsonp); return oj=jsonp }
 "hmvq7ponkas4np2i4siiclcl":["ojta","Oregon Just Transition Alliance"],
 "slbqw2csi4kgzbevjtxozron":["ojoumojo","Ojou Mojo"],
 "amzezid24hzjv2jq63pq7dw3":"ojaopreto",
-"egixxzec72dminizjpy2fqef":["ojr","Olaf Ringelband"]
-}) // 2023-10-29T19:17:27.631Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"egixxzec72dminizjpy2fqef":["ojr","Olaf Ringelband"],
+"ibjlu6d76v3komfnqhxaxe45":["ojready","Josh Hebert "],
+"ribjaaie5uoh2jt3ccwq7stw":["ojv-darkangel","O.J.V."],
+"cq25vk6epjzv3usz3hysq2ty":"ojchamp",
+"7byttpockw5vct6ssmyx542e":["ojessartso","°☆ JessArts ♡ ☆°"]
+}) // 2023-10-29T20:41:51.712Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

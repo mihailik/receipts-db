@@ -74,5 +74,6 @@ var qt=(function(jsonp){ if (typeof qt==='function')qt(jsonp); return qt=jsonp }
 "vt3kdrigd2hatjd66mhl4if3":"qtzl",
 "udpta5rg7ys6cg4ap6a2axcx":["qtmaru","QTMaru"],
 "fyl3c7mvwyuqmdswmgv3nxvm":["qtq","Cherry 🍒🐢"],
-"7vqlqonk6av3yokcz7brnjie":["qti","Qti"]
-}) // 2023-10-29T18:12:17.414Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7vqlqonk6av3yokcz7brnjie":["qti","Qti"],
+"hqcpreyymhp34nxnyggqtr57":["qtfc","Quentin Tarantino Fan Club"]
+}) // 2023-10-29T20:56:36.187Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

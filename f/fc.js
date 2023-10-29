@@ -248,5 +248,9 @@ var fc=(function(jsonp){ if (typeof fc==='function')fc(jsonp); return fc=jsonp }
 "34m5zwevblgzp2jguzxdnk7z":"fcmoulton",
 "azqsbkkkadmpomrtwhzmfa7d":["fclars1904","FCLars1904"],
 "oqsf72qgv46ettcsrusgtawo":"fckoeln",
-"js3lkeofubdwbipkc6hlwg5c":["fckcps","ACAB"]
-}) // 2023-10-29T19:09:24.944Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"js3lkeofubdwbipkc6hlwg5c":["fckcps","ACAB"],
+"67cuumt4eloojmdlomi72sxa":["fcstpauli-museum.de","FC St. Pauli-Museum "],
+"pdftbnzbaneccc5hfxqrgene":["fcgeb","Friederike Gebhard"],
+"yngbxbskh3psvji2xesf23of":"fcaugsburg",
+"oqbejnts7vae267t4eu5lxdr":["fcstpauli","FC St. Pauli"]
+}) // 2023-10-29T20:50:04.665Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

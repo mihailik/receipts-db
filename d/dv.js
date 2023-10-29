@@ -291,5 +291,10 @@ var dv=(function(jsonp){ if (typeof dv==='function')dv(jsonp); return dv=jsonp }
 "l2anqb6qcinhjrzou5sxt5rl":["dvddnh","David Donohoe"],
 "rti2b7taprqcfyxebsac3ifd":["dvdwiz34","Eastside Sweets"],
 "owqx2xzkypqkmnbrcwgmjpy4":["dvgnr.com","Davide Gennari"],
-"h3fubin5uqehvautabwouk7z":"dvinmsm"
-}) // 2023-10-29T18:46:47.215Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"h3fubin5uqehvautabwouk7z":"dvinmsm",
+"otx6bvkokc3qe37lw2mifxi3":["dvd275","DvD"],
+"amrnvekihpge2lmvbmptwlqu":["dvaillancourt","David Vaillancourt"],
+"waluois7eldkcmsyfmfkocdy":"dvskb",
+"tnbiqisw36nyjrqymfi6snbi":["dvmogorgon","Demo"],
+"h7jgurd6ofm4gyg2gade6nob":["dvdbutler","David Butler"]
+}) // 2023-10-29T21:00:29.288Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

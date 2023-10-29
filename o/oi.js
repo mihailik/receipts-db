@@ -381,5 +381,11 @@ var oi=(function(jsonp){ if (typeof oi==='function')oi(jsonp); return oi=jsonp }
 "5rmox3aisio27q4r64vsdq6g":["oipoloi","Dex"],
 "bf6cio72deoahddogzeabljy":"oia",
 "mlzuqap7psfv5jljs7th764j":["oiwate","おいでよ岩手/ VISIT IWATE"],
-"hpeqrwxrnocjxb6mqsksgm5v":["oihanamarre","Jean hipster"]
-}) // 2023-10-29T18:46:47.198Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hpeqrwxrnocjxb6mqsksgm5v":["oihanamarre","Jean hipster"],
+"usw7c6aqol3ryigohm4bmo2j":"oilaf",
+"wdhbtbscu4mvcu5srpk6bclb":"oil3rzfan",
+"bdlck3lsloo7x4gxnx4hnpy6":"oioioi",
+"xt6e2shae3yftriyvtzau7um":["oisfijate","Oisfijate 🏳️‍🌈"],
+"xwl3ph7jaj2xae4diybxe7lt":["oiichyo","oiichyo"],
+"lybpsd3ilp4lbareihpixcxm":["oihso","Oihso"]
+}) // 2023-10-29T20:51:40.124Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

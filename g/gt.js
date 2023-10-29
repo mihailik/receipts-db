@@ -228,5 +228,16 @@ var gt=(function(jsonp){ if (typeof gt==='function')gt(jsonp); return gt=jsonp }
 "6ffqdh3o3csoz27f6zmnig3z":["gtwigg","George Twigg"],
 "koto3em6hd6jx6w7btvlvolq":["gtsalikis","Giorgos Tsalikis"],
 "sznil2pasviurvu2653s6lxo":["gtaesthetic","Grand Theft Aesthetics"],
-"dcxbhm2z2cdxua4xvz4xkmgd":["gtgraphics","Tobias Roetsch"]
-}) // 2023-10-29T18:49:04.573Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dcxbhm2z2cdxua4xvz4xkmgd":["gtgraphics","Tobias Roetsch"],
+"bo6htnkt6esuv53k5akojgon":["gtutar","Gürcan Tutar"],
+"antklqb6ehjs7bktx6zgguvt":["gtawikiofficial","GTA Wiki"],
+"3yyuuxwzankgphslvc5owucq":"gtmnsch",
+"ceqlvqfevjomyicsfffcqsx4":["gtelesca","Giovanni Telesca"],
+"ld2s45vd7bsvbnvvdyoaghe5":"gtz",
+"qkjnxm3erkgiq26v5zmcxsb6":"gthreepwood",
+"izqmbfzlkgjjwkq4svzbezb2":["gtra1n","George Grella"],
+"npduniyek7q3ukxqesmm3p7c":"gthbriem",
+"bbib3td6tjygb7ki5o6ppxf5":["gtronix","𝑮'𝒕𝒓o𝒏𝒊𝒙"],
+"e2sidszagmnof2pc43v5jiol":"gthomascraig",
+"kt75hyja5kmaprkexp3z72kh":["gtscpodcast","Gutting the Sacred Cow"]
+}) // 2023-10-29T20:58:57.370Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

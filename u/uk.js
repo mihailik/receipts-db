@@ -319,5 +319,13 @@ var uk=(function(jsonp){ if (typeof uk==='function')uk(jsonp); return uk=jsonp }
 "mran4ct6hityvwgvkcjmvn6z":["ukrgrad","Укропский Град"],
 "iq47dqvvu6ivp4ihn27jafp7":["ukiaad","🔞Ukia🏳️‍⚧️Monsters and Chubby Tummies FAN ACCOUNT"],
 "rlukwjtx576v4hxzuqdnvtb6":"ukrainenow",
-"jmih3m7wib3tkrdj6hcaep7x":"ukrainenews"
-}) // 2023-10-29T19:21:13.143Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jmih3m7wib3tkrdj6hcaep7x":"ukrainenews",
+"e56y67e743inm46k2z3if5de":"ukridge",
+"cumcspkv62v6iqqg3c5pg3p5":["ukks","浮草"],
+"5nylkulsk7oqfw22b7ecbzpf":["ukraineaidops","Ukraine Aid Operations"],
+"vnr3fqeuphn3rxoa7ufdzh7z":"ukroshakal",
+"pnvujuiajabxsgccjc6dux4o":["ukrainewillwin","UkraineWillWin ✊🇮🇱 🇺🇦"],
+"fecz5v2iqaiyvifquputmwmz":["ukskies","Dante"],
+"zojwoorbkeekgyayr5d436oz":["ukrindeu","Ukrainisches Institut in Deutschland"],
+"gx46xidvtjfaqrex3dyn2wgr":"ukimipyon"
+}) // 2023-10-29T21:04:10.414Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

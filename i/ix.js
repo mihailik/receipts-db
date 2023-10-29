@@ -133,5 +133,7 @@ var ix=(function(jsonp){ if (typeof ix==='function')ix(jsonp); return ix=jsonp }
 "jq4nzk2gsdd242rxqa6ljsys":["ixpantia.com","ixpantia"],
 "v7avezbbmy4667rnvcgpwufh":["ixfenn","FENN 🔥🎭"],
 "kocfc35f7ux2zse34zckuict":["ixyo","SHIO❤️‍🔥🐈"],
-"h4qna4dbh4zt4ike4s4awhb3":["ixcarus","jin"]
-}) // 2023-10-29T19:22:41.655Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"h4qna4dbh4zt4ike4s4awhb3":["ixcarus","jin"],
+"rjdbhtuiyecbzpj5qbmkhb5u":["ixora","ixora"],
+"ttq4hdubrhdkoepcyakr5dyt":["ixigami","Ixigami"]
+}) // 2023-10-29T20:50:04.687Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

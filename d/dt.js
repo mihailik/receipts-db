@@ -319,5 +319,13 @@ var dt=(function(jsonp){ if (typeof dt==='function')dt(jsonp); return dt=jsonp }
 "4dmk4idyem5okafwv2tcxoon":["dtheherring","DG Herring"],
 "llnwnikoa5a57qwllecssein":"dthorne",
 "xuq7naiodjbh43jsg4a3qgfp":"dtaina",
-"gqtfqbf632gyols2vohr26ah":["dtietze","Dr.-Ing. Daniel Tietze"]
-}) // 2023-10-29T19:15:59.718Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"gqtfqbf632gyols2vohr26ah":["dtietze","Dr.-Ing. Daniel Tietze"],
+"gy7e5njfqxzatesltujevp6i":"dtflittledude",
+"jl44fxumeu3savisaqc7lci2":"dtnowhere",
+"pj5ch356ka52wbtohpbgkv2s":["dtoconaill","DOOM (PROMIS software edition) "],
+"mcdedhpgg45zfu6fbsaiaaip":["dtanuki","tanuki d 🔞 (AD account)"],
+"jhforpvu7twkddvgn4hz2j3d":["dtrab","Daniel Trabalski"],
+"ooxaao4rmwqvhejw674vn54i":"dtbadger",
+"mhgmwq6ufjp4646tiygygrji":["dtemme","Daniel"],
+"kmzrqfvif7uw2d4aqhohgat3":"dtaft"
+}) // 2023-10-29T20:55:07.701Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

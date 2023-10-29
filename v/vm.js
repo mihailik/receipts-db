@@ -173,5 +173,7 @@ var vm=(function(jsonp){ if (typeof vm==='function')vm(jsonp); return vm=jsonp }
 "uqgjl3gzbj6omj7qek45vpmz":["vmanna","victoria 🌻"],
 "ww5ttg5d36cyr66cjij2qmee":["vminsope","maze 🎱 !! ✜ ⁷"],
 "xpyxv3ykdiwnjdnkqvkdubsv":"vmarcelo",
-"sa27q4udrd7kkvsvkue3zkmp":["vmuecke","Dr. Karen v. Mücke"]
-}) // 2023-10-29T19:15:59.714Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"sa27q4udrd7kkvsvkue3zkmp":["vmuecke","Dr. Karen v. Mücke"],
+"nyk5qumyebxf6bqdwm45dgcm":["vmq","Vital Minutiae Quarterly"],
+"owafeptm6h6byx23mfecuz4b":["vmcrossart","Aro | green psy kitty"]
+}) // 2023-10-29T20:58:57.366Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

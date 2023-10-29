@@ -247,5 +247,9 @@ var tv=(function(jsonp){ if (typeof tv==='function')tv(jsonp); return tv=jsonp }
 "vr52a4kdyrccuw3mytclzzpv":"tvsnicole",
 "ee2rdh7u24wfgohjkzipblvm":["tvdofficial","These Violent Delights"],
 "vycapv6bhr3dkcsajdwtldth":["tvanheuvelen","Tom VanHeuvelen"],
-"txyq6gjsyl7oksmedacj67ir":["tvaldessolis","Teresa Valdés -Solís "]
-}) // 2023-10-29T19:07:14.916Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"txyq6gjsyl7oksmedacj67ir":["tvaldessolis","Teresa Valdés -Solís "],
+"r43cqldolztgz2oxy6zfiogp":"tvpam",
+"ioote2dzsxztlpnyjmhnwob4":["tvotoday","TVO Today"],
+"3axfsjedkg2inbuv5n3cicdi":"tvaughn7",
+"6xkdsmwyblabhcnxkemeg33n":["tviyintrovert","Nadiia"]
+}) // 2023-10-29T20:43:34.103Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

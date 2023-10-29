@@ -572,5 +572,19 @@ var jt=(function(jsonp){ if (typeof jt==='function')jt(jsonp); return jt=jsonp }
 "l2c5a3d4z5ytd7q3ogzfo7nl":["jtd71","JTD-71"],
 "fbevnv5jfhxq5s6j4rxf37cu":["jtrain199","Jtrain"],
 "ppeen55kk5c4zrxu4mka7k6h":"jtknopf",
-"4ae3nusnqhy2eq4ku7vj66ln":["jtbs","JTB"]
-}) // 2023-10-29T19:00:42.445Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4ae3nusnqhy2eq4ku7vj66ln":["jtbs","JTB"],
+"he5gq74codh7v24lf7pc33x2":"jthomasm",
+"tpzwlt6l2a2t4nw2ehinpt4l":"jtstage",
+"25lbd6ty5iiym22kty5xelog":["jtalarico","Prof. Jennifer Talarico (she/her)"],
+"vjozud2actkpjpji6tyd2tma":["jteti.com","John"],
+"g7jwz3slrbbtfj7huj3ai5ov":"jtlynx",
+"a7gbqdamdju464edway452me":"jtoddross",
+"gm3o4rrabnegicngrr54vw5t":["jtcoast","JT "],
+"czhjmsb66jczn6pbd5e3xjct":["jttmaclean","Joana MacLean"],
+"kwqdqttogshnjm75323hekfd":["jthpnjaa","Whalien Change"],
+"h3tjxap6yzexwnunrzaggoea":["jtchang","Jeremy T Chang"],
+"m2h4vuadrz2fr4iappi54lzn":["jtaeger","Jürgen Taeger"],
+"naeh4pddsuqmywqnhdx6i6gw":"jthetwinkdaddy",
+"tinbuvam6hzthpdjx7m2perp":["jtroesemeier","Jan Trösemeier"],
+"gjg2u6qf3pfyqdeingyelngc":["jtfouquier","Jennifer Fouquier"]
+}) // 2023-10-29T20:51:39.992Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

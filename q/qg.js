@@ -12,5 +12,6 @@ var qg=(function(jsonp){ if (typeof qg==='function')qg(jsonp); return qg=jsonp }
 "cxq7dzqnhj6dmk65pni5mekd":["qgzak","むくみ"],
 "aydaitjhxekzeg3ff6zedwue":"qgty",
 "2xzuuoesyoh3634yskvwgkc7":"qgaba",
-"yf72zhc4fdfcaf3q6piqzq3j":["qghop","qghop"]
-}) // 2023-10-29T17:01:53.439Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yf72zhc4fdfcaf3q6piqzq3j":["qghop","qghop"],
+"637apyl2neosdzvhpq5awgbw":["qgchronicles","Queensgate Chronicles"]
+}) // 2023-10-29T20:24:03.232Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

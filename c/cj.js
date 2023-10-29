@@ -555,5 +555,14 @@ var cj=(function(jsonp){ if (typeof cj==='function')cj(jsonp); return cj=jsonp }
 "5cjzbav34gnjga4rf663eues":["cjbakerbear","CJ"],
 "n5p4qma7qolwcxsp7k2hncge":["cjthecarebear","CJ"],
 "4mbaqgtvlelu54t353avpisz":"cjeanney",
-"krzwasmxu2vepudscgfpuh7c":["cjakobk","Jakob"]
-}) // 2023-10-29T19:19:45.880Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"krzwasmxu2vepudscgfpuh7c":["cjakobk","Jakob"],
+"4fi5zpehxslm3btfbgo3eb2u":["cjcj","CJ"],
+"tmyidfavku2dtudc2kdv2wpl":"cjpinch",
+"b4m5d635u7lvlm6nbeymteni":"cjmclf",
+"yuwqp2ao43gd74kkbjxtpn4f":["cjhannas","Chris Hannas"],
+"p6lb4tqjxqaesbev6oguwyxa":["cjrives","Cjrives con tónica "],
+"eoeqa64pou6n5qrxfzy7dqn7":["cjmcadams","Carrie McAdams MD PhD"],
+"7ozs76vqv2xn3kj75dnx73l5":"cjc95",
+"nh2dsbupxdoxzc54yspz7kut":["cjiinuubobr","Anatoliy Zaitsev"],
+"mj3artkvl3a4obxk6talqnew":"cjkflyer"
+}) // 2023-10-29T21:00:29.254Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

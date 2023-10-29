@@ -345,5 +345,17 @@ var sf=(function(jsonp){ if (typeof sf==='function')sf(jsonp); return sf=jsonp }
 "e2ih3a4xydaqdozinhc5o3fh":"sf6414",
 "m3jbyh4v5ugnlk33x4ohrms6":["sfhina","MMR"],
 "b3buk4xpydh7whh3hwsjs5rq":["sfngs","GUPPY"],
-"gubwnih4dgvtgtrapxyglzpt":["sf-fan","Florian Breitsameter "]
-}) // 2023-10-29T19:21:13.301Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"gubwnih4dgvtgtrapxyglzpt":["sf-fan","Florian Breitsameter "],
+"iopwnt3zxftiuzftwts4kfgz":["sfattyroo","S. Fatty Roo"],
+"rbptzddhowzy5m2wl3vgqmae":"sflaher",
+"e5g4rwbkuuhw4d2at5vujudg":["sfcityfan","👻SF SCARY FAN 👻"],
+"n4wxjonesjrylwntj4daxavy":["sforsyth","BluesyLou"],
+"gduwf5jdd6dm6my7554ogoel":["sferox","Ferox"],
+"hidzatejqfjyagqupbhxyzz2":["sforstefano","Stefano Cattoni"],
+"nqhghatrqksj2l3tsaxcyjhg":["sf0v0","스프"],
+"4a5n5b6o6nvsnocbi2r4bxqf":"sfsorrow",
+"6qypdgkt3xs73tojouxhmmfg":["sfb1265","SFB 1265"],
+"zajqflpf6odfbzuaymn6ymeh":["sfricke.de","Stefan Fricke"],
+"kn4x32hvq7i7ljr32yxgfoon":"sfrosch73",
+"rvnrvtvfgtzm524vd6bnaxin":["sfdg","DG"]
+}) // 2023-10-29T20:45:02.384Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -241,5 +241,14 @@ var oy=(function(jsonp){ if (typeof oy==='function')oy(jsonp); return oy=jsonp }
 "wb6ii47im3thwqznmqvqemf7":["oyasuami","✩あみ✩"],
 "ywwy5brwpwxbsvzixwr6a5ge":["oyuluzi","червона калина 🇺🇦🇮🇱"],
 "ofk66dab7zxtxhlczrphs2sa":"oyff",
-"uku62snejmcds7ymsof55oll":["oysteromelette","蚵仔煎不加蚵仔"]
-}) // 2023-10-29T19:02:13.522Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"uku62snejmcds7ymsof55oll":["oysteromelette","蚵仔煎不加蚵仔"],
+"ooi4wpn7kbgsohm7xka54ozy":["oyasuminasai","爪先"],
+"llurifwrkewis5fxhagrxxt6":["oyasoomi","Rosie"],
+"mqvrd74n5jjej3cqk7gshcgj":"oyerk7",
+"e3pclvweokl2mqu57pya27rj":"oyvindhjulstad",
+"7swvhiqvkic42shmzukbnyqg":"oyeyipo",
+"z22yxcnkhhpjynrll2q4nozk":["oyinbra","Oyinbra 🦉🛡️"],
+"kbd3ghlccrqxbkhlsfkgw2yf":["oythemongoose","Oy the Mongoose"],
+"hp2xh7caoodbi5ptscntta4a":"oyvegh",
+"hz4u6xudl2jwwwyao5xm56hl":["oyceter","Oyceter"]
+}) // 2023-10-29T20:58:56.847Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -161,5 +161,8 @@ var rv=(function(jsonp){ if (typeof rv==='function')rv(jsonp); return rv=jsonp }
 "jki6q3xdvygpxopma6amrqli":["rvablu","Miss Mama's: Catfish Jane 🏳️‍⚧️☭(She/They)"],
 "4k4xyj2kgeujaovtmvo7kyhe":["rvock","Rita Vock"],
 "l5xupf3mu2l5mouklzf6qv4k":["rvaplaylist","Andrew Cothern"],
-"xnogjkhpdhq5y76rlc6uz2bi":["rvkallen","rhys is ⚡🧙‍♂️electro wizard⚡🧙‍♂️"]
-}) // 2023-10-29T18:36:33.865Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xnogjkhpdhq5y76rlc6uz2bi":["rvkallen","rhys is ⚡🧙‍♂️electro wizard⚡🧙‍♂️"],
+"noukqxezv3fqz2x7oefr3qpj":["r-v-bukowski","R.V.Bukowski"],
+"s6levyqsiouhdqd7x7qo4pvu":"rvaldesmas",
+"6fhohhihg7w2myiqdq2gsb7i":["rvnumbers","Blair Haymarket"]
+}) // 2023-10-29T20:25:30.514Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

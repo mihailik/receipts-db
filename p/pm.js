@@ -407,5 +407,10 @@ var pm=(function(jsonp){ if (typeof pm==='function')pm(jsonp); return pm=jsonp }
 "wf6w72awu3b656x4dej3kbeh":["pmg28","Pmg2.8"],
 "y5ikqhyjwlvua7dhepjbxcqv":["pmagnerjr","patty mags"],
 "qnn2ftyhehxqerjnarunnif4":["pmi8","8r"],
-"362kxv7hwpqxmcg7zvrfhdfh":["pmpnconf","Performing Magic in the pre-Modern North Conference"]
-}) // 2023-10-29T19:19:45.888Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"362kxv7hwpqxmcg7zvrfhdfh":["pmpnconf","Performing Magic in the pre-Modern North Conference"],
+"62p4455ynsobp5tigdkyo432":["pmcginley10","Patrick "],
+"lvxgdqr7xowjbcllmcuix3hk":["pmmp","Pedro Papel"],
+"dhrmlrwdkwbcn4s5rmbde3dp":["pmill","Pete Millwood"],
+"lr5i5bj6e37py3ouxzpdlod5":["pmueller.de","Peter Müller"],
+"wzz6oehk4veuo5i5jsp6w5ae":"pmliu"
+}) // 2023-10-29T20:45:02.875Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -88,5 +88,7 @@ var wj=(function(jsonp){ if (typeof wj==='function')wj(jsonp); return wj=jsonp }
 "lrqes3jjeilaccm6kjwcoxjd":"wjlayton",
 "ptiysdxgimxndu2wu2rvt3r3":["wjkcreations","Walt Keegan"],
 "p4ajkgxqetjpdtuzkmmvkcxa":"wjohnson68",
-"ocnkvydiwwuvgp72sysjbddz":"wjrx"
-}) // 2023-10-29T18:13:44.428Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ocnkvydiwwuvgp72sysjbddz":"wjrx",
+"aaowmrw2ibawhqrhjg2up5rj":["wjddbs9709","루빌::적응중"],
+"nv36vcgvzjtwiqupp37466gx":["wjoell","Winston Churchill-Joell"]
+}) // 2023-10-29T21:00:29.271Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

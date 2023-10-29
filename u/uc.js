@@ -217,5 +217,13 @@ var uc=(function(jsonp){ if (typeof uc==='function')uc(jsonp); return uc=jsonp }
 "nl5uhakwbunmtssfm2dqtikg":["ucrpolisci","UCR Political Science"],
 "jxd7bjsxylrxc5nmsdnu5mgi":["uchechi","Godswill Uchechi"],
 "3pjnznhjuu7oq4xnn6uqjfjf":"uctraveler",
-"eztfrp6zxveaando7rxcjjyh":["ucob","Yan"]
-}) // 2023-10-29T19:02:13.708Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"eztfrp6zxveaando7rxcjjyh":["ucob","Yan"],
+"gdis3m5w3bmx5piyct7hnsbr":["uchennae","Uchenna Evans "],
+"eki5gc6tgrpc7xntlbzsjcfu":["ucanrwater","UC Water Institute"],
+"ysvbdoimsrzk2lwgn42m3vdv":["uchnoooo","内野"],
+"cdshq2n22qmyunacg3ecspgl":"ucar",
+"aahenukhnk5oiwn3eau33f7k":["uchuhaiku","Uchu (ThePanther) Von Schwarz"],
+"xbgp5wphpftkqrvfnzqvdygw":["ucaveronika","Veronika"],
+"yixqbznmnltzgwreqnkoquv6":["ucsbling","UCSB Ling"],
+"2ysvfq6cbmn6ccfbm7pej3bg":["ucbscholcomm","UC Berkeley Library Office of Scholarly Communication Services"]
+}) // 2023-10-29T20:55:07.773Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

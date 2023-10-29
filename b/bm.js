@@ -495,5 +495,15 @@ var bm=(function(jsonp){ if (typeof bm==='function')bm(jsonp); return bm=jsonp }
 "k6g524gvcgmxeuldvnjcuyb4":"bman42",
 "mpi37yn6vs6g3ey4usdgqabc":["bminsker","Brian Minsker"],
 "zksmypzv24grbbejo5xmk7fl":["bmwaryck","Brian"],
-"oti6p2fgz75igviqn2lknqlw":["bmograph","Brian Morrice"]
-}) // 2023-10-29T19:07:15.640Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"oti6p2fgz75igviqn2lknqlw":["bmograph","Brian Morrice"],
+"n5o2wksggcs653t3seg5eu6b":["bmarwell.de","Benjamin Marwell"],
+"splrovyznj5ln4vesfzhsuua":"bmwzorge",
+"wuqdbs7voa5p5btk2rvzqcjn":["bmel.de","BMEL"],
+"nmplceztvqddspiufn5o5kav":"bmh-24-2-2022",
+"chckg3ajieawgvv733rw2fra":["bmuv.de","Bundesumweltministerium"],
+"oyotqoulzk5i6n5p35sookky":"bmily",
+"kb474ea3abstp2yuur5tqvsh":"bmarf",
+"fpmen2shjxk5cpiv4u7rqkle":["bmax1230","Bmax123"],
+"jzxdmsbkvw3aqla4caqy3ids":"bmichelmd",
+"dbuprn6iifqcjejeowopwpid":["bmcw","Sparky"]
+}) // 2023-10-29T20:56:36.810Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

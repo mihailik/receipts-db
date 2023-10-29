@@ -401,5 +401,14 @@ var gg=(function(jsonp){ if (typeof gg==='function')gg(jsonp); return gg=jsonp }
 "7zs6fd5lnxfngzjbrfyebxkj":["ggcantone","Giulio G. Cantone"],
 "bqk5nldnb6aba34rcoycwlsy":["ggix","Tschitschicks"],
 "smbmwjyidgmcdt5ecvzozbwm":["ggyppt","Lexa White"],
-"m4sls3hpki4u5pm2z7qxidtn":"ggwicz"
-}) // 2023-10-29T19:00:42.443Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"m4sls3hpki4u5pm2z7qxidtn":"ggwicz",
+"gnr2w4ut6b6upwemnlawvmcq":["ggsokolov","Game Genie Sokolov"],
+"4ew7t673hocm2c5fdzng26ub":["ggatin","ggatin"],
+"6xaqduslpzxpomb6v2636kbo":"ggajduk",
+"43yviurrjm4gdxmz6osry7o2":"ggamji",
+"75emujh4ofuoq55zybsr5aev":["ggiderberliner","Gün, der Berliner in Kölle "],
+"t2kn64zmzzcy64z2xj3sehou":"g-gundam",
+"uecx7lzgrr57rsorzw7sygn4":["ggiles","Giles"],
+"jdxmhauggcbwnkq6pg5m5hc3":["ggar-wolfen","Gator Gar"],
+"4xyp3jqnc66hkbhlxzz7cazz":["ggomez","Gerardo Gomez "]
+}) // 2023-10-29T21:04:10.449Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

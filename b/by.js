@@ -779,5 +779,16 @@ var by=(function(jsonp){ if (typeof by==='function')by(jsonp); return by=jsonp }
 "g5qlfndrzm7pox3yjj5s7aow":"byulmu",
 "7p7v2vuy7jntjjjex7jf2sr5":["byb","BYB"],
 "4n42jt7idpbzedgsiitbxw3m":["bymauu","byMauu"],
-"lfhz266lw24dibhfwergffpz":["byjimcarroll","Jim Carroll"]
-}) // 2023-10-29T19:17:27.350Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lfhz266lw24dibhfwergffpz":["byjimcarroll","Jim Carroll"],
+"cycan7jobovgi2ysoioqzz5y":["bytes","Bytes"],
+"7qikh3kwiyrsmai7i6solili":"byzboo",
+"5nlwoj26ruevjlfk6qina5zc":["bytepetra","Mrs Petra"],
+"uolzcsn4wdd246aewxaaiviq":["byjove","ByJove What a Spend!"],
+"v27m4my76clur2y3aisbgilb":["bymarysya","Marysya"],
+"6bfjxivyubnebjcw45naufcb":"bymadlendesign",
+"vkacglwzr7heu2pm4vghgvmv":["bygonedaze","district 2 rep @ bluesky"],
+"4tun4b3qswwoz7brigums7wi":["bythelake","🕷️"],
+"xoz5wa5qeischobly5dbeo4b":["byggbob","ᏩᏍ"],
+"zg5fv4iqnh2hl5bjdiglkvfo":["byrjyu","позивний Буржуй 🇺🇦💛💙🇵🇹"],
+"z4fqg6lihevvtvdmijefvskv":"bystopper"
+}) // 2023-10-29T20:56:36.861Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

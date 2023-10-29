@@ -472,5 +472,20 @@ var dw=(function(jsonp){ if (typeof dw==='function')dw(jsonp); return dw=jsonp }
 "cz6uhkmlueyxmit336fzqiap":["dw4817","Daniel Weber"],
 "5qz4tr3e5u2hvr65ez7xb5ss":"dwarflord",
 "qen5bvpdum3xpyhfr7vlwlz5":["dwngradekasto","kasto"],
-"3nw6qkq6wpnyezrusgbfrdf7":"dwar59122"
-}) // 2023-10-29T18:43:50.531Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3nw6qkq6wpnyezrusgbfrdf7":"dwar59122",
+"56mi66ibnvdgkl643mkh2vyp":"dwayngel",
+"3zi6ij6sjacdls46gj6kuyyc":["dwinoss","Dwinoss"],
+"pdn7rnripulrzdyx3qph7ifo":["dwordartist","The DREGS of Art (ENG/ESP)"],
+"niwvuwjx2hiwj7jaq453wbgn":"dwaleatropa",
+"kccxbv54ehmxsslif6b6v54t":"dwmerkur",
+"xf3h2jmjnidg2xiynrmn4ni3":["dwrweb","Diego"],
+"zi725yhb4wgeokiwb5o27mdv":["dwalog","Dwalog"],
+"xlwnw2wprscu5zglqmvsgm6m":["dwarfpower","dwarfpower"],
+"ru4whibcyeewgludydsxjxe3":["dwild","Daria Wild"],
+"42xhl6fszn2wuz7ogdmqqvtv":"dwrd",
+"kxu3pigce7fass5cehexavbe":["dwdderwetterdienst","Deutscher Wetterdienst (DWD)"],
+"e7g4s5ojvhgkql2t4eq2oemi":"dwarfgarden",
+"4hgnoqh7tt36d4m6zyc3o7p4":["dwproductions01","Drew & Wright Productions 🔞"],
+"lkeurbtey7nzpeow4po7vn5v":["dwam","Dwam"],
+"fc6ptogijihh7qluh2ysfr5w":"dwagom"
+}) // 2023-10-29T20:58:57.269Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

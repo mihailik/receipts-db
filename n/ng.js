@@ -307,5 +307,7 @@ var ng=(function(jsonp){ if (typeof ng==='function')ng(jsonp); return ng=jsonp }
 "5xyd7eiiogg5jdivvker64ft":"ngyisheng",
 "zfqu7ufzbfvqohhvouyuci2l":["ngegenrechts","Nysha"],
 "jcpvjqfjvi2sojpvyrl52jxs":["ngendros","N-gendros"],
-"3lnsfhtbymxmzf44aj6s2rg5":["ngautoart","NGAutoArt"]
-}) // 2023-10-29T19:19:45.741Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3lnsfhtbymxmzf44aj6s2rg5":["ngautoart","NGAutoArt"],
+"77lhdtakznaeeix3p2isazaq":["ngls.eu","Freydís"],
+"d2jh33s4hxho6wqwbrx6pcla":["ngehlenborg","Nils Gehlenborg"]
+}) // 2023-10-29T20:40:00.638Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

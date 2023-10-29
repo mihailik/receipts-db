@@ -788,5 +788,17 @@ var cm=(function(jsonp){ if (typeof cm==='function')cm(jsonp); return cm=jsonp }
 "26dyjjjta5rywfhs62ueeumq":["cmburns","Monty Burns"],
 "fydvpitimmcnsenyzhasi56y":["cm2b","CriCri 🐷"],
 "pvehsdhq6kavlecw6r2m3mxe":["cmboulanger","Christian Boulanger"],
-"cmcbdg3v7tdljpe5gsoysy4z":["cmuttercourage","Claudi"]
-}) // 2023-10-29T19:21:13.773Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"cmcbdg3v7tdljpe5gsoysy4z":["cmuttercourage","Claudi"],
+"bqps2mg4qvvee5oh2jlfrcxp":["cmaussan","cmaussan "],
+"lrxmkcfgiyj3lb7sphsziybh":["cmleipzig","CMLPZ Critical Mass Leipzig"],
+"yfvl2h576lthhbh4xooclwbs":["cmdrking","Elly, whomst Gay"],
+"sirnqh65fx4d5fkcoc4ccku3":"cmg511",
+"xtm4dg7f3ijbbwtk7skpa4jt":["cmpuls3","James Darnell"],
+"425344q74mgvg3i4gd3n3gdv":"cmsmiley13",
+"d7shqn5dy5gn5qb64r2q2git":["cmdrmattg","CMDR Matt G"],
+"k6ickcrojiuzapwb3kixumhg":["cmapcaart","Cmapca art"],
+"pw54tkg5vktuxvzgqbvffxh3":["cmrfella","tztzt... Fella🇺🇦"],
+"bg667mdvx2bgv5n2gqz6ufu4":["cmoskell","Christine Moskell"],
+"elqxi47y2bsynpnf62eufi7u":["cmuellerehlers","Christina Müller-Ehlers "],
+"3ypps43idy4hkbmvs2ravbwe":["cmttr","Christian"]
+}) // 2023-10-29T20:46:32.456Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
