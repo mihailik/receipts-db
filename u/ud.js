@@ -162,5 +162,9 @@ var ud=(function(jsonp){ if (typeof ud==='function')ud(jsonp); return ud=jsonp }
 "6siq3emhksb3wo7exqq7y2q7":"udon-oden-konbu",
 "ite3dlozpyc6dwdmgzxysiji":["udorithomas","UDORI THOMAS "],
 "4atcinm7sarnzsm5uknjwy2j":["udogumpel","Udo Gümpel"],
-"34qslgc45qa7gux3kzjtvfbw":["udryx","udryx"]
-}) // 2023-10-29T16:33:58.867Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"34qslgc45qa7gux3kzjtvfbw":["udryx","udryx"],
+"aexrg2om5acxjmoup62cfejl":["ud4k","Jack"],
+"j32cjejw2fh3a6dzliz3wshi":["udppcbfc","UdPPC BFC"],
+"wvwbdanfgbc5et4gblhea5x2":["udinka","אודינקה"],
+"ttbt4fzkefk4y2tc3obzqlln":["uddermen","UdderMen (Lavender Way AD)"]
+}) // 2023-10-29T18:20:12.226Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

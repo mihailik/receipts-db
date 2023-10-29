@@ -355,5 +355,13 @@ var pd=(function(jsonp){ if (typeof pd==='function')pd(jsonp); return pd=jsonp }
 "g34gm5vnpgaddbs35mxk2lls":"pdxblake",
 "wxr2e7enr5wbqf6snyshdahn":"pdgeorge",
 "dzd2wfkxmzdmcrcig7qxxvua":"pdbear",
-"exxqypq6rtv5siirxegx25jt":["pdimanova","Plamina Dimanova"]
-}) // 2023-10-29T17:24:09.536Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"exxqypq6rtv5siirxegx25jt":["pdimanova","Plamina Dimanova"],
+"wkrrn5ex27onfk2tkjhcjhs4":["pdesousalahey","Patrick de Sousa Lahey"],
+"zvnbzrodugtpxjsjiq44eslr":"pdempsey17",
+"m5gyrz5jsf4ls6wsradxrur3":["pdev0110","Dev"],
+"k77gvr37u2hvm5lrhijoyx52":["pdxpratt","pdxpratt"],
+"ikqayrfeyprhhhqoyinfoauj":["pdalgd","Peter Dalgaard"],
+"2tyyl3vy6tx3l3hsoyiwvdm6":["pdxmerovingian","YCP"],
+"bfr7lykql6eigq6ozssvwimn":["pdsnph","☆(Marion Ravenwood enthusiast era)"],
+"j6wp74uxkw5qzga34puquhiz":["pdcawley","Piers Cawley"]
+}) // 2023-10-29T19:05:45.166Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

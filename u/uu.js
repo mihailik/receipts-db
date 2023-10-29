@@ -90,5 +90,9 @@ var uu=(function(jsonp){ if (typeof uu==='function')uu(jsonp); return uu=jsonp }
 "vwfmsnhdn2ctqd3vcchpicck":["uumian","U麵"],
 "y7wg47lvysxauxcozpbn2dlo":["uuhiiro","夕陽色"],
 "bjkkmysigytjxkby7bfj44vd":["uubbieallenvo","Uubbie Allen VO"],
-"as6guwrkhx7m52j7v224lj6c":["uuultrac","(`⊗﹁◓´)"]
-}) // 2023-10-29T17:26:44.942Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"as6guwrkhx7m52j7v224lj6c":["uuultrac","(`⊗﹁◓´)"],
+"qef4ctx4wac2gadcp2fcq27u":["uuhbasically","sonia"],
+"5yfnylgfplgximbuwvashozv":["uu66","Frank Gallagher "],
+"dqjdh57frzedj2mdn2hsep3b":"uu14",
+"bvbx4t4s5hniwvqcc5wctkom":["uuk08","Libra"]
+}) // 2023-10-29T19:04:15.099Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -124,5 +124,7 @@ var yt=(function(jsonp){ if (typeof yt==='function')yt(jsonp); return yt=jsonp }
 "utvlf7mkerfozaurggo4sqqb":["ytallodn","Ytallo"],
 "lad7hkaw5rl6einb6s2dibbd":["ytapioca","Mayara"],
 "hw65yg3o26324t2os5evjc5l":["ytko","Youngtae Ko"],
-"brjkprnbs7g42zzeuscsdity":["ytvwld.de","Niklas"]
-}) // 2023-10-29T17:15:59.631Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"brjkprnbs7g42zzeuscsdity":["ytvwld.de","Niklas"],
+"ja2wh4fxlxaikyqh6ae6mrkv":["ytune","Y"],
+"4sqapaziw6yl7qf7gihuxzeo":"ytakeda-sec"
+}) // 2023-10-29T18:20:12.104Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -225,5 +225,9 @@ var lv=(function(jsonp){ if (typeof lv==='function')lv(jsonp); return lv=jsonp }
 "53xweufvvhczrf65bk7fxmem":["lvivpani","Львівська_пані"],
 "uqrfuh3tpysw25w557yazf3q":"lvertiz",
 "6gcdvnshpzxospmaqxgl54ep":["lvlyz8","실버"],
-"6xjriqkz5ix3qhz75ugtdvnw":["lvl5kobold","Lvl5 Kobold"]
-}) // 2023-10-29T17:21:00.043Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6xjriqkz5ix3qhz75ugtdvnw":["lvl5kobold","Lvl5 Kobold"],
+"mttw5mmosfh6cr6p6iddvggd":"lvivingg",
+"t42a7cmfsq4oglafyt5z5gpb":["lvyn","Lvyn"],
+"7l7uf4fa6344aoujjvososmt":["lvl1eevee","Lvl 1 Eevee"],
+"fvsf4ypqpmppwhfsdwyvuruz":["lvanlent","Laurence van Lent"]
+}) // 2023-10-29T19:19:45.898Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

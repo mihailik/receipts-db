@@ -449,5 +449,12 @@ var hr=(function(jsonp){ if (typeof hr==='function')hr(jsonp); return hr=jsonp }
 "mgubyw3uxf3kkjyofiqoudty":["hridaykarnani","Hriday Karnani"],
 "3mdvrsixat2ikgnna3hcyawg":["hrafninn210","Gunnar Hrafn"],
 "vlns3l5nwvqmtdslypvjmmeo":["hrhaldeman","Lockheed Martin Scorsese"],
-"23xavaiod4qrrgiqfnsy3u6q":["hr-meier","Herr Meier⁴²°"]
-}) // 2023-10-29T17:28:21.257Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"23xavaiod4qrrgiqfnsy3u6q":["hr-meier","Herr Meier⁴²°"],
+"lwa4al3qyybjor7fgomuyypj":"hrinchenko",
+"teqifi7qwy6aw7aofptfs3zg":["hr854","훼"],
+"ijmacb757p73k64qjnrm6umo":["hrms","Hermes"],
+"msmww7zzmbn3rblnqh3jyfdx":"hreflex4",
+"ykpl3a67bvlydawsb6577rll":["hroadfeldt","Holly Roadfeldt"],
+"s5kyqv5l5bu52be2px3kehoh":["hrakbkgosaioshi","おみゆ"],
+"hfuvfo5mcekk5kn26kcn4w5f":["hr-tante","HR-Tante"]
+}) // 2023-10-29T19:15:59.380Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

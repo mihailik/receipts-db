@@ -111,5 +111,11 @@ var iu=(function(jsonp){ if (typeof iu==='function')iu(jsonp); return iu=jsonp }
 "otyi7s2t7l5j3ixjlorqud5m":"iustitia",
 "xrmn2cofht4rin6jqgjjhxah":["ius16","آیـــو "],
 "oizoqzjtdgnmht7l3zo7ocmx":["iunno","dan"],
-"zj3rlacowhwgipau3fs6r6ig":"iungere-vulpes"
-}) // 2023-10-29T17:21:00.592Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zj3rlacowhwgipau3fs6r6ig":"iungere-vulpes",
+"n253hqrehyz4igbsyrfdreqr":["iunaanna","Аня"],
+"dmw4qp7gpqj3ldpfumw7a3s2":["iuiier","버터 🧈"],
+"jihp3l5kq6bozbgdgbltfzh7":["iurista-integra","integra "],
+"45g7xqccdnnrgdb4bu7uaemp":["iuventacrew","iuventa crew"],
+"6567gzeou2smjfj2szlrpr3x":["iulsea","iul "],
+"ffo7oyuuff6kiqlgixtkl74p":["iunoferonia","Iuno Feronia"]
+}) // 2023-10-29T19:12:24.852Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

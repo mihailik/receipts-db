@@ -89,5 +89,7 @@ var hf=(function(jsonp){ if (typeof hf==='function')hf(jsonp); return hf=jsonp }
 "zw4wxoqgtxnbifh35nw472e7":"hfn",
 "xverpkvgto4j5p7j263g3idk":"hfrick",
 "n3g53nyhsm56wbwgf3dfrr7f":["hfrancewebsite","H-France"],
-"6azlih5habtj7l7ao3t5w2td":"hfd1125"
-}) // 2023-10-29T16:58:25.041Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6azlih5habtj7l7ao3t5w2td":"hfd1125",
+"i7vuq5q4a4vdlv5xdtdlgy53":["hferrinholopes","Hugo Ferrinho Lopes"],
+"luaa46cs46wzhlvkgiz2vegu":["hfj","nucleairy fan"]
+}) // 2023-10-29T18:31:09.825Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

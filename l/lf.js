@@ -136,5 +136,7 @@ var lf=(function(jsonp){ if (typeof lf==='function')lf(jsonp); return lf=jsonp }
 "o5l7nil327z5ecavhgncmmrp":["lffg","Luiz Felipe"],
 "i64ljqrzzaekw77yaeiwlvua":["lfvasconcelos","Lucas Ferraz Vasconcelos"],
 "jw4uxear7j2ezgqqgq3azrve":["lfahxiua","le parti du cringe radical"],
-"r6dwfb4riz5ql7xdaqdtq2z6":["lfitouchi","Léo Fitouchi"]
-}) // 2023-10-29T17:24:10.179Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"r6dwfb4riz5ql7xdaqdtq2z6":["lfitouchi","Léo Fitouchi"],
+"pzk4o7gdniio6o44e7tsyogy":["lfspirits","L. F. Spirits"],
+"cnwzbqb32tdf6sfczr7myj23":["lfpneumatic","Pneumatic "]
+}) // 2023-10-29T18:24:07.958Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

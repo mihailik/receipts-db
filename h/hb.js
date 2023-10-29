@@ -185,5 +185,9 @@ var hb=(function(jsonp){ if (typeof hb==='function')hb(jsonp); return hb=jsonp }
 "btwp74s2fnvab3x473fcmfyh":["hbsmobile","The Haunted Book Shop, Mobile"],
 "sxggdnsh6ijux2sxeqvkiazt":"hbian",
 "pnobnoetnpghwrpo4fndhfcz":"hbbear",
-"7r6cad2luo4ndp5z6ss2vce4":["hbarsquared","Joseph"]
-}) // 2023-10-29T17:26:44.881Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7r6cad2luo4ndp5z6ss2vce4":["hbarsquared","Joseph"],
+"oukxv4n2w7kuajdvkujvnpgw":["hbpoet","Heidi Beck"],
+"4ku4z65o4vpird7gwie6upb3":"hbear45",
+"d7l4sghluoocceaorxt34dmd":["hbradley","H. Bradley"],
+"inhi6ic7bfcfzrg4jpsk3hij":"hbruton"
+}) // 2023-10-29T18:33:28.701Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

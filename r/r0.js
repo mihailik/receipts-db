@@ -507,5 +507,13 @@ var r0=(function(jsonp){ if (typeof r0==='function')r0(jsonp); return r0=jsonp }
 "colmslx37kqkauvxfeoplxns":"r8a16",
 "5fkey2kfnfw4no7o7m5kdqa7":["r11rt","Slava Ukraïni"],
 "giztlbgzitbsoushw6al6l3e":["r3en4","Reena"],
-"nidzhbwncchcatbpawvdt6tm":["r7plays","R7"]
-}) // 2023-10-29T17:28:20.357Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nidzhbwncchcatbpawvdt6tm":["r7plays","R7"],
+"amm7us4mnaslwhw36a2ffbig":["r0tpriest","JOHNNY ★"],
+"fyykzdbbwg5l26ym74nwwp76":["r0xompael","R0X"],
+"tw6taqcmmlrn5m22enitw433":["r2pair","r2pair"],
+"r7qnkkvuedklgzpznvmotj4a":["r0bsquared","Rob"],
+"g5yjwfod46aa3zbl23cswshc":["r3go1","R's Late Night Arts"],
+"azm7dnybyqdkaeia6ymrqsnf":["r00en","Rooen"],
+"lziema3hsdgscuuqp6yl7dl4":["r0ckyle0","leon🆒"],
+"xzv364sbuxapcoroffvg4als":["r3dleprechaun","Puck the tall hobbit 🧜✊"]
+}) // 2023-10-29T19:21:13.677Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

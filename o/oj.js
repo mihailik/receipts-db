@@ -197,5 +197,6 @@ var oj=(function(jsonp){ if (typeof oj==='function')oj(jsonp); return oj=jsonp }
 "dsmv23yc7agowb4tkyww43z2":["oji-ko","高野"],
 "hmvq7ponkas4np2i4siiclcl":["ojta","Oregon Just Transition Alliance"],
 "slbqw2csi4kgzbevjtxozron":["ojoumojo","Ojou Mojo"],
-"amzezid24hzjv2jq63pq7dw3":"ojaopreto"
-}) // 2023-10-29T17:26:45.003Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"amzezid24hzjv2jq63pq7dw3":"ojaopreto",
+"egixxzec72dminizjpy2fqef":["ojr","Olaf Ringelband"]
+}) // 2023-10-29T19:17:27.631Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

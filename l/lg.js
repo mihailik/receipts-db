@@ -199,5 +199,9 @@ var lg=(function(jsonp){ if (typeof lg==='function')lg(jsonp); return lg=jsonp }
 "fnt5hamgvfewlwfzmaxmsvzg":["lgbtwalker","jess"],
 "5dmudzuwu6c4g5xuohcoenky":"lgsp",
 "unhil7wcf2opdango25pmdfc":["lg5","LG5 Films"],
-"3r6io2kwvmbsnftonpg3lhug":"lgadultdog"
-}) // 2023-10-29T17:22:32.182Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3r6io2kwvmbsnftonpg3lhug":"lgadultdog",
+"riwup37hwu5vamei3npdvrdu":"lgd79",
+"4dcvhzx2gcua5ch3x6vr4ovh":["lgandlena","LG & Lena"],
+"3w77tbxsvzl3g6l54rj6y4pw":["lgde","L²"],
+"zmewyscqbhnyzbp6yz7n3hxx":["lgrimes","Lisa Grimes"]
+}) // 2023-10-29T19:17:27.603Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

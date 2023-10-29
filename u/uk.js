@@ -310,5 +310,14 @@ var uk=(function(jsonp){ if (typeof uk==='function')uk(jsonp); return uk=jsonp }
 "c6svwqshy6ifhaa3weh2ullh":"ukavonnak",
 "qumchwtnsr4sfgtc33zpjv3n":"ukblackpride",
 "a6vlmlnudrk5nw25ps7lqxww":["ukelogan","Ukelogan"],
-"l3gkn6kqvecdssi752mjmwuk":"ukani"
-}) // 2023-10-29T17:15:58.845Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"l3gkn6kqvecdssi752mjmwuk":"ukani",
+"u7fx4fwqznziljtkjht5jcsp":["uka185","ｳｶ 𓂃◌𓈒𓐍"],
+"n272yi6yq2iexgpbsbj772jr":["ukamyo","마요"],
+"zdwbnerbqmb3x3g2zebxx4ao":["uk-smudger","SmudgerUK"],
+"b6yjvnwvhxty4eeaff3m6xg5":["ukulelehomo","Kuroki Matsumoto"],
+"jnahrdx23zo2cm5yxmz6yuf5":["ukafeed","うかフィード(bot)"],
+"mran4ct6hityvwgvkcjmvn6z":["ukrgrad","Укропский Град"],
+"iq47dqvvu6ivp4ihn27jafp7":["ukiaad","🔞Ukia🏳️‍⚧️Monsters and Chubby Tummies FAN ACCOUNT"],
+"rlukwjtx576v4hxzuqdnvtb6":"ukrainenow",
+"jmih3m7wib3tkrdj6hcaep7x":"ukrainenews"
+}) // 2023-10-29T19:21:13.143Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

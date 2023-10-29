@@ -159,5 +159,9 @@ var oe=(function(jsonp){ if (typeof oe==='function')oe(jsonp); return oe=jsonp }
 "run7xa4izq3abqqkeiiy6z2t":["oeris","Oeris 🛸"],
 "e7xg253zgowtugbx5ea2um3u":["oedystopia","OEdystopia"],
 "rbdm6muecqz5drukxlf3iijq":["oeti","oeti"],
-"uvvkdaupkt3yl2ks22gl2v4n":["oers.me","oers"]
-}) // 2023-10-29T17:10:38.767Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"uvvkdaupkt3yl2ks22gl2v4n":["oers.me","oers"],
+"4cmm3mx33a6s6sq34vyzep2d":["oedipalschmedipal","Ray Beaudry"],
+"cqnhsc5wdo73xv5lca7bch5h":["oelsparer","SpareWeiterFossile 📯"],
+"knobup4sc6jo4xzhpfvrkb77":["oelr1chs","Nick Oelrichs"],
+"akgb5mnjyokj5svbcc6w4pko":"oex78"
+}) // 2023-10-29T19:07:15.740Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

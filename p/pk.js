@@ -282,5 +282,7 @@ var pk=(function(jsonp){ if (typeof pk==='function')pk(jsonp); return pk=jsonp }
 "ojjdavnev4fb3bod3wnbokiy":["pkmedievalstudy","Pearl Kibre Medieval Study"],
 "5d5ov6k2cvovdfjg4qzl4vbn":["pkettles","PKETTLES"],
 "6wc4myztcw2vkdkhxnnqrb6l":"pkeays",
-"wssus7zemsr7u4t5olosblfo":["pkquinn","PKQuinn"]
-}) // 2023-10-29T17:15:59.628Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wssus7zemsr7u4t5olosblfo":["pkquinn","PKQuinn"],
+"rwxphitkqe324gz3wnbtum46":["pksandman","PKSandman"],
+"e7qnikcdckinccspzbnhkjk2":["pkgupdt","pkg update"]
+}) // 2023-10-29T19:14:31.199Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

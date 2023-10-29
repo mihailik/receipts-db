@@ -332,5 +332,14 @@ var gs=(function(jsonp){ if (typeof gs==='function')gs(jsonp); return gs=jsonp }
 "3rlnyilcmkf2hphzemv7ln7x":"gsunny727",
 "h2juzdlxuaxwgrlodlfvzjqs":["gssb","gs"],
 "jp54qwnvlaepn4rmb73yfy5d":["gsk","GeorgeSmithKline"],
-"ft2xvxgkcxyildvefzbpzjia":"gsimonp"
-}) // 2023-10-29T17:21:00.590Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ft2xvxgkcxyildvefzbpzjia":"gsimonp",
+"k4jddhw2jhhryafpyiseomoy":["gslewisjr","Gordon Lewis"],
+"h2iqdvdkba7a372cj3zupuas":["gstylish","GStylish"],
+"xz7w62prkd4uclat6vifhwak":"gsn950",
+"yb2qv6ziw77y7w7avg5tpci6":["gscollective","Good Sleep Collective"],
+"igfjg2gu4bhqpsnzzohzehtq":["gshdz50","G.S. Hernández"],
+"sh6t5ajr7orcjhmwb7hylkln":["gsundell","Gustav Sundell PhD"],
+"d7qkljvp2frg7m6glrtwxzm3":["gschwenzi","Gschwenzi"],
+"qdnmv4qqdx4bwgdjqkq54kcu":["gsprocne","Dia"],
+"o3ajmtmrnvkszh3jmgbmhoit":["gscheitername","Jutta "]
+}) // 2023-10-29T19:12:24.805Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

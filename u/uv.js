@@ -53,5 +53,7 @@ var uv=(function(jsonp){ if (typeof uv==='function')uv(jsonp); return uv=jsonp }
 "6557jfqa2wruug54aoaatykz":["uvi56","Uvi"],
 "sybci2ihzo6iiclhjkqiix2r":["uviete","uvi!"],
 "cdvvn4xsgcnv3vqjuqg2qqj5":["uva-api","Anton Pannekoek Institute for Astronomy"],
-"mpcdg2ei334dt35bnfnbfjc2":["uvtungsten","uvTungsten"]
-}) // 2023-10-29T16:25:08.149Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mpcdg2ei334dt35bnfnbfjc2":["uvtungsten","uvTungsten"],
+"gdshdkxk37nokymaylqjatyf":["uvicanthro","UVicAnthro"],
+"do4ojhqtbdy3lwnd6ardnmqp":["uvleo","Percy 🐸"]
+}) // 2023-10-29T18:15:13.679Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

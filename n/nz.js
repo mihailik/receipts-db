@@ -121,5 +121,8 @@ var nz=(function(jsonp){ if (typeof nz==='function')nz(jsonp); return nz=jsonp }
 "rydmeikbjhxr464xr54q4wam":["nzochegg","Nzo 🔣"],
 "pcnou646x7mqgmnfr5oyf7gt":["nzwiener-collins","Nadine Zwiener-Collins"],
 "urckdavjrpz4semmzdcby2sz":"nzredbear",
-"6hoxhkfjoun37fmbdoc2hrwb":["nzfi","NZFI"]
-}) // 2023-10-29T16:18:35.988Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6hoxhkfjoun37fmbdoc2hrwb":["nzfi","NZFI"],
+"k6rxv2hi3pfdtkaa5wirnlgw":["nzbatman","Ben Paris "],
+"fqtcbeuqxxun7sd4juhpx2jr":["nzau1984","Über Lemelin"],
+"gmpddtapt2r6owu45i2zl4iv":"nzdroid"
+}) // 2023-10-29T18:43:50.555Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

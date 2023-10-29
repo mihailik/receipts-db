@@ -307,5 +307,14 @@ var nd=(function(jsonp){ if (typeof nd==='function')nd(jsonp); return nd=jsonp }
 "e52e4hx7wtyhzayxvzdlm2bj":"nds0283",
 "izpsylrxb52n5fvyzvo4zqub":"nduffney",
 "fy6w2qbbbivv4fwhhcjjibow":["nders","Edgar Nansen"],
-"5sot7w6665m5kdmrtpzoguj4":["ndolce0","Nick"]
-}) // 2023-10-29T17:21:00.210Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5sot7w6665m5kdmrtpzoguj4":["ndolce0","Nick"],
+"x34r6zo7ztsiicqsxxeuelkf":["nd00dle","N00dle_D00dle"],
+"4ixys2iafuejfsquq2yhz6ox":["ndecon","Notre Dame Economics"],
+"y632ixjfvmobzbvr7e2u7lzl":["ndlsto","andyyyy"],
+"n6nyhw33dk7hstehuneces7q":["ndutton13","Neil Dutton"],
+"uevidg26d45swlsm6k7prcne":["ndee","Ndee aka Frank van Vossen"],
+"5y5vbjdnz3iatqi34iqnliz4":["ndmethodists","Nottingham & Derby Methodist District"],
+"53q5j6zdniivqtywpliymeto":["ndelacerda","Nicolás de la Cerda"],
+"bpiapjxhnkwvbb7gupd5qofh":["ndaniels","Noah M. Daniels"],
+"jylb5euyurhnujspwpjcwog5":"ndocist"
+}) // 2023-10-29T19:14:31.056Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

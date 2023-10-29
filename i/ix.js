@@ -125,5 +125,13 @@ var ix=(function(jsonp){ if (typeof ix==='function')ix(jsonp); return ix=jsonp }
 "5aloc7knsmy7jiw4oq5eeq6y":["ixrin","Ixrin"],
 "hnf4223fu5ei34yjoqk7cfvt":["ixmythot","Ixmythot"],
 "kb3kauwlvuksyg5qym4zy3bm":"ixela",
-"wrg3o44kldleaaoh6v7aalr4":"ixcfr24"
-}) // 2023-10-29T16:58:24.915Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wrg3o44kldleaaoh6v7aalr4":"ixcfr24",
+"daaocvfpvhak2faqth4tuwfs":["ixerfade","m a x"],
+"m2anu6waarjticu63d5ha2gx":["ixienova","Ixie Nova 💫🚀 Vtuber - 2.0 coming soon!"],
+"xu22paeflpvi5qviflewszx7":["ixbran","Brian"],
+"hkl3eohnuznj45u67mhnwdmj":["ixaocan","Ixaocanqi "],
+"jq4nzk2gsdd242rxqa6ljsys":["ixpantia.com","ixpantia"],
+"v7avezbbmy4667rnvcgpwufh":["ixfenn","FENN 🔥🎭"],
+"kocfc35f7ux2zse34zckuict":["ixyo","SHIO❤️‍🔥🐈"],
+"h4qna4dbh4zt4ike4s4awhb3":["ixcarus","jin"]
+}) // 2023-10-29T19:22:41.655Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

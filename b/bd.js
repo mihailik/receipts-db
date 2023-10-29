@@ -384,5 +384,19 @@ var bd=(function(jsonp){ if (typeof bd==='function')bd(jsonp); return bd=jsonp }
 "mwxpwjfxpadgmuhznxef5b2w":["bdart","BD"],
 "twvqqzk4kqqzyevff4zet6sx":["bdnsfw","bd stands for big dongs"],
 "wbk3vvuvlh3wabp57lt644fw":["bdallison","bdAllison"],
-"u6vxmtg2nadcwe2g5wm7pdd6":"bdinsmore"
-}) // 2023-10-29T17:28:21.270Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"u6vxmtg2nadcwe2g5wm7pdd6":"bdinsmore",
+"dc7rcjxwrtsvbhhavlxwnlmt":["bdwo","Ben D"],
+"wh7u25clnyqcalt23rfoo54a":"bdlover17",
+"iquzacvqcqlw33qepjes3sbk":"bdlover2",
+"b67oujcjw4yhqzbkgkmfxkxw":["bdecourson","Benoît de Courson"],
+"aqtrripwouwxuw3b4tz2iqbs":"bdwest977",
+"qcy5b2fdgnam43qsyvn7hy3v":"bdmbigdickmcgee3",
+"eegjsns4x546eaahe3hhwzoh":["bdkwashere","BDK"],
+"nl7wffnhuqzncjplmggzz7rh":"bdub81",
+"bt6t2aaug4hcssnca5zfzi4y":["bdotshiny","dr. bonnie lenore kyburz"],
+"a6pg5mcx42g5ahuyitwa5nsm":["bdsmith","Brandon Smith"],
+"r3dao6pm6ya45z2xf7srluuf":["bdsmboygee","Gboy"],
+"wjo2676jbzogreytqbz7kpzq":"bdixkbanks",
+"eqsswrt4kuumbqj2zlhf5dsl":["bdwtt","BookerDWTT"],
+"fdjk62bvl3zvyw7x2fewqwie":["bdrous","Benjamin Rous"]
+}) // 2023-10-29T19:15:59.801Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

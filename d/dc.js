@@ -593,5 +593,19 @@ var dc=(function(jsonp){ if (typeof dc==='function')dc(jsonp); return dc=jsonp }
 "5stl3zwf3jhrnqvwaq4nwma7":["dcaba","David"],
 "leo36htub2e4t5tg3dyhqhm7":["dcuniversai","Gwen"],
 "aprlkdaoud576rnsa7jannxk":["dcarpintero","Diego Carpintero"],
-"xuump2ibdufy6gtn64u6hrwv":["dcabellor","Diosdado Cabello R"]
-}) // 2023-10-29T17:28:20.942Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xuump2ibdufy6gtn64u6hrwv":["dcabellor","Diosdado Cabello R"],
+"xtxvqttgzl7grjyu36nc4qjv":["dcinthemsp","Matt"],
+"kzchgzkdh7vqz232knvdr3sx":["dcruzd","Daniel Cruz"],
+"ly6fomno55whwsq2egjuz2xs":"dchouseplanter",
+"xlpy2xrsi22ry47dq3elnh2g":"dcrdal",
+"wjwmepeozl6ye23ktcpdv33h":"dccomicnerd",
+"555z74l4memh4suw3c2gvype":["dcelectionhist","DC Election History"],
+"irkt4hr7nju5datyufcgwr44":"dcon11",
+"fnzqtpgnlldgbtmcalwdkaik":["dcjims","Jim Sweeney"],
+"wowuylxtmtyskvtqddsk5fmu":"dczd23",
+"vepwys5kyirrop5yyrj2ipoo":"dctheraccoon",
+"fysxdcjfpvmxvgwr2fe2eebx":"dcbear",
+"y6ivnfx6r6rjdgwuhhczoulj":["dcleewrites","Desirae💘's💚💙"],
+"7ztk3xmxzzw4a3hebiuzpk5o":"dconlisk",
+"gilrfbpiacnfk2dpyoamndsf":["dctoedt","Dell C. \"D.C.\" Toedt III"]
+}) // 2023-10-29T19:22:42.229Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

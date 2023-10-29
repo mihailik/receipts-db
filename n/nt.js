@@ -317,5 +317,16 @@ var nt=(function(jsonp){ if (typeof nt==='function')nt(jsonp); return nt=jsonp }
 "adgos7o5hjs4icjzm7zkzvvi":"ntlwr",
 "g3ec6kvwujhimu36tdgnnmqs":["ntny","Antony"],
 "skqvravk7n2gc7uqqptrzsib":["ntmr-18","なつむら"],
-"a7nkqqek2xc3ovnkqqj53ykx":["ntpinheiro","NTPinheiro"]
-}) // 2023-10-29T17:19:06.480Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"a7nkqqek2xc3ovnkqqj53ykx":["ntpinheiro","NTPinheiro"],
+"psoslqdyqtg74n4ulrorsrmf":["ntiu","anxietyinspo (new handle)"],
+"6pl3exdskswqs2fn6soem6oq":["ntlrz","antlers"],
+"f2dacn4az4o774pwgg4vuxar":["nthealtogether","LC"],
+"5b37yphivbwwr6lriwnlxvc2":"ntdubb",
+"saf4bzizwa255v44zu5ksrry":["ntls","ntls"],
+"bhgayygm3qf7wgiglqbmz763":["ntdmiller","dmiller"],
+"ao6o23o66l576ktlpn7ael3t":["ntwrites","Nathan Taylor - YA Fantasy Author"],
+"wq2ulh4jsb2hglzq6hnuvz6h":["ntone","Den Toine"],
+"qngf46iz45k4z2sism3ydozx":["ntk1607","LP"],
+"6tcesnvwcsqlxxsskll3t5bk":["ntromani","Roman"],
+"temxrz3mh6okuhxy7ko777oc":["nthlbs","Nathalie"]
+}) // 2023-10-29T19:17:27.741Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

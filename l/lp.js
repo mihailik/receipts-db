@@ -197,5 +197,8 @@ var lp=(function(jsonp){ if (typeof lp==='function')lp(jsonp); return lp=jsonp }
 "ema3dkaznrlr7ld4lyfcsjbv":["lptncl","니콜라"],
 "n3xxbduumdpacnddn7llxa2x":["lpsiff","Lindsey Siff (she/her)"],
 "6p5g3dtr3j2o2e5grihxz5ap":["lpnintendoita","LetsPlayNintendoITA"],
-"ocb7d2tzbylt3wsweoyi567g":"lpitman"
-}) // 2023-10-29T17:24:10.157Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ocb7d2tzbylt3wsweoyi567g":"lpitman",
+"crpn3lc6ubdaaye62i2p7dz5":["lpconnaughton","Louisa Connaughton"],
+"eccjxqvvkw2ga7tnhfrjc3qa":["lp37000","Lp37000"],
+"tyee672hobr5q5jlfsvxyewo":["lpthelper","LP"]
+}) // 2023-10-29T18:41:40.653Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

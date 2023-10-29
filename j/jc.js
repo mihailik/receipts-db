@@ -1000,5 +1000,23 @@ var jc=(function(jsonp){ if (typeof jc==='function')jc(jsonp); return jc=jsonp }
 "f3imzeksgoy2iu4bs4bzwvy5":"jcbs11",
 "kyaey3spr2qepnrlmjpsucpp":["jconnole","Joe Connole"],
 "tiypdmg4piy75ma3iwongnym":["jcampog","Javi Redfield official"],
-"zv3jtjf3dr44u5zhnxqun7gu":["jchoekstra","Hanna Hoekstra"]
-}) // 2023-10-29T17:26:44.963Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zv3jtjf3dr44u5zhnxqun7gu":["jchoekstra","Hanna Hoekstra"],
+"bg3a6okvv6pckozytj5qlbvo":"jcerrone",
+"bhc7dkrkmoxit7ie23au7hdr":["jcraft","J.Craft"],
+"cdiyhwsza54ffmqn3llksjs5":["jcarstens","Jonas Carstens"],
+"5ylohzusf7zmg5crqxepshkr":["jcarts22","JCArts22"],
+"dupibngl33pgaqmr2t2hihwi":["jclarson","John Larson"],
+"i5iswd73hjza2weom4fgdba2":"jcord1012",
+"jra3mgtjvtbnkc6ddryaasu4":["jcpayes","JassPayes–WarriorNun(TV)"],
+"3qbaa2bxx6r6npsh3y6i7wwu":["jclannon","John Lannon"],
+"pjbovudjzt4bpwkzumvv2tpf":"jct320023",
+"mwwyz7zhj4oxaig7nmcaghly":"jcstew5",
+"uqrsbdvc6w72cue2n42l2qpj":"jcwalkerlister",
+"cs4ghsrammwbjdnqdqllzesx":["jctapia","José Carlos Tapia"],
+"vih74drkp3iqucsvxnklmtgi":["jcriscio","jcriscio"],
+"6zv3pvhczuh2t7a4wgqzyvqr":["jcshorny","JCS Horny"],
+"2cwlyfybzj7zcwvwhdhhnjqh":"jcw1967",
+"cf7mqav6s337ymlfcwo56hch":["jcjohnson","Jsquared"],
+"s3beom2j7xr2h2ao6uxqilxi":["jcfellamd","JCFellaMD"],
+"fhnzbnj6impezvqd64wqxcm2":["jcultecon","Journal of Cultural Economy"]
+}) // 2023-10-29T19:15:58.833Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

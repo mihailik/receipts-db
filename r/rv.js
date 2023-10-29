@@ -160,5 +160,6 @@ var rv=(function(jsonp){ if (typeof rv==='function')rv(jsonp); return rv=jsonp }
 "w4gzh2ydhmgtlcx67fyq7s3x":["rvenutolo","rvenutolo"],
 "jki6q3xdvygpxopma6amrqli":["rvablu","Miss Mama's: Catfish Jane 🏳️‍⚧️☭(She/They)"],
 "4k4xyj2kgeujaovtmvo7kyhe":["rvock","Rita Vock"],
-"l5xupf3mu2l5mouklzf6qv4k":["rvaplaylist","Andrew Cothern"]
-}) // 2023-10-29T17:26:45.065Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"l5xupf3mu2l5mouklzf6qv4k":["rvaplaylist","Andrew Cothern"],
+"xnogjkhpdhq5y76rlc6uz2bi":["rvkallen","rhys is ⚡🧙‍♂️electro wizard⚡🧙‍♂️"]
+}) // 2023-10-29T18:36:33.865Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

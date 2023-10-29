@@ -213,5 +213,9 @@ var uc=(function(jsonp){ if (typeof uc==='function')uc(jsonp); return uc=jsonp }
 "ezj5gc46i6l4at2r4dy372ll":["uchihastbh","cherry 🌸"],
 "ousn5ltudk6uez325ks23wpn":["uclaneurosurgery","UCLA Neurosurgery "],
 "loxypg3j2yzmw6rvabx2b53c":["ucuz","Ucuz"],
-"654g3yvop6hzgo7d25snyb2u":"uconnurban"
-}) // 2023-10-29T17:24:10.240Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"654g3yvop6hzgo7d25snyb2u":"uconnurban",
+"nl5uhakwbunmtssfm2dqtikg":["ucrpolisci","UCR Political Science"],
+"jxd7bjsxylrxc5nmsdnu5mgi":["uchechi","Godswill Uchechi"],
+"3pjnznhjuu7oq4xnn6uqjfjf":"uctraveler",
+"eztfrp6zxveaando7rxcjjyh":["ucob","Yan"]
+}) // 2023-10-29T19:02:13.708Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

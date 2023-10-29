@@ -74,5 +74,9 @@ var uo=(function(jsonp){ if (typeof uo==='function')uo(jsonp); return uo=jsonp }
 "y5webr2v2uwq5deu2xku5nml":["uovospazio","Betsy 🍳 "],
 "fd22bhbnqp6l42kvy52offiy":["uoussefemaad","YOUSSEF "],
 "h3nkaz4l6jeagmoqirroarrn":["uovou","🌙"],
-"4rtbunwz5bml5axomjcwngjv":["uoyborthwick","Borthwick Institute for Archives"]
-}) // 2023-10-29T17:17:33.230Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4rtbunwz5bml5axomjcwngjv":["uoyborthwick","Borthwick Institute for Archives"],
+"rwg7cku2yzbphmdobb6tssy4":"uomovariabile",
+"kwbgqbvs7md4philkjq5l7xq":["uone","U1"],
+"jdbrbr6ohd6phqlctwlh5sl2":["uofilsystem","University of Illinois System"],
+"nntsp7ee4j3k4tl5uvvku2rl":["uohyo","うみれ"]
+}) // 2023-10-29T19:10:53.954Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -314,5 +314,11 @@ var hm=(function(jsonp){ if (typeof hm==='function')hm(jsonp); return hm=jsonp }
 "jtvha6cq4kpu5yv6djzgjdty":["hmelder","Hugo Melder "],
 "zrub6omxiip6m3vy6adj5wjt":["hmmbeargrr","bear who is eating a hamburger"],
 "aezl7kmvfgdctewryhsijquk":["hmibisondollars","How Much in Bison Dollars?"],
-"ky2a2k7nbajzkkoesygvr5ro":"hminkim"
-}) // 2023-10-29T17:17:32.477Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ky2a2k7nbajzkkoesygvr5ro":"hminkim",
+"5gv55ksruhcwedosrsntf6bf":["hmvsb","Henrique Borges "],
+"5gaufhc5rg7k6c4jh6eegng4":"hmiwonder",
+"egyxw34gpbezsfni3eypoaih":["hmmbriel","brie"],
+"4ps4um3b3un7iewrqvza76x6":"hmptwt9",
+"5lukankhhljcuotk4cair73h":["hmcd93","Harvey McDonald"],
+"h47bhonjuyaox4dcwgbkigal":["hmonsivais","Humberto Monsivais"]
+}) // 2023-10-29T19:14:31.359Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

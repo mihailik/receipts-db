@@ -567,5 +567,13 @@ var oo=(function(jsonp){ if (typeof oo==='function')oo(jsonp); return oo=jsonp }
 "w5uk7a2gevkma3yjzbwee45j":["oopsypoopsies","Jimmo"],
 "lb45j5sjnjgu3qce7nefd5nm":"ooo-sss-sk",
 "zob2y4ii3z4waej4bchnrqz6":["ookamitez","Ookami_Tez"],
-"in7obtil7ymbv3tle3tcf56p":"oohlollo18"
-}) // 2023-10-29T17:17:33.064Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"in7obtil7ymbv3tle3tcf56p":"oohlollo18",
+"zovqtsye2hnw6leye44bgoai":["oodlyadventurer","Oodly Adventurer"],
+"nkbrjqg3mvta3sbqraqwtudc":["oodlesmynoodles","oodles"],
+"26477gohhz3qkn3y4v24nqw6":["oofjay","Oofjay"],
+"5akdehyju6d6kxdlesyu4soa":["oopsynsfw","oopsynsfw"],
+"ik2bgoeeyeduaxxoas2vttta":["oox","oxygen"],
+"mg4cjphtoix6ojpu46vvn7sv":"ooxhaosoo",
+"vogg4bmc5sdf73olta4flypu":["ookamisoulreaper","ookamisoulreaper"],
+"hcu7h7kzeicokmqalbadfham":["oocdevilman","out of context devilman"]
+}) // 2023-10-29T18:57:04.329Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

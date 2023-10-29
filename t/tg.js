@@ -245,5 +245,12 @@ var tg=(function(jsonp){ if (typeof tg==='function')tg(jsonp); return tg=jsonp }
 "ufccqk27cxuxourakx5cgfbb":"tgwalrus11",
 "bi5qkdo5fussmec2d54lnmth":"tg1pe",
 "rmj6jl6ndv75zocacoog2udv":["tgoesh","Tʀᴇʏ Gᴏᴇsʜ is tired."],
-"h3dca5iedmfbbshj7qgk2nvq":["tg4414","laugh factory shop steward"]
-}) // 2023-10-29T17:03:27.158Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"h3dca5iedmfbbshj7qgk2nvq":["tg4414","laugh factory shop steward"],
+"jfbhdawk4hdhk5phrnj2sfgo":["tgirlshookup","TgirlsHookup.com (very NSFW)"],
+"a5ahiz44hcij4474ezjfna2p":["tgoerlitz","Tgoerlitz"],
+"5sjpdr6jx5rtmen24j4ru2jb":["tgjcnt","Tiago Jacinto"],
+"tkqxixhcver3wn2heo42ptyb":["tgo679","Ell Oliver"],
+"jvdplmrora44owgv53h2rrge":["tgnordgren","Todd G Nordgren"],
+"h5h5qi6zheeqcglzaqmte2ze":"tghero",
+"y5niwqp55nusecaqwuurcgkm":"tgmiles"
+}) // 2023-10-29T19:19:45.131Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

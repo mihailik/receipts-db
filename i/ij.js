@@ -123,5 +123,7 @@ var ij=(function(jsonp){ if (typeof ij==='function')ij(jsonp); return ij=jsonp }
 "nrpyhmjj3b3iscoth7hzktu5":["ijpsjournal","International Journal of Plant Sciences"],
 "my5nryb26ppkssv3mvd4rci7":["ijdavis","Ian Davis"],
 "nviws7wrv45yfyk7ulitlmta":["ijtreasure","Liam Hait"],
-"koofdcffgiyuaghh6dogzxm7":["ijpe","@IJpe"]
-}) // 2023-10-29T15:24:06.270Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"koofdcffgiyuaghh6dogzxm7":["ijpe","@IJpe"],
+"x2iwzbu2nkmyjobicwkywgst":"ijojoba",
+"dcic3sc6hybl2rsn2yx73w5a":["ijusvindrbjorr","IjusVindrBjorr "]
+}) // 2023-10-29T18:55:34.185Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

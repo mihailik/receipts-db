@@ -413,5 +413,19 @@ var sg=(function(jsonp){ if (typeof sg==='function')sg(jsonp); return sg=jsonp }
 "hxjcpll3dlwk3lxkl5ccsiwc":"sgtchuckle",
 "d5a2kst66hkkwbkf47xtpjtx":["sgtcarlino","Oscar Shaken not Stirred"],
 "7yscaetiw6xydyz22lkoyous":["sgeorge","Sarah George"],
-"qhhcsosykltjsvpn6n3zus3f":["sgtpolaris","Sgt. Polaris"]
-}) // 2023-10-29T17:24:09.913Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qhhcsosykltjsvpn6n3zus3f":["sgtpolaris","Sgt. Polaris"],
+"pwhrskx773orc4oo3e76j3lz":"sgthugostiglitz",
+"6cqiyaf2tqyp3rz3qq6stzmx":["sgambly","Shimbimbler Gambly"],
+"6hwb7regnro7mmgmxdjsaov2":"sgm92",
+"jeshiry4pixotcaae4dmfu32":["sgehawkeye","\"Hawkeye\""],
+"dmecxqvxdr5rn7phkb2isgwb":["sge-ler","Sebo"],
+"gqqfdefzz2blowx2ukmegnci":["sge23","Alisha-Marie"],
+"4756izblxlv673le2efdawp5":["sgilb","Steve"],
+"iu4nuvl5xtyxxl6ve5gul3id":["sgugic","Sandra Gugic"],
+"squwrnfumbapqnpovmmdhgt7":"sglassme",
+"g2z5pxufxqkzmsquqwbtcf5c":["sgdozer","DoZer "],
+"q4ytjmxxmxtthct4opv7rtko":["sgtaylor","Sarah Graham Taylor"],
+"jjrokkppyngr3eljesas7hwp":"sg8prl",
+"xivgzkgyrgavcupvvbqwssnh":["sgc-maverick","Mav Leon"],
+"imzwyck6qkc2htw7bkwcu53j":"sgerwitz"
+}) // 2023-10-29T19:22:41.563Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -249,5 +249,12 @@ var rn=(function(jsonp){ if (typeof rn==='function')rn(jsonp); return rn=jsonp }
 "qbezfo62yetxkcbdmlcqtyuv":["rnachel","Rachel C. Rice"],
 "qcpifddjehefbjwb7jpszzlf":["rnontime","R 🍉🍉🍉"],
 "lzx7sojlxbth452ho5kyvdyd":["rnib","RNIB"],
-"yaeej6qbhmhopd6k4q5x3b6h":["rna-ken","Mathie Quesnel-Vallières"]
-}) // 2023-10-29T17:21:00.470Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yaeej6qbhmhopd6k4q5x3b6h":["rna-ken","Mathie Quesnel-Vallières"],
+"3xxqbdrmpkczh4rikrwclwyu":["rngadelion","Renegade Lion "],
+"vh5525bxeihldakkescsdg7f":["rnf","Ryan N. Felice"],
+"thblqkvy3mzvojb4mgfwcc4e":"rnassmacher",
+"l6cawgspsh6i2vx4zw3lvi7x":["rnfohle","Jan 🕊️"],
+"cvj3rddc57iadvbtkdbo7zwz":["rnn500","RNtsm"],
+"e5vq5eayksupksdx4oec4sl5":["rndy000","not now."],
+"caknmhh2zw6p72f2jvwb7w6w":"rnlt"
+}) // 2023-10-29T19:12:24.872Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

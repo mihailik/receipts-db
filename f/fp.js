@@ -121,5 +121,7 @@ var fp=(function(jsonp){ if (typeof fp==='function')fp(jsonp); return fp=jsonp }
 "bxqxyckxw7ljlqf6f5jzjlig":"fppno",
 "6r443o4hhkv4xvc3wcbwebtq":"fpeque",
 "2ar67w64xufv7ceng2uzetbl":["fpov","fpov"],
-"qktwklkyvhwsmlez25oeao3c":["fpaillanave","Franck Paillanave"]
-}) // 2023-10-29T17:13:36.159Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qktwklkyvhwsmlez25oeao3c":["fpaillanave","Franck Paillanave"],
+"7kfuaanpwiru7zfkufowqlj2":"fprofla",
+"6ssl2lkqnbustnyrostdpylb":["fpvmario","BlueSkyFPV-Mario"]
+}) // 2023-10-29T19:14:31.367Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

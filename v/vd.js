@@ -100,5 +100,8 @@ var vd=(function(jsonp){ if (typeof vd==='function')vd(jsonp); return vd=jsonp }
 "j7qytpzhpnkc5fsqtube4qzb":["vdarcey","Valerie L. Darcey, PhD, MS, RD"],
 "mb7pyu6oqieyx24kprutodo2":"vdistasio11",
 "gkpoag6xmrsrmq63436vxl2e":["vdcomfort","VDCOMFORT"],
-"u6m2qhyqslyg7ie324mahfsd":["vdych1","Vasyl Syval"]
-}) // 2023-10-29T17:15:59.459Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"u6m2qhyqslyg7ie324mahfsd":["vdych1","Vasyl Syval"],
+"rspnilun22as3tohgnjzknxh":["vdvilles","Maman fatiguée"],
+"3nhexeo44ndpauod7e4ua4nz":["vdbijl","Wouter van der Bijl"],
+"ivnqs3aotdsfc35lzajnklro":["vdeschaintre","Valentin Deschaintre"]
+}) // 2023-10-29T19:12:24.911Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

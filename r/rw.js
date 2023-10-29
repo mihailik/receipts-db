@@ -194,5 +194,14 @@ var rw=(function(jsonp){ if (typeof rw==='function')rw(jsonp); return rw=jsonp }
 "bls43kjrngoa5pipwlhkzosd":["rwbustintrudeau","Bustin'Dubya'Trudeau"],
 "vfdvc4onet3axc7zkeefetia":["rwan","Rwan"],
 "egbv4ahtr3rch6eaxtnyspbv":["rwinkelord","Rainer Winkler "],
-"2e6xdjcxdft7kcz7hmgx4ixh":"rwordsayer"
-}) // 2023-10-29T15:55:29.736Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2e6xdjcxdft7kcz7hmgx4ixh":"rwordsayer",
+"cckhnq3xo5vhg2ljujymozax":["rwbyinkfox117","RWBYInkFox"],
+"b3oq3qiafndqx7tf5q2stis2":["rwestonliterary","Rebecca Weston"],
+"aoxc6kar3l3hl6zpx5jphphs":"rwquarl",
+"ixfrsblvbqy7ys3lsxdrtifi":"rwildallison",
+"hqvn7432ip2hg23htosszcz4":"rweigold",
+"fjuavdfujiwhqhat4nqr74xf":["rwpr","Rowdy Beers"],
+"5x5zuu5kyip72q5sohdh4xay":"rw-cat",
+"bqqmoom6eiznml3kcln47ftd":["rwruedii","R. Wm. \"Ruedii\" "],
+"vdungjapsayzomjn23brhlp7":["rwittan","Renate Schulz-Wittan "]
+}) // 2023-10-29T19:22:41.884Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

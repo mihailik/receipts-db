@@ -184,5 +184,7 @@ var rf=(function(jsonp){ if (typeof rf==='function')rf(jsonp); return rf=jsonp }
 "zq4cz2e5i35uvz5q24kdapgw":["rftxuva","Ruben"],
 "skeac4clzkrxgwg6bklqamk5":["rfrauhn","Robynn Frauhn"],
 "gdmf3quzqqsecls6znsqj2eg":["rftpodcast","Robot From Tomorrow"],
-"44zoid6neetvjbencahryx57":["rfkrted","Ted Meyer"]
-}) // 2023-10-29T17:24:10.185Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"44zoid6neetvjbencahryx57":["rfkrted","Ted Meyer"],
+"pjzf5jpbsbbsco4seoqaep72":["rfldrj","rfldrj"],
+"f53njd75b4fkntjyqcvf2pje":["rf80g","René 🇺🇦 🪣📯 🐦"]
+}) // 2023-10-29T19:14:31.250Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -335,5 +335,15 @@ var sf=(function(jsonp){ if (typeof sf==='function')sf(jsonp); return sf=jsonp }
 "yi76e6lzopt4iy6uvsvz6npi":["s-for-sprinkles","S For Sprinkles"],
 "t36ygpqgxv4vb42m2dd3if7r":"sfwimmer",
 "krxpsrymcss4gxbyi5hje7gq":["sferrigno","Stephen Ferrigno"],
-"ytqn2odcrskwfyqtcvyida6r":["sf04hi06","かつあけ"]
-}) // 2023-10-29T16:51:24.763Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ytqn2odcrskwfyqtcvyida6r":["sf04hi06","かつあけ"],
+"ivzexpo5bz74qljw7ofez2mr":["sfw-art","SFW Art Highlights"],
+"xullxmvh24abbxbkas3wnwjf":"sfrncs",
+"pbw2ufacldmeohwjxiuhtcqa":["sfjournal","Social Forces"],
+"i37inapt7uksxkipesl52toe":["sfrcloudy","SFRCloudy"],
+"eqifdximkewtxd5cfzta2i7m":["sfreitas","Sérgio Freitas "],
+"a3hgz6ldhmjnk6mzjjdk5sae":"sf22",
+"e2ih3a4xydaqdozinhc5o3fh":"sf6414",
+"m3jbyh4v5ugnlk33x4ohrms6":["sfhina","MMR"],
+"b3buk4xpydh7whh3hwsjs5rq":["sfngs","GUPPY"],
+"gubwnih4dgvtgtrapxyglzpt":["sf-fan","Florian Breitsameter "]
+}) // 2023-10-29T19:21:13.301Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

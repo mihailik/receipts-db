@@ -108,5 +108,7 @@ var ui=(function(jsonp){ if (typeof ui==='function')ui(jsonp); return ui=jsonp }
 "m24d3gio35dlwgwiuqvepgfe":"uillaume",
 "qzp54etk65nmwpjyftrxe37h":["uichatpodcast.uk","UI Chat Podcast"],
 "z3fi6tpiohove2mo7a6twzez":["uiscefhuaraithe","Tira"],
-"ybwf4km7nje2upaineqjuy5p":["uillove","UilLove"]
-}) // 2023-10-29T16:09:37.986Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ybwf4km7nje2upaineqjuy5p":["uillove","UilLove"],
+"pf4tw3q7wrmhy3vc3gkpz6db":["uiharuhalberd","Halberd430 "],
+"sg56oxgxd374rdnq7djysrgv":["uidbmgmt","UIDB MGMT ☢️ Commission are OPEN"]
+}) // 2023-10-29T18:59:13.515Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -96,5 +96,7 @@ var zn=(function(jsonp){ if (typeof zn==='function')zn(jsonp); return zn=jsonp }
 "mwr6joxwngc6kji7h5hkh6sq":["znazzy","znazzy"],
 "f6cjddpyyqtcvsy4ynvxtvmq":["znenx","해미"],
 "arb7v4njwvjzd6awbdczqymf":["zn-code1","🌸"],
-"mgg53bsxw6jnnk56bfqwm4ym":["znakot.party","Тщетно бытие"]
-}) // 2023-10-29T17:21:00.454Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mgg53bsxw6jnnk56bfqwm4ym":["znakot.party","Тщетно бытие"],
+"2m5vrvjf4lavyxta5juov4li":["znardo","Zander nardo"],
+"nseyeyvr4ei2abbxld4l3p5j":["znuznu","znuznu"]
+}) // 2023-10-29T19:19:45.781Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

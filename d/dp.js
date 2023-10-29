@@ -336,5 +336,13 @@ var dp=(function(jsonp){ if (typeof dp==='function')dp(jsonp); return dp=jsonp }
 "ru4zawprxcmj4vqgzlagtm4u":"dpartain",
 "hkwfgwlo63cxiwjm6pd3lt34":["dproii","still david"],
 "aaxhcahmzxudxj54yswg5fag":"dp0ttxy",
-"hpvefnbh2g3nyf2blfrtl3jh":["dplaza","David Plaza"]
-}) // 2023-10-29T17:13:36.621Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hpvefnbh2g3nyf2blfrtl3jh":["dplaza","David Plaza"],
+"iapyjl2nqambhub223e3ap4t":["dpembertonjr","Derrick Pemberton Jr."],
+"a7ne2ptmpxj4qgx7x47nuuwh":"dpalmer",
+"amvju2c3mkxzkvkrr2hzmer6":"dpurifoy",
+"pvn7yyvcw3fwbok76xxmoznu":["dpf","David Farris"],
+"uuttybouvykwwiskshqnviuv":["dpsmith","Dee Smith"],
+"vugdtv4k27jxyubexvhcclkp":["dpacoordinator-aic","Amnesty Canada Campaign Against the Death Penalty"],
+"tkqqpomveotbur22co4limu5":"dpoppleton",
+"5v5whpe4d5znesmxeglhbohh":["dpshr000","96세김에녹의인생마지막메리고라운드"]
+}) // 2023-10-29T19:17:28.237Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

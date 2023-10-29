@@ -441,5 +441,14 @@ var mn=(function(jsonp){ if (typeof mn==='function')mn(jsonp); return mn=jsonp }
 "7yqsjwi2k2dcyh5qmlo3xn67":["mneumvis","Mneumvis"],
 "yj3wryku7wljlxc3evsdphmn":["mneuvince","Neuvince"],
 "x7nlqzzzpdlvjomgmjkhqhok":["mnarmintor","Marshall N Armintor"],
-"e62eyavxxpjewc7ro5nqolde":["mnikkoav","MNikkoAV"]
-}) // 2023-10-29T17:06:51.321Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"e62eyavxxpjewc7ro5nqolde":["mnikkoav","MNikkoAV"],
+"lwztq4d36z4p3hqp5agrkb5r":["mnstrparadoxxx","MILE HIGH MNSTR (dumb dog era)"],
+"evof33cjb5vfg2i2mpnrf3u3":["mnhiip","Filet Moignon"],
+"fhcjpxvzh2rw43bowaw5oipq":["mnsportsemporium","MNSportsEmporium"],
+"cmbuzo77wazjqdzobn24il57":"mnyz",
+"ptvqnk4h344ckp3uikho5mus":["mnsp625","ちゃの"],
+"a67im7no3bewrnszsafkkp3i":["mnemo.de","Thomas"],
+"l3ocnmxciga5wyppmiqwrn7w":"mnax",
+"6pkrt65czld4tuduxjdatmrq":["mnrrntt","Mnrrntt"],
+"y7tggoeblx7egrzyk3a6ysgs":["mngmldy","まんげめろでぃ"]
+}) // 2023-10-29T19:12:24.053Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
