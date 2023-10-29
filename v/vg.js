@@ -112,5 +112,20 @@ var vg=(function(jsonp){ if (typeof vg==='function')vg(jsonp); return vg=jsonp }
 "3gjtmilevs5fw5uqik3bewmp":["vgcake","vgcake"],
 "zxooflhm4umj57n7mmyh5jqf":["vgbhieel","Vitor Nascimento"],
 "ax3rvpuzmafdfi37zbuhjplt":"vgotaskie",
-"tsuh7pk5g7wqn3nnc6rxkpod":"vgmtogether"
-}) // 2023-10-28T14:04:52.976Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tsuh7pk5g7wqn3nnc6rxkpod":"vgmtogether",
+"xk5fdmojj6y5ph4fg3dkqd2l":["vgh","V.GarciaHuff"],
+"2axufkkviaujmaz4sqh7b5tc":["vgfilducci","Víctor IlDucci"],
+"ezlvan4uppp5qs6vquwrmo3b":"vgobarnes",
+"nffxwlgs2vm7cottbugjilv7":["vgkknights1234","VGKKnights1234 🏆 (8-0-1) Aces x2 🏆"],
+"pngt5zaie6mexffpihesndee":["vgdg","_Професійна_хейтерка_"],
+"543q3p2drzss3a4wrbo2dpmv":["vgafanatic","VGAfanatic"],
+"iqc32yx2edg6vp3seqiou2pw":["vglaceon","Vlea 🍰"],
+"x4g7aerrsxh66snqtd74kenx":"vg170",
+"2yid63c55twvhrhrwtsbt6zp":["vgobservatory","Video Game Observatory"],
+"xhuvpallb5c5ss6yu6cs2gws":["vgeshkovski","Vangeli Geshkovski"],
+"hui4fj5glyfmesivouyzno47":["vgcheeze","Cheeze"],
+"j6pbgspzabctz6v24p6os4lv":"vgl",
+"wwjodlajdr2h76duuwxwe2sw":["vgartner","Val Gartner, PhD"],
+"j4gozqdnmxtxmxjnrm65bzfg":["vgeermcgrath","Vicki McGrath"],
+"v2qdyho5bypfaeuunxeemrc7":["vgnysoft","VGNYsoft"]
+}) // 2023-10-29T16:26:38.284Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

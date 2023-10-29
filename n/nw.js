@@ -166,5 +166,17 @@ var nw=(function(jsonp){ if (typeof nw==='function')nw(jsonp); return nw=jsonp }
 "zixmv66fjmcolnf64mkl4ivy":["nwprogressive","Northwest Progressive Institute"],
 "dbxnfuapbie6zarzriwgl4zk":["nwisser","Nancy Wisser"],
 "yocl6mtf2c7twdenfudyvblk":"nwachukwu",
-"nuj2xmxf65yfismejrxwggde":"nwabukingedu"
-}) // 2023-10-28T14:20:21.549Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nuj2xmxf65yfismejrxwggde":"nwabukingedu",
+"r4qf5jyjfgzt5sq2tnivey5m":"nwlc",
+"4yr4bzjamtgfhmkbjyegjqlk":"nward",
+"26oozridciwaqu3adnsotncz":["nwitte","Neil Witte "],
+"5tvwpuoays2gf6uj526inzsx":["nwmichl","Michael Schoen"],
+"6zq54ho7eyf2gw2nq2xoqe3q":"nwfairy",
+"7dthfzc3me2h7ajdesgecgz7":["nw777","NWarrior777"],
+"brpldzayxgyimalopmag4xc5":["nwillems","Nadine Willems"],
+"sqkhahozuavps62hzznz3bwk":"nwva",
+"l4n6d4nvn5noekgs63woirrd":["nwymat","Tino Wymann"],
+"4u3snrbwrp4xgabv5glulf2v":"nwaibe",
+"42qhfige7tznaxuqfwx6ptnp":["nwiya","Dr. Nick Winges-Yanez"],
+"nusyojfhfznzlojqcl46qc2o":["nwsixxx","난초"]
+}) // 2023-10-29T17:06:51.144Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

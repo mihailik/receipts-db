@@ -194,5 +194,24 @@ var uc=(function(jsonp){ if (typeof uc==='function')uc(jsonp); return uc=jsonp }
 "3cpjc7m2lybt4gxkobphphih":"ucustandrews",
 "etqjygkpp2pzbnp2qlpw45ue":["uchuu","DJ Uchuu"],
 "huhaz4liqyjxhaft7ycleo75":["ucaftbayarea","UC-AFT Bay Area Chapter"],
-"fm4okb66pw57u3f2x2d5grwt":["ucubetuco","𝕿𝖚𝖈𝖔"]
-}) // 2023-10-28T14:37:15.585Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fm4okb66pw57u3f2x2d5grwt":["ucubetuco","𝕿𝖚𝖈𝖔"],
+"5o622dhzg3xur7fflxkfk5wy":["uchristensen","Ulrich Christensen"],
+"zacvgvj6s3jztpab2za5dcdo":["ucanpide","Sakınılan Çöp"],
+"lyrvnkeerszafpr2vvsaaaxc":["ucflangs","UCFL - University Council For Languages"],
+"jsnpqojqytdb2hwkopnohhza":["uchotenko","June♡"],
+"52vlmitysyibhjwll4lrpzqe":["ucbronzewing","Min | UCBronzewing"],
+"sko4whymddzayq2uwiqd2mev":["ucc","University College Cork"],
+"iztdgpfr3gsv65ns6kvl3ees":["uccellolirico","Jonathan Potts"],
+"jjbwxoykvoughjgddztdriyf":["u-circuit","みー"],
+"nadshu6nnwsoo7go4eqfmnb3":"uchuuaurio14",
+"zmjsgfahqk7mbn6zo4etvcu6":["uconnhenry","UConnHenry"],
+"g7myz5hnzc4y6bd3xvmo42kz":["uconnmeg22","UConnMeg22"],
+"cpbmi7moc57ibwzhau6fbe4g":["uckmannheise","Sebastian "],
+"ferot4ax6evag7czbhuzks4i":["uclhjs","UCL Hebrew & Jewish Studies"],
+"zbbrdrpciaemncsg6c4ydk53":["ucnur","Ucnur"],
+"pix3frhzwsores6igllk2a54":["ucscxena","UCSC Xena"],
+"ezj5gc46i6l4at2r4dy372ll":["uchihastbh","cherry 🌸"],
+"ousn5ltudk6uez325ks23wpn":["uclaneurosurgery","UCLA Neurosurgery "],
+"loxypg3j2yzmw6rvabx2b53c":["ucuz","Ucuz"],
+"654g3yvop6hzgo7d25snyb2u":"uconnurban"
+}) // 2023-10-29T17:24:10.240Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

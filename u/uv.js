@@ -44,5 +44,14 @@ var uv=(function(jsonp){ if (typeof uv==='function')uv(jsonp); return uv=jsonp }
 "boy6ecjhauonhvykd56orbfh":["uvililuv","금레몬"],
 "q6nxlrr7bvdw43ycjqfzefsg":["uvenntyr","Skygge"],
 "gksvhk2m3452zvwc7tzjlhwu":["uvavas","jerb"],
-"2v3h4v77znze3iqoyfcotvad":"uveys"
-}) // 2023-10-28T11:55:27.164Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2v3h4v77znze3iqoyfcotvad":"uveys",
+"w2l4j63mkz7pir653a2uuesy":["uveop","Uve"],
+"yldj66wq7d7u3hujnf5zitps":["uvunemu","ねむ"],
+"q34k66u4giadbbe7nxyhsj3p":"uvuclicks",
+"oayi4fqrouvezwhgnucpdhlo":["uvfrost","Jenn"],
+"kiwydwltx6ik57upsfax5dpz":["uvula","uvula"],
+"6557jfqa2wruug54aoaatykz":["uvi56","Uvi"],
+"sybci2ihzo6iiclhjkqiix2r":["uviete","uvi!"],
+"cdvvn4xsgcnv3vqjuqg2qqj5":["uva-api","Anton Pannekoek Institute for Astronomy"],
+"mpcdg2ei334dt35bnfnbfjc2":["uvtungsten","uvTungsten"]
+}) // 2023-10-29T16:25:08.149Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

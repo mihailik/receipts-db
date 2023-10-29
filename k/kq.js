@@ -29,5 +29,8 @@ var kq=(function(jsonp){ if (typeof kq==='function')kq(jsonp); return kq=jsonp }
 "hudchfvaputknkmu2rlbejoq":"kquadrat",
 "43vy7unpnc4zcifc5ca6vokv":["kqcarden","the internet’s only medium (2005) stan"],
 "fixgkafwkapoz4gd4itbemo5":"kquizzo",
-"wkuffidvnqejqgppwotwl7ml":["kqman","じじ"]
-}) // 2023-10-28T13:44:18.618Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wkuffidvnqejqgppwotwl7ml":["kqman","じじ"],
+"x6nv3xm3ugltcizitq6bz73t":["kqafterdark","🔞 kq"],
+"q4zhmehghn5sa2d5n4nyhrwz":"kqtell",
+"ef65gfwegmt5aobhpogg63ek":["kqdrew","Drew"]
+}) // 2023-10-29T16:52:54.031Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

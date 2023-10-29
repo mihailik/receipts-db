@@ -35,7 +35,7 @@ var rl=(function(jsonp){ if (typeof rl==='function')rl(jsonp); return rl=jsonp }
 "srjglkkyyugosgyvj53znuts":["rlspang","Rebecca Spang"],
 "tchbgwbychfzdxr7bdxk23b6":["rlpastore","RichardLPastore 🏳️‍🌈📚"],
 "tj47rmzsmb6tlpbo4cudtq54":["rlca","Lin-Manuel Margera"],
-"u6fockpmvntat2qsjfwpurk5":["rlmrdlnz","Earl Mardle - A Vote for Nats is a vote for ACT - Don't"],
+"u6fockpmvntat2qsjfwpurk5":["rlmrdlnz","Earl Mardle - Vote you Bastards"],
 "vgpya5yrjq7zx7hy4q4drodz":["rltinha","Ritinha"],
 "vlx2lydniowzgeohekzjojk3":["rlph","RLPH."],
 "y3vl5plvmlmmonkooi6kakmc":["rleepoole","R. Lee Poole"],
@@ -268,5 +268,21 @@ var rl=(function(jsonp){ if (typeof rl==='function')rl(jsonp); return rl=jsonp }
 "qtgyornp2k3mxqibaw6rudso":["rlnbrl","Rollin'Barrel"],
 "ogbm2frt4qemvgg5trpwzkts":"rlstauffer",
 "kntjfhyaau6j4bnbqiohghvm":["rl1358","Roozbeh روزبه"],
-"mr76oc22xnvhkt4voie34d7f":["rlllorl","광기"]
-}) // 2023-10-28T14:30:33.343Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mr76oc22xnvhkt4voie34d7f":["rlllorl","광기"],
+"yxskej44ac7rnsfzmahziwzg":["rlkelly","Robert L. Kelly"],
+"l364tjtmozwgttk56f5sj6kj":"rlyrainy",
+"zc7gvn6c7t5ksmf4iq5jlg6o":"rlkeith",
+"drhspjbpyc7qbvmom6nz4pqc":["rlddk","RLk."],
+"npgoub3kwanyrbquly5el55s":["rlxdlx","RelaxDeluxe"],
+"rxqheyhirxtx4xzqpyxhrsbj":"rlsantana",
+"7s6q7fpuk7ikrkgdzlbi6ws4":"rlorenz",
+"sfmwkrtfwk2hwn74d662gbrl":["rlcooper","Rebecca Lyn Cooper"],
+"xb3o3upqeevg5zu7qoujghfk":["rlrmbutler","Robin Mero Butler"],
+"wfmqxoae6aaccjdhk44itndm":["rlaapdwk","멩"],
+"egz3dczugnbxxfxic2tum7y3":"rlberg4",
+"mfqzcwu4j4daietsdiw4e3ls":"rleonsampedro",
+"glc7jgqxnrklic3knzfesm43":["rlnave","Ryan \"R.L.\" Nave"],
+"5lgtpl6zad6kaoepnkrkjtu7":"rlyee",
+"xpwtw6gqhdn2yns72b4zfs3y":"rl67ny",
+"kdaju5grwrd7pb4ceeibbdh7":"rlscnmatt25"
+}) // 2023-10-29T17:19:05.886Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

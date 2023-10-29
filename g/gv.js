@@ -96,5 +96,11 @@ var gv=(function(jsonp){ if (typeof gv==='function')gv(jsonp); return gv=jsonp }
 "hly3qx2rgxi2wrdk4ndrdm4h":["gvintik","Українська Сорочка "],
 "p4ux3dquo6flfpmfs42b6pxa":["gvmal","dAzz"],
 "gmyl5kz3elsywkbxdkdltlpn":"gvermillion",
-"mer7zdmo7fb6vbtes5bzigya":["gventurini","Giulia Venturini"]
-}) // 2023-10-28T13:11:28.029Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mer7zdmo7fb6vbtes5bzigya":["gventurini","Giulia Venturini"],
+"u62eyxlnxruadrojn7btmvvb":"gv-97",
+"a26qtjv6pomx75z7swkl3hui":["gvmsm","鱒(ましゅー)"],
+"pq5e4n6qzedj5mhzvymakkrh":["gvw","gvw"],
+"zvexuezjohrnfal6s7ca2uyq":["gvagradlibrary","Geneva Graduate Institute Library"],
+"7cmbyeifxwcc6rxob2t5sh7j":["gviper","g.viper"],
+"tymnriua7kjevloxpeouuryl":"gvargas"
+}) // 2023-10-29T17:06:51.194Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

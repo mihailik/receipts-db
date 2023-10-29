@@ -72,5 +72,12 @@ var wp=(function(jsonp){ if (typeof wp==='function')wp(jsonp); return wp=jsonp }
 "2lczlxwn5kjvq6zln3fi6my3":["wplink","Link"],
 "siqgtotgl3hgp44vt4zfckne":"wpresti",
 "bf5gbpwdsnxk6yvv3sxglq5w":["wpdl","쪠"],
-"4pxx6wgmqrr2bhdr7bb4xbhf":["wpp","🌙Wpp🌊"]
-}) // 2023-10-28T12:32:27.941Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4pxx6wgmqrr2bhdr7bb4xbhf":["wpp","🌙Wpp🌊"],
+"eekeazvfsp2vd62x6vdvsgut":["wplseries","Wild & Precious Life Series "],
+"mtnlr47gprq74jjrnllbsika":["wp27386449.yeee.social","淵淵"],
+"njw7wa7hkdsgat3wxhszfbgb":["wp-tr.org","WordPress Türkiye"],
+"pjyj6vdbrq3gqkqlvb72fjpz":"wpeters",
+"2pihlzoesaxxk62gj4a3vmow":["wpeofhtkfdk","고말"],
+"h6wzilm2o52etxfwitnrnzpp":["wpgbeard","The Bearded Hungarian"],
+"4wr73wuvtvsaxyuch4dnpaao":["wpball","Dr Will Ball"]
+}) // 2023-10-29T15:43:19.488Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

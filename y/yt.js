@@ -114,5 +114,15 @@ var yt=(function(jsonp){ if (typeof yt==='function')yt(jsonp); return yt=jsonp }
 "lso5thueoxcvijg266tqgjvl":["ytdn","YTDN is on bluesky"],
 "rbed7mknqr7r4rdslds47xgn":["ytouval","Yonatan Touval"],
 "ssw7uo4qa53bpddlyrk4yw7v":["ytsud","dusty (im himmel)"],
-"on5zpfcfnwerg3bjp743n7mb":["ytonide","yto"]
-}) // 2023-10-28T14:14:32.193Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"on5zpfcfnwerg3bjp743n7mb":["ytonide","yto"],
+"idyvy5bvnauj3chexotg7xdv":["yterbia","José Antonio Benéitez Liñán"],
+"6xk56e4tyybliw4pxnr3uhiv":["yttriumtth","Yttrium"],
+"4uljxdaknhje5y3e3cvqhxh4":"ytoda",
+"pkdtrfoydzieuugzor6qaocs":"ytladyreckons",
+"m553iskuempu6nmebtm5jse5":["yta330","ゆた"],
+"w5qh6phdmmumpuqvr5fynzb3":"ytt",
+"utvlf7mkerfozaurggo4sqqb":["ytallodn","Ytallo"],
+"lad7hkaw5rl6einb6s2dibbd":["ytapioca","Mayara"],
+"hw65yg3o26324t2os5evjc5l":["ytko","Youngtae Ko"],
+"brjkprnbs7g42zzeuscsdity":["ytvwld.de","Niklas"]
+}) // 2023-10-29T17:15:59.631Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

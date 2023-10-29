@@ -64,5 +64,15 @@ var uo=(function(jsonp){ if (typeof uo==='function')uo(jsonp); return uo=jsonp }
 "paz723izst5wbzchtlwdlz4w":["uolliw","Paper Plane"],
 "4vuzgad6p5jewq4wnli3jnd6":["uopwn","버터"],
 "6lub22rqx4pk24l4m5pe45hl":["uoshin","魚村晋太郎 a.k.a.ojiki"],
-"zzwnghkrdgmn3njtmoe2xz5s":"uofuutes"
-}) // 2023-10-28T11:17:16.474Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zzwnghkrdgmn3njtmoe2xz5s":"uofuutes",
+"5t2lbug7tug4svet7oo4szr6":["uonline","うお"],
+"kbkldxkxp5gsd6o4krs7npad":["uoo2","魚尾"],
+"bzk3mwgvjbf427sw7ncmpsro":["uoflecon","Jose Fernandez"],
+"agl2q3bc3wjltvnxjrhtqnu3":["uou","うぐいす"],
+"yctdsly7vqfdjrcqpigg3l2y":["uohort19","UOHort19"],
+"l6tmi3x5m55z5hqkumxu7wjk":["uoza","Sidus"],
+"y5webr2v2uwq5deu2xku5nml":["uovospazio","Betsy 🍳 "],
+"fd22bhbnqp6l42kvy52offiy":["uoussefemaad","YOUSSEF "],
+"h3nkaz4l6jeagmoqirroarrn":["uovou","🌙"],
+"4rtbunwz5bml5axomjcwngjv":["uoyborthwick","Borthwick Institute for Archives"]
+}) // 2023-10-29T17:17:33.230Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

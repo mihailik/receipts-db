@@ -124,5 +124,17 @@ var lf=(function(jsonp){ if (typeof lf==='function')lf(jsonp); return lf=jsonp }
 "oslhmvz362glihx7midt6u5s":["lfinnegal","Laura Finnegan"],
 "lm6ns5kyorskefmx4bkk4qks":["lfvm","Hatsune Mike❌"],
 "5c7ea3p56q7pzir6zgitab5x":["lfgr60","Löwenfans gegen Rechts"],
-"auzl3luhp7fmlzekt2dyy7a2":["lfumarco","Luca Fumarco"]
-}) // 2023-10-28T13:23:15.809Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"auzl3luhp7fmlzekt2dyy7a2":["lfumarco","Luca Fumarco"],
+"nwy57oxp26kxdma7gx76bzzc":["lfv-rhetrx","LFV SciRhet"],
+"fqsdagsljrmqyiruxmt3suqm":["lfcsprinkle","LFC"],
+"gvv5v7j5chxfw7cykzuwl372":["lfcnev","Nev"],
+"wldkuaiqsr7277c5sduesukj":"lfavideo",
+"w5pb76qo3a4xryakym5cb3om":"lfest",
+"t6fo2ec7ktrya4kf25cfi77d":"lfnairo",
+"h2ekcjb66664wogsytaznswy":"lfcjamie",
+"2heue3b2u4kb4ajvbkbsvn4d":"lfolland",
+"o5l7nil327z5ecavhgncmmrp":["lffg","Luiz Felipe"],
+"i64ljqrzzaekw77yaeiwlvua":["lfvasconcelos","Lucas Ferraz Vasconcelos"],
+"jw4uxear7j2ezgqqgq3azrve":["lfahxiua","le parti du cringe radical"],
+"r6dwfb4riz5ql7xdaqdtq2z6":["lfitouchi","Léo Fitouchi"]
+}) // 2023-10-29T17:24:10.179Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

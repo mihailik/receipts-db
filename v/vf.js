@@ -70,5 +70,14 @@ var vf=(function(jsonp){ if (typeof vf==='function')vf(jsonp); return vf=jsonp }
 "n7icbhneblak23ukq54cj5yu":["vfx","VFX hub"],
 "u56hsepbykbqih2mn3cv7fjq":"vfbamericana",
 "qpo66vf2hpsxlkzd7wpj32uu":["vf25fsherylkai","Damon"],
-"spebm6np5tarm5lbz7vpcyun":["vforv2lya","імосуєта🇺🇦"]
-}) // 2023-10-28T12:02:48.036Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"spebm6np5tarm5lbz7vpcyun":["vforv2lya","імосуєта🇺🇦"],
+"tnr7pk5o2w6yngsinkltikwb":"vfordii",
+"k3wamoagh5lzvkigwvh7etui":"vfakedaniella",
+"e6fp7tr2i6shxkcwytbhnrek":["vfbwallacefan","DER VfB Wallace Fan"],
+"alaqwhka55x7qoezaoqhfvye":"vfb",
+"hawsee2d7zufopfsfycyumr4":"vfl",
+"zx72qbounpoah574lhyev5zs":["vforbrain","Bilgisiz Bilgin"],
+"vaodp756tjw23fgrw6bfovq5":["vfbxstr","VfB x STR"],
+"qnxrw4mpqpyueduut3455opm":["vfb1893","Michael(Walle)"],
+"7ymwovnly3vmoav6y4zp2ckv":["vfrosteddragon","Local Dessert Noodle"]
+}) // 2023-10-29T16:16:18.605Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

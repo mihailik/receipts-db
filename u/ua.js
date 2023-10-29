@@ -177,5 +177,16 @@ var ua=(function(jsonp){ if (typeof ua==='function')ua(jsonp); return ua=jsonp }
 "ejmtc6yztgsx7vbey6gdv2i4":["uabober","Придніпровський бобер"],
 "wdui3wtj2bllriszxjkawsuf":["uarmykeg","앙큼뽀이"],
 "lfkrmqs5j7utjvcrfmaqzeim":["uahabeschmerzen","d0nky"],
-"5vq5u3vih37p7l3tsnlbhjoh":["uapmapper","UAP Mapper"]
-}) // 2023-10-28T14:44:16.200Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5vq5u3vih37p7l3tsnlbhjoh":["uapmapper","UAP Mapper"],
+"scm36a425xlm2pjzzguc4yu6":"uarizonavir",
+"ncqmhd2owdzyjrvdstpjw2yr":["uaabafet","・ Uaaba・ I Vtuber e Artista I DEBUT 21/10✨I Comm ❌"],
+"mj4rnbcrfefbecwrkwodbzdf":"uaharry",
+"rcxgbfpxwinsjzpzcvbjmdke":["uadefenderg","UADefenderG"],
+"4pjymk62wbxtuq72hvbek7yq":["uasergeua","Mr.Alone"],
+"3ind5pmoup3vuk7eq2dy7lok":"uaee08",
+"zxlfk2ohx7gu5hsnverukqel":["uartherapy","AR[T]herapy"],
+"g3naabeyofit2kr47u7qiv5x":["uadi","Uadi."],
+"46gfdc3zyzzij3dn6f3eh6qa":["uareview","UaReview"],
+"vm5kih2dja52r52wervkfh5p":"uaemi10",
+"tkezwdh5gb2gf3ind6yk2fic":["uapgs","uapgs"]
+}) // 2023-10-29T17:12:07.610Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

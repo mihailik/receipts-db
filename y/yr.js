@@ -104,5 +104,20 @@ var yr=(function(jsonp){ if (typeof yr==='function')yr(jsonp); return yr=jsonp }
 "kweu6fosy6b3f4extmfm7w7m":["yrsch","Azen"],
 "2ktudmtryprkoq7ln5if75o6":["yr1226am","依"],
 "y7c4qhdqpjnmr2uljrzrotpy":["yrs","YRS"],
-"l47oxs7cjbm7n7vvsn7fneu6":["yranimedaddy","Твій аніме папаша"]
-}) // 2023-10-28T14:39:07.420Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"l47oxs7cjbm7n7vvsn7fneu6":["yranimedaddy","Твій аніме папаша"],
+"rzayqup3eap3epgglr4etq2f":["yrae","Yrae"],
+"srap7j7t3rdjqetfibprdyum":["yrenbert","Yuy"],
+"sumj5353q3mv3gqa27zpkyrd":["yracyrac","Yrac 鴉鴉"],
+"ypl72qswqkdxfhi36so6kiup":["yrkmm1120","ゆゆかもめ"],
+"6xc7l2gsbqjn2qlks6kwky7v":["yrotitna","Yrotitna"],
+"rxxzhuty2fp4syil3fnauoee":["yratattoo","Yeray Ortega ✖️ 𝐓𝐚𝐭𝐮𝐚𝐣𝐞 𝐚𝐧𝐢𝐦𝐞 ✖️"],
+"3aufijjvvbh4lspqpgyucpu3":["yrmwxxx","e®️i"],
+"n4wbaiqohgx5niio3uo4bnuh":["yrf","yerf"],
+"mf4jvda5klw2an46rzh3nxxe":"yrnsry",
+"hicdmrufp6rsr3pcehbhqljy":["yrhardnerdcollectr","yourhardnerdcollectr"],
+"yxj7co5a76bimftpbxg6owcb":"yralph",
+"4sgk4gg2iguazl2pmqn3lns5":["yrdsly","YrdSly"],
+"gie6un2evjhm742n5lalpeq3":["yrdin","Josema “Yrdin”"],
+"tc2p3s3pviwy4npmztjie4ss":"yrtaircr",
+"fjxb7wyululc4o7wra3wx4ax":["yrpalval","val "]
+}) // 2023-10-29T16:55:14.356Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

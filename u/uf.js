@@ -116,5 +116,20 @@ var uf=(function(jsonp){ if (typeof uf==='function')uf(jsonp); return uf=jsonp }
 "pulpgnv5gvqugxszbmvaygc7":["ufchem35","Ugur"],
 "pqditlabbqk3wnp5cgl5l3pg":["ufokey","R.마빈"],
 "jrnbywpckzea3wqag3rkl25u":"ufoshock.moe",
-"bwxrumsxeodwkcz4uuen232l":["ufocatchu","Chuchu"]
-}) // 2023-10-28T14:45:48.192Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bwxrumsxeodwkcz4uuen232l":["ufocatchu","Chuchu"],
+"gydmfh7kdsegomw3zvzb5rsg":["ufukin","Ufuk İnam"],
+"biugttj4cezixtu6ikkaciwf":["ufelectionlab","University of Florida Election Lab"],
+"qa2amxuc76pqq3hl675gkc4s":["ufndk","Ulaş Şener"],
+"3svatvwo2rfbszv5n2y6hksd":["ufokiyo","Ukiyo"],
+"n5tyh6byaripnsetlhz3i75c":["ufeest","Uljana Feest"],
+"vjsi2w62vhja27cud2odc2mb":["ufcw3000","UFCW 3000"],
+"ngrkfbtnnnpcqvlfz3elto7k":["ufwe","Uwe"],
+"nclid6gdakwqyn4kimjuqimw":["ufobaby","UFOBABY"],
+"y7sjo4xreuhud2hoohln2yt2":["ufocomms","unidentified furry objects"],
+"vr4jfbwefsp6wpkaqgcbx4kt":["ufangyang","Yu-Fang Yang "],
+"xcr2feoqs3gm2kiur65bwvr5":["ufobro","Kotaru☆"],
+"67hfnybf5rg5w5drzb6rtrbw":["ufzgg","오살"],
+"dmoojgizd6o2gisjhhdvdo22":["ufolighter","KC"],
+"3mnnkh4wyfzt2yc5ncetl2uy":["ufsoc","Fumiya Uchikoshi"],
+"leonps464vf56w5njbrdnpxg":["uffda","stephen "]
+}) // 2023-10-29T16:58:25.027Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

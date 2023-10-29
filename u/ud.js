@@ -148,5 +148,19 @@ var ud=(function(jsonp){ if (typeof ud==='function')ud(jsonp); return ud=jsonp }
 "epi3wwv3saq35aqswtnvpll6":["udonya44","悪魔のうどん屋"],
 "lgjojtelhad3pf4ubvb57mub":["udkyle","Kyle Conner"],
 "earqxt3r7t4nwut4oshc3ok5":"udoy",
-"qluwz4pshuljgihe6ocxfip6":"udderlydylan"
-}) // 2023-10-28T13:59:38.314Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qluwz4pshuljgihe6ocxfip6":"udderlydylan",
+"xem6fjaswib5fvyfsqncts4i":["udonoregon","udon"],
+"wsk7pru5k4kkf3lguloh3czk":["udderscomix","Udders Comix"],
+"hmeuenftoewchph2nvickpa6":["udonboss","Its Curry! "],
+"gmyqruw7f22kl7malvs74eai":["udow","Kerstin_21"],
+"dlkomwqxalqpwd5xxzfbcmfs":["udonmonster","UDON 🍜❤️‍🔥"],
+"3ldwtvhajioybdxrfq7likkt":"udxaka",
+"2nedycqktzqu3h5a3yd4tbbm":["udonsoba0141","うに"],
+"p42biqqzxggo4e5j6q4spjll":["uduki003","うづき"],
+"szouium6725yx6nzftevmd6j":["udems","Udems Art"],
+"54n4i5x7al5ycd34kurekydq":["ud0ngmae","유동매"],
+"6siq3emhksb3wo7exqq7y2q7":"udon-oden-konbu",
+"ite3dlozpyc6dwdmgzxysiji":["udorithomas","UDORI THOMAS "],
+"4atcinm7sarnzsm5uknjwy2j":["udogumpel","Udo Gümpel"],
+"34qslgc45qa7gux3kzjtvfbw":["udryx","udryx"]
+}) // 2023-10-29T16:33:58.867Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

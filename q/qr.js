@@ -62,5 +62,11 @@ var qr=(function(jsonp){ if (typeof qr==='function')qr(jsonp); return qr=jsonp }
 "g2nbzuzxoxdyu7n3viezlpsn":["qryosity","qryosity ⭐🌙 Live2D Rigger"],
 "fexkac32o6f7ndxf6fzosdq6":["qr-codes-are-qt","QR Codes Are Cute"],
 "q45q7nqxq23qgy32jrmjhbms":"qridaisensei",
-"d72eos3ypl2bnqetw22vjmnb":["qrom","くろむ"]
-}) // 2023-10-28T12:41:10.203Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"d72eos3ypl2bnqetw22vjmnb":["qrom","くろむ"],
+"7ph6npkxkj6ge5zvqq2437cf":["qrexrecherche","QReX Recherche & Kritik"],
+"ilqxb6nsaqchmpamdtapkrxn":"qrius",
+"iahqbw5yzyyg4nh7gphg5kfu":"qrvstmore",
+"rup6bz4skjvhuaiajx3eulpn":["qrt1308","Kurt Reichinger"],
+"w66lkgyontizfspohwjcfm5p":["qrahe","Qrähe"],
+"lat7m3j4t2k5rvbrpowgyhtd":["qrownevermore","QrowNevermore"]
+}) // 2023-10-29T15:17:31.831Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

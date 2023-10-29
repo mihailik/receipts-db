@@ -152,5 +152,16 @@ var lk=(function(jsonp){ if (typeof lk==='function')lk(jsonp); return lk=jsonp }
 "zd5ouykutz7kslkqss4rrpq4":"lk8",
 "4scookj3vjjxobustyh7ejsj":"lkbk5",
 "bla54wnp2tq5t3k2l5hf2fq5":["lkhwriter","Lisa"],
-"icajca56xtyb463boajv3cyo":["lkettle","笑うヤカン"]
-}) // 2023-10-28T14:44:16.135Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"icajca56xtyb463boajv3cyo":["lkettle","笑うヤカン"],
+"5pga4spgmeeljj6ct7us3ni5":["lkes","elka"],
+"oh6mno5jmli5cqz7qqedrzrm":"lkossuth",
+"tfpvc6gisdrbkrhatmokvvtu":["lkdowner","Lauren Kiproff-Downer"],
+"ompkbbvg2ydagtympilmhncw":["lkierepka","Liz Kierepka"],
+"ovjoumswk4nd6x7iy2akkbh5":"lkihn",
+"be4yoxztimkg4ipex4p6nboj":"lkeyton",
+"msdu5cwidcgh67mr6ummcvy4":["lkrisst","Lara Krisst"],
+"ib3cyrqrub3aciza75cbalez":["lkbutler","Lindsay Butler, PhD, CCC-SLP"],
+"pjksqycg52lg75jhi3s5biyw":"lkarmann",
+"dtyltxwnl7okh4gsovgzxm6y":"lkbk9",
+"pdp6ixtyn7hmgpk6exm75lrs":["lkn4nsatop","Lkn4NSATop"]
+}) // 2023-10-29T16:49:55.776Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

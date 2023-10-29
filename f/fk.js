@@ -108,5 +108,17 @@ var fk=(function(jsonp){ if (typeof fk==='function')fk(jsonp); return fk=jsonp }
 "cps2ncslujcnlwtidiy7rhr2":"fkdyourdad",
 "dtct7752c6n5e4nacksujcab":["fknboz","🔔⚾red october greg⚾🔔"],
 "b4zglcmgnzwwfa2xbnlhicsd":"fkacammeraycraft",
-"lxx6ta3upg56huyd5tsgqica":["fkdemetri","Demetri Murray"]
-}) // 2023-10-28T14:30:33.000Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lxx6ta3upg56huyd5tsgqica":["fkdemetri","Demetri Murray"],
+"d4lqnrcwt6vixnf4fjrqa4kj":["fkerler","Frieder"],
+"uotadlnmtg6fozszsrvifcnz":["fkafter","Not a main character. Actually a sometimes horny character."],
+"lbtbqksm2kiai2o2gmlvyle5":["fkl.sh","MR. GOBOT"],
+"xbauoq2aty5mzvrj6juu7qas":["fknbastard","Demetri Volturi"],
+"26ed6fn5gaeixkjjsx4u4nip":["fkad","FKADisko"],
+"uzthbl6ktojhxfpzb4hrvilk":["fkjoeller","Frederik Kjøller"],
+"inf4dcse55bowpzhqgajcmza":"fknsyd",
+"eenadc7yx3am7gnmi27zbgeu":["fknkookie","Carol⁷ 🇧🇷 OP"],
+"ubnhijpumjt7idqjhx4gcxar":["fkei","fkei"],
+"k4ygwpzhsuvlsfnhdiwgjbmm":"fkf",
+"sls2ilwtdz4pz5ak4t2v5e3v":"fkkkng",
+"3ur54etvuqe7dnwqdynjkkvt":"fkuseyri"
+}) // 2023-10-29T17:19:06.713Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

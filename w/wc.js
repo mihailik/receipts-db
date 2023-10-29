@@ -105,5 +105,15 @@ var wc=(function(jsonp){ if (typeof wc==='function')wc(jsonp); return wc=jsonp }
 "sc7rqjeawasi6be2kxbksexs":"wchristo07",
 "3kq73ekcrv7zen46edkg7b6x":"wcn3",
 "ejtig7htmxy5k4izgzp22vf2":"wcbullcity",
-"yrqrnsn4n3vad3pmcefvzps7":["wcrate","WCrate"]
-}) // 2023-10-28T14:01:14.448Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yrqrnsn4n3vad3pmcefvzps7":["wcrate","WCrate"],
+"n5umhq33op6l74zzdgt2woyz":"wchronicles1",
+"ogodlxfy24zk7ptb2rtpcvgh":"wcmncda",
+"wwq2kjbon7cer2kt6lmbjl6l":["wckd","Juliana"],
+"fq7vul645hkq22cj2hyslku3":"wcn431",
+"wis74kgev25msbxekux33p5z":["wctrttolam","Wind Chimes"],
+"uz4rtkze7nfkxm63pxmdlyuv":"wcberda",
+"i3lykzogjo23ngdml2s6wymy":"wcf",
+"mgxpqdw6z5qqkjpgoduwjalj":["wcn","わかな"],
+"6yzpxca5u3hfdpkuh4dfuppu":["wcpattison","William Pattison"],
+"owvh5vnswu4bs5bmewjyo3pm":["wcreary","Will Creary"]
+}) // 2023-10-29T14:18:22.565Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

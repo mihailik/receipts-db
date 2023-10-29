@@ -49,5 +49,12 @@ var uy=(function(jsonp){ if (typeof uy==='function')uy(jsonp); return uy=jsonp }
 "6plv7ksgcmet72q6vixdmzwd":["uyuuny","uyuuny"],
 "6yhwfkytbm6psic2f2hghiwk":["uyeon","우연"],
 "ihkw4ml46yw3iwd6useyskpb":["uyuaa","嗚咿嗚啊啊老祖"],
-"uuetkbcpluhbpgtrk6qxpymv":["uyesta-pub","ウエスタパブリッシング"]
-}) // 2023-10-28T13:56:00.976Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"uuetkbcpluhbpgtrk6qxpymv":["uyesta-pub","ウエスタパブリッシング"],
+"a3qau2ejxncxkn2zeqs4sz42":["uyu9308xx","Yui"],
+"4in7xwzzpsu4zyarjp546fit":["uyoyu","∅"],
+"45zlrj2o6dyetvkcuho2lrxw":["uyuyuiii","Abbern "],
+"n2524ouyqnn34kxmzvjuphzn":["uyguntunc","Duygu Uygun-Tunc "],
+"zqof5zc2lb2lpkf7pytz7oqs":["uyu-bluesky","🥛"],
+"lyqvxdr4tlrobcil3kly3uax":["uyuni","그해"],
+"kmutwz5zql62pdike764gky4":"uygarozesmi"
+}) // 2023-10-29T17:06:51.347Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

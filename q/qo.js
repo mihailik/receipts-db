@@ -93,5 +93,14 @@ var qo=(function(jsonp){ if (typeof qo==='function')qo(jsonp); return qo=jsonp }
 "4nx7z6poujukw3xwt6ezxxie":"qoppamachine",
 "2p5k5f4lvuif3nppoxqeduxf":["qooopy","얌💃"],
 "mctbpfh35yhhdbbg4j5idvuo":["qorckdtjr","치즈"],
-"pjbw7geuofjytl3uhziyup24":["qoralinius","Hop"]
-}) // 2023-10-28T14:35:32.098Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pjbw7geuofjytl3uhziyup24":["qoralinius","Hop"],
+"2fuudafgyux2aly2j4vxbeqj":["qourryk","qourry kaia"],
+"y6gkc7txry5g6m6ijmknzsid":["qooter","🜏𐕣Cooter𐕣🜏"],
+"brdfswyahv4r32wqrbrut3tv":["qoyaki","no"],
+"gscl5ua5nhjkpo5nccpdheks":"qobrufej",
+"oghnbquizaj2pcs5hdtzutmm":["qoach","Qoach"],
+"xc3rhcwnma6xjvkl655evmnd":["qokko","Rye Bread"],
+"b7kljfzvaqxsr4ouhb5pee7f":"qornbread",
+"oo6g6qhxvhll7oxgz4ydy6sc":["qollectiv.com","QOLLECTIV"],
+"koa6q6nt45flcv4ooa5zb3va":["qowetherda","kaupira"]
+}) // 2023-10-29T15:59:08.915Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

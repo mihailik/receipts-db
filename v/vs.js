@@ -195,5 +195,19 @@ var vs=(function(jsonp){ if (typeof vs==='function')vs(jsonp); return vs=jsonp }
 "24pgqd2jfu2eyqghxgt3uc27":["vshwdd","доріан"],
 "5ck3wanaf6evqwkvavidbfnr":["vstututupr","Car Noises go STUTUTU"],
 "js2gpj5hpyelkhj3w3lqfghp":"vstrv",
-"yhg6olwa5ajnrthajyxmqrji":["vsg","_Mike"]
-}) // 2023-10-28T14:47:20.694Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yhg6olwa5ajnrthajyxmqrji":["vsg","_Mike"],
+"p56fpp3nf4uctoyl24cqumgq":["vspicy","Spicy"],
+"mm3ee2fsmo7oqpid2nanl7tt":["vsio","vsio"],
+"zgefom36qttwcbqwe7bbbsoy":["vsavalei","Victoria Savalei"],
+"epmbyc5zfp5k3n5hpo6f7fla":["vscuei","lulu"],
+"cswo2agxwhtpa53k3zfu7gv6":"vsarkissianart",
+"bijlrmylg75aoyhdhgpj5dla":["vsrtnedomill","де колишуться квіти тьоті віти"],
+"6x2w37zzpq3w2rpsicmhjrgw":["vsexyleon","Vee 💕✌️"],
+"jty77hz3w33xmfrdzraxedf3":["vszabo","Victoria Szabo"],
+"hmnnsnjdabt6x6ldhwbv727o":["vskr","vskr_"],
+"573ribzwulaqwfrkp5szceiu":["vsufiyan","Vincent Sufiyan"],
+"qjonspmvqb5b2ykajtynuek4":["vsilvermoon","V Silvermoon"],
+"3mrppgxoctf6hftpmpckrrmi":["vsirv","Victor Savi"],
+"bqic3w3noceo6unsnexvqoyp":["vsinclair","V Sinclair"],
+"ay77isnptfu7nklsm3ifcz3q":["vsqn2","vsqn2"]
+}) // 2023-10-29T16:14:48.398Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -48,5 +48,15 @@ var vw=(function(jsonp){ if (typeof vw==='function')vw(jsonp); return vw=jsonp }
 "n4cyl2kkqcmgjveoazlm3h7b":["vwasseramsel","Valli (müde) ✨️🆗️🆒️"],
 "xzcqx57x7eplsce5o5ujgdeq":"vwvww",
 "j2q5up4jnwtbnakofzfvcjhr":["vwa","Val"],
-"irb2h6znfyx4sfpesmq43jqy":["vwidgeon","Victoria W. Wolcott"]
-}) // 2023-10-28T13:11:28.111Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"irb2h6znfyx4sfpesmq43jqy":["vwidgeon","Victoria W. Wolcott"],
+"rdmenqout4ssmxvcc5fsthy4":["vwnetadmin","Avec 1 T"],
+"jvnowkohkpbaq5ebuosuxj67":"vweber",
+"4gpum2qe2gbkacliz2pojqy2":"vwopalo",
+"aewlg4rlyfx3t6doncx44xd3":["vwpic","VW"],
+"xp7o7i6pk5it3xzqii5rq5oi":["vwnewsnetwork","Vaporwave News Network"],
+"lahhg4r3r52w5bolhki4kvtc":["vwd","Vicky Dunne"],
+"t2y5dievijpeimvn2ej4dcs6":"vwor",
+"duq62lqvznx5zvyvyyrba2le":["vw-what","Phaeton Farm"],
+"yxlai2q5l2dryqhbtsakwns4":["vwt1812","Lukas Küffner"],
+"pkoxmlrxsni65tve6vmyymp6":"vwegert"
+}) // 2023-10-29T15:50:03.431Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

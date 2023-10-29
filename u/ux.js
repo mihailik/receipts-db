@@ -1,7 +1,7 @@
 var ux=(function(jsonp){ if (typeof ux==='function')ux(jsonp); return ux=jsonp })({
 "4utzqpxuulooxdfal6x24lse":["uxhenry","Henry 🎃 "],
 "eky6ksj7igmgiars5j3mre3k":["uxdesigner.de","Ludwig 🧿"],
-"kn7il22obhqaafnetsrogixy":["uxuereinoso","Nival"],
+"kn7il22obhqaafnetsrogixy":["uxuereinoso","Nival (Uxue Reinoso)"],
 "pemqu3la24dmzfdgfsemhbiq":["uxchord","Lexi~ 🏳️‍⚧️"],
 "i5wbhrs2auyiz42gmstd6ny7":["uxftw","Christian von Uffel"],
 "52nzeyknt6ce4ktwpafg757h":["uxjoni","jonas 🫠"],
@@ -44,5 +44,11 @@ var ux=(function(jsonp){ if (typeof ux==='function')ux(jsonp); return ux=jsonp }
 "2thyz2wtbxti7ajit6yr7nr4":["uxcyril","Cyril (he/him)"],
 "rd6g323xs3w6nivlxhxuqaw4":"uxcxdx",
 "tyy5uralzu5wvqyv2ylkim3t":"uxior",
-"vuvkmpthy7i6omh7qigft63g":["ux-valerie","ux-valerie"]
-}) // 2023-10-28T13:52:54.684Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vuvkmpthy7i6omh7qigft63g":["ux-valerie","ux-valerie"],
+"m5iibi5opwgkoeduya43xd5h":["uxlx","UXLx: User Experience Lisbon"],
+"mq7em3j5zbb23yrewgh2evq7":["uxroux","Ліна"],
+"prfa6hhfnjlmdmcqq6w3s2be":["uxrexa","Reza"],
+"vtkvwnrknc7zkregsk5tdqv5":["uxue"," Uxue "],
+"wuryar6aewy2y5bopqevicp4":["ux66","yucks"],
+"5yno4jwwci6mwpxxan5iwwj5":["uxianger","🦌 urianger augurelt 🦌 "]
+}) // 2023-10-29T17:13:35.840Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

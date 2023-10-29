@@ -1,5 +1,5 @@
 var nz=(function(jsonp){ if (typeof nz==='function')nz(jsonp); return nz=jsonp })({
-"54rtrcwn5bgngsjkxk4aeiwv":"nz-gordo",
+"54rtrcwn5bgngsjkxk4aeiwv":["nz-gordo","Gordo"],
 "6xwqdzrxps22b4fnwb4hyg3r":["nzange","Ange"],
 "7tgc4fgnz3mfjjlkpm66fnlw":["nzsd","Steve"],
 "ampclwrvf6fhoj567jgapnmm":["nzrossvideo","Cool Hand Fluke"],
@@ -110,5 +110,16 @@ var nz=(function(jsonp){ if (typeof nz==='function')nz(jsonp); return nz=jsonp }
 "lezy3vtdcnb624hxdzyqudeg":["nzjo","Jo"],
 "w65ly26otnb5zto5j5psrhss":["nzorach","Nat M. Zorach, AICP, MBA"],
 "tgqidiitycxi3g7zml7mx3yi":["nzmm","Matt M"],
-"qkyd767icf5iih7bllm2b33m":["nzpug","New Zealand Python User Group"]
-}) // 2023-10-28T14:13:00.985Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qkyd767icf5iih7bllm2b33m":["nzpug","New Zealand Python User Group"],
+"puqv6gvjbm3ttofh2nzihyll":["nzo33","Sale Bon"],
+"kftkv45yx3ro4d34ubsjevcf":["nzahn42","Nicolas Zahn"],
+"cbkwcfhuubiebfjetm2fjca4":["nzavaro","N Zavaro"],
+"xuitilqnk5xntuvyh6quqoez":"nzibbotson",
+"gfhlb6jzsarxfpgrz2zddqqt":["nzmgm","nzm"],
+"mkd3tm464hjonhgbrnch7xkh":["nzbirdlover","NZBirds"],
+"nx2b7cocwovivjfq4mp3bx3f":"nzfoobar",
+"rydmeikbjhxr464xr54q4wam":["nzochegg","Nzo 🔣"],
+"pcnou646x7mqgmnfr5oyf7gt":["nzwiener-collins","Nadine Zwiener-Collins"],
+"urckdavjrpz4semmzdcby2sz":"nzredbear",
+"6hoxhkfjoun37fmbdoc2hrwb":["nzfi","NZFI"]
+}) // 2023-10-29T16:18:35.988Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

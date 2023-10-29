@@ -85,5 +85,15 @@ var vk=(function(jsonp){ if (typeof vk==='function')vk(jsonp); return vk=jsonp }
 "xxx24rbs5zwy2l2uadc3pey3":["vkovtun","Vitaly Kovtun"],
 "pj4dqkfkuuylprkpwvcbv3yq":["vkasahara85","Victoria Kasahara"],
 "2drz42f7mvnjxh3wdonmgemq":["vk-ytz","VK"],
-"mejjwz3gxoxom62i5owgafba":["vkm","Veronica"]
-}) // 2023-10-28T13:23:15.413Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mejjwz3gxoxom62i5owgafba":["vkm","Veronica"],
+"3yymj2tb3kqx5tjtfptqj5m7":["vk102lewds","VK102 Lewdbook 🔞"],
+"7pud5yagj33k2h7bixm4p5du":["vkadan73","Vladan Dědič"],
+"pfwerouurjmazyc5xzgkdpah":["vkshewrote","vkshewrote"],
+"exeoi6z77fmmxsprlcxcyupz":["vkravetz","VKravetz"],
+"abrz5z4agforz5gkxqdaqg54":"vkbajpai",
+"qme64pwacjrislbklg2ziwbd":["vkrol.com","Veniamin Krol"],
+"72nuo5i3h4dcerhp4yis3xxt":"vkuspis",
+"yhiho6f3qnwqtr7t4fw3j5oq":["vkjohnson","Victoria Johnson"],
+"hrwou7mb6rosoxfig6so5blx":["vkokoszka","Valérie Kokoszka"],
+"l7i4lc4plqyi3a44srjadtd2":["vkart","Verónica Casas"]
+}) // 2023-10-29T16:26:37.894Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

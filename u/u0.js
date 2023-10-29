@@ -77,5 +77,13 @@ var u0=(function(jsonp){ if (typeof u0==='function')u0(jsonp); return u0=jsonp }
 "den5xxfdhe6zao52kmoap22b":["u594official","Unit 594 🛂👕 (Official account) 🔵"],
 "4j3i7umz7ujclqz6hggbuiqi":["u2tours","U2 Tours"],
 "hk6tacrvbuhoze5xho3wqpac":["u3927km","u3927km"],
-"nfcssrcnmy7ljqv5gyixhwmc":["u-030-u","맹"]
-}) // 2023-10-28T12:46:27.802Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nfcssrcnmy7ljqv5gyixhwmc":["u-030-u","맹"],
+"iwvdasrg7thar7z43kpc7zlk":["u18chilldads","Columbus Chill 18U Dads"],
+"63sh5oskgy3okpzn2rs6vkjn":["u248a1415","雪景 Yukikage"],
+"ai3klz7qdglqcwisv7pdzgq3":"u2o",
+"uupkdgoiibglfmgdowckrhug":["u37len","Len🧡💚"],
+"3exf7q6ihelpwkimzwh22dsn":"u2able",
+"itjbzma56sr3tnzqakkfxpir":["u94703","гусак (анонім)"],
+"rb44ajko2eswrils34sn2azh":["u34ch","GE U34CH Fanpage"],
+"ne2xdj5hwljkcgvf5orrukpg":["u53r3rr0r","EM"]
+}) // 2023-10-29T15:36:41.415Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

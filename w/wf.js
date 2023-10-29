@@ -59,5 +59,11 @@ var wf=(function(jsonp){ if (typeof wf==='function')wf(jsonp); return wf=jsonp }
 "qzww2tz3agjxjwoel272p6hy":"wf04",
 "74hjqhbtqezskg5dxm6xr3vj":["wfiu","WFIU Public Radio"],
 "uxckrh35x5qqfj6s6lbfxb37":"wfnycle",
-"ejztm3xnykqaugsox7eoqqip":["wfpremo","Primeaux"]
-}) // 2023-10-28T13:44:18.605Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ejztm3xnykqaugsox7eoqqip":["wfpremo","Primeaux"],
+"auhuaxkmbxaljvuuktqnmrbg":["wfondrie","Will Fondrie"],
+"tet543taox3fw35fntcdpaz4":["wfpmarty","Marty Smith"],
+"zyo35dy3my3fnj7b647amnen":["wffls","wffls"],
+"357vabzfnsx4htax65mrfh7c":"wftireland",
+"alh5mb3gp4rhhsxx27jl7k7v":["wfant","Bill Fant"],
+"ee43l3flpb7ews4yjxtghtgp":["wfdownloader","WFDownloader"]
+}) // 2023-10-29T16:03:01.341Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

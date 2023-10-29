@@ -77,5 +77,18 @@ var uu=(function(jsonp){ if (typeof uu==='function')uu(jsonp); return uu=jsonp }
 "mditox4dhins3bvthywplxtu":["uuk0","창섭깅"],
 "xc54gkczk5ihoxsk266m2log":["uuning","유닝"],
 "4oqzcnlctm3dswoo2msviipv":["uuinee","유인"],
-"vs2mllngwde2v7ouig7wh5iw":["u-u-akak","Ren"]
-}) // 2023-10-28T14:14:32.565Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vs2mllngwde2v7ouig7wh5iw":["u-u-akak","Ren"],
+"4md2tgio3wwifls5zu6nzz6p":["uualnut","호두"],
+"6fulxtd5xaj2dh6iivl6qu5t":"uuurrrsssuuusss",
+"5xssgmliegpde4nuv2tavk22":"uuudar",
+"fscpkezpiarzc7cv3jz6spz6":["uumeowww","mi"],
+"tgsetvyqxrmwqdrso5hv63r4":"uu8",
+"4uszz6kjdffsekt3geadqenq":["uu7ta","uta"],
+"cm3umnrbr3irf4bgunl7gc4q":["uuabq","First Unitarian Church of Albuquerque "],
+"5zpjgk3gxolermoejnafntq4":"uuto-1380",
+"xb5fxylshnhh276jb3vshmih":["uutopicaa","Nathalia Tórtora "],
+"vwfmsnhdn2ctqd3vcchpicck":["uumian","U麵"],
+"y7wg47lvysxauxcozpbn2dlo":["uuhiiro","夕陽色"],
+"bjkkmysigytjxkby7bfj44vd":["uubbieallenvo","Uubbie Allen VO"],
+"as6guwrkhx7m52j7v224lj6c":["uuultrac","(`⊗﹁◓´)"]
+}) // 2023-10-29T17:26:44.942Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
