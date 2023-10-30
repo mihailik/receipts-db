@@ -98,5 +98,8 @@ var zn=(function(jsonp){ if (typeof zn==='function')zn(jsonp); return zn=jsonp }
 "arb7v4njwvjzd6awbdczqymf":["zn-code1","🌸"],
 "mgg53bsxw6jnnk56bfqwm4ym":["znakot.party","Тщетно бытие"],
 "2m5vrvjf4lavyxta5juov4li":["znardo","Zander nardo"],
-"nseyeyvr4ei2abbxld4l3p5j":["znuznu","znuznu"]
-}) // 2023-10-29T19:19:45.781Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nseyeyvr4ei2abbxld4l3p5j":["znuznu","znuznu"],
+"sfcosbd5vxp43q4navpehhra":["zntmn","zantomun"],
+"nz6e6gvv6p7r7eknt5wf3bz7":["zn-code2","뀨"],
+"wc6yskifd23mo2kvucvkhafn":["znfh","🍙"]
+}) // 2023-10-29T23:15:44.024Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

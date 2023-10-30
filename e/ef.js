@@ -483,5 +483,25 @@ var ef=(function(jsonp){ if (typeof ef==='function')ef(jsonp); return ef=jsonp }
 "swhrdehgobnb34co266s7aaq":["efreudenthal","Eduardo Freudenthal"],
 "zte2z7ojgvuahh3xvnqm635q":["efalconer","Emma"],
 "oi674xj6cwdnkubi66qmz7x2":["effiemerryl","Effie Merryl"],
-"32oxrlbvya7danmxj3qyukig":"efekaagan"
-}) // 2023-10-29T20:45:02.938Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"32oxrlbvya7danmxj3qyukig":"efekaagan",
+"unwmqufnwzimwtxt2fozvcjh":["effpunct","Fru.Ko"],
+"gxghj6rgprcffnlllcz27i35":["efry","БЕЗ💛ДНА💙"],
+"rnpc5isbjhkihllcryiseuvk":["effzeh94","Effzeh94"],
+"ekrzvlscvwtpqmcy2bkj5p62":["efesce","Felix Creutzig"],
+"7dlk7hlzq464x5cbinnqhfqd":"efratlewy",
+"up33zmtevaaqnwciqsyb2gv4":["efgiese","Edgar Giese"],
+"3yeoyak6iwddtipdaqy7iic4":["effzeh","FC News Bot"],
+"q7fj5dnsqx6zlpsfsf4nqll2":"effixs",
+"oqpjmh5goi2fsgohwrbp2hul":["effdjey","Franz-Josef Herpers"],
+"3cieut2die4fryvmw5con44n":["efervesan","Serhat"],
+"elpega745oyuo6cjnbnhttjj":["effekthasche","Christoph Hasche "],
+"yzbrrabwm2lzoz7tvehxzdrx":["effingabriel","EuripidesWroteFanFic 💙💚"],
+"l3fkikhf3j6zjsp4pdqpmbcz":"efrain7457",
+"4qhki45n4ywppot6bmjxp5db":["effeteconcrete","Stephan G"],
+"xfe3xgdbtzcmuvyjqkuk4bmc":["effzehinmke","Effzeh MKE"],
+"pyhcnslh2ltks4jf2elsrywp":["efferstie","Efferstie"],
+"5mj6ofppmhjq4fk4x2gjmd4f":["efbman","efbman"],
+"tt3e4jntqsvtvenfeccyr5ji":["effee","effee"],
+"oyviv6recslhtut7zgotbtzz":["efemota","Francisco"],
+"thnxbwbkkitgktar5whukfvb":["efraintovarjr","Efraín Tovar, M.A.Ed "]
+}) // 2023-10-29T23:53:25.677Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

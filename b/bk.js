@@ -346,5 +346,16 @@ var bk=(function(jsonp){ if (typeof bk==='function')bk(jsonp); return bk=jsonp }
 "hiqt4zrprcnj3udzan3ntevx":["bkdkkazahana","Kazahana: A BKDK Winter Zine | Creation Phase 🐺🐏 "],
 "t54npdfgmp5omw43g44vnwem":"bktestacct",
 "xntnx74dyz5gcsunkqrj723r":["bkadelka","Björn Kadelka "],
-"i5kwueomioxjvzbhqf3kegyv":["bkismyname72","BK72"]
-}) // 2023-10-29T20:20:02.443Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"i5kwueomioxjvzbhqf3kegyv":["bkismyname72","BK72"],
+"3bxlyitxix7njr5uls55foms":["bkonetschnig","Bettina Konetschnig"],
+"mbpfe3uygs65jwyxmao3vmqo":["bkshriver","Bob Shriver"],
+"kzek3os3iu5fyzmolb2kjhhp":"bksta",
+"3yvkldda32eejjwovwqajkrw":"bkane",
+"s2w63esspumjza57legpktk3":"b-kasberger",
+"gunqxpamwywiwoqhe5stkpcc":"bkrakauer",
+"y2uvajzly3hafzvdhkmj63rd":"bkinjh",
+"czw2dlxuz2sedmxw5fcz6eua":["bkdkgremlin","lia 🪐"],
+"kdkdigaljel7kr2dxaggiu46":"bkorch",
+"qnm5ssop55pmilodimjvdpbu":"bkell",
+"mn5ddj4tnxpvbvoxkmkh6lfl":["bkz04","BKZ04"]
+}) // 2023-10-29T23:51:56.393Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

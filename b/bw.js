@@ -306,5 +306,13 @@ var bw=(function(jsonp){ if (typeof bw==='function')bw(jsonp); return bw=jsonp }
 "ee4rqtiz3srpy756x2nw3auu":["bwasphemy","Goatz!🏳️‍⚧️"],
 "nn2xphzjyeetto452jvpeq65":["bweidin","Bernhard Weidinger"],
 "l4uiy6cmgwqu3tz5aqxa7flv":["bwapbwap","Geobra_"],
-"ondaxvicui3nqk4xtartshhe":["bwise1","Brian"]
-}) // 2023-10-29T20:56:36.659Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ondaxvicui3nqk4xtartshhe":["bwise1","Brian"],
+"vbsd6jr2ejoa4vmz7zt3ncno":["bwan","Bwan"],
+"h42pbsua5pov5bqyc4u5im6y":["bwikwife","뮤라"],
+"verqb3gfasdyasinwpgfxsd5":["bwpev","BWP"],
+"idi7bjhdzrpgh2eczjhxktda":["bweepy","bweepy"],
+"smo3lnka6qmqnqr3maedf55n":"bwatts",
+"yjh2d43wll5cdflqygj5wqdz":["bwwhalen","b w whalen"],
+"afm3eplvvrgikjfomauudvzc":["bwolff","BW"],
+"nr66mslbiihgculaojchots5":["bwvi","Behörde für wirre Veloinfrastruktur"]
+}) // 2023-10-29T23:55:38.170Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

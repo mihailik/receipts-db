@@ -77,5 +77,8 @@ var yd=(function(jsonp){ if (typeof yd==='function')yd(jsonp); return yd=jsonp }
 "2jez2rysotrjhpyklxdnva6f":["y-ddraig","Y Ddraig 🔞🏴󠁧󠁢󠁷󠁬󠁳󠁿"],
 "f74vzwcmllbt7tbl6flmpyse":"ydrazil",
 "cfvnzt2h6juvpgvyjibaf2sl":["yd2525","YD"],
-"dcb2g4ctkzkjukgasc2em4c7":["ydni","Gappy’s Boyfriend"]
-}) // 2023-10-29T19:45:43.556Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dcb2g4ctkzkjukgasc2em4c7":["ydni","Gappy’s Boyfriend"],
+"epqozlgzoff6gv6l6unt3ea3":["ydkj","ed"],
+"h6odzsrzq4dz5wn34zww7466":["ydmpaltacnt","🔞 The Pregged Yoshi 🔞"],
+"kskawovd4wxqccdhcfc2pa5o":"ydred"
+}) // 2023-10-29T23:53:25.624Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

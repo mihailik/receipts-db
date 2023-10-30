@@ -56,5 +56,9 @@ var uy=(function(jsonp){ if (typeof uy==='function')uy(jsonp); return uy=jsonp }
 "n2524ouyqnn34kxmzvjuphzn":["uyguntunc","Duygu Uygun-Tunc "],
 "zqof5zc2lb2lpkf7pytz7oqs":["uyu-bluesky","🥛"],
 "lyqvxdr4tlrobcil3kly3uax":["uyuni","그해"],
-"kmutwz5zql62pdike764gky4":"uygarozesmi"
-}) // 2023-10-29T17:06:51.347Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kmutwz5zql62pdike764gky4":"uygarozesmi",
+"wuo45ncmwfy37zfdoizkeif7":"uyulala",
+"72ssjp5bhjlrf7yhyoshubid":["uyuyu","うゆゆ"],
+"4rkr7a73u4xx3yuhr6uttvn7":["uygar.dev","Uygar Aydin"],
+"x2sgaqhuc7iot2fiawbnahb3":["uybhys","Unlock Your Brain, Harden Your System"]
+}) // 2023-10-29T23:06:40.821Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

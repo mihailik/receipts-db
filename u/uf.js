@@ -135,5 +135,12 @@ var uf=(function(jsonp){ if (typeof uf==='function')uf(jsonp); return uf=jsonp }
 "l3ndobcdti57wxx4jphwfxhg":"ufplantpath",
 "xt5xhbgzeete3s4276x45uho":"ufotter",
 "mvbmq4apnkxgnmepvand6br6":["ufovereinherne","Jessi 🛸🌈"],
-"zqydjvlxipzewyumvr6wdm4u":["ufocommander","Ufo Commander"]
-}) // 2023-10-29T20:24:02.426Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zqydjvlxipzewyumvr6wdm4u":["ufocommander","Ufo Commander"],
+"4dstx6ov5iaw6ea5viddtiia":"uff",
+"ia7djydwr3lob6dm4riu2vp5":"ufukdusovali",
+"s4dspb66sl4vgngmmn4ou4ff":["ufm2045","Ulrike Famira-Mühlberger"],
+"kltjqli4wqd4oz7o6odo64ap":"ufreitas",
+"xy3zm6dabwb2yrenrldeqsnh":["ufotoast","UFOToast"],
+"2yye4hcjpgmvzf4fsjco54fl":["ufotutkija","Ufo"],
+"45hog6p4kbdio5pc6dtuhial":["ufoolofatook","spooky Kat 💀 "]
+}) // 2023-10-29T23:53:25.648Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

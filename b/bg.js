@@ -277,5 +277,16 @@ var bg=(function(jsonp){ if (typeof bg==='function')bg(jsonp); return bg=jsonp }
 "we7h6amrw5xvahxormyup2gu":["bgabler","Bernd Gabler"],
 "zqys35ovpvdouw2xswctxi77":["bg10930","肯德居2.0"],
 "bofwhobl4gfwnr7yiolkxoi3":["bglorious","Birgit Glorius"],
-"v7sjdjq7pf2gk3nolpv4to25":["bgenc.net","Kaan Barmore-Genç"]
-}) // 2023-10-29T20:45:02.759Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"v7sjdjq7pf2gk3nolpv4to25":["bgenc.net","Kaan Barmore-Genç"],
+"pyhpm673djgkzq3a2jknxkut":["bgbl","Bundesgesetzblatt"],
+"pmu74fsou4pxneoz3vbwxs5v":"bgomes87",
+"jriruxx2ms2mrvvuhwo52f3u":"bgpurzycki",
+"m7kdcu5zaz6l4wc5rfr26sbu":["bgpntx","Oleksiy Zhukov"],
+"dczyqc2lwtbsjelrcy7s7hmn":["bghojo72","_hojo"],
+"yo62aov5oag3b257fj4xzcay":["bgiray","Burak Giray"],
+"zc2kgafyzuesnhpifaq2nbx5":"bg9352",
+"ikpfxye3ystf7avl3sqj5ejy":"bgitrama",
+"5fqj5l5ltqpgrmxtrqgouwep":["bgo82","bgo"],
+"koc7usfvtegxscmgytlbcylr":["bgould","Ben Gould"],
+"buar627dtpior2admjjgimj2":"bgan"
+}) // 2023-10-29T23:35:07.880Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

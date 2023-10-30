@@ -128,5 +128,7 @@ var uz=(function(jsonp){ if (typeof uz==='function')uz(jsonp); return uz=jsonp }
 "nis2rexawwqoltm4xvctfib7":"uzerbase",
 "xduqzzxp6qoe3u2m2xsbgf7u":"uziel",
 "wuhuum6pvnroc37jqn5rpuvx":["uzuiblue","Caelum 🌙"],
-"yb4ov6j3juoyoddwyphhmltx":["uzura130","ウズ"]
-}) // 2023-10-29T20:56:36.739Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yb4ov6j3juoyoddwyphhmltx":["uzura130","ウズ"],
+"6c5pdibcfe4seqblper5oe3p":["uzukai","Uzu"],
+"beo6gjjo6dvqqs4ufmjqw4q2":["uzhphildlf","Digitale Lehre und Forschung PhF"]
+}) // 2023-10-29T22:22:04.281Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

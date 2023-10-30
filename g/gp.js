@@ -204,5 +204,16 @@ var gp=(function(jsonp){ if (typeof gp==='function')gp(jsonp); return gp=jsonp }
 "ht6ikboedezr7usqvzkspacd":["gplanchat","Grégory Planchat"],
 "jm5nsb6olcmyxn43ik35karw":["gpassamonti","Giovanni Passamonti"],
 "glkpsgrbk2pnhjr42gu5vma4":"gpavaneli",
-"tiyytkuf5etgmtdulimysd2b":["gpunktruschka","Gerald Ruschka"]
-}) // 2023-10-29T20:41:51.662Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tiyytkuf5etgmtdulimysd2b":["gpunktruschka","Gerald Ruschka"],
+"cys5457nsxnpqoj6vsrhtcje":["gpennywoke","Greg P."],
+"qx3e3xeyt64u5trqgnzgx4c6":["gpereze","Gonzalo Pérez"],
+"mcnx3emwzmaddgr67356w73e":["gpop","Gpop"],
+"zxyajk7dm4o6crmxdqobzwe6":["gpanel","gPanel® by Promevo"],
+"eyauhxfxhklrl22vwmuj476a":["gpaolacci","Gabriele Paolacci"],
+"i75hijs3jt74msdvzsbi5wma":"gpseema",
+"y32vrvm6xqmjg433hj4al6x6":["gparsons","Geraldine Parsons"],
+"gyqk6j4rfhvkyarqipfbn7td":["gpcd","Great Pop Culture Debate"],
+"jqoibez3ywtonukqx244e2ds":["gpfansglobal","GPFans Global"],
+"6vsnkz65kufa3ii7o3fp7pkx":"gpanger",
+"bey7ahkmsy5vgk5hgh2qpdpa":["gpietran","Giuseppe Pietrantuono"]
+}) // 2023-10-29T23:53:25.653Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

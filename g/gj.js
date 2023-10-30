@@ -135,5 +135,11 @@ var gj=(function(jsonp){ if (typeof gj==='function')gj(jsonp); return gj=jsonp }
 "ouhtj6eatajocuml6y4i4hv4":"gjdavis",
 "wdyn5sjfzc4gl24bw5dtwnqj":["gjesdal","Kenneth Gjesdal"],
 "lwupramyf4jai3jiovcnqg6c":"gjc",
-"atelo6qijn75zghx7bp54u4u":["gjmode","Haitian Ronin 🇭🇹"]
-}) // 2023-10-29T19:32:00.780Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"atelo6qijn75zghx7bp54u4u":["gjmode","Haitian Ronin 🇭🇹"],
+"ih4apepwg4bud7q43bzraeuk":"gjenkjennelighet",
+"2lwprfvophvjghe523no2ycv":["gj4man","Namerof Maharg"],
+"vxf4y344w24ubkcoz4ube6rw":["gjerme","Pimp C Scott"],
+"z6dzxlc3asb4v2xuetm47ghn":["gjonvik","Gjonvik"],
+"3bhc2joz2m2arzmudjrun63b":["gjallarbru","Dan"],
+"kdcggsfxkjavadh44hgpid46":"gj352"
+}) // 2023-10-29T23:50:30.815Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -101,5 +101,13 @@ var vk=(function(jsonp){ if (typeof vk==='function')vk(jsonp); return vk=jsonp }
 "uxhuwwo534gw7f7gmebidbil":["vkubisiak","Vince"],
 "vprptbkecsfksjxcbrokgorq":["vkfka0510","파람"],
 "4w67jk2ne7z6cq3aothvqim7":"vkuelza",
-"5funnhri36wytx5cwcg3o3vv":"vkragin"
-}) // 2023-10-29T20:29:26.876Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5funnhri36wytx5cwcg3o3vv":"vkragin",
+"56vwsn5iwj7fqedsarvxc4o6":["vk-fca1907","Vincent Portanova"],
+"gupda4kw5kgppcmgwk3ukjz2":["vkluzik","vicky kluzik"],
+"bl6daopt3zdm4s7izlhpd6pc":"vkturner",
+"4fhadn4vjljrbbvfshitqvfj":["vkekfr","파닭"],
+"herbha6bihzvhcx67q4cy7ir":["vkm68","Evkm68"],
+"ongdzwbmekn5gjihyhldwg2h":["vkonanur","Vaibhav Konanur"],
+"v3sm6w46bun4frionun2j5xw":["vkr33l","Vkreel🔞"],
+"2ijqgohmiywtqtbx2qdxc25e":["vkinaret","Ville Kinaret"]
+}) // 2023-10-30T00:00:47.663Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

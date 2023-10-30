@@ -404,5 +404,13 @@ var bd=(function(jsonp){ if (typeof bd==='function')bd(jsonp); return bd=jsonp }
 "svkqr2otkrnfl2eel2ma2knc":["bddezeeuw","Brigitte"],
 "erfwyhzfxrdhji2bxstkbmsl":["bdsmmia","BDSMMIA "],
 "eytb3dbxk3ypjbblwcaoa2zm":"bdiddyy24",
-"jaurfbvl77wodpsvpuq7lh7m":["bdunsmore","BD"]
-}) // 2023-10-29T20:13:26.340Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jaurfbvl77wodpsvpuq7lh7m":["bdunsmore","BD"],
+"scajozopxutfthjsnvhdbhkb":["bdsmdfmn","BDSM·DFMN"],
+"iw2hca3cow6w7x3j74f76qvx":"bdgr",
+"yxryse7u6lsa6xi5npjcfcqb":["bdeboner","Werewolf Aficionado 🔞"],
+"6hmnxx3hnkqndstk272rnudc":"bdsmvzla",
+"5g4t6ylo4gmcqi6d2k2f5edj":"bdhuis",
+"5iwjmp57tjfyxcl2zwbzlsby":["bdyrnes","Wenche B Dyrnes"],
+"sz6cfi27tpsllxrmmi24dsf3":"bdavis0777",
+"hk2jogykwip5xhnxxxrqirny":"bdmbigdickmcgee14"
+}) // 2023-10-29T23:31:25.335Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

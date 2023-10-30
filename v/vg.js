@@ -131,5 +131,8 @@ var vg=(function(jsonp){ if (typeof vg==='function')vg(jsonp); return vg=jsonp }
 "omwrdx34wjcpietql64f4kvx":["vgbpw1","Vincent_B"],
 "4kal2lmttowhfb2zz74ruw2a":["vgpaul","VGPaul"],
 "pz42l466imljjtx2k3w4dqzf":["vgweeb","Plant Based Weeb"],
-"xaujoz5hd2uthqzxmjfz7f4m":["vgnpgn","Virginia Pignagnoli"]
-}) // 2023-10-29T20:48:36.704Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xaujoz5hd2uthqzxmjfz7f4m":["vgnpgn","Virginia Pignagnoli"],
+"lvkmzwus2iee5baykv2nvn76":["vgmoose.dev","vgmoose"],
+"yv3snp7e24wnpum355qj5frd":"vgurer",
+"qikowk24oxpni7nvhqpkxi2m":["vgschweich112","Feuerwehr VG Schweich"]
+}) // 2023-10-29T23:29:58.710Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

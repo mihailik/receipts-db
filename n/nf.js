@@ -207,5 +207,9 @@ var nf=(function(jsonp){ if (typeof nf==='function')nf(jsonp); return nf=jsonp }
 "jiujmlfsjzihovgbrbihaa5t":["nfisher37","Natalie Fisher"],
 "jyatoewlhtxcd5r3jkvhafdt":["nfswkingvoyeur","NFSWKingVoyeur"],
 "poh3dgswv7ni57r7jocytt53":["nfu0x","むゃ"],
-"2tqisrhxkz7vdmhh4vnhvlfh":"nf19"
-}) // 2023-10-29T20:45:02.252Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2tqisrhxkz7vdmhh4vnhvlfh":"nf19",
+"nyb7mdmkwxom2jnjpbmyf65o":["nftcomicsclub","NFT Comics Club"],
+"j73k5a3rs7dgvorsrpbul2ks":["nfulminaris","Chúrsula"],
+"zcgivbff2k2uwxs26nggs2c3":["nfanzi","Nico 🙊"],
+"iktjpbufogwdhvdbhvt3wxgo":["nftirl","NFTIRL"]
+}) // 2023-10-29T23:03:48.093Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

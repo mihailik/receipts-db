@@ -188,5 +188,11 @@ var y0=(function(jsonp){ if (typeof y0==='function')y0(jsonp); return y0=jsonp }
 "dmmftn3xee56agrz7klthox6":["y2kendrick","K.A.K"],
 "rkk3iuqtimrgdiwj7heyy6xt":["y0y0evan","Y0Y0Evan"],
 "2atnauro63tullbm7gn7janm":["y13666c","Спекулятивна Метафізика "],
-"ok4yowa2yn3ovu6mh6uhctcf":["y3rnaux","Yves Yernaux"]
-}) // 2023-10-29T20:11:58.194Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ok4yowa2yn3ovu6mh6uhctcf":["y3rnaux","Yves Yernaux"],
+"y2snzxozzea54ef5buyhiusi":["y0urf4vafton","will / martin 📼👁️ STATEMENT REMAINS"],
+"lmrotmmgvar3v66ptfxi2ohf":["y0ud0ntkn0wme","You don't kn0w me"],
+"rwyurpuavbmahfsnuonk5oyf":["y4nnik","Y"],
+"57x57okjizoscadqji5qvhs2":["y6y","John"],
+"jttsonzpe7fnvr6uamwyfyqw":["y0da","y0da_"],
+"hzrpurrjjzep6vrcpldhjjjh":["y1k","해난"]
+}) // 2023-10-29T23:05:14.821Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

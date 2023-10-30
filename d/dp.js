@@ -350,5 +350,15 @@ var dp=(function(jsonp){ if (typeof dp==='function')dp(jsonp); return dp=jsonp }
 "26vrk3s4ktpv55jl7rogmz2a":"dpshepherd",
 "vaeqt5keaz64vzmisy25l7mz":["dpofficer","DPOfficer"],
 "ziihxp5zwraapntfvnhoaljl":["dpjedi.org","Data-PASS JEDI"],
-"xlvt7t3lz3pyhnqjzg67caqr":"dpmanwithaplan"
-}) // 2023-10-29T20:58:57.366Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xlvt7t3lz3pyhnqjzg67caqr":"dpmanwithaplan",
+"5au5c7kjzvj6h6eibhkizf4p":["dpdo","dpd"],
+"gnzx62qsgruk6dzwpv7fyid5":"dpie-uoe",
+"uchipwitp7hyxoaoecwql53r":["dpmoore","Endless Dan Moore"],
+"whw4iaz7f4bougccgncqb5hm":["dprotzmann","Daniel Protzmann"],
+"byswxo2gdqhvo6xttxamopbf":["dpdramkin","Denitza Dramkin"],
+"hyxtcq6louoamroekojbdlhw":["dprokscha","Daniel Prokscha"],
+"cbhqikeb36yisrxjaawr6xac":["dplazasaez","Daniel Plaza Sáez"],
+"wigh4rlznfm7izqhl4zgvp3d":["dproducer23","DProducer23"],
+"gojwtt3hasrl2hm4lh6ybjcn":["dpadwa0","Danny Padwa"],
+"vxq3cy6lyegng67y4s45e22t":["dpzberlin","Das Progressive Zentrum"]
+}) // 2023-10-29T23:58:33.937Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

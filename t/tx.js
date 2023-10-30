@@ -192,5 +192,17 @@ var tx=(function(jsonp){ if (typeof tx==='function')tx(jsonp); return tx=jsonp }
 "gmcojg6n3rcnrm6f3wxluraj":["txspts","•【=◈︿◈=】•"],
 "bykdreuwbnkr57nn7aiucjqm":["txtbro","Harald Strauß "],
 "6fzcur2v764fnq6facmpy3js":"txlpaul",
-"prbqidzwei7occdadykbqgzl":"txsomb"
-}) // 2023-10-29T20:53:39.246Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"prbqidzwei7occdadykbqgzl":"txsomb",
+"masnvbiujiw3er6a2zx4sbgu":"txistorabiarnes",
+"wkces2pblkz65vsm2vzkq7fu":["txkat","Senora Gato Loco"],
+"lrextfh7oxoq5iexmcvr4dtv":"txhka21",
+"yox76mgi4cbbil7gyzfnnzqq":["txiekoad","✯𝕋𝕏𝕀𝔼𝕂𝕆✯ 🔞"],
+"ckwpwhd5r7lslkjjgjy323ta":["txtnoticias","Txt Noticias"],
+"3sjjuwquz2ohdc2ymutsuext":["txdowo","Keys"],
+"uvqwa7mesdo2e6eemt24r6zb":["txlspotter","TXL Spotter"],
+"cxswbcx2segubtvxdukiwe43":["txt-werkstatt","Nadine Kube"],
+"fp2ze5iwcwtszunk64ec7nx2":"txquire",
+"sbhc4hc4u2qdwej4bgof7ozo":"txarlypa",
+"64qqmu3rchv64kffptkdjfj5":["tximistarissole","tximista-rissole (aka rex) || COMMS OPEN"],
+"dvot6rrxc2dvp5ras5vjhojp":["txmepassxs","rosina~"]
+}) // 2023-10-29T23:51:56.539Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

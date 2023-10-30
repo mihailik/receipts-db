@@ -90,5 +90,7 @@ var wj=(function(jsonp){ if (typeof wj==='function')wj(jsonp); return wj=jsonp }
 "p4ajkgxqetjpdtuzkmmvkcxa":"wjohnson68",
 "ocnkvydiwwuvgp72sysjbddz":"wjrx",
 "aaowmrw2ibawhqrhjg2up5rj":["wjddbs9709","루빌::적응중"],
-"nv36vcgvzjtwiqupp37466gx":["wjoell","Winston Churchill-Joell"]
-}) // 2023-10-29T21:00:29.271Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nv36vcgvzjtwiqupp37466gx":["wjoell","Winston Churchill-Joell"],
+"iyrk7rg232vmffb2bik7y3da":["wjadeyoung","W. Jade Young"],
+"r2b3kzslybi3bdo43ak3iiw3":["wjcgibson","Will Gibson"]
+}) // 2023-10-29T23:02:13.115Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

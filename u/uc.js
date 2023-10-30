@@ -225,5 +225,11 @@ var uc=(function(jsonp){ if (typeof uc==='function')uc(jsonp); return uc=jsonp }
 "aahenukhnk5oiwn3eau33f7k":["uchuhaiku","Uchu (ThePanther) Von Schwarz"],
 "xbgp5wphpftkqrvfnzqvdygw":["ucaveronika","Veronika"],
 "yixqbznmnltzgwreqnkoquv6":["ucsbling","UCSB Ling"],
-"2ysvfq6cbmn6ccfbm7pej3bg":["ucbscholcomm","UC Berkeley Library Office of Scholarly Communication Services"]
-}) // 2023-10-29T20:55:07.773Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2ysvfq6cbmn6ccfbm7pej3bg":["ucbscholcomm","UC Berkeley Library Office of Scholarly Communication Services"],
+"7qyp4rvlva3pi66nc5bm5uiv":["ucles","Moisés Uclés "],
+"n6llk6m2wbsepojz24fufgqb":"ucdraco",
+"elweg26co6byrp6ygtx5zclo":"uckleduckle",
+"oxttalbjghdrhiggh4fep5pf":"uccio",
+"ri3f777vgjfgvnkp2zyjcopm":["ucmpolisci","UC Merced Political Science"],
+"eubr4daqgox7tfjl7abe2ndd":["ucedaman","Ucedaman"]
+}) // 2023-10-30T00:00:47.583Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

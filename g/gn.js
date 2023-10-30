@@ -473,5 +473,24 @@ var gn=(function(jsonp){ if (typeof gn==='function')gn(jsonp); return gn=jsonp }
 "y2jwhziliwkbpheb2ydelz5i":["gnosis666","Eduardo Godinez"],
 "ocii4ihbnvg7glno4d33bkdt":["gneisenaukiez","gneisenaukiez"],
 "2klqorwfdn6suzd3lmflq7qd":["gnmbe","Gnmbe"],
-"pni5etz3g4p7x4elw3bhi5ah":["gnkr21","Gonzalo Aguirre, el polar abogado "]
-}) // 2023-10-29T20:55:07.773Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pni5etz3g4p7x4elw3bhi5ah":["gnkr21","Gonzalo Aguirre, el polar abogado "],
+"23snz2gvwlsms2jisoypds5n":["gnapw","Здеанонений бот"],
+"q7wju3adbcimdaocmenrbixe":["gnhre","GNHRE"],
+"4jdlahvwkzkzkoau6phnihqo":"gngrarkoudos",
+"w7e2ztyuux7ujoew5rnlbdw2":["gnramsay","Gordon Ramsay"],
+"orceqjqicmloe5c2kg6mpzqk":["gnievchenko","Gniewomir Flis"],
+"wb26rk4kiwbvb22v6hsbsjsu":["gnocchimane","LIL PLUM"],
+"sgqsbceirdx22lerurodfazk":["gnomus","Mirko Ermini"],
+"cozvatd3gn4da3kmkqfvfutd":["gnawcire","Eric Wang"],
+"s6fgxmmqgt5fpscfc3fyyrpx":["gnarcanine","gnarcanine"],
+"lpoofnjzbcohbt6vy4i5mo66":"gnohcci",
+"kuy3mhuebjpbhdyqdif4njec":["gnomanrepublic","The Gnoman Republic"],
+"64uvwhcrhlf5nkpt65lrpryr":"gnac49",
+"cwzix3f5264xbvzolufl7nlt":["gngnng","두리귀엽긍"],
+"etajeg5yhbpmrftoitcs5kug":["gnaireta","Naireta🌊"],
+"wav2hwdbkwdhamqzumyroxw7":["gnoum","Gnoum"],
+"4tm5asvyepev7pprd7za6lkm":"gnatnat",
+"5742vbugxjjcv2epkacqhw2f":["gnewheart","G Newheart"],
+"xh67f5anasibcw5bqv6kmsz4":["gnarlus","Jeroen"],
+"2rkr3sij6fszcocpfdkfcpb2":"gniest"
+}) // 2023-10-30T00:00:47.735Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

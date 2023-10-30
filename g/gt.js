@@ -239,5 +239,9 @@ var gt=(function(jsonp){ if (typeof gt==='function')gt(jsonp); return gt=jsonp }
 "npduniyek7q3ukxqesmm3p7c":"gthbriem",
 "bbib3td6tjygb7ki5o6ppxf5":["gtronix","𝑮'𝒕𝒓o𝒏𝒊𝒙"],
 "e2sidszagmnof2pc43v5jiol":"gthomascraig",
-"kt75hyja5kmaprkexp3z72kh":["gtscpodcast","Gutting the Sacred Cow"]
-}) // 2023-10-29T20:58:57.370Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kt75hyja5kmaprkexp3z72kh":["gtscpodcast","Gutting the Sacred Cow"],
+"cmj7yiashb6qt4p52f56tqg7":["gtoraverse","GTORAVERSE"],
+"hzfrrqajvh4mvvqr2ropho5d":"gtorres",
+"5fkpofkjdv373n3dn7wdh43o":"gtone",
+"tsqhtkquwig3tnb7ltyt4po2":["gtu875","GTU875"]
+}) // 2023-10-29T23:53:25.147Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

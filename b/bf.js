@@ -188,5 +188,18 @@ var bf=(function(jsonp){ if (typeof bf==='function')bf(jsonp); return bf=jsonp }
 "riutts6ekuxlgwgegvjl5zdw":["bfree99","Bradley"],
 "ebvs6vsc22xx47u7iwcwjbbv":["bfarstead","Brian Farstead"],
 "4efechxjxq4uyc53suqbjezh":"bfarizy",
-"urvkwkosxlppdkn77xplbev7":["bforchtner","Bernhard Forchtner"]
-}) // 2023-10-29T20:27:59.589Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"urvkwkosxlppdkn77xplbev7":["bforchtner","Bernhard Forchtner"],
+"afc3v7r7rcpjvymiymtzqrsz":["bfersch","Barbara Fersch"],
+"2djg2xhuzdvrgvfljnnn2jxo":["bfkth","bfkth"],
+"tocsd2apuhrslyewmafgjlpi":["bfytw","BFYTW"],
+"c7vbrvpjy6q3p2aizrzxh22s":["bfast","bf"],
+"wcihppxtrrfiivai6zhgybqu":["bfoxguile","BfoxGuile"],
+"mmcca3zvdkssgdhzpfnwvsj5":["bflyscribbles","Butterflyscribbles🦋💜"],
+"2qob2zi5t7ddlyndgtfdc6t2":"bftks",
+"h62xlq4psfjh464ukcxykdqy":["bfrancescol","Bruno Francesco de Oliveira"],
+"dvob667swzynyqncqfupc6pv":"bfitzg",
+"v67juon5xpdebpiykqytyxim":["bfg1","Bonnie Fox Garrity "],
+"xirwzwfyv3hgqktppxauymva":"bfurnas",
+"irgh5yo5edhuzitnyye7fwbf":["bfratko","Bill Atkinson"],
+"xfywoqc77aokchp7fu5uaqed":["bffinster","B. F. Finster"]
+}) // 2023-10-29T23:51:56.456Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

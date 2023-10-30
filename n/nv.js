@@ -130,5 +130,11 @@ var nv=(function(jsonp){ if (typeof nv==='function')nv(jsonp); return nv=jsonp }
 "jw5xlzzx2k37b33kwbawdln5":["nvrsettledream","Jen"],
 "kcmjxoktugrzvekl6lmtbfz3":"nvspirit2",
 "smo5hih77xqzi7c7ql2enhms":"nvsbl",
-"memqvto3rty3w3l2ym2bkhxn":["nvsbll","Nvsbl"]
-}) // 2023-10-29T18:17:18.280Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"memqvto3rty3w3l2ym2bkhxn":["nvsbll","Nvsbl"],
+"5ywibx5fpz3gn52ejn3mxodw":["nvzvri","Nazari"],
+"atk2kbi2zqnn6aqswbja4aub":"nvannello",
+"mnvjwteg3g2igchbvqnqksos":["nvondarza","Nicolai von Ondarza"],
+"ma6or3ecjuziibcqexium332":"nvakna",
+"mfrqp46zxecogsuge2qvx7ym":["nvgotd","Non-Violent Game Of The Day"],
+"qs24ctbgjdwdhhmajj6qxb4x":["nvcl347","Nuclear"]
+}) // 2023-10-29T23:40:12.534Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -594,5 +594,22 @@ var dh=(function(jsonp){ if (typeof dh==='function')dh(jsonp); return dh=jsonp }
 "zui7ww6kfkxrelhw3p6v6hzd":["dh-researchhub","Digital Humanities Research Hub"],
 "tlzhvhclg2f4gzwanuq2amjs":["dhoffmann","Dustin Hoffmann"],
 "kyashtcbaa6qoiiz2ukgskbg":"dhoalid",
-"5j3ciuatthfo4z6nu7mvpwkl":["dhaas","Dani Haas"]
-}) // 2023-10-29T21:01:58.481Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5j3ciuatthfo4z6nu7mvpwkl":["dhaas","Dani Haas"],
+"7vo3ghr6urpisft6g5vkuami":"dhalia",
+"recpu6jny75ghyo2ibisrejp":"dhis2",
+"nftio2fkpctraa6yoc3xjrsa":"dhiggins",
+"aptglza2pugxy4nss2aiu2er":["dhambrick63","DHam "],
+"yqt5oa3cduavlwvzvs2mw4q5":["dhoster","Dhoster"],
+"l6dizfc7toydd4qgah5mbu5b":"dhilliedaily",
+"ufrdu3r24ear7vsa7f2qqoda":["dhgm","Dietmar Meier"],
+"ssxzizt7qhw5bfwmwa3hygks":"dhukas",
+"7mvpfhxxudpyoigdaq2wcyop":"dhalim",
+"fsw4mrkrzc5eynqhr6wkjsxs":["dhallback","Daniel Hallbäck"],
+"xkv6rarukunhbf2nvmcc2as6":"dhuddleston",
+"vhcqmhmubxcpwgwlpnsfpfus":"dhaber1",
+"xgroq34fbup7j3z4yfltnwys":["dhdhdjd","sergeant"],
+"u7yc3e4kfaiey463kngnm43t":["dhernaus","dennis hernaus"],
+"7w2xg7gxi34fvmajt2qwrbyc":["dhunnewell","Don Hunnewell"],
+"orpd7wvic4lslzxqjubhlkah":["dhite","D Hite"],
+"5wyjdlarfdw2fnhdltg3ozsn":["dharvsied","Davey H"]
+}) // 2023-10-30T00:00:47.649Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

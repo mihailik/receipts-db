@@ -126,5 +126,7 @@ var ij=(function(jsonp){ if (typeof ij==='function')ij(jsonp); return ij=jsonp }
 "koofdcffgiyuaghh6dogzxm7":["ijpe","@IJpe"],
 "x2iwzbu2nkmyjobicwkywgst":"ijojoba",
 "dcic3sc6hybl2rsn2yx73w5a":["ijusvindrbjorr","IjusVindrBjorr "],
-"u4f7e6disykoa7qmktnkwtkz":["ijsanders","Anthony Sanders"]
-}) // 2023-10-29T20:29:26.416Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"u4f7e6disykoa7qmktnkwtkz":["ijsanders","Anthony Sanders"],
+"4bk3jx764r3tovesrvzovhv7":["iji","iji"],
+"b4olvu5jx7znxtdhsgmcx3x2":["ijdl","International Journal on Digital Libraries"]
+}) // 2023-10-29T22:48:10.362Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

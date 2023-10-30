@@ -212,5 +212,16 @@ var ws=(function(jsonp){ if (typeof ws==='function')ws(jsonp); return ws=jsonp }
 "ls5duk7mxvwnr3sxliyxwceq":["wsnead","Warren Snead"],
 "jdf6zuimbdcoulqfcw7wrl4u":["wskiey","WSKIEY"],
 "dmbgmopaoboqbhdnifwq63wp":"wshull",
-"pnwudxe6jub3fgbdz7m5own2":["wsebag","Will Sebag-Montefiore"]
-}) // 2023-10-29T20:50:04.413Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pnwudxe6jub3fgbdz7m5own2":["wsebag","Will Sebag-Montefiore"],
+"zt52zo2fdqvb5h7qbjou6wxf":["wsr0217","WSR"],
+"iiyeoszjjsjqlljie6aksqbu":["wseeu0x0","茵阿茵阿茵"],
+"5kfuvsz6hv5nm4qs6d4fsn37":"wsb3",
+"rm7d4orhhudtvwphtfuau3bk":["wsts","💙💛"],
+"7btts32knhx5evfca3jys7nh":["wsorg","Walther Sorg"],
+"7hxhv7gd2ydu3miww435z56i":["wsimpsonwrites","Bill Simpson (RockBottle Art)"],
+"tyhqh2tsoulweizktduvp3fe":["wscottcheney","W Scott Cheney"],
+"ticcaqewitvsejr45daioetz":["wsupppa","WSU PPPA"],
+"5wdottqwpzaloetxxfzuyiq2":["wsbdestiny","Destiny King"],
+"o4exzk5kpytvhlsuomd54h42":"wstaplin",
+"i7fhn3sodjzrnlvmjb2dg4lx":"wsoft"
+}) // 2023-10-29T23:57:06.422Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

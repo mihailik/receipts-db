@@ -504,5 +504,26 @@ var cd=(function(jsonp){ if (typeof cd==='function')cd(jsonp); return cd=jsonp }
 "sw4rbo4oohductxd3id4plz7":"cdotsturn",
 "3kx5wtyms2uaf24wzu2qadlh":["cdeneen","Chris Deneen"],
 "uvz7zu7ow4m23f3ffyc7pcz2":["cd1337","CD1337"],
-"htffreegxunrxqd6ms3lynyb":"cdtaylor"
-}) // 2023-10-29T21:04:10.496Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"htffreegxunrxqd6ms3lynyb":"cdtaylor",
+"w4n3ohc7y3nofklt4cwwh5g3":["cdittmer","Cordula Dittmer"],
+"dghs4p5xcomssdp3icxj3khz":"cdnwomenecon",
+"nwa4odhzujb2go2fsbqftdwz":["cdoyle31","chief kyiv"],
+"l37bc233lqt56bpdzsh3rmby":"cdhwatch",
+"ihyj3lww5wqf7sqkogpolj4i":["cdkassotis","Dr. Chris Kassotis"],
+"x63y3n43ryxj43rn7oqxit6l":["cdx-foto","cdx-foto /  Meaisín ceastóireacht"],
+"536ca37didbl4kytrkoiqcho":["cdlime","CD Lime"],
+"jjw7xktzwmcaeflnov57yj4o":["cdse1315","Ennabler"],
+"kjexcq44jb64vprcam7pgaso":"cdef",
+"v66akvnvd36ryw7padhlyjha":"cdpcreations",
+"6qf64tvxhloevewgaiauj3uc":"cdjhy",
+"gky2sx4o3gwridcwpdhqjzk6":["cdotmcnaughton","Candace McNaughton"],
+"y64y3nud4xjk6sb2jez2qrb7":"cdpapas",
+"wis75oill52hvuw4tcmyep4n":["cdeunibe","Centre for Development and Environment CDE, University of Bern"],
+"7ognfgpfg2l3nrg64avp5rqb":["cdbdc","Christophe de Baré"],
+"g7rkr7lgupt4anp6dfz4sspp":["cdcrabtree","Charles Crabtree 🇺🇦"],
+"xhdpzkudia3v3pdgec4qh3pv":["cdpeck","CD 💿"],
+"wdoo3u7elxzixwekrshampbx":["cdroman","Cameron Roman"],
+"xebznlgfwyjooav5lhecfk6j":"cdunn",
+"jwwhwuk2shyoeabhh7e6o6zd":"cdubsonline",
+"lz2ngwonwor7mp4oznbx7wxv":"cdotbabby10"
+}) // 2023-10-29T23:51:56.195Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

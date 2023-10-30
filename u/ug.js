@@ -308,5 +308,15 @@ var ug=(function(jsonp){ if (typeof ug==='function')ug(jsonp); return ug=jsonp }
 "jrphqkjrikwu64sjgxmhwwl4":["ugenio","u_Genio"],
 "oiztjs3gdk7u7p24itpyo7hk":"uggy73",
 "vlezn4cbt4ges6hqogghtlpk":["uglymonsters","Ugly Monsters / Rumat Möröt"],
-"liwlsxmngweop6q57czwe6ja":["ugxwolf","UGXwolf"]
-}) // 2023-10-29T20:58:57.260Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"liwlsxmngweop6q57czwe6ja":["ugxwolf","UGXwolf"],
+"qp6nncygtpnrqnwswn6ytr37":"ughugh",
+"gey57dllzsd7k5nkqujzcmdr":["ugelsen","Ulrich Gelsen"],
+"5m5u7lssxz6rppas75ssqh4c":["ugschulze","Uwe-Gunther Schulze"],
+"b4o6qcixvuy6zturz3364f35":["uguraytac","Uğur Aytaç"],
+"psy3fldgrmjosrmzenfv6u4o":["uglybabysoup","ceo of stinky"],
+"r37ydwlqxrnjikvtallcxvmh":["uglybarn58","UglyBarn58"],
+"perzxdxkwovgsrn7nhfjvsbl":["ugokushigai","雨獄・×・いーぶいず"],
+"c7nekz32m46e2snwtxs4jruw":["uglogowsky","Ulrich Glogowsky "],
+"hgwpj5c4l5n56nc5wpxksocp":["ughitsdonna","Donna 🖤"],
+"xal7prt66ftfmbhftn4gijrp":"ugrcn"
+}) // 2023-10-29T23:38:03.818Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

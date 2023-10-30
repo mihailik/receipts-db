@@ -176,5 +176,12 @@ var kf=(function(jsonp){ if (typeof kf==='function')kf(jsonp); return kf=jsonp }
 "mj5idmgi4g5cftji5sve7w3g":["kfergusonwrites","Kristi Ferguson"],
 "udhxmipwxpfncqnwj7fiq4pg":"kfierro42",
 "dmvp7btjbbharylfhsyaopdi":"kfoc",
-"pnwbgh55hqfgpy6ge5ajjp4w":["kfaosterreich","KFA Österreich 🇰🇵🤝🇦🇹"]
-}) // 2023-10-29T20:18:35.067Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pnwbgh55hqfgpy6ge5ajjp4w":["kfaosterreich","KFA Österreich 🇰🇵🤝🇦🇹"],
+"cpomui55d3qnm5y3ovogeegr":["kfmw","Ronny Kraak"],
+"z5w62dlt5pbejvjnygf7yzhw":"kfara1",
+"w52xj7d72aqmzzkvmwszijqe":["kfrenzel","Korbinian Frenzel"],
+"ksxjr2y5csxczaz32qjiwxtf":"kflogood",
+"l542u6ysu2etbuf4mwkt3fpk":"kfrino",
+"hxbakddp7ykjqxsau4tvnmbx":["kfrombk","K"],
+"a6ifku4v4q2ngksyhwz3njp3":["kfforde","Katie Fforde"]
+}) // 2023-10-29T23:08:52.866Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

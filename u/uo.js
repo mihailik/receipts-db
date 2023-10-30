@@ -79,5 +79,8 @@ var uo=(function(jsonp){ if (typeof uo==='function')uo(jsonp); return uo=jsonp }
 "kwbgqbvs7md4philkjq5l7xq":["uone","U1"],
 "jdbrbr6ohd6phqlctwlh5sl2":["uofilsystem","University of Illinois System"],
 "nntsp7ee4j3k4tl5uvvku2rl":["uohyo","うみれ"],
-"2vnmgpetdox5bqphttpuxykj":["uoahqq","탸"]
-}) // 2023-10-29T20:56:36.818Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2vnmgpetdox5bqphttpuxykj":["uoahqq","탸"],
+"aditndi6cqubb5r4cvrtnnkj":["uolpress","University of London Press"],
+"3xqoq2wxkmocxyqk3qlpas2r":"uofohumanap",
+"gxskt4cbcend6vqcy7nkbez2":["uobrishistory","Historians @ Bristol"]
+}) // 2023-10-29T22:35:36.014Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

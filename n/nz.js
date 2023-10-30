@@ -125,5 +125,8 @@ var nz=(function(jsonp){ if (typeof nz==='function')nz(jsonp); return nz=jsonp }
 "k6rxv2hi3pfdtkaa5wirnlgw":["nzbatman","Ben Paris "],
 "fqtcbeuqxxun7sd4juhpx2jr":["nzau1984","Über Lemelin"],
 "gmpddtapt2r6owu45i2zl4iv":"nzdroid",
-"awsud74zz33ayk7d36qik6v2":["nzeru","Nzeru Aquilar Nsaí "]
-}) // 2023-10-29T20:41:51.738Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"awsud74zz33ayk7d36qik6v2":["nzeru","Nzeru Aquilar Nsaí "],
+"yqu6cfq3n2yqdeyudhtccbxk":["nznationalparty","NZ National Parody "],
+"dlgmur75nvxksyxqwlbib3y7":["nzmattb","Matt Bron"],
+"e7qgbjaipktcw73citsoqqmw":["nzgkf6","焼きそばパン"]
+}) // 2023-10-29T22:04:28.359Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

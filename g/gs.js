@@ -345,5 +345,16 @@ var gs=(function(jsonp){ if (typeof gs==='function')gs(jsonp); return gs=jsonp }
 "dtcj2avyrblfpqmzjbmnsrdb":["gsflairarcorde1","PierreHB84"],
 "4mhpmptgxz3niwjk5trzperz":["gstra","Gabriele Trapp"],
 "jmmr6o6i4ppflkcxbt5cipm2":["gsberlinev","Gesellschaftsspiele e.V."],
-"lu2xrydeqppogwcncybc5dfk":["gsides","G Sides"]
-}) // 2023-10-29T20:25:30.501Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lu2xrydeqppogwcncybc5dfk":["gsides","G Sides"],
+"xawfiqozveydnoeueztxj2hh":["gstyle77","Prosecco Proletarian"],
+"hwqfperkzbz6jqikabtiblob":["gsvetits","Günther Svetits"],
+"mro565jlwrkslpmijpv2iiqc":["gschaumann","gschaumann"],
+"bf3hwgpg4vsa2uyvch7niv7q":["gscheiring","Gabor Scheiring"],
+"a6g7w7we3dajmvkfapwfyjpa":"gsh-oberhausen",
+"zf5jglnztlmkbilburx6ho5n":"gselser",
+"mwxhkkhuy5pcthus7u2o5cd4":"gsummerlin",
+"hd4woxviblw5b3cbdgkf7siq":["gsoveral","Graça Soveral"],
+"sabntq647wpdcbexlophbebb":"gsena",
+"kvnexstdbiw62au6vsmi7xsa":["gsodikoff","Genese Sodikoff"],
+"w3vjtksfdbeliwnpfllaxkpl":"gsolubo"
+}) // 2023-10-29T23:53:24.769Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

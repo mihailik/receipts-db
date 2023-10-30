@@ -188,5 +188,12 @@ var hk=(function(jsonp){ if (typeof hk==='function')hk(jsonp); return hk=jsonp }
 "sgsy6v67copkm5mx25n342xd":["hkc-no","Hong Kong Committee in Norway"],
 "imf3wj3rn7vofsmgrovi2bla":["hkwissenschaft","Maho"],
 "2kamyh2c2ym3vezkmylbilvw":["hkw1981","Hazel Wright"],
-"atiw27liy47fyp35yv3l6g64":["hkrinkle","Henry Krinkle"]
-}) // 2023-10-29T20:46:32.485Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"atiw27liy47fyp35yv3l6g64":["hkrinkle","Henry Krinkle"],
+"5iexbwlbxrbjpkup5utrb4ml":["hkhw","Hkhw #wirsindmehr 🇺🇦🇩🇪🏴‍☠️🇪🇺🌈💚"],
+"cyczqfgrb2mtmdaaewd7vj33":["hkmark","Mark"],
+"ldnajmpwkv6wjcwgvij4i2ia":["hktonky","hktonky"],
+"cwlzf3ruxy2w7aeh5bws4wrf":"hktsunagetemiru",
+"zdix6dfbam7pxa6y2hoaqdu3":["hk.kapper.net","Harald Kapper"],
+"jnm2xfkuhq3efoxzrf6drglh":["hkmkh","Hk"],
+"wt2tfyjwqvz7sbxp76ltyxni":["hkbryer","Helen Bryer"]
+}) // 2023-10-29T23:38:03.679Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

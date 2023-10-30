@@ -101,5 +101,13 @@ var yl=(function(jsonp){ if (typeof yl==='function')yl(jsonp); return yl=jsonp }
 "wvxlgma2uf32iac4cby73edh":"yland",
 "nkjqc5sectllpxcrjmnmzp4j":["ylva-pup","Ylva-Pup"],
 "igmdtcfssgwtqg227hrtovch":["yllaozuwu69","eiji 🪷"],
-"o6erlw4e4nsrdfeq2ac7tdyx":["ylimegrebneerg","emily (brian daboll's version)"]
-}) // 2023-10-29T20:58:57.212Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"o6erlw4e4nsrdfeq2ac7tdyx":["ylimegrebneerg","emily (brian daboll's version)"],
+"pa47uerbliqbfguxekzt3kn3":["ylebout","Yann Lebout"],
+"copysj7tzdthgbjnvdboswsn":["ylldre","andre goes hard"],
+"rchdfoppqghz32nprmj7c4ew":["ylissean","Ylissean"],
+"timvyk2jjpw4rcqc27ifrxt6":["yleven","Yle"],
+"dau4lqlf2uyholnsjbhjthxk":["ylw-absurdity","The Absurdity of it all"],
+"ydofoxjmiavmtvk24yvwuhsd":["ylvapyla","Ylvapylva"],
+"j2pxuigx2rwcmxc5jjudseiu":"yleee",
+"jxp6bcinbjtpgyyrxq2wlnl6":["ylpmis","Ylpmis"]
+}) // 2023-10-29T23:41:38.400Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

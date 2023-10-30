@@ -327,5 +327,15 @@ var uk=(function(jsonp){ if (typeof uk==='function')uk(jsonp); return uk=jsonp }
 "pnvujuiajabxsgccjc6dux4o":["ukrainewillwin","UkraineWillWin ✊🇮🇱 🇺🇦"],
 "fecz5v2iqaiyvifquputmwmz":["ukskies","Dante"],
 "zojwoorbkeekgyayr5d436oz":["ukrindeu","Ukrainisches Institut in Deutschland"],
-"gx46xidvtjfaqrex3dyn2wgr":"ukimipyon"
-}) // 2023-10-29T21:04:10.414Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"gx46xidvtjfaqrex3dyn2wgr":"ukimipyon",
+"6eb5fgf54j7e6t6gkwg4dm25":"ukropochka",
+"5jgoo456md2ot2cmwas2kgpz":["ukflrbq","Vladyslav Hladkyi"],
+"ribs3hmriemjmphtbjeetqv7":["ukuwa-station","Ukuwa Station"],
+"exou6cmlicscpg4inritrox4":["ukrainiansurvi1","Ukrainian survivor"],
+"rzfiux5pcbjyxvikozvnzk3b":["ukemelee","uke"],
+"ykqdixwn7a2l7ekpc3ief477":"ukgeologist",
+"elaknh7kzj2s7gad3gyh6vui":["ukabdldaddy","Ukabdllondondaddy"],
+"u33kagyfyxzgsr3c237rpigh":["ukraetzer","Ulrich Kraetzer"],
+"6iqxfhgm4rkgtsagg5m2tmur":"ukinus",
+"aadfq3ivzjtb5y2oi6c37f6d":["ukrainadon","Справжня Українка"]
+}) // 2023-10-29T23:55:38.079Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

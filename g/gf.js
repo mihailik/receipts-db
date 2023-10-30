@@ -154,5 +154,17 @@ var gf=(function(jsonp){ if (typeof gf==='function')gf(jsonp); return gf=jsonp }
 "ssrtlt7pym656ozqk4rb4odt":["gfloridi","Ginevra Floridi"],
 "yukhcyf37itiz774f4zj5ig2":["gfmaterialpod","Girlfriend Material Podcast"],
 "gxfp2ko2ta4awaigselnxyeb":["gfitz","Gerard Fitzgerald"],
-"cvuql5imbikzds7gih5nkpur":"gfullerton43"
-}) // 2023-10-29T21:01:58.344Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"cvuql5imbikzds7gih5nkpur":"gfullerton43",
+"j5naorw24u7zuq3cr6bf7yhd":["gfoerste","Geoffrey F."],
+"c5jfohwjgeoyn6snas3rsdg7":["gfeske.futuremadein.eu","Giuseppe Feske"],
+"sskelb4yv6sdbuq42gcq2iey":"gfififi",
+"3jqkzo3mtuhskxmbhq2kdcx3":["gfk-eagle","GFK-Eagle"],
+"7igznywwdqkarznjtm73lmjc":["gfoa-w","gruppe für organisierten antifaschismus wien"],
+"mcfxmzykrmhnwgrphehp3eho":["gfisch2000","Georg Fischer"],
+"qakhkskybgtj4birizlwa2pp":"gfreak",
+"muipw3y4glubchhk42njpj25":"gf34",
+"wijivzalu332q7qjnlhpnxma":"gfp73",
+"m4buhimvo423xeg42xksc6sy":["gfats","GFATS"],
+"i5q7k7zyuawoegzylmhdfgl6":"gforceworkit",
+"hd5yyn77oylkvchxriaakfcr":["gfel","Fel AKA Hino"]
+}) // 2023-10-29T23:53:24.743Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

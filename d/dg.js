@@ -363,5 +363,20 @@ var dg=(function(jsonp){ if (typeof dg==='function')dg(jsonp); return dg=jsonp }
 "4h7sthxbrsolmssbhbwas6om":["dgottleib","Danny Gottleib"],
 "axzqjqlb2nx5tuwjildpj6rb":"dgarcia",
 "qtmfdqtswexhcgtr7md5guh4":["dgrey","Darren Grey"],
-"cvxtqddaw3eljihxdlnjngyu":["dgoicocheap","Daniel Goicochea"]
-}) // 2023-10-29T20:45:02.794Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"cvxtqddaw3eljihxdlnjngyu":["dgoicocheap","Daniel Goicochea"],
+"3hnk6tbvvds5uk2btdcbf7lb":["dgstoronto","David Simmons"],
+"mtpw36phgg73ap66cbgkwrak":"dgordonwinder",
+"jzxkb4xyhunts4mgqtfyjdny":"dgdoorstep",
+"a36ydbutqojyelsk64bzxvw6":"dgalcoop",
+"ugm2qkb6vtb6yezed4qhazg3":["dggalindo","David Galán Galindo"],
+"fcsrhuacg6xbtbsu5s4qybry":["dgbhamburg","DGB Hamburg"],
+"z4dgmtb5m4xkui44ohze75fu":["dgb.de","Deutscher Gewerkschaftsbund (DGB)"],
+"64ndop75thpej4pgyji3ufen":"dgbvb09",
+"jhvybmnpdv5jqr42ccxfbr2q":["dgarflewis","David Lewis"],
+"7dh56aamcmuc2qmlus6e5psp":["dgk1010","黑斑魚皮"],
+"wfbxt75omimhfdmhs34zb7jk":["dgant","Dan Gant"],
+"mnpt7achjwwbm34p4zhimgo2":["dgdw","Derek Weber"],
+"gimyaldhdhcgvwqwvvuhr56q":["dgraizbord","Diana Graizbord"],
+"ey556pn2zjqsgmzh5o4fiue3":"dgclsho",
+"3fkoc5e6j73jjmcu4xgujiey":["dgoldsteinvo","Goldie (he/him)"]
+}) // 2023-10-29T23:57:06.321Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

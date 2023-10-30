@@ -430,5 +430,15 @@ var rc=(function(jsonp){ if (typeof rc==='function')rc(jsonp); return rc=jsonp }
 "dhte5ed64hnh4bus5wgltakg":["rc-reding","Carlos Reding"],
 "clbwlllgxzr7pyjh5pal23z6":["rcovelli","Roberta Covelli"],
 "y3whzwssa6qh6hhaxbigroks":["rchinaberr","Robin H."],
-"jtdeasq324gcozr3dtomcx47":"rckitty18"
-}) // 2023-10-29T20:48:36.215Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jtdeasq324gcozr3dtomcx47":"rckitty18",
+"phtyktxbxddfv3d3zguqvrdz":["rcarmstrong","r.c. armstrong"],
+"eivxhe64ankrmvu3pl2kxu52":["rcfravel","RC Fravel"],
+"54bagzjq7dsb4yegohw4ow3x":["rconboy","The Cheese"],
+"uwybw5yn66td74q2qauvo3hj":["rchrad","Richard Minkus"],
+"4hh7ky3mjcb6qfwu3odvfctb":["rcvolvcr-ocelot","ocelot ❗ no 6.5 spoilers until 10/17"],
+"uy2nwojawkkpstuug2sifokf":["rchrisskinner","R. Chris Skinner"],
+"3efn3xqz7pqy2q5y2rgximcd":"rckitty10",
+"snli6d4j52kv4eo34tlyc5wb":["rcregalstarfire","Cheryl Marshall"],
+"t6akg5if3lbifu7ejfi5sazj":"rcwht",
+"4xzlywsrvpspeenldjyhwbhd":["rcruelhart","Reece "]
+}) // 2023-10-29T23:32:50.695Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

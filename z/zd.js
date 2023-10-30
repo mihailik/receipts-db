@@ -96,5 +96,13 @@ var zd=(function(jsonp){ if (typeof zd==='function')zd(jsonp); return zd=jsonp }
 "wgskgrjkqsxz4ckqoyrbpkma":["zdrag","Zer"],
 "r5xte24vk3z3ggxmbcy5c6ut":"zdep",
 "tjqek5iiroeh3rpcvigytjx2":["zdraxen","Zy"],
-"fvvywmydw6b25e74czyn3nhh":["zdayalycia","K"]
-}) // 2023-10-29T20:50:04.694Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fvvywmydw6b25e74czyn3nhh":["zdayalycia","K"],
+"xz6aza4srg4fwep7gwfqp55n":["zdoodlez","✨Zee✨"],
+"3ohjbcl4ux4w7yomtkrl5nes":["zds0","Jari Juslin "],
+"4xboi7sabhrqj7jirlrw66e3":"zdn0",
+"5ar5obi65a3hzdhligmex74b":"zdyeates",
+"3v5tay4igzrsoek33m47gn5b":"zde",
+"eag7kbo73p3zowaywt2vq7ji":["zdfmagazin","ZDF Magazin Royale (unofficial)"],
+"opedqjjukpne3wyysbinuutr":["zdenekklouda74","Zdeněk K"],
+"k3nghmeueizr54gp674zprok":"zdlawrence"
+}) // 2023-10-29T23:43:03.729Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

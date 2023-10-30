@@ -155,5 +155,17 @@ var uw=(function(jsonp){ if (typeof uw==='function')uw(jsonp); return uw=jsonp }
 "oxf5ohvbq6jhynrrqhsajgph":["uwglobalcollege","UWinnipeg Global College"],
 "c7ev7y3vglyzq3jfglfx2omf":["uwunom","nom"],
 "s4rqw7nkujyucvczyb5ouezg":["uwelutz","Uwe"],
-"c3qr2cnajk3ngxvuqn7tegk2":["uwaful","Yuaning"]
-}) // 2023-10-29T20:56:36.809Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"c3qr2cnajk3ngxvuqn7tegk2":["uwaful","Yuaning"],
+"zxe3jsxe2nhyn2wrxhgyppjl":["uwu.noxxians.com","Noxxi UwU"],
+"vyobkjulro4amzbnbusyvwqb":"uwmadisonneep",
+"4bwmm57ejcy4x7cyb4673ra3":"uwes",
+"f4k7rfhjpfakc5acnada4yet":["uwerumberg","Herr Superintendentin"],
+"v4cqzty4fly33p6mg4m2ufoj":["uwutang","Sadie ' I <3 Eating Pussy ' mudpuppy-Undertale"],
+"yvl74nj4griap4q3tohwonen":["uwuber","roxy"],
+"ls36rtea65c26zyxxri4zll2":["uwkts","meli🌱"],
+"yzy6jjq7fljuyqou5neqdqj6":["uwuneuhaus","uwu neuhaus"],
+"jno74f5amn77jgphehm4dwcr":["uwetomasi","Uwe Tomasi"],
+"6yxz343f4bywli6sg3fqtsr2":["uwet-bln","UweT_bln"],
+"2zy6h3cdexi2g6zk4p7unsz2":"uwubonkey",
+"vvvyjinquw3quhblgcyj62ub":["uwuditzy","DitzyUwU"]
+}) // 2023-10-29T23:46:40.551Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

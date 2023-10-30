@@ -172,5 +172,12 @@ var wl=(function(jsonp){ if (typeof wl==='function')wl(jsonp); return wl=jsonp }
 "pufhx2k24brb4laqw6ffzxqq":["wlop","WLOP"],
 "ocii6pix76ve7mv7qyfyf2qb":["wlmd","WLMD TMPLMN"],
 "buasvej6ayb4kzvqwoz6ueia":["wlie","WL_MD"],
-"2att26fugludo33w5glotioe":["wladmyro","WladMyro"]
-}) // 2023-10-29T20:46:32.305Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2att26fugludo33w5glotioe":["wladmyro","WladMyro"],
+"lr6zltgjm2obey2gsbpee4wi":["wlkrtm","Wlkrtm"],
+"272zvichmvrcsalcwlbslse4":["wlkstnhgn","Wstnhgn"],
+"cm7aeukn5iy2gx3z7bmd5ey3":["wlamington","Henry "],
+"aheuv5i7byhvdfjecaln2siw":["wldmtngoat","Jael (she/her)"],
+"jpoc7yvuxjteya2rry22ph7m":["wll2k","Ivo W."],
+"hpunoym24ql47od6tqsf5wvn":"wladigot1ball",
+"aa6aztwrtxeyyy2ypc6d2gih":["wlupress","Wilfrid Laurier University Press"]
+}) // 2023-10-29T23:17:10.360Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

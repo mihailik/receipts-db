@@ -396,5 +396,20 @@ var rr=(function(jsonp){ if (typeof rr==='function')rr(jsonp); return rr=jsonp }
 "j4ewu77mu4fpvuthy4wphaib":"rrhodes",
 "lhem56tdp6p2zydikmqn33ic":["rriotzine","Kiri Zine"],
 "x6m7z2g2zx73zmn64alphgdi":["rreach76","Ruby"],
-"bebuedgyfs6vn5pq5axvv4dd":["rrerrptile","Rambunctious Reptile"]
-}) // 2023-10-29T20:53:39.297Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bebuedgyfs6vn5pq5axvv4dd":["rrerrptile","Rambunctious Reptile"],
+"a2obpqnnov64m6nvtaipkcnu":["rrrowlf","rowlf"],
+"6l3zp7or4zejkmryxnwjuctd":"rr9",
+"npdcyudhtujho5hqyl5opvy3":["rraindl","Robert Raindl"],
+"fgyxhvtzcuqwx7idpuhdgf3b":"rrrrrrren",
+"fghectqsgjm7mspi6rryn7zk":["rrrmayo","Calcetines rosas"],
+"uvdbve5hipahapdzkarbqf3q":["rroan","roan !"],
+"nhtafcfueic4eibq4hplai3q":["rrmche","🐇"],
+"wfvjpymt6ftabkvtajddbedu":["rrcwisskomm","Rhine Ruhr Center for Science Communication Research (RRC)"],
+"424nbkr4fxkisep5xyst3x22":"rrebase",
+"pnsutgkw6vuvnzutmvy3rdr4":["r-rova","R-Rova"],
+"xzfpoah266olpzkdfqnidsty":["rrrrroseazerty","Rrrrrose Azerty 👀"],
+"td5jmcokmu3gtfzmskrorl7x":["rreichstadt","Rudy Reichstadt"],
+"mqupg7vuxrwjasuw76eny3sb":"rrloganlloyd",
+"n6uycif5xw6qgeiq3yyv625s":["rrpcreativity","Dr. Roni Reiter-Palmon"],
+"3piupimu5idtm6b3ap3hf232":["rrinjapan","Ryan Richardson"]
+}) // 2023-10-30T00:00:47.407Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

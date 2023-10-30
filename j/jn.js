@@ -420,5 +420,13 @@ var jn=(function(jsonp){ if (typeof jn==='function')jn(jsonp); return jn=jsonp }
 "6nw6wtsdplg4qrpelqcptcbr":"jnas",
 "xnyaset5i6x3bo62ia6kotnm":"jnebulous",
 "dfzzkq3njb7dordn7zjmqng2":"jnac14",
-"b5awwakr6spy4tdi4h36wanx":["jnelsonphd","Jimmy Nelson Ph.D."]
-}) // 2023-10-29T21:04:09.651Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"b5awwakr6spy4tdi4h36wanx":["jnelsonphd","Jimmy Nelson Ph.D."],
+"mafy6i564e4l3kfln4b4ihyh":"jnimczik",
+"4q6u3cj4qa4p3viwyk4jebgx":"jnike93",
+"5r6hddwfvwr3arrlg75vewyq":["jnachtigall","JNachtigall"],
+"z555zs3l7qpyldmb2aohy7xq":["jnkrtwn","atlas 💫"],
+"cbijfp3k2ku45tdi2kjc4wvp":["jnalanko","Jarno N. Alanko"],
+"ku3bicao3hlgyvm2lrzvotlf":"jnsbsky",
+"ob7e7xwxiwa6bql3rkdavgld":["j-nix","it_is_right_to_rebel"],
+"ohkfyelukbwfreonuslsnbn4":"jnhutch"
+}) // 2023-10-29T23:38:03.537Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

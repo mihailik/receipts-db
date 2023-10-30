@@ -241,5 +241,11 @@ var tf=(function(jsonp){ if (typeof tf==='function')tf(jsonp); return tf=jsonp }
 "xhfbxxlu5ymbk7fuwxgeivw4":["tflat","Misty"],
 "v7p3dmwfh24ybvakcw32hr6j":["tfcuantica","Quantum"],
 "bon3fsd2fykavugznsgyna7e":["tffoesterreich","Teachers For Future Österreich"],
-"co3fm2hm4f3qbwwov753kz2i":["tfs","Tobias Sauer"]
-}) // 2023-10-29T20:50:04.678Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"co3fm2hm4f3qbwwov753kz2i":["tfs","Tobias Sauer"],
+"nor6unk4trmhrzreefrbqe2p":"tfoster",
+"izepsizp3tiazynutiuewrig":["tfpodblog","TausendFreunde"],
+"lqpowyoibl5xedw4aja4helk":"tfrlynn",
+"fiqml5nbvjfugwjipxlz2635":["tfannynob","Tiffany"],
+"f2knujlcv3ribeepq4g3qxd6":"tf2sfm",
+"5tt2ul36jytfy3sua3hgboma":"tfj"
+}) // 2023-10-29T23:26:18.662Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

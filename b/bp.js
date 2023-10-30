@@ -260,5 +260,17 @@ var bp=(function(jsonp){ if (typeof bp==='function')bp(jsonp); return bp=jsonp }
 "6x7xnvyzopf7z33aunox4ced":["bpod","bpod"],
 "hbql2nqwc7ci4fmannzffy4z":["bpcast","BPCast o Podcast do Boletim do Paddock "],
 "2r73dfpsakoabtbyzpx5e6h3":["bpiotrowska","Barbara Piotrowska"],
-"zcfxfvi3tshmjiltpuigcova":["bpdelisle","brian_delisle"]
-}) // 2023-10-29T20:56:36.660Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zcfxfvi3tshmjiltpuigcova":["bpdelisle","brian_delisle"],
+"gt7d2awyttinalnyu2ga76mz":["bpqld","袴田"],
+"sztlbrdq5acfxt6rpy7t4m53":["bpinar","pınar özdemir"],
+"bpkskznkpcfuz66tzagev2jp":"bpsstudent",
+"pttux4noajvth3jvwspffwm5":["bpjobin","Bruno-Pierre Jobin"],
+"mae4rsklylx4oysxtxwdda7w":"bpupkin",
+"27auvyctmit2k3zkhuzeqcsd":"bpafzmk",
+"cquojyeedg6iqhoy7ymlphoz":"bpawesome",
+"jqhwgjzfhggswnvxtqotkfi2":["bpobjie","Ben Pobjie"],
+"hpoqqbpdwkoslq672p6yw3sn":["bpoppmadsen","Benjamin Ask Popp-Madsen"],
+"q4mtv32e2io6rxl7irgdtewa":"bpace",
+"zfxg73nnnccd5y4pdxelu2hx":"bpmangan",
+"s633xqkreh4xob7msy56apk4":["bp495","판다곰"]
+}) // 2023-10-30T00:00:47.756Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

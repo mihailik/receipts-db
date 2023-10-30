@@ -46,5 +46,7 @@ var yj=(function(jsonp){ if (typeof yj==='function')yj(jsonp); return yj=jsonp }
 "vu72ezkhyqe4njvew3lgj2zf":["yjh99s","대리인 T"],
 "6xzup2uahfiht2k5fqqy5y2p":"yjones",
 "kgr4vxjpcdynec7adcg724us":["yjl","Young John Larriva"],
-"lkj522skyxqmolk4j5b6zw3d":["yjs","Jörg"]
-}) // 2023-10-29T19:15:59.605Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lkj522skyxqmolk4j5b6zw3d":["yjs","Jörg"],
+"omnbyxmcmuuk66gdmc5aixgv":["yjb","YJB"],
+"5gx6ah2yvr4ay2gizaqr2yp3":["yjhannibal1004","vanessa :)) "]
+}) // 2023-10-29T23:35:08.890Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

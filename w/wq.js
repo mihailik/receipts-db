@@ -8,5 +8,6 @@ var wq=(function(jsonp){ if (typeof wq==='function')wq(jsonp); return wq=jsonp }
 "3a5ix7baipytfvb6gurj7u4w":["wqe1213","황산군리"],
 "bzdet6a3gngkm44htomz4eky":["wqoq","wqoq"],
 "6wvvwpg3xqgdn73qloxd6m66":"wqretyii",
-"lpswrla3dedwmohzknjmwltw":["wqtoff","kравлик"]
-}) // 2023-10-28T11:54:01.491Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lpswrla3dedwmohzknjmwltw":["wqtoff","kравлик"],
+"35gun6fpwytpm3pg7eyxu5g6":["wqsneedles","Ally🐇🫧"]
+}) // 2023-10-29T22:49:36.310Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -139,5 +139,13 @@ var hg=(function(jsonp){ if (typeof hg==='function')hg(jsonp); return hg=jsonp }
 "lmdntyp547aqtdmqg3n7dnrc":"hgforeal",
 "ub6cezbo7clxtcdg5dt7ud3k":["hgmasters","H.G. Masters"],
 "h2am5jyyckytlq3whtgibxzk":["hghxk","🕊도로볕☽ﾟ⋆☆"],
-"pmcolh2rwu23mkmw5n6as53u":"hgbae"
-}) // 2023-10-29T20:46:32.143Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pmcolh2rwu23mkmw5n6as53u":"hgbae",
+"jmnawgflto3ufjrut5aj7jbn":["hgnausgeist","HGNausGeist"],
+"7esw2cyo7b4qfom6xg6ztpjj":["hgwdavie","H.G.W. Davie"],
+"pob6gk5qwymh76m3eufvbx54":["hgchimera","HG "],
+"qqiruu53evlzvlexscqtpnyd":["hgnom","하가놈"],
+"kztuz3mrhlsdec7es4gvh6jk":["hgn","Hagen Biewer "],
+"ops5766qsoza2cvh56owyvgt":["hgb","Heather_the_Lexi"],
+"mg4acnxj7wls5725uxntnymm":["hgcresearchcentre","Heritage for Global Challenges Research Centre"],
+"dlsoafnr7yh4zedzxqopta27":"hgg4"
+}) // 2023-10-29T23:41:38.533Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

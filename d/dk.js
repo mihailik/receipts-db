@@ -387,5 +387,24 @@ var dk=(function(jsonp){ if (typeof dk==='function')dk(jsonp); return dk=jsonp }
 "t3ab7a36wqfxzo3z4xxxbmaz":["dkbworks","도깨비웍스"],
 "mfcjwmaslyvpiibryubbvfpg":["dknicss","Dunkii está perdido. #TLTED | #QSMP🇧🇷"],
 "3uwqakchrxzcjienxjjgoxir":["dkoopen","Daan"],
-"azdpu347x6tfh72qgza3l6uf":["dkbkhell","dkbk hell"]
-}) // 2023-10-29T20:56:36.680Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"azdpu347x6tfh72qgza3l6uf":["dkbkhell","dkbk hell"],
+"peekiisriow4n52ymujvjgi6":["dkachelriess","Daniel Kachelriess"],
+"q3nmuszbqleko7qm7qwybred":["dklawhorn","D.K. Lawhorn "],
+"5b7svgi2vxzhgwko3za3hslk":["dkuchenbuch","David Kuchenbuch"],
+"co6yf37n5ab2jtkb52vuivbs":["dktrueno","D.K. Trueno"],
+"s7wtuvlha2gfx3tb5gbjb54i":["dklilien","Bifroest "],
+"a3tn6dkblnsu334jvo6ufldr":["dkienzler","Daniel Kienzler "],
+"jjvtzztyp46q7pammr62jbye":["dkhw","Deutsches Kinderhilfswerk"],
+"mmysngu6nigylz2xffd7qlo3":["dkraehmer","Daniel Krähmer"],
+"5d6ohwnrds2lgrzmdb74sumq":["dkshadow73","DKshadow73"],
+"kadei2c5rkf6aa76b42v34fd":"dkbrew",
+"amqdu7xmoicbqu36q24ffht6":["dkroh","Dokiroh"],
+"whzts5avh5aimo6fml6gijpu":"dk-bakes",
+"qvkjvvumqkpm6wqt3sfwpjrx":["dkfrter","Dkfrster"],
+"k5y7vkw4p3rdxg7umt3edgpl":"dkryak",
+"2mvshvltqyacwagy3wrzshth":"dknudsen",
+"euomfhrthlqp4ja4ud55ijfz":["dkavanagh","David K"],
+"hm5gwfo7dwmfow5kr7gv2fny":["dknowles","David Knowles "],
+"6cekzexppb76wuevjxzipu5j":["dkergo","Denise Kergo"],
+"r2jrnj7ehhvjdgsmc37zjzb3":"dk3ml"
+}) // 2023-10-29T23:41:38.517Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

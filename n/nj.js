@@ -227,5 +227,10 @@ var nj=(function(jsonp){ if (typeof nj==='function')nj(jsonp); return nj=jsonp }
 "cs4kfnid7l4pqcpc6n776fh6":["njg330","Nick Grubb"],
 "gw4uckaqnjcahzamvgvk3eep":"njcraan",
 "al44bov2a4bgvhar3z2ocmze":["njgso.org","New Jersey Gamer Symphony Orchestra"],
-"7o7qt6saaden7fl3oghnblx3":["njem4010","NJEM"]
-}) // 2023-10-29T20:58:56.714Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7o7qt6saaden7fl3oghnblx3":["njem4010","NJEM"],
+"awknxezueyvdcq7mcsgme2xx":"njmac",
+"ncjnjkbm3jk5bxn5doelpnro":["njstelzner","Nate Stelzner"],
+"iuyhco7u6wg5sqccloxlnxel":"njulius",
+"3tiktah4hrf3yoxvimtnwm3j":"njnothingman",
+"wh2ntuv4dxkmrfnqrcftlxkz":"njos"
+}) // 2023-10-29T23:03:48.917Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

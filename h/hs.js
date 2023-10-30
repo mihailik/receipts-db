@@ -354,5 +354,15 @@ var hs=(function(jsonp){ if (typeof hs==='function')hs(jsonp); return hs=jsonp }
 "6crzjoy4vjsy3m7y2sgxm55k":["hschaefs","Prof. Hans Schäfers"],
 "zxdl75ysy4mfug2gwgcmvxmx":["hstylez","HStylez "],
 "hyhzuemmkzillkdgcvgnq3wr":["hss2","홍"],
-"z3tixz7cqgxxoz4aqhqi3zin":["hstdt","Lord Eisendieter"]
-}) // 2023-10-29T20:45:02.924Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"z3tixz7cqgxxoz4aqhqi3zin":["hstdt","Lord Eisendieter"],
+"k2lc34pyznaaicoajadpbxvm":["hsvvon1896ev","Fanabteilung H96 e.V."],
+"46hlpr5ybflkxl3v3f6uwt3c":"hschmidt",
+"tx3mrcqq6op554uu6wvwiy3n":["hsanti","Santi 🎃 サンティ"],
+"cflwmcgmeotdxrpsl2fwxgcz":["hschmidthh","Hansjörg Schmidt"],
+"6ofaqdqd4zfqqdfsmlaqddlx":"hsmckay",
+"ho7hyueqj4jrnrvfz7dkrbrs":["hsharoncarter","Haley Carter"],
+"g7qajn2kolhsms4fw6uz4wh2":["hsun","Nick"],
+"n6fjxkenhyb432cm7q7n3ulh":["hsgiaever","Henrik Giæver"],
+"ittloy7vdhueqgkijonfoy4b":["hsulli","Heather Sullivan"],
+"tnoyx6vnw5kn3kvtozly6v7j":"hstruebe"
+}) // 2023-10-29T23:40:12.335Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

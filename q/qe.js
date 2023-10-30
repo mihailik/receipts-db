@@ -68,5 +68,8 @@ var qe=(function(jsonp){ if (typeof qe==='function')qe(jsonp); return qe=jsonp }
 "g255nxns52upbi4vpyyaky7g":"qewrfta",
 "sg6avmfpiffslkedjfqt6jed":"q-e-dan",
 "mw6p4rz7s666pcn3ljliw7zd":"qeemnji23",
-"wqgo4whd7m63jf6oroq4zyiu":["qeridexis","Q is based cause he's on the bluesky"]
-}) // 2023-10-29T19:57:43.634Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wqgo4whd7m63jf6oroq4zyiu":["qeridexis","Q is based cause he's on the bluesky"],
+"ephjvssa3qn4mfi4xbpiv4jh":"qetina",
+"xwyylkdnnpfks46bdhnxzr66":"qelektronics",
+"qds5bflymv3i4jjv7lw46lgg":["qeylis","Kennedy White"]
+}) // 2023-10-29T23:41:38.066Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

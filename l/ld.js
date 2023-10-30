@@ -225,5 +225,12 @@ var ld=(function(jsonp){ if (typeof ld==='function')ld(jsonp); return ld=jsonp }
 "2bes3eoryj4anihvrwlfdmio":"ldblack53",
 "lwo5on2zmauyq5rmimo4g7to":["ldrich","Larry Richman"],
 "umxfkh7x7dtt7mjl2suto2g2":["ldeibardi","Luca Dei Bardi"],
-"doqhacqulxaziodjnyrhkzc7":["ldallap","Leonardo Dalla Porta"]
-}) // 2023-10-29T20:18:34.507Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"doqhacqulxaziodjnyrhkzc7":["ldallap","Leonardo Dalla Porta"],
+"rljtnvmcvbfts3uwze7obkoc":"ldrm",
+"3c3mciit4def64ltnuew5f3g":["ldrr","Christoph Lederer"],
+"jyyf3ijz3th2nsbelmn3bdfv":["ld50","LETHALDOSE50"],
+"rdhng4yoqwnkgc2sxikqh6e2":"ldbtaylor",
+"rpltzdxcnr6wfqcsn2k3m3li":"ldwoodworth",
+"gqer3hn6obylg6wje74ujqhm":["ldois","I am in hell (Oregon)"],
+"4g3zepevyszxjj5kupqjnwco":["ldthink","LD"]
+}) // 2023-10-30T00:00:47.524Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

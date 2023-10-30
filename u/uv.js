@@ -55,5 +55,9 @@ var uv=(function(jsonp){ if (typeof uv==='function')uv(jsonp); return uv=jsonp }
 "cdvvn4xsgcnv3vqjuqg2qqj5":["uva-api","Anton Pannekoek Institute for Astronomy"],
 "mpcdg2ei334dt35bnfnbfjc2":["uvtungsten","uvTungsten"],
 "gdshdkxk37nokymaylqjatyf":["uvicanthro","UVicAnthro"],
-"do4ojhqtbdy3lwnd6ardnmqp":["uvleo","Percy 🐸"]
-}) // 2023-10-29T18:15:13.679Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"do4ojhqtbdy3lwnd6ardnmqp":["uvleo","Percy 🐸"],
+"65p3wplywqtzftl3fqgqahdn":["uvulabifida","Uvula bífida"],
+"54j3quzvnpo7bejlgar7shn5":["uvafoozle","Fleshmaze_Tango"],
+"2hxrro6crcppv7gc5idaj6lu":["uvahumanities","UvA Faculty of Humanities"],
+"fwhvgzx2tu2laopodgkntk23":["uvabe","Uva Be"]
+}) // 2023-10-29T23:43:02.979Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

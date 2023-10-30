@@ -134,5 +134,10 @@ var fd=(function(jsonp){ if (typeof fd==='function')fd(jsonp); return fd=jsonp }
 "5u5yfcsdexpv3a2hwscarour":["fdchief","FDChief"],
 "7cd4cqgjzb6z26ynmnqvruyw":"fdpmv",
 "awekwdq6x4ak2s362j735eau":"fdmskpop",
-"phtktemuyjxsmawdz4pcfgkb":"fdietz"
-}) // 2023-10-29T20:02:50.336Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"phtktemuyjxsmawdz4pcfgkb":"fdietz",
+"6q5wsw672lz3l3t7ffugaee5":["fdelacuesta","Fernando De la Cuesta"],
+"r4fj5oa66zg5rld4ja3euzxl":["fdp-fraktion-lsa.de","FDP-Fraktion Sachsen-Anhalt 🟡"],
+"epdweqacikm5kgax4rvtwl5w":"fdapirat",
+"fhc6vsdjowa3f4pejsvfgpqh":"fdiv",
+"awpymelg5sl5dbhoo2jrgukm":"fdfbln"
+}) // 2023-10-29T23:40:12.766Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

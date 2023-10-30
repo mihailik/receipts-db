@@ -621,5 +621,26 @@ var dc=(function(jsonp){ if (typeof dc==='function')dc(jsonp); return dc=jsonp }
 "ajv53ru3lpahl7tn3ipdxfhz":["dcneuroscientist","Peter Molfese"],
 "plb2z6efbkxhdeyduap24o4o":["dcllutsk","Igor Popov "],
 "b3cxi6b7dnqzs7p4x6yzzlpv":"dcreporter",
-"whit76cpcb7sx6turmpp7lbu":["dckface","Đ₵₭₣₳₵Ɇ"]
-}) // 2023-10-29T21:00:28.975Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"whit76cpcb7sx6turmpp7lbu":["dckface","Đ₵₭₣₳₵Ɇ"],
+"pnlllmb2nrpqof6rfwne5xjx":["dcplus","Bildungstraum_a"],
+"4tgqadaaqjiciny7quzgb4hf":"dchq",
+"yy72bbpnxr4foameslkwi5yz":["dcagle","Drew Cagle"],
+"3nj26ippla7vigsfpgrufjiz":["dcarrillo","D Carrillo"],
+"ptvotovnhw4i6qg3kezds663":["dcosme","Dani Cosme"],
+"4fr5mnzcyk2gncmsu2tkpewa":"dcgimp",
+"bylzfnazbpxdvdfvhrqiuk4d":["dcwdkim","kim vu"],
+"6tyse4usiatdnbcbetkbarde":"dchoppin",
+"nxgaqqrsqex63ccgwaac2wwd":["dcibarnaby","Eeeck"],
+"he6hcz4eh6eik367xcjn4h4i":["dchovell","Devika Hovell"],
+"eedkf56av7ykcl5gk6n3yll6":"dcauresource",
+"ogrhhmh5hiouis76dh3fonlb":"dcarpenter552823",
+"lyfe6m5sgas35oxeqgtuu3fy":["dcbro","DC Bro"],
+"72zs3e4xqewux2tgybiguu22":["dccra","DC - ExGOP Conservative Against Trumpism "],
+"i56kuxx7qgkk4m6b3vw33zk5":["dcokinos","Demetrios Cokinos"],
+"5kgvvgb5m77bui6ip3x2akwc":["dctello","Darcy Costello"],
+"qjor5cdrqsak4gm6axdynymr":["dcunstrukt","dcunstrukt"],
+"pn23a7jlhfsmwxfbegc7esho":"dcuupdates",
+"oqgqeardq52zpck7jiwgqqt4":"dcarchibald",
+"d3ygtgp3zbdlrlke3m7hh2wv":"dchow",
+"rkq4n662oc2ywc3tiqq6i7ko":["dcapovgm","DcapoVGM"]
+}) // 2023-10-29T23:58:33.326Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

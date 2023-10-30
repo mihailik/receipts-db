@@ -126,5 +126,9 @@ var yr=(function(jsonp){ if (typeof yr==='function')yr(jsonp); return yr=jsonp }
 "rqq5fzywzu357y5yf72hyxch":["yr2lab","YR² Lab"],
 "npunofwicrgnhvd47xd26pvm":["yrow97","Youri Steeneck"],
 "4sr4iqn5oyhqrxkabbhsepjh":["yrouska","Yrouska l'Abitibien"],
-"nssrptaskfkzexbt6zraudyu":["yrosesworn","Yeselyn Rosesworn"]
-}) // 2023-10-29T20:14:55.332Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nssrptaskfkzexbt6zraudyu":["yrosesworn","Yeselyn Rosesworn"],
+"nc2kn5i2mv3ztgav35ct3ozs":["yrilian","Yril (New to BSKY arc)"],
+"u74ttzsis7atzmlu2fldewot":["yrealivep","Diego Tetas (mathematician)"],
+"oqnybavhaxlyvh5sdtiu5wbb":"yram",
+"6ishqyungdazpdugeuacy5bd":["yrismiretnjerxiv","Yris Miret-njer"]
+}) // 2023-10-29T22:13:20.844Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -169,5 +169,22 @@ var oe=(function(jsonp){ if (typeof oe==='function')oe(jsonp); return oe=jsonp }
 "6mzn4jrnatulixff54zxviqk":["oerlyboerd","Oerlyboerd "],
 "wtdc265w45otm5owfo5xfpzy":["oezgeinan","özge inan"],
 "5wcanzsqp3oao3bn7jh7ejyg":["oelbi89","Pablo Bischofberger"],
-"4ce7vsh3oylqsuk3wfxqee6h":["oedipalized","kat"]
-}) // 2023-10-29T20:53:39.472Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4ce7vsh3oylqsuk3wfxqee6h":["oedipalized","kat"],
+"iiyc3cbfyi5mskd62kl2jzyu":"oerding",
+"hfoaggezswcyxunqfpp5d5qz":["oedmemes","Öffentlicher Dienst Memes"],
+"okuum6xqsz63e5hj36wrzenf":"oestlich",
+"6zrnksgcocach2b4abzta7wb":"oevp",
+"gzqb2ry7ghvybcayvjgixiaw":["oeliug","Österreichische LehrerInnen Initiative"],
+"zw2rxn4orbqea3w4mxizh5jg":"oekintaro7",
+"yo7bamwvu4uabrkbtcvzhnd4":["oeg","Oscar Ekholm Grahn"],
+"xi65wnpvknduostsumbr4urk":["oeht","🍦湯湯蘇打獴🥤"],
+"z4c4khextxi5u7g5g5gwq4sz":["oerny","oerny"],
+"g6v7xs32cvy6e3ilhpn4sra5":["oe-doutoku","大江 道徳"],
+"sho4663u7vemdsnnup3mxebh":["oe1flp.at","OE1FLP Florian @OE1FLP@mastodon.radio"],
+"xzmbfjtslrmyewfwrkcsto3y":["oegb","ÖGB"],
+"eupodsllkpcnbuehzwwne7uh":["oeile","unschuldig Oeile"],
+"7aipmemfis6vik7shiq7yrer":"oedoegoedoekoe",
+"45nb7wsfyiwqdnplp4lqb3x6":["oe1wkl","Willi"],
+"hkt5pvtvdwnhyw3d2n3rnas5":["oern","Daniel E."],
+"ucyyac2g5alkpfcg6kpda245":["oerskov","Frederik Forrai Ørskov"]
+}) // 2023-10-30T00:00:47.407Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

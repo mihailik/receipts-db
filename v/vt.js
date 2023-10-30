@@ -170,5 +170,14 @@ var vt=(function(jsonp){ if (typeof vt==='function')vt(jsonp); return vt=jsonp }
 "ypoeq32yvn5hzpkp7ydcmszl":["vtwhite","vt_White"],
 "nvg6j5p2lyintnfgmgrvihhr":["vtfishgirl1","Linda AKA VtFishgirl1 "],
 "ugdljhbce4hfva453yapqcgw":["vtubersweets","Sweets! 🐈‍⬛ || [cyberpunk vtuber]"],
-"o4ptyvqwnni4v4ot2jeisfe3":["vtmira","VTMira"]
-}) // 2023-10-29T20:53:39.151Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"o4ptyvqwnni4v4ot2jeisfe3":["vtmira","VTMira"],
+"ul74xknswrlojedboe42cgnt":["vtubertooncattv","VTuberToonCatTV Local 59 📺🚽🦈"],
+"yggooywru7oz6zdngjqgeknf":["vthevisitor","V"],
+"edqcmb7icgfdqk66e5nf2hf4":["vtlozano","Vicente Lozano "],
+"vhc2tx5f4ukkyuclqxsj3ifk":["vtgare","vt~"],
+"7dqj2mlshdn7epxlv5xtps4h":"vtine",
+"xg4z7kdwqbohlwla36ijarw6":["vtgal","Joanne C"],
+"5tby5bu6alagyglgkjbx7rhq":["vtrhino","vtrhino"],
+"5lpcgojcwdn7ifkd7soiadrs":["vtubercringe","Deplatform VTuberCringe"],
+"sdsi4dc3gnnx6azcpbacbk5p":["vtoinen","Toi on se Ville"]
+}) // 2023-10-29T23:40:12.748Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

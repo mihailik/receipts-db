@@ -304,5 +304,11 @@ var rt=(function(jsonp){ if (typeof rt==='function')rt(jsonp); return rt=jsonp }
 "iuz6k7d6udhxifwl4lmi3hoo":["rtsk","🦇 Ritsu-bis 🎃"],
 "dhbtkzwjm77b54gtpyedcjev":["rthardiman","RT Hardiman"],
 "xu356n2rirz56m3kk4mo3m44":["rtdragon","RossTridragon"],
-"spzrdcs2t6vdhozwkddp4eiv":["rtangcritic","레즈비언을 굳혀 만든 것"]
-}) // 2023-10-29T21:04:10.436Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"spzrdcs2t6vdhozwkddp4eiv":["rtangcritic","레즈비언을 굳혀 만든 것"],
+"f63x3bpbkncdreaycsos2vbh":["rtnyw","𝕽𝕿𝕹𝖄𝖂"],
+"5naxorgj3v3yncedmyxuhnuq":["rtomascalderon","Ramón Tomás"],
+"uvnpcvys6vy6feqegptvcpit":"rtpyagi",
+"uul6bvdtu4xklump2opqxppj":["rttnpnkpmpkn","The Pink One , 🎃"],
+"22aan25tb7ncidmobl4ufi6b":["rtalsoriangames","R. Talsorian Games"],
+"7lfad5u4lak3ecs2xrfca5vq":["rtfmcomics","Aemi Daniels"]
+}) // 2023-10-29T23:55:37.884Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

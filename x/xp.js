@@ -125,5 +125,13 @@ var xp=(function(jsonp){ if (typeof xp==='function')xp(jsonp); return xp=jsonp }
 "cf4dv7ppzs65fbwumoudxgq3":["xphuang","XP"],
 "4g76yvvttm2jkl7skv4ii5mf":["xpisigmaart","XPIΣ Art☄️🔞"],
 "hfavva54ytpjoegjchmk6pep":"xplra",
-"frrkoaajlh3vmxooioopd3ah":["xpointzyy","JESTERPOINT ‼️"]
-}) // 2023-10-29T21:00:29.158Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"frrkoaajlh3vmxooioopd3ah":["xpointzyy","JESTERPOINT ‼️"],
+"cs6rskuym2vvjc2pkerelur6":["xperienz","Xperienz"],
+"3mk7vdtdfo472n3oyv5ego6f":["xpiercedsoulx","Dead Love 🪦🕊️ Cringelord 🎪👑"],
+"xv4po2yhmjtll47hkhkk7mjh":"xpooch",
+"6nne66fi2wphk5e2p27xxrzi":["xpetershawx","Peter Shaw"],
+"m5airj7vizzgqlrzkvd67u73":"xpycm",
+"fthtb2t5u4vfbdxqfgibom4k":["xplode","Xplode"],
+"v2oin752yrtk4bbcz2bjd2rl":["xpatrick","Patrick"],
+"7ihtfjvtdbluvyslzxltxipe":["xpander343","Steve Robinson"]
+}) // 2023-10-29T23:24:52.655Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

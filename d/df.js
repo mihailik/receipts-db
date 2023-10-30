@@ -324,5 +324,13 @@ var df=(function(jsonp){ if (typeof df==='function')df(jsonp); return df=jsonp }
 "2hcmvimryqfntn76umc7so5j":["dfw1","RealDFW"],
 "ft7gi2lbobaby75sdalbyxhs":["dfaltium","dfaltium"],
 "zkvizzqxmsga3peazlwsqejh":["dflttool","DefaultTool"],
-"wdyllem24a7cdjbs2qfaiil4":"dfaust"
-}) // 2023-10-29T20:46:32.429Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wdyllem24a7cdjbs2qfaiil4":"dfaust",
+"yjmjff2ue2gl4qwcihplsulp":["dfdunham","D Fletcher Dunham"],
+"qja5hhhudxixrh2lypgbqohj":["dfassassysaber","Aluxious Saber"],
+"qm5g47z6vccc2c6pbclo5uce":"dfwarden",
+"4lluufedumria6ggcafw566g":["dfighter","Fighter (goblin streamer )"],
+"rrvk7xpidrtynue3mhjdx6mo":["dfoppa","Daniel Foppa"],
+"lm2prpkt2ywre64dvzi2ipwh":["dfitzgerraldo","Dave Fitzgerald"],
+"2cwvbeixkepxqy3eapapjwf3":["dferrin","Danny Ferrin, CFA"],
+"k77n3elnaonpscy7zer5tlbp":"dfeldkamp"
+}) // 2023-10-30T00:00:47.468Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

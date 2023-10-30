@@ -99,5 +99,9 @@ var wn=(function(jsonp){ if (typeof wn==='function')wn(jsonp); return wn=jsonp }
 "ijpefaqroruc2lckzeo6z63e":["wnuk.biz","mikewnuk"],
 "sz4ztclw5mkcpbwvdoxhkxn3":"wnywire",
 "47ozl2begt2rcpvaeiwckq5m":["wnmonique","Monique"],
-"hdnrtgh2l2lv7nfq5vp7hgen":["wnober","Will Nober"]
-}) // 2023-10-29T19:50:55.224Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hdnrtgh2l2lv7nfq5vp7hgen":["wnober","Will Nober"],
+"eqe56ojjfjam7ygkuoipy2ri":"wnxbeowulf",
+"h3vnxjxdoqynudazkwjodhgl":"wnbrown99",
+"m326zelbn7apye7h6isupre5":["wndr-bread","libby the leftist "],
+"zhnrxxyjhk4nowcr4z6oq4rc":["wnt-news","Wargame News&Terrain"]
+}) // 2023-10-29T23:36:34.836Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -155,5 +155,8 @@ var tz=(function(jsonp){ if (typeof tz==='function')tz(jsonp); return tz=jsonp }
 "rbrggvbv4njf6exnaxj6vuze":"tzz",
 "g7wtn3et5htkpvcxfre4m6ft":"tzjames",
 "zwaenumwsewegvvvfnsczfwm":["tzrymgc","山口綴り"],
-"piuu2mimjnlwc2rrtskvixa4":["tzueee","蝴蝶和鳥"]
-}) // 2023-10-29T20:14:55.773Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"piuu2mimjnlwc2rrtskvixa4":["tzueee","蝴蝶和鳥"],
+"mrg2l2obuhcgtau5q3wzywn4":["tzitzimitl","Tzitzimitl"],
+"5oai2ccc2ijrdeo3lsbvklac":"tzingona",
+"srddpl4crtsplrzucrkc2bt6":"tzd"
+}) // 2023-10-29T22:49:36.167Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
