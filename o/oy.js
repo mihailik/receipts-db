@@ -257,5 +257,22 @@ var oy=(function(jsonp){ if (typeof oy==='function')oy(jsonp); return oy=jsonp }
 "cmdlo4zqdrk4kc4zlmdktze7":"oyvind-t",
 "3lxpjh54iqa34xoagvd2ryvx":"oyvindod",
 "q57fr3v36miadw7diknhmh6g":["oysterwallace","Oyster Wallace"],
-"kyrgycu3r7425lrtnuevnzur":["oyasumay","may ✦"]
-}) // 2023-10-29T23:55:37.932Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kyrgycu3r7425lrtnuevnzur":["oyasumay","may ✦"],
+"sqsdc5t3h4w4na2yl5yzfrhk":["oysterphilosophy","Snacks"],
+"x2o2fmm3eukrt67dwdqir45a":["oyi.bo","Mihailik wey dey read book"],
+"oio53c22xwadlebjxwic7rre":["oyasumillie","Millie"],
+"lzs4majmkdneeyekt5wrl5gg":["oyuiyui16g","おゆい"],
+"kewvxpyldkd4avjzdje3gdu4":["oyasouni","Pol! ✦彡"],
+"7ikv4uzcjcfpm2zr5vozs3ux":["oyvindstiansen","Øyvind Stiansen"],
+"64rfik7uft6dgmlnxjehsoz2":"oyoyo",
+"vohuy57wra4nwgw326lsopg5":["oybek","Oybek"],
+"co5qu5zetdslyxmwj7b4ozfq":"oyvindoyvind",
+"jb3cuoz4hbwzucj7co5pmtec":["oyatu55k","七時のおやつ"],
+"metystaxicdkvfnmcw7jaljx":["oya200","Ignacio"],
+"525nbavwphwcenl76wsxlbwd":["oygnw","淡井"],
+"nqymrr5ktalnplp5o7hkbmrh":"oyaohohohoh",
+"txhfw4rn6zfe4uqgvsakvaex":["oysteinsjolie","Øystein Sjølie"],
+"idaf7jj4swxuhzvn3bb3osa7":["oykukoc","Öykü Koç  "],
+"cz3mu4eakg2cnkjqci3lta3c":"oyaerez",
+"dwbzinsg6icpidqszca5n2br":"oytaki"
+}) // 2023-10-30T08:41:30.288Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -45,5 +45,11 @@ var cq=(function(jsonp){ if (typeof cq==='function')cq(jsonp); return cq=jsonp }
 "wc4xff2mqtnqdv626kh2caor":["cqirk","Capt Qirk"],
 "sldymczxgyijrtixa35dswdc":["cqtsname","름"],
 "qhdnszfkqpi5k4i5pabgeakw":["cqms","CQMS "],
-"nhxe2nbqovvdilh6h6gwopqe":["cqep","C'est qui en pole ?"]
-}) // 2023-10-29T23:40:12.500Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nhxe2nbqovvdilh6h6gwopqe":["cqep","C'est qui en pole ?"],
+"yuxjelo2nlmc2bavf3yiu24a":"cqmrade",
+"ywgfi62kp6tvmbmgipfievh6":["cqlderivs.com","cqlderivs"],
+"og3w6aotd4l4xz66xne6u4eq":"cqto",
+"3lfg5uqxjwunpyfvdqer6toz":["cqgantics","Cqg Antics "],
+"c3ihtwgray7xb7hmi7tz6g6d":["cqtj.fr","Jouw D. Kaji"],
+"lvdluqckqabkpfqzuvgljtsa":["cqangelhamuel","Hamuel"]
+}) // 2023-10-30T07:48:24.442Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

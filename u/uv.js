@@ -59,5 +59,15 @@ var uv=(function(jsonp){ if (typeof uv==='function')uv(jsonp); return uv=jsonp }
 "65p3wplywqtzftl3fqgqahdn":["uvulabifida","Uvula bífida"],
 "54j3quzvnpo7bejlgar7shn5":["uvafoozle","Fleshmaze_Tango"],
 "2hxrro6crcppv7gc5idaj6lu":["uvahumanities","UvA Faculty of Humanities"],
-"fwhvgzx2tu2laopodgkntk23":["uvabe","Uva Be"]
-}) // 2023-10-29T23:43:02.979Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"fwhvgzx2tu2laopodgkntk23":["uvabe","Uva Be"],
+"4uvdimp4picdy2hxwknpmo3f":["uvuume","David Thomas"],
+"swu7q5uuozuglgryuj7kw245":["uvapsychology","UVA Department of Psychology"],
+"xlbzdklhs2vggeycyxdi4qir":["uvogele","Urs Vögele"],
+"dje7o7exumd7jxk5535uegnd":["uvala0617","ウバーレ"],
+"qap5ucqcwjpen6is56kodfwl":["uvjct","タナ"],
+"6bwhpjnzzqnseridfvvrgknt":"uvbritelite",
+"lmrzxfhhd7lnmecpflqvcbih":"uvmusic",
+"dmgqhvxngscgopatv3htask7":["uvwrapped","UVwrapped"],
+"u6ynugnh4jjnfj6p5v6xzzac":"uvaat",
+"hwsyn7m5kv2yfikt62whxbcj":["uvexar","Uvexar"]
+}) // 2023-10-30T07:13:41.662Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

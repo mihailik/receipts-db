@@ -134,5 +134,20 @@ var vg=(function(jsonp){ if (typeof vg==='function')vg(jsonp); return vg=jsonp }
 "xaujoz5hd2uthqzxmjfz7f4m":["vgnpgn","Virginia Pignagnoli"],
 "lvkmzwus2iee5baykv2nvn76":["vgmoose.dev","vgmoose"],
 "yv3snp7e24wnpum355qj5frd":"vgurer",
-"qikowk24oxpni7nvhqpkxi2m":["vgschweich112","Feuerwehr VG Schweich"]
-}) // 2023-10-29T23:29:58.710Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qikowk24oxpni7nvhqpkxi2m":["vgschweich112","Feuerwehr VG Schweich"],
+"mw3mvvafwdnhtea7zyvah247":"vgoblin",
+"iw7i4c6r5m5ktdrj2nh7kr22":["vgrandell","Viktor"],
+"jps3nw5pr4hdkrivovwiplfl":["vgn.wtf","VGN?WTF! "],
+"7eq22ctgihv6xp74piifgxuk":"vgoe",
+"rhhf3wxhjjaiothxm4impqw6":["vgantenberg","Véronique Gantenberg"],
+"usyf5cgja4httk2n237frz34":["vgonzalez","Valeria Gonzalez, PhD"],
+"252lndt33shmzh5ny73ygvrq":"vgros1",
+"6gfao6apkb4ql5o2dn5qvbem":["vgjedi","Malachi W. Simpson"],
+"hbgs7eeiyeww5d4w3fcr2dyd":"vggriff",
+"wwba5rbj4wexghvgdobvgroy":["vgraichen","Verena Graichen "],
+"dxugeq76cnykatswzaetx23f":["vgalaz","Victor Galaz"],
+"jfi44s62eaulghozhpddbnas":["vgzt","Vitalii Hrebeniuk "],
+"67fed4uj32g7bhvfcoy2tbh2":["vgmarkd","Vgm4rkD "],
+"cv4igugbt3kahodidjvueqii":["vga","Victor Gallet"],
+"jz6732tv2f5kzuhwuuzidz5u":["vguenette87","Vincent Guenette"]
+}) // 2023-10-30T08:53:22.176Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -69,5 +69,19 @@ var wf=(function(jsonp){ if (typeof wf==='function')wf(jsonp); return wf=jsonp }
 "7bnp35ao7a55jj73vhbnfzkk":["wfyoungblood","William Youngblood"],
 "xlw6ujjbzf3gdl47j4ozxp7a":["wfk","ままま"],
 "efmvscnreiiccsvbzconlagd":["wfl","WFL (He/Him)"],
-"5xh7dm3fnaypjzz3e64pviae":["wfowlercollins","William Fowler Collins"]
-}) // 2023-10-29T23:45:13.065Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5xh7dm3fnaypjzz3e64pviae":["wfowlercollins","William Fowler Collins"],
+"vgrd4gp6kdtbvo4cgkpg72xk":"wfam",
+"ii5wp5slxq5jqev57otpg2wj":["wfromthesky","W"],
+"jg2n7tvooms2s4hywfztoxdi":["wf0915","유은"],
+"g3gy6lysefoerxo5d4jhs7iq":["wfastronomer","Nicholas Cross"],
+"5k6jjnczbuw7bkcl4skkzzow":["wflamb","William F. Lamb"],
+"4b4kfd25vqnmewptxzscuuu4":["wfmhfx","Waterfront Media HFX "],
+"r6n7m2lw7bfgltn2mvgyvgr5":["wfmknight","Bill Knight"],
+"dtso2ay2relkfjfiv73uvr4h":"wftguedo22",
+"ncrn6brliruqgrfmnscd63tk":["wfpblise","Lise"],
+"3fbgox2jogeuwkciqb66n5bw":"wfidelis",
+"znlkvy6rld5r6gil5rrojjue":["wfsmusic","World Famous Secret (aka Austin)"],
+"7htoztkjdmsa6u7kbi5u3kf5":["wfrex","WFRex"],
+"6t6zjgehxijbspgc77j7tsq4":["wfwagenaar","Welmoed Wagenaar"],
+"377nlfkhi3grfandsh6iwrgo":"wfulford"
+}) // 2023-10-30T08:08:50.567Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

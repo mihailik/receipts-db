@@ -160,5 +160,20 @@ var ln=(function(jsonp){ if (typeof ln==='function')ln(jsonp); return ln=jsonp }
 "6w4jwpyoi6vc4d4774qtkxal":"lngallagher",
 "k2o4eerm6pr3bulwhnjqtwbd":["lnueckel","Luis 🏳️‍🌈"],
 "rrbopupytttrtdppkp46kxry":["lnn","Longinus Nnaji"],
-"q5fl2wdman5acxynbzlkuvan":["lnx0r","LnX0R"]
-}) // 2023-10-29T23:41:38.408Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"q5fl2wdman5acxynbzlkuvan":["lnx0r","LnX0R"],
+"eqqfoa55bylq7sn5gr4dxr4z":"ln2g",
+"avqii2jttshopbgjkwepx6ua":"lnzdesigns",
+"5kderymxuadlcxbes3w4z4dw":["lneverliving","Laura Niewöhner"],
+"szhpbald3begh7xuf75ff7l5":"lnx13",
+"dzsexe6jea723crhi45nye3k":"lnakamura",
+"zxgnv3jenmnpi55dbuc4gewz":["lnro","lnro"],
+"7ejb6yfpccatswi26ar4giov":["lnikol","Niko 🇪🇺🏳️‍🌈🏳️‍⚧️ "],
+"juj3j7qrsyrf5dl46xtknbjo":["lnvh","LNVH - Dutch Network of Women Professors"],
+"qvcafgtegb53o3vi4esrqi2m":["lnifm","레니 🌟 "],
+"lp2hm2zb4e2o2flxdxuqv3vv":"lneonl",
+"nttjpycysq74bihf3blj35qt":["lnmorel","Hélène Morel "],
+"6iumpmuhkzep2vd2f277c5cq":["lni","Leni "],
+"drlvbimonhshv444btottwc7":"lnovak",
+"my2qu4fu4moafshrpt4rfoh7":["lncurrycloclo","Cloclo curry et ln"],
+"7vaflnmvlty4fmttrymcrpei":["lneumannca","Lneumannca"]
+}) // 2023-10-30T08:51:20.856Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -142,5 +142,23 @@ var uf=(function(jsonp){ if (typeof uf==='function')uf(jsonp); return uf=jsonp }
 "kltjqli4wqd4oz7o6odo64ap":"ufreitas",
 "xy3zm6dabwb2yrenrldeqsnh":["ufotoast","UFOToast"],
 "2yye4hcjpgmvzf4fsjco54fl":["ufotutkija","Ufo"],
-"45hog6p4kbdio5pc6dtuhial":["ufoolofatook","spooky Kat 💀 "]
-}) // 2023-10-29T23:53:25.648Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"45hog6p4kbdio5pc6dtuhial":["ufoolofatook","spooky Kat 💀 "],
+"tu3oqr64pwnm4qn3ktchzkhm":["uffbot","ariana"],
+"r5obogxn5gra5spksmlglnsq":"ufelmann",
+"ig7raylehnqkbq6lufa3ccei":"uffgerescht",
+"vkwpm3susacnba3as5q62awe":["ufoslav","Matej Benko"],
+"7enmtke25obytbzo52gknh7e":["ufgblaze","UFGBlaze"],
+"ywbruggadz77qlaeu6zzs4ps":["ufuuguu","Ufuuguu"],
+"x5vhc2hejvfhbdhh6ufvudjm":"ufukozalp",
+"yo5zrd23aairoq2ozrszqnly":["ufwc-corner","The UFWC Corner"],
+"v2rgu4ss3k4t7vmnpdqwv7ip":"ufbear",
+"nyuyawzfrb6vnbjanug7gx34":["ufkadam","Kadam"],
+"rza6n7lknlgcwdvdprpip736":"ufnavy06",
+"mcglvrtwp37dgfn3ebm6elrx":["ufezi","Ufezi"],
+"z6kr6iae7i5u3fpj6z2chbdu":"ufhealth",
+"cfyej4gotujojqxoj6vejc6o":"ufo1953",
+"qoqakj7g276ycierkvimezho":["ufocthulhu","Cthulhu 🐙"],
+"4kdpamodyp2qc5fcvme67wm4":["ufried","Uwe Friedrichsen"],
+"5vw6z7bwl4vbfh4pnwf5sden":["ufi","UfiDog"],
+"dejwiri2yb6thqt36cjiin4l":"ufiad"
+}) // 2023-10-30T09:04:30.583Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

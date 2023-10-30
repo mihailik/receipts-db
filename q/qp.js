@@ -27,5 +27,12 @@ var qp=(function(jsonp){ if (typeof qp==='function')qp(jsonp); return qp=jsonp }
 "426jbu43gq4s2pppbrt7ryzj":"qpucgeek",
 "3hdztkeu2e4bgeapmlgtymk7":["qpwoeiruty2121","뚜꺼운인연"],
 "ieycpkhtljwc6hqi4c7n35dp":"qpqp10102929qpq",
-"jnglxtonuajftuuzl4zmwx3y":["qpilin","qpiLin"]
-}) // 2023-10-29T21:33:25.670Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jnglxtonuajftuuzl4zmwx3y":["qpilin","qpiLin"],
+"acummlf4buhj37gs6y2a6g3r":["qper","q_per"],
+"tievsnch3u6ise467jofqpfj":["qpower","Queer Power Training"],
+"yxtjbdyt23hcxsdwdubnooh5":"qpdev22",
+"e2g6hl3x3qrbdgju5gylklrz":"qperr",
+"46hg5gupwnypilck76jsqie2":["qpi","Qp"],
+"y6hazkz3biicvbaqxikhchyo":"qparticle",
+"dcwvlmxa6fj27umeqg3nupim":["qpd00z","qpd00z"]
+}) // 2023-10-30T08:03:46.398Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -100,5 +100,17 @@ var uu=(function(jsonp){ if (typeof uu==='function')uu(jsonp); return uu=jsonp }
 "dy7y74es2gs3dzjsycbvniic":"uulissi",
 "jgui2dslzcbkpt4ejhmsmrzw":["uutww","大魚"],
 "lmvwe6drx2oafyxappwqvjgx":["uuursamajor","Ursa Major"],
-"uddsz7giqdwse5l43lhma2oa":["uutobiii","Tobi"]
-}) // 2023-10-29T23:57:06.231Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"uddsz7giqdwse5l43lhma2oa":["uutobiii","Tobi"],
+"n3ihiypg7tamrkiwmgiaqdm2":["uuyoyo0610","又又"],
+"lbxfwaqgdq2bxekudkhojd4a":["uujin","uujin"],
+"hjzrccjnyy5yve3pin3ujtkq":["uuuuuuuuuuuuni","様子見"],
+"5aomfu7id54i54nark3sl2yt":["uu00","케키"],
+"iyjzwc3nr2trg7qzvpyl5miv":["uun4","UUN4"],
+"74pg7nx2uqecizzftzar5qpx":["uuser","user"],
+"sphkaioylxiufeb3tsimoq6y":["uuuui","Uli"],
+"f4q3fxmdqkvc2bsxt6zmprpl":"uu19",
+"qo5tteh6u7ybmewm336q7kaa":"uuidzero",
+"moyauciicmshlgylc5bacna6":["uuupah","uuupah "],
+"orjk7jbwtc26jwhjlyg7fgtd":["uungor","Uğur Ümit Üngör"],
+"3nhmwuld774abuzvzf22gfta":["uuulmer","Matthias"]
+}) // 2023-10-30T09:04:30.602Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -65,5 +65,15 @@ var uj=(function(jsonp){ if (typeof uj==='function')uj(jsonp); return uj=jsonp }
 "gma4lcgzgbhgmmlaz2a6ccjc":"ujags",
 "6jfssewa4yrvndjc7t3zcu3w":["ujimoro","Lozent Guinafaire"],
 "yj4cqbhg3osagdlkx7zcm53v":"ujacques",
-"o4scbt5i3lpplfr7fpvqaj67":"ujs"
-}) // 2023-10-29T22:37:41.926Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"o4scbt5i3lpplfr7fpvqaj67":"ujs",
+"2noxc2jxowfjutfoyzaj2poh":["ujue","Ujué Agudo"],
+"plkac36aijnc26hk3d5enrvk":["ujabu","Ujabu"],
+"yibbx74eywxz2y3ejel2opk2":"ujujuls",
+"dhvwa6j5qnykideprvebwpqu":"ujk195",
+"jtfn55h5qnphxt7vcmy6j47e":"ujay",
+"xass5olml7wiidwb5zitde34":["ujam-en","가끔 고통스러운 유잼 영어 포스트"],
+"m2rabyprnfqnqmbp54hrcvc6":"ujb1",
+"b6mxmecs3hogf4xxsuqxkzki":"ujigawashu",
+"fto3j7bgfmwew2rkvnarqiqo":"ujuzi",
+"jsqmzpbz65dnaqzxckkmymk4":["ujumajor","🌷후맘튤립🌷"]
+}) // 2023-10-30T08:51:20.883Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

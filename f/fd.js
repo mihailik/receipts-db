@@ -139,5 +139,24 @@ var fd=(function(jsonp){ if (typeof fd==='function')fd(jsonp); return fd=jsonp }
 "r4fj5oa66zg5rld4ja3euzxl":["fdp-fraktion-lsa.de","FDP-Fraktion Sachsen-Anhalt 🟡"],
 "epdweqacikm5kgax4rvtwl5w":"fdapirat",
 "fhc6vsdjowa3f4pejsvfgpqh":"fdiv",
-"awpymelg5sl5dbhoo2jrgukm":"fdfbln"
-}) // 2023-10-29T23:40:12.766Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"awpymelg5sl5dbhoo2jrgukm":"fdfbln",
+"bi72g5e7ymhz4iwlaaxnaxhi":["fdwilbury","Frederick Dolores Wilbury"],
+"wsua65j3m3qfom7vyxfkj36j":"fdgil",
+"7ogbusjk4maqr6wg3xwtxsge":["fdpbt.de","Fraktion der Freien Demokraten"],
+"dcovhlppojfpso7mjznbuyxh":"fdm",
+"ijsvytwoiaktljtuoxlml7lc":"fderidde",
+"4irmaunxvmoyql5owmeaes7t":["fdjt","FDJT"],
+"bzkkfgwiur3ghozilyq7eeoi":["fdoving","Frode"],
+"hbvz7xmt2z2thre557vj6szm":["fdelond","Fiona de Londras"],
+"jsjmis3fwd5amsflgkgxuzfr":["fdonoff","Federico D'Onofrio"],
+"muqd5o75jnlthbztmowcww64":["fdmbxl","Frédéric De Muynck"],
+"ga6jl3mdxvhnho5ljxbo43me":["fdn","Fudanshi Life"],
+"lyanz4ljh6ko7vw3rbgqesli":["fdrippa","Frank"],
+"3bzbtehb5rj3hs3eixk26upy":["fddragon","FDdragon"],
+"mblwow4xv3qkypokygazjsdf":["fdabrams","Felicia Abrams"],
+"d3exumtfde3cfbppzt2apcpm":["fdraws","FerDraws 🔞"],
+"mlkm4j3qa4xx4mas4kvxi6ss":"fdfoc",
+"ozhhc5245wtakqjx3bxcqbpn":"fdg",
+"jf67zs2zyer5v5lp2bg7ldhj":["fdurand34","Frédéric Durand"],
+"sse33f2v2gw35jbrkf4qwsn6":["fdeshusses","Frédéric Deshusses"]
+}) // 2023-10-30T09:11:53.137Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

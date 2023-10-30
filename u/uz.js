@@ -130,5 +130,19 @@ var uz=(function(jsonp){ if (typeof uz==='function')uz(jsonp); return uz=jsonp }
 "wuhuum6pvnroc37jqn5rpuvx":["uzuiblue","Caelum 🌙"],
 "yb4ov6j3juoyoddwyphhmltx":["uzura130","ウズ"],
 "6c5pdibcfe4seqblper5oe3p":["uzukai","Uzu"],
-"beo6gjjo6dvqqs4ufmjqw4q2":["uzhphildlf","Digitale Lehre und Forschung PhF"]
-}) // 2023-10-29T22:22:04.281Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"beo6gjjo6dvqqs4ufmjqw4q2":["uzhphildlf","Digitale Lehre und Forschung PhF"],
+"tvmba2rxsnvl5zrrwh2r5eaa":["uzumakifulcrum","「𝑲𝒖𝒓𝒂𝒎𝒂」🍜"],
+"tydxgobezdjdsjpuz2dpnclf":["uzge","Other9"],
+"6o7jmfjq6oz5cctdvve25etk":["uzuki11","うずき"],
+"vd4lk33xhuh6xojnyx4xfgxm":["uzeuless","Uzeuless"],
+"76k4pvdqvgpryekxd6nr5vul":"uzwal",
+"g3w5vtuca2psdqcyxgzgwq2c":["uzjenrosta","UzjenRosta 🇨🇿🇺🇦🇮🇱"],
+"ztxcll5vjzpw7zaotmikeq7w":["uzaydanhaberler","Uzaydan Haberler"],
+"5yloue3tej7lh26fblmjgup5":"uzielinux7",
+"cjwz7nu3jpaojrpc6dvewt6z":["uzunyusuflu","eren"],
+"boipkjnsqljxqerifoq4vayp":"uzygaz",
+"md4q5x7kntcmemcxulcykaw6":"uzi666",
+"zlvrxjd2kiuxk27sdvltirsf":"uzuri",
+"aa7blgobsekh7aziueoyjkon":["uzikinks","Fynx With Kynx"],
+"7b2nqw4vl5n4c24k2p3ax7ih":["uzikabdl","Padded Fynx"]
+}) // 2023-10-30T08:47:11.468Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -110,5 +110,25 @@ var xb=(function(jsonp){ if (typeof xb==='function')xb(jsonp); return xb=jsonp }
 "77msn2hc2grdxwws6pvlk24p":"xberg",
 "uzwt44t3lvgupsqp3lacqmry":["xberg-klimaneutral","Xberg-klimaneutral e.V."],
 "ac4zn6b2w3ubzkkzpdb2gc4a":["xbryanparrax","✨Bryan_Parra✨"],
-"7cnyvx4dl2fo6ctkwgw2m4vi":["x.bsky.mk","X"]
-}) // 2023-10-30T00:00:47.503Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7cnyvx4dl2fo6ctkwgw2m4vi":["x.bsky.mk","X"],
+"wjvwtxiqugpzp7zkjnnon56v":"xbftm",
+"3gnqg5ki3fu7k5dyotx52abb":["xbarnoldx","brandon"],
+"klwpbntm3uzn5shq2ki4sml2":["xblackievt","xBlackieVT"],
+"s4bkgapxaxyjsk25djiysdux":["xblueberrydog","xBlueberrydog"],
+"o3vo6i6efnfviybkfxc7ziii":["xbluecastle","pau/ezra🪴🌻"],
+"dy6lp5iklguqvj3mcima5azu":"xbittersweetx",
+"5zuvp53mfqik3ag43vhoqkwb":["xboxmag","Xbox-Mag 💚"],
+"t4mj2oorwujxjyeypk5kuatt":["xblackclaw","xBlackClaw"],
+"mvql7gmauwpwynl5g5nykk2w":["xboxgamernet","Xbox Gamer 🎮"],
+"i7vnnhncvziq6wmh3h735k46":["xbrent","brent"],
+"n2r3osmxq3q76e6nad7z2435":["xbigxcat","XBIGxCAT"],
+"b7muv33hyde5ytek5rgogc35":["xboxcore","Xbox Core"],
+"lrhdh2pndtwito34a2qwg2hj":"xbvt",
+"mhvnisff6ilr326mhkwpiffj":"xbf",
+"iomf37b2f3sxx6zzqu3rn67x":["xbrndh","Brendah"],
+"2nyehba5ouc46whwe6mc4x3o":["xbellafoxxx","Bella Fox"],
+"x77hbe7md5lopa2eetd5l2jd":["xbc9k","Jakob B."],
+"oxso24vnr6h3fpxbxkxeoatr":["xboxpro1","Neandertaler"],
+"ted4nxf7v4zrwox2fp3sybag":"xbun",
+"mued3mmbycfakvq73t6iobxu":["xbunniibabex","Bunnii"]
+}) // 2023-10-30T08:55:31.736Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

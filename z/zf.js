@@ -52,5 +52,9 @@ var zf=(function(jsonp){ if (typeof zf==='function')zf(jsonp); return zf=jsonp }
 "f4btdkevvbbildbdqnilwofw":["zfireart","ZfireArt"],
 "3eb4mqflrpczzkajjuiomexz":["z-fujieda","ふじえだ"],
 "h3oulkjz4ywer2zqhkrnuqpo":"zfabs",
-"ln4hjxygcfqopxfvqdazgwx5":["zfg","ZFG"]
-}) // 2023-10-29T18:38:38.525Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ln4hjxygcfqopxfvqdazgwx5":["zfg","ZFG"],
+"a6sbd6nulbuqwbal2p4kljge":["zfbx","Tony"],
+"xxwupmoe4hg22xvmmavp4skf":"zfrake",
+"f7qkgcb3oak6r2lrtas4ijjs":["zfdykg","🌻"],
+"66vpgsleqgad4u5q6k377gw4":["zfs","Zeitschrift für Soziologie"]
+}) // 2023-10-30T03:29:10.410Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

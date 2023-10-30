@@ -80,5 +80,16 @@ var yd=(function(jsonp){ if (typeof yd==='function')yd(jsonp); return yd=jsonp }
 "dcb2g4ctkzkjukgasc2em4c7":["ydni","Gappy’s Boyfriend"],
 "epqozlgzoff6gv6l6unt3ea3":["ydkj","ed"],
 "h6odzsrzq4dz5wn34zww7466":["ydmpaltacnt","🔞 The Pregged Yoshi 🔞"],
-"kskawovd4wxqccdhcfc2pa5o":"ydred"
-}) // 2023-10-29T23:53:25.624Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kskawovd4wxqccdhcfc2pa5o":"ydred",
+"rcqla52he6355o66ptyiufgr":["ydwo","yum"],
+"3xveaap2p6ssnojscyyiynt7":"ydnew",
+"hhnho42bubnc7uw2n7toaxkq":["ydereky","Derek Young"],
+"ec3apwony2mhp7ooldaidfag":["ydznk","Yodazoink"],
+"bjevklpa3uffwmgtjuvh3amm":"ydalb",
+"6kxelgs7tjddm3daxftgtqdw":"ydelettre",
+"zvlsst4e3q3mkqtnpnf7hxq2":["ydra","Ydra"],
+"gtvwxhhidxsm32756rxaivc4":["ydk.vc","紅坂 柚月👘あかさか ゆづき🌘VTuber"],
+"exlry2ldlmz4jc5xaxmmicqf":["ydlugy","YD"],
+"brax2vwcsa46fhupcxgiibnw":"yduong",
+"xso6e6qy7lcny7y66m2xpmi6":["ydnaswimfly","Andy"]
+}) // 2023-10-30T08:33:08.028Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

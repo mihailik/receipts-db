@@ -112,5 +112,22 @@ var gv=(function(jsonp){ if (typeof gv==='function')gv(jsonp); return gv=jsonp }
 "witxyglib23u6zoexfkx4jn4":"gvichez",
 "onbuhb5t32e3st5b23rihgjs":["gvan11ian","Ian/admindipdip/gvan11ian"],
 "bbk3w7rbbf5gmnymxtarqowp":["gvvulpen","Guido van Vulpen"],
-"u2mzkdbtbfvcap5k27ga6jzw":["gvrtvlknbrg","Govert Valkenburg"]
-}) // 2023-10-30T00:00:47.599Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"u2mzkdbtbfvcap5k27ga6jzw":["gvrtvlknbrg","Govert Valkenburg"],
+"ndhrbgfbruhivd4drqukig5s":["gvanini","Giancarlo Vanini"],
+"xmgqub7maythbrkonxkcz27u":["gvdm","Geert van der Meulen"],
+"arj2bqrjlgmbqnjzdw6u4bj7":["gvaresearch","GVAResearch"],
+"ivg522hdevyvsqlf6rzmazmh":"gvievem",
+"edwvjkga6nqjgrmifg5vo4xl":["gvanbohemen","Gerard van Bohemen"],
+"t7aypfcp4lj54u2ti4nwi34c":["gvonsydow","Göran von Sydow"],
+"2jwa276mcj2zvhwnqcmselkf":["gvz","Georg Zezschwitz"],
+"m2s64y55eiwyhwlegwyq2qmj":["gvanloef","Gijs van Loef"],
+"sullt6g37kbt7q2eohucfsz7":"gvsans1",
+"oiqdhzizkyatkmqqp5hdjx4i":"gvnosh24",
+"6l45jt52cxadwmzweirvmgpc":"gvdr",
+"wtadj7m237rweqbo5yh5jgh3":"gvilagut",
+"m6223pbv2xm6ry2xesmjvvup":["gventuri","Gabriele Venturi"],
+"cvkfyynvqfvy36cccuu2rwwc":["gvmkhaled","Khaled"],
+"6kd5lkzi6m3kjzuzpvj3urey":["gvthepillow","🍂🌰 GV the pillow 🌰🍂"],
+"ur5gik5rzi3bi54ewcw6pmai":["gvbloom","GVBLOOM"],
+"k7ljisj7ejqm33sv2ah5tsjo":["gvstgermain","Gegen Nazis+AfD! Für Demokratie!"]
+}) // 2023-10-30T09:00:09.287Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

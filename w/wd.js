@@ -134,5 +134,10 @@ var wd=(function(jsonp){ if (typeof wd==='function')wd(jsonp); return wd=jsonp }
 "zguvlz7yfebtpdorzzmemail":["wdrarchiv","WDR Archiv"],
 "4dinrj47ubvcf3dncsngg5e4":"wdegelder",
 "dlrgg67pkum2sjimmrxbbpnj":["wdwi","Wdwi"],
-"7k2abej5v4m2cqdnhgwcjkyc":["wdonohue","wdonohue"]
-}) // 2023-10-29T23:50:30.315Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7k2abej5v4m2cqdnhgwcjkyc":["wdonohue","wdonohue"],
+"lism5raju7g7ucfpapddw7xe":["wdeo0101","임시계정"],
+"wa7g3prrdwqv6uagcrnpoqac":["wdt-b","Wolf Trenner"],
+"54zd7ckbb5sva4o6zyz7fd27":"wdred",
+"35d3rf74s67naekkvetgasrk":["wdgaster669","Gaster"],
+"afixh2wwg5acsgtf4qa2jgpx":"wdghc"
+}) // 2023-10-30T05:55:17.072Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

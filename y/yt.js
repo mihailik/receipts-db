@@ -129,5 +129,14 @@ var yt=(function(jsonp){ if (typeof yt==='function')yt(jsonp); return yt=jsonp }
 "4sqapaziw6yl7qf7gihuxzeo":"ytakeda-sec",
 "ltjwmll2hjqdkg2dgdm7buwr":["y-tkghr","Y.TAKEGAHARA"],
 "trtbk25xutg6w467k4m52h7l":["ytanricamente","🌑Vicente Rico"],
-"3xkcuoag2e56seiaiwguqhdb":["ytterbium","Jarl Hamm"]
-}) // 2023-10-29T22:02:58.116Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3xkcuoag2e56seiaiwguqhdb":["ytterbium","Jarl Hamm"],
+"uv34wlcilstxxr6ndrttbnh5":"ytheod",
+"bm55j5s72go35567vlsegxg5":["yth","/c64/music/youth.sid"],
+"nyxls4q7um2jcsrl6o3enqod":["ytreza","Ytreza"],
+"kjmvmeqhrqitvv2hjqgwmyln":"ytsfresh",
+"lgk7citofrrzctkgpk5mygq4":["yterch","Oscar"],
+"hg6cxiqxqchrp6jrhy2qzomm":["ytrdnc","Diyen hesap"],
+"t622cykgl6wlax45egosubc2":["ytac","Aytaç"],
+"zznpt5eohrbhsoghfhm67svs":["ytterklosan","Stefan Nilsson "],
+"ior2c2otresk2ibpavir4t6a":"ytian"
+}) // 2023-10-30T09:00:08.565Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

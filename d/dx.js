@@ -111,5 +111,21 @@ var dx=(function(jsonp){ if (typeof dx==='function')dx(jsonp); return dx=jsonp }
 "l35ghmz3jvidnhh7mcwndpqi":["dxutdes","¿muerto?"],
 "dk2j4mzbrag2wy7dwyrawn2b":["dxcibel.cyou","isabel (nicht freiwillig hier)"],
 "zgdljq2nhbnrjdidvzwjsii4":["dxeanny","🌙bu"],
-"d5jqnjwnvi4lqla2co5zpe4d":["dxsensx","✿ Misty ✿"]
-}) // 2023-10-29T21:45:58.329Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"d5jqnjwnvi4lqla2co5zpe4d":["dxsensx","✿ Misty ✿"],
+"4lrgnu5xcidv2gr7rh2wcqye":["dx17","Sirius★DX17"],
+"bqgpwglzjlsmike7nwlrv54n":["dxs2363","PJ"],
+"ptftdjpvjcbe57fjyiwqkwya":["dxathvallxy","Gio"],
+"enroznwct3trmewkh2lpfhyu":["dxdxdyke","Liv"],
+"34njc3l5pxxdwjxpiyxr3ere":["dxrevisionwatch","Dx Revision Watch"],
+"unfrv253rq2fvvvimpux6i5a":["dxlls","Dxlls"],
+"mthvimt2imyle6n5ulyk5v7v":["dxnews","DXNews"],
+"w6x5c563ua7lvp4znk23w6qx":"dx668-2nd",
+"pg5dwnlxxnzxx5abm62wfxyw":["dxcxmxl","Dot, not Joan Collins or Egyptian Lover"],
+"eg4426pj4yb3wotwjiyv3tat":["dxgaia","DxGaia"],
+"7q3msvhfwisi6i5ohblglpwb":"dxxrncrxw",
+"zuqoljr3zprguzxrgp4vhp6s":["dxni","Daniel 🏳️‍🌈"],
+"k53xh3nik6h5wbpyg676hnbl":["dxart","DXart_"],
+"27fhfegobrmaz3tnyoiiaem7":["dxsertbound","DxsertBound𓇳 𓍉𓊌𓈖 𓁐 "],
+"y3jdhj262icmppw7rgbnyeou":["dxiner","KiKi  ° Designer "],
+"4epgsorlszapsu7owsgcgygg":["dxrr","DÖRR"]
+}) // 2023-10-30T08:08:50.523Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

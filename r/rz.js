@@ -100,5 +100,9 @@ var rz=(function(jsonp){ if (typeof rz==='function')rz(jsonp); return rz=jsonp }
 "dghfb2rkbka6kyr4vlt42poc":"rzarrs",
 "fz67ny3jgsihc3infrie3j74":"rzmpelstoelzchen",
 "5ugidqbdrljtu46677nrfxoq":"rz365",
-"uak4egd6vbqejtnk5clfmsau":["rzepka","Dominik Rzepka"]
-}) // 2023-10-29T23:36:35.169Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"uak4egd6vbqejtnk5clfmsau":["rzepka","Dominik Rzepka"],
+"lbfgijoeg54dp4kgd6f47fzv":["rzi","RZI"],
+"nsguxxkyntfuqyk3r5pew2au":"rzneader",
+"lr7enb5ek5465ca777542o55":"rzausc",
+"2e4zvot4si2ng2lzgbft7hqw":["rzumbuehl","Reto Zumbühl"]
+}) // 2023-10-30T08:53:22.611Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -60,5 +60,8 @@ var uy=(function(jsonp){ if (typeof uy==='function')uy(jsonp); return uy=jsonp }
 "wuo45ncmwfy37zfdoizkeif7":"uyulala",
 "72ssjp5bhjlrf7yhyoshubid":["uyuyu","うゆゆ"],
 "4rkr7a73u4xx3yuhr6uttvn7":["uygar.dev","Uygar Aydin"],
-"x2sgaqhuc7iot2fiawbnahb3":["uybhys","Unlock Your Brain, Harden Your System"]
-}) // 2023-10-29T23:06:40.821Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"x2sgaqhuc7iot2fiawbnahb3":["uybhys","Unlock Your Brain, Harden Your System"],
+"ct3g5jyfghwen7h4tfwoguff":["uyamuya","앙꼬"],
+"m2kutqkbxo6tpdpolxuzinah":["uyam0x0","うや"],
+"u2iwivwwaymqrqk2iw4jm6at":"uyuki"
+}) // 2023-10-30T06:33:28.692Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

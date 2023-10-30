@@ -70,5 +70,15 @@ var xv=(function(jsonp){ if (typeof xv==='function')xv(jsonp); return xv=jsonp }
 "7jzyq3t7tu5u2r36d6nt65zc":["xvxcooldude69xvx","xVx_CoolDude69_xVx (ART COMMISSIONS)"],
 "hi4eha5xt4ruvgpvyph5gbmx":"xvos1337",
 "tey2tsrzcohrtg7zn73zpdkd":"xvpe",
-"jcts6rer66xhsebjbcbkrsa3":["xvwobi","†"]
-}) // 2023-10-30T00:00:47.668Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jcts6rer66xhsebjbcbkrsa3":["xvwobi","†"],
+"x43qvs3nixk4a3k7nhsvvtl2":["xvii","josh"],
+"63k5zhkkjntariypacxyt3qa":["xvolving","Murali "],
+"rm7rpzqhiqc3whpwnpq6ian5":["xviiimond","ⅩⅧ – 𝕿𝖍𝖊 𝕸𝖔𝖔𝖓"],
+"whvihvg6lmjldcmuu77rbhdi":["xvictus","Victus 💎"],
+"sxcrpw2x55npv7uyz4bp6a5t":["xvrmdf","Xavier MacDuff"],
+"3owoquang3fcaf24c3llgm4p":["xvividsupernovax","Vivid Supernova"],
+"rsm6xiclj3j6aqpp2x3sf576":"x-variable",
+"nn3fpb76z453nufthrjub7qa":["xvmon001","Drago"],
+"3hh65mkxjdodwvisie7wo4ke":["xvicx","XvicX"],
+"quggqmljrz35rnd4fk5qdmxv":["xvjww","란"]
+}) // 2023-10-30T08:38:14.322Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

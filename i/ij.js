@@ -128,5 +128,17 @@ var ij=(function(jsonp){ if (typeof ij==='function')ij(jsonp); return ij=jsonp }
 "dcic3sc6hybl2rsn2yx73w5a":["ijusvindrbjorr","IjusVindrBjorr "],
 "u4f7e6disykoa7qmktnkwtkz":["ijsanders","Anthony Sanders"],
 "4bk3jx764r3tovesrvzovhv7":["iji","iji"],
-"b4olvu5jx7znxtdhsgmcx3x2":["ijdl","International Journal on Digital Libraries"]
-}) // 2023-10-29T22:48:10.362Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"b4olvu5jx7znxtdhsgmcx3x2":["ijdl","International Journal on Digital Libraries"],
+"pnlmly4ebalcovp72c6ennz5":"ijncc1701d",
+"ukdzshii7rvh66llkidaohh5":"ijaka",
+"a5badlmte4u5cxulfd4t6zry":["ijo","Ijo"],
+"bl6ufjcrhwufhzwt55ukxq6v":["ijsvale","ijsvale"],
+"6gkjombgyvmb46uzks6c4uo5":["ijnkako","IJN Kako"],
+"ce2rbgiu3bkdgmusynst2stf":["ijbaird","Ian Baird"],
+"e2m335rvku5zdvha4plx5zp7":"ijbrowne",
+"xcz7vyl2vuxt6t6rejhj7od5":["ijter","IJsbrand"],
+"y6j7uuvl4al32kpwlbqyryhc":["ijaemin","Jaemin"],
+"aa4x5okgcaoijxqgzq2kdeec":["ijockel","Jockel"],
+"5g4lpp7lpstsa7zet7k7zchw":["ijon","Ijon Berlin"],
+"e6wwhbcla44osvgau6ou236p":["ijmde","IJM Deutschland"]
+}) // 2023-10-30T06:17:27.860Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

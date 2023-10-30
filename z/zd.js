@@ -104,5 +104,20 @@ var zd=(function(jsonp){ if (typeof zd==='function')zd(jsonp); return zd=jsonp }
 "3v5tay4igzrsoek33m47gn5b":"zde",
 "eag7kbo73p3zowaywt2vq7ji":["zdfmagazin","ZDF Magazin Royale (unofficial)"],
 "opedqjjukpne3wyysbinuutr":["zdenekklouda74","Zdeněk K"],
-"k3nghmeueizr54gp674zprok":"zdlawrence"
-}) // 2023-10-29T23:43:03.729Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"k3nghmeueizr54gp674zprok":"zdlawrence",
+"ru5gdf6miejanirrqvyfrcth":"zdutch",
+"bk762cxa6crbuyq4mmytpdhq":["zdfde","ZDF"],
+"nt6wcpjjacq7wssig67y7lnx":["zdfmagaz.in","ZDF Magazin Royale"],
+"vnfqluhddbjpdkcj5xusqmle":["zdenkacalimero","Zdenka Calimero "],
+"jynifup35fputbudp75up2s6":["zdongl","yoxter"],
+"syjg6lswtxet2niqpbblvtrz":"zdamico",
+"kbmzkpnmzi7f5bzjialoba5o":["zdellaert","Zoe Dellaert"],
+"xpphglbzzx3zqsno2f4k6y4p":["zdbr","ZeroDrak"],
+"nk3n3ywcggt32vzlsdbk6nmn":["zdeninka","Zdenka"],
+"256dvo2qkj5bmvj673ge6kml":["zdzisiu2007","Zdzisiu2007"],
+"ki2ycwdkpbbno5ivxysvmfly":["zdoor623","ZD"],
+"ehjgmrqqnlzdkrh5fpngqpv7":["zdabigail","🍂💀👻 Spooky Abi 👻💀🍂"],
+"5lzzoghduy63p2lfw4rw3wfk":["zdg20","Zed"],
+"rkopexxbgmurrnwvuahg5apj":["zds66","zDS"],
+"aqvpql5kvv2ex5lotqcnnuik":["zdz-gaming","ZDZ Gaming/ Zoey Parisi"]
+}) // 2023-10-30T08:33:07.648Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

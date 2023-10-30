@@ -136,5 +136,21 @@ var nv=(function(jsonp){ if (typeof nv==='function')nv(jsonp); return nv=jsonp }
 "mnvjwteg3g2igchbvqnqksos":["nvondarza","Nicolai von Ondarza"],
 "ma6or3ecjuziibcqexium332":"nvakna",
 "mfrqp46zxecogsuge2qvx7ym":["nvgotd","Non-Violent Game Of The Day"],
-"qs24ctbgjdwdhhmajj6qxb4x":["nvcl347","Nuclear"]
-}) // 2023-10-29T23:40:12.534Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qs24ctbgjdwdhhmajj6qxb4x":["nvcl347","Nuclear"],
+"w7j7dypldyokprrdiotj5xxx":["nve","은도끼"],
+"i7fsgeyxqvdcmgaq4p4oyhb3":["nvseismolab","Nevada Seismological Laboratory"],
+"uzv6vsvut4sm7y64ag7cnovp":["nvarlineau","냐모"],
+"jojflukvv7pk2q656llhdpj6":"nvmtht",
+"yxtljpenso7mcdwytemt6xdm":["nvermaire","Nancy Vermaire"],
+"s5m7mkeqgqf57f6cn5wmexhb":["nviau","Nancy Viau"],
+"sm2dta63ans4e3wjyrfftn64":"nvmitspuff",
+"dwc664k5l6s4xqrvggewr2w4":["nvandemaele","Nicolas Vandemaele"],
+"hwneli3yl4aeg6rmwryistma":["nverse","nVerse"],
+"hgsgh3qli5n3tk3kwl4hlt2w":["nvj","Nederlandse Vereniging van Journalisten"],
+"7gdlyrbbkz4p6owpjyhsecao":["nvontobel","Niklaus Vontobel "],
+"tddw434i4lllg5kugtsn4m3e":"nvv49",
+"ltwjnxbfg6eev5j3aayorf5y":"nvasari",
+"cndmkti2izywjjgbc22jhej5":["nviek5","Nviek5"],
+"h36mqm3h4vuxhblgulsq456u":["nvgafa","MK"],
+"v6ttei42lpexuuhrjnvtefyf":"nvspirit20"
+}) // 2023-10-30T09:02:25.037Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

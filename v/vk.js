@@ -109,5 +109,17 @@ var vk=(function(jsonp){ if (typeof vk==='function')vk(jsonp); return vk=jsonp }
 "herbha6bihzvhcx67q4cy7ir":["vkm68","Evkm68"],
 "ongdzwbmekn5gjihyhldwg2h":["vkonanur","Vaibhav Konanur"],
 "v3sm6w46bun4frionun2j5xw":["vkr33l","Vkreel🔞"],
-"2ijqgohmiywtqtbx2qdxc25e":["vkinaret","Ville Kinaret"]
-}) // 2023-10-30T00:00:47.663Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2ijqgohmiywtqtbx2qdxc25e":["vkinaret","Ville Kinaret"],
+"arev4ebtpghlefwzwlod2b53":["vkopp","Vanina Kopp"],
+"6bbmb3bsy5pitsi3jl2yzsy3":"vkar",
+"sld7fnmujhd443jssetwxltb":["vkmcriss","VKM"],
+"h4b7cp4jxpu3uq7wekn3k4r7":["vkristina","Kristina "],
+"j6xvtkbt624a27fzjhfs6mre":["vkirishima","Klee"],
+"6qehmxdzfx2sbpblpw53j5mn":["vkvmffk","파프리카"],
+"ptmzimd76ktvbss22vctaeoe":["vkasch","Vinzenz Kasch"],
+"yefhpw3wqzozph7ls36hxoin":["vkaeru","VKaeru"],
+"wo326rimq5eda54l2qncdllp":["vkmacro","VK"],
+"bya2ndtheuvhzu2ndihkai25":["vkzlnk","VladKo"],
+"jswleblvol7ugj263re7fd2c":["vkelis","Vkelis"],
+"c63zlqoohz7kbvnsaaoynudv":["vkono","V動詞"]
+}) // 2023-10-30T08:10:22.448Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

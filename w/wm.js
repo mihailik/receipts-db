@@ -162,5 +162,15 @@ var wm=(function(jsonp){ if (typeof wm==='function')wm(jsonp); return wm=jsonp }
 "uxk6hrvhf4uzfbbcl3bb5uzs":["wmpenguin","Mike "],
 "cfgmmh3pvqjxvbx775bcif5h":"wm77t",
 "z72ftvq37nsj4mci2zwnl7u7":"wmorland",
-"3oi5vnjpfdhcj3vxg533x7m5":["wmeingott","Chico Capellas, New York, Ostküste"]
-}) // 2023-10-29T22:49:35.727Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3oi5vnjpfdhcj3vxg533x7m5":["wmeingott","Chico Capellas, New York, Ostküste"],
+"6vsli3gu7lpm2nczmu53jaep":["wmrvotes","WMR Votes"],
+"wdwsa5twexxewkbvcl62p6nt":"wmryland",
+"5zvqmcrm25dtkhu3ygvtdm6u":["wmankowski","Walt Mankowski"],
+"wrrinhne5wc4vsmzrow7syck":["wmtheatreguy","Theatre and politics. Not always in that order"],
+"3hfm7vtfzmil3jy4uabrieeq":["wmiguel","Willam Miguel"],
+"u7gtw52kkwqhfakr54s2fzd5":"wmewett",
+"h3sj3tldr2uj2y7injqsygwr":["wmk","Werner M. Krauß "],
+"ibylmzn7fncp3pfoptsaylch":["wmy","Woomy"],
+"jl4ecrq3cq67x2kjomtnhpn6":"wmxwu",
+"6i5yasa6mu3cy7qz3xx2b2wu":["wmbrands","Walter M. Brands"]
+}) // 2023-10-30T09:04:30.316Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

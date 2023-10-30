@@ -211,5 +211,20 @@ var nf=(function(jsonp){ if (typeof nf==='function')nf(jsonp); return nf=jsonp }
 "nyb7mdmkwxom2jnjpbmyf65o":["nftcomicsclub","NFT Comics Club"],
 "j73k5a3rs7dgvorsrpbul2ks":["nfulminaris","Chúrsula"],
 "zcgivbff2k2uwxs26nggs2c3":["nfanzi","Nico 🙊"],
-"iktjpbufogwdhvdbhvt3wxgo":["nftirl","NFTIRL"]
-}) // 2023-10-29T23:03:48.093Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"iktjpbufogwdhvdbhvt3wxgo":["nftirl","NFTIRL"],
+"he3t3xhynng7rxuypqyjuedb":["nfgaeckle","Nicolas Gäckle"],
+"hnoo55pkfinc3ulk7krg4bca":"nfruin",
+"ufc2gyby32pwfzilg7eglkm4":"nfield55",
+"hsz6p6loysxsvtpcgngf7xeq":["nfaure42","Nathalie Faure"],
+"r36v6krzzs34ughuxquzny4g":["nfalk","Nicole Falkenhayner"],
+"qez2tdew5enqbtjslck5nypd":"nftapp",
+"h5va3ago2za5ph3haio46bmp":["nflaig","nflaig"],
+"obte5zrv7hontzgoiogzmfab":["nftortoise","NFTortoise"],
+"j7jymkv2mbjgoxcki3yd547d":["nfode","Nick"],
+"dqig2thmycgjg752vyar5qtz":"nfonrose",
+"kzwc2kfa6iexo6oxudtxxkcj":"nfried",
+"fkrocy22x5ocsnfnv6da7yco":["nfel","Nils Feldhus"],
+"4worpez6so7mxlvr5jffljbc":["nflencatala","NFL en català (+ Tots al Blitz! a Catalunya Ràdio)"],
+"egu46xkh5su5ti5mbhcnbu45":"nfertola",
+"3wdbeiemfylpdlktyr2hexei":["nfuduki6","文月"]
+}) // 2023-10-30T08:47:12.306Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

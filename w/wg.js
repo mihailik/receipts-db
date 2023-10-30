@@ -66,5 +66,9 @@ var wg=(function(jsonp){ if (typeof wg==='function')wg(jsonp); return wg=jsonp }
 "nf43wbm5ifkifbrvl76lan2j":"wgibsoniii",
 "wwdetqfqukesbpdk6nybr3gm":["wgfoundation","The Writers Guild Foundation"],
 "xbbsciw7ax5qfzr22e26xbbl":["wgkiv","WGKIV"],
-"wo65jf3j3v6j3swya27dcuhr":["wgnhim","Steve King"]
-}) // 2023-10-29T23:00:42.277Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wo65jf3j3v6j3swya27dcuhr":["wgnhim","Steve King"],
+"osghzyviv5bt5mese2uv6ij5":"wgoldberg",
+"r2wm2vu6ocbm4teeetwgamjo":"wgren",
+"nzbnabbowtb73nctgftdxgax":["w-giniewski","Will Giniewski"],
+"iotuxorx3uvwb2nhopnkouti":["wgibss","Wgibbs"]
+}) // 2023-10-30T04:31:41.612Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -168,5 +168,20 @@ var qw=(function(jsonp){ if (typeof qw==='function')qw(jsonp); return qw=jsonp }
 "k66twtdqm3j6k4ljems537f7":"qwer8100",
 "pj4to5bx7e2vf5y524hkniyq":["qwicksylver1","Qwicksylver"],
 "7clnoqro5n53rxuriqjlm2lf":"qwenwhytewood",
-"i3r2vmb53sbjcxmne4tpzyib":["qwentalks","關"]
-}) // 2023-10-29T23:53:25.647Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"i3r2vmb53sbjcxmne4tpzyib":["qwentalks","關"],
+"ryfooamkqf5swieouttuogwz":["qwang","🧢"],
+"f7aoa2avq4g36yvghssaxsbh":["qwa1110","덕질하는 국화"],
+"gukyesvpbmyfgc46dz25yzuk":["qwaa","Qn"],
+"hs3hot5huofxehibons5bpoe":["qwertyicebox","Qwerty"],
+"bfjwxcyt3lnewvr5uiycp7il":"qwerpoiu",
+"5mi2rpklsynalgidkamcntev":["qwarx.de","Das T aus PflufTl"],
+"54a6lvuoxujop5rig3xwmhyz":["qwertydoo","Markus Strahlemann"],
+"hgwppklgookxmbq2o4c6wvii":["qweertii","qweertii"],
+"wi6npznuo2m5d3p5uo7sv545":["qwertzdiscourse","Qwertz"],
+"lljssyucblbfcdtttnhnjoq6":["qwertz","qwertz"],
+"3bxyfm4tp2soycsxg26ajtsz":["qwobot","qwobot"],
+"unjuv5zqqbvb4lcmhxvhh7bn":["qwertyan18","🎃 tu madre 🎃"],
+"k2iapbnyuz2j2qagzekhdnuo":["qwertymagazine","Qwerty Magazine"],
+"5xbq2iixmshyv4uhqxf53vuv":["qwatta","qwatta"],
+"vb47fyljfrsudsjzs4edgqtg":["qwerty-quarty","qwerty"]
+}) // 2023-10-30T08:33:08.096Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

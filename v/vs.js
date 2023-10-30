@@ -229,5 +229,25 @@ var vs=(function(jsonp){ if (typeof vs==='function')vs(jsonp); return vs=jsonp }
 "5ajtp7jzx3g4ijqjht4kksnc":["vstrawberryart","✦ Velvet Strawberry ✦"],
 "xwh423yrhb2rjj6jcffe6imx":["vsandoval","Vicente Sandoval"],
 "u6bighkotvr44w3mmnborqnl":["vsobrado","Victor Sobrado"],
-"gvfcfighdcv5z7c3iathxgga":"v-sonari"
-}) // 2023-10-29T23:53:25.641Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"gvfcfighdcv5z7c3iathxgga":"v-sonari",
+"k6rdkvxffm2m5h2ep2nwe6nu":["vsorichetti","Valerio Sorichetti "],
+"lyrdrayx6w2me5rnvz6wyxfh":["vsgde","Videospielgeschichten"],
+"wk2rfcqcqhxumvr6tyeje4dj":["vschoenleben","Veronique Schönleben"],
+"d5g55yaaxavily4hujzr7yuq":["vsaarenketo","Ville Saarenketo🐎🌪️"],
+"qmwpid4t2sy23wrn4da7wzt3":["vsw","Victor Skywolf (Pre-Debut Vtuber)"],
+"4iprufahan7n42y5cji5taz6":["vslacks","Chris Braunsdorf"],
+"r3hjng2ob5su44uu2b377kns":"vshnvisingh",
+"35yzzm4eb42fkxbvgpc4675t":["vsoaringv","비상"],
+"zg2fhmkodxsehh22wgc2xyes":"vseriousdave",
+"ouculbecp2rd5r3atokwct4w":"vsan",
+"wk3budj74tcfxvo4cxqz55ii":["vs41","ｷﾐｸﾗ"],
+"wbqd535yssffwgwomqexy4q4":["vsta1304","ヴェスタ"],
+"a7u224ynrz3tgb7r674amdeu":["vstrides","?"],
+"s2tmnhoml6ab74qx7cpvd4mq":"vsantosnei",
+"5hmsqtqhdwgo5giylsgeaug4":"vskvtch",
+"p4mpiuhviofzvkj3zukthxp5":["vspar","VSPAR"],
+"vbquhtkaxyvdiqoluk7o4dlu":["vssghosttales","vssGhostTales"],
+"5a6sjvkv6e7rweuj3feiyb2p":"vst",
+"g5iupnbrewk6l6svgp5ialxk":["vspaetgens","Volker Spätgens"],
+"dyveeb74oeldjiyfvfbkgexv":["vsangelpink86","👻 Ghost Girl 👻"]
+}) // 2023-10-30T08:53:22.591Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

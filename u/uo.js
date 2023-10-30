@@ -82,5 +82,16 @@ var uo=(function(jsonp){ if (typeof uo==='function')uo(jsonp); return uo=jsonp }
 "2vnmgpetdox5bqphttpuxykj":["uoahqq","탸"],
 "aditndi6cqubb5r4cvrtnnkj":["uolpress","University of London Press"],
 "3xqoq2wxkmocxyqk3qlpas2r":"uofohumanap",
-"gxskt4cbcend6vqcy7nkbez2":["uobrishistory","Historians @ Bristol"]
-}) // 2023-10-29T22:35:36.014Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"gxskt4cbcend6vqcy7nkbez2":["uobrishistory","Historians @ Bristol"],
+"7d43myyt4zvvcjy6qtfnaqxt":["uorbe001","Unai Orbe"],
+"7dl3hkgwkkaq5sfmmzmiipga":["uomo-accattivante","uomo-accattivante"],
+"wemvww7xtotny5e2w3o5qhiu":["uoh","pancake"],
+"3p7sgqditx3dvta3y6b5d7lj":["uou723uou","もぎ"],
+"5b35cenktg5ljeeqoeouhe7y":["uogpsychology","University of Guelph Psychology Department"],
+"ebzaa4r7fndpi6vw6yks3kdp":["uohtam","Mathilde "],
+"fyjrncbet5w65lzjumgqcqpm":["uo6ep","dagon"],
+"yl2xq4y65oy6bqjy6dafiika":["uomnch","Museum of Natural and Cultural History"],
+"uqdgtealyszklldxlu3wm4te":["uofg-cspe","Centre for the Study of Perceptual Experience"],
+"le4ddqns55wvcozb7p322sg5":"uomodelmare",
+"ry273y7fovek3plepvgqmgot":["uomparticle","UoM Particle"]
+}) // 2023-10-30T08:53:22.386Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

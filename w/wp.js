@@ -92,5 +92,21 @@ var wp=(function(jsonp){ if (typeof wp==='function')wp(jsonp); return wp=jsonp }
 "muvz6afgifmt2zejkcncnpcj":["wpgurbannomad","Andy J. (A.J.) Carlisle  "],
 "3pziy5eo3m6ovymxab7u2sne":["wpears","🍐"],
 "dbsk7vm5cicfi7fsrm67awyk":["wpssy","𝑾𝒖𝒏𝒑𝒖𝒅."],
-"nxqogkun7groodb6zhxmrubh":"wpeterg"
-}) // 2023-10-29T23:17:09.648Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nxqogkun7groodb6zhxmrubh":"wpeterg",
+"szxt2luceyvm7sobnbqwr46v":["wpusparini","Wulan Pusparini"],
+"iowlg2tw5zljbzk6z5rnlza2":["wploosvanamstel","Walther Ploos van Amstel"],
+"rxyy3kbhvpcyqnlealp2ol7v":["wp-debug.de","DebuggingWP"],
+"va4neqziqvvuylx6o5tq2urx":["wpgsarah","Sarah Teetzel"],
+"mlocj3beaq3kxxqrn5yxapgb":"wpfeffer",
+"pb52zt6u6fgroc6qz743kts7":["wpr","World Politics Review"],
+"n5znokayw2rd4fkxb7hxtqf4":"wpninjasnl",
+"526duanjgut7b6meh5mjt5dh":"wpninjasummit",
+"65efjkfgsulmvae2ohapeixu":"wpiers",
+"nmmaj4stqhutqjz5jc4xx3dc":"wpgcoder",
+"qe7sl3axbbunxaa32w24nupq":["wpltih","かすてら"],
+"23b3kzskn2arhflsxske67fh":"wpco",
+"sa4d3l4hugkvxyzqjrol6try":"wpletch",
+"poc2kxbgpyfgzzci2hwntg5c":["wpgbluebomberfan","Jason "],
+"he63rh7wh2znmc334ivy2nnn":["wpgradford","Wpgradford"],
+"l5yn6y7vxzhurqfunndomdjg":["wpts","William Pouts"]
+}) // 2023-10-30T08:00:13.949Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

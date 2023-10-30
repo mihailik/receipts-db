@@ -130,5 +130,20 @@ var bv=(function(jsonp){ if (typeof bv==='function')bv(jsonp); return bv=jsonp }
 "24c6qayvkj3kruphfnq34cng":["bvancoppenolle","Brenda Van Coppenolle"],
 "nz6evruqp5lukudtrnfhzujz":["bv-tv","Baron Vaughn"],
 "nqh7l4jniett7zjadi7sws2h":"bvaise",
-"goclrprwr7cpilbsmzlr43b2":["bvbanja","Anja"]
-}) // 2023-10-29T23:35:08.630Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"goclrprwr7cpilbsmzlr43b2":["bvbanja","Anja"],
+"yghhndwrjfnwcee55fcpvujy":["bvbrow","BVBrow"],
+"o3k3knnfnobiwsufy3xp2les":["bvoelkl","Bernhard Völkl"],
+"nifiawpzyehkqsmgsfovsgla":["bvg","BVG"],
+"h3fggcwtyxvh3czxeg455xra":["bvnny","Bvnny"],
+"3rfznlzdrdartle6dznpaeey":["bvimhoff","Benedikt von Imhoff"],
+"nozfk4czfkxtvn7t3mrpx3nb":["bvssic","BVSSIC"],
+"begwauwgl3maaysrfasmwbdt":"bvbtamy",
+"vbo7kwvs2v72dsbr5aqoogkc":["bvbstan","Bvb_stan"],
+"wnuop6icmtxeec7pr25np4fo":"bve",
+"fis3tvt23nxgxs7voanjzrh2":"bvlqires17",
+"q2ummfrqyezn6u2lzlj5vtcm":["bvnnyadvent","lunaskye"],
+"4c6j2zumx5xzwhdy4h7zgmoq":["bvon","Bridgett vonHoldt"],
+"7xeqqvq4k4nenmgjqbapvrur":"bvbjoker",
+"hme2h2ikkhdks4bsbypl2su3":["bvnnybonbons","🔞🕊 Bonbon!! 🩷"],
+"pkrahndkefi6rura3lg6yvfb":["bvnnybrains","Randi • 23 • autistic"]
+}) // 2023-10-30T09:04:29.723Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
