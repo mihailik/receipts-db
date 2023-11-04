@@ -56,5 +56,12 @@ var zf=(function(jsonp){ if (typeof zf==='function')zf(jsonp); return zf=jsonp }
 "a6sbd6nulbuqwbal2p4kljge":["zfbx","Tony"],
 "xxwupmoe4hg22xvmmavp4skf":"zfrake",
 "f7qkgcb3oak6r2lrtas4ijjs":["zfdykg","🌻"],
-"66vpgsleqgad4u5q6k377gw4":["zfs","Zeitschrift für Soziologie"]
-}) // 2023-10-30T03:29:10.410Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"66vpgsleqgad4u5q6k377gw4":["zfs","Zeitschrift für Soziologie"],
+"3gsmh53skwump43svdgxrwar":["zfunk","riIey"],
+"wgaiinxfwvdlyjtaaqnv3ndv":"z-fungi",
+"37dybss7trgxvni47rbqbe7r":"zfjannik",
+"jmpf24ck3ww3utcnndoq5h36":["zfert","Dan"],
+"4fk3gj64ahoyzp6hrfj6443p":["zfoxy","ChaosUwu"],
+"m6cs52zlfvet7ks2pb2jkxge":["zfrmbr","MBR"],
+"eanntjcue5rxqywxyr2sryeg":["zflamescionz","Nicolas Bertoni"]
+}) // 2023-11-04T06:07:39.187Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

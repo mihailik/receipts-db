@@ -147,5 +147,23 @@ var wb=(function(jsonp){ if (typeof wb==='function')wb(jsonp); return wb=jsonp }
 "fumszgj7u6hbpiv3a7lxquo5":["wbellfu","ふうりん"],
 "jyv2bapq65m55lsueodfs4o4":"wbhokie13",
 "mlcsi2ckbiays6f4v7srnlxd":["wbjorn","Björn W"],
-"d4dcncn625flr3tcvjm67ryo":["wbehrs","Wolfgang Behrs "]
-}) // 2023-10-30T08:19:03.337Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"d4dcncn625flr3tcvjm67ryo":["wbehrs","Wolfgang Behrs "],
+"zok73rnmwhwnkzkz6ev2rdya":"wberndt",
+"ourhivydw5qvazzqc4zzwhtf":["wbgalvao","Wilder B. Galvão 🪐"],
+"ldispyfgjedyaotfmqh4ykga":"wblambert",
+"irkcxgn3aehzxl5q77rlhj6m":"wbrown21",
+"fmuqvr3iiqhxxtn5j2n7flgj":["wbirdstudios","Wisteria Bird Studios"],
+"347r3rlv3j5ondwfczwxis7d":["wboiledxtreme","Juna"],
+"c4btujind2sdgvzecx5hhily":["wbhdm","농(여기 플텍없나요?)"],
+"unoiplfnrkr5mzxd3cfyqzui":["wbcenobyte","Sergej Fährlich"],
+"5gurpu7kscnt5ddyyqbfiukx":["wbeamilton","Bea | releyendo One Piece"],
+"rcugljjncmdzswlefntpbd43":"wbtbuthrny",
+"npkph5sh3maoth6bjrid7zmf":"wblakegray",
+"zdcqntvoutgakdr6gx4sjarx":"wbeers",
+"hxtv5to4ekypdftwyyyyoabt":"wbfisher",
+"c3wqq4ynexiivi5wsuf47ukd":["wbobbly","mint is bouldering 🍊"],
+"fhdecfqe3qvr6lyr4wsdac5n":["wbfletcher","fletcher"],
+"obcmykxvb4qhohx4j2n4qdx7":["wb851","WB851"],
+"7trux3fbbslyr6albw4metgg":["wboer","Will. B. "],
+"uqq456bdi5coj57euldiekkv":["wbwdb","WB"]
+}) // 2023-11-04T06:09:13.534Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

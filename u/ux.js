@@ -59,5 +59,8 @@ var ux=(function(jsonp){ if (typeof ux==='function')ux(jsonp); return ux=jsonp }
 "jatyzvfbye2vi72smxy4wb7t":"uxorie",
 "ttah23e2kpjpjxpyo4uqhupm":["uxklug","Uxklug"],
 "wnxhvr5jgw3gmpqnp42d7usd":["uxioabreu","Uxio"],
-"obqfpntyo6e4ie25zru5ij3b":["uxlondon","UX London"]
-}) // 2023-10-30T05:55:17.164Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"obqfpntyo6e4ie25zru5ij3b":["uxlondon","UX London"],
+"qdqpqq4ub2lqop6ou52zkf24":"uxh",
+"dheydrolpkobq4v7qdxi2fas":["ux-dragon","UX "],
+"aqaviyr7wifzgxfgqbtwsuca":["ux-max","Max WV"]
+}) // 2023-11-04T06:55:47.594Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

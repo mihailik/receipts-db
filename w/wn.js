@@ -109,5 +109,14 @@ var wn=(function(jsonp){ if (typeof wn==='function')wn(jsonp); return wn=jsonp }
 "7d2bo2db7cmwxk5ncszulv4f":"wncwobbly",
 "hvvcvme4xacgmvs56s3wmfzu":["wnon997","Wnon997"],
 "5jjkiltwig4iiaysyeiiavvp":["wnxjin","白巾 WNxJ"],
-"cgqiz6a3q5gk5nnz5mlzqv7v":["wnglucroft","William Noah Glucroft"]
-}) // 2023-10-30T08:53:22.554Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"cgqiz6a3q5gk5nnz5mlzqv7v":["wnglucroft","William Noah Glucroft"],
+"jsx7ot4ufboofit47rmnjmf7":["wnekokuti","w(ねこくち)"],
+"fno4cuchrmeow2zfoa6haj3r":["wnfcdojo","WNFC esports Dojo"],
+"yrqnj7gfevnf7hts6dmutwjf":["wndlb","Wendell B"],
+"mkou2lrlul7opnp6ity2l73s":"wnstn31",
+"qui76awtmc3yrwbrcezl5g4c":["wne","wne"],
+"bmeqkjutwlhxby3p2qg3kej4":"wndr1ngs0ul",
+"vids6qkm5po53q2is7kabci3":"wnz",
+"6q6vv5ttcw4wpjaqfalruun7":"wnfan",
+"rxx5coyg6d6pf7sb5uwxa52i":"wnhenkels"
+}) // 2023-11-04T06:46:30.835Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

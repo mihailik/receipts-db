@@ -66,5 +66,16 @@ var qb=(function(jsonp){ if (typeof qb==='function')qb(jsonp); return qb=jsonp }
 "2y2nn4lzztifjmz7whs3s4p6":"qbyter",
 "xdzqe6fn4fxagkiau36jlofl":"qbips",
 "nc5pbexg7bxnuvrvmm627c24":["qbdeutschlehrer","Deutschlehrer 🇩🇪 🎗️"],
-"qszdklmb5jdod6vcdi5bvtod":"qbooker"
-}) // 2023-10-30T07:27:37.340Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qszdklmb5jdod6vcdi5bvtod":"qbooker",
+"j52w3vxpdqpkl3ytqkqlc5jq":"qbips13",
+"6zcgx6jcajl5nr6j2rf7ix5n":"qbieshay",
+"57kadoqqbo7qoulstgnkccrz":["qballpak","evelyn"],
+"zppfxol6dnd5tyh2gcf3amlp":"qbit",
+"n552l7j4x6o6pxn6mw7u3yay":["qbeeremedy","QBRemedialLessons"],
+"wfpuwennpavqngo7iqknpnnn":["qbqb","큐비"],
+"y5fugqgbfg6ztmbqwccp3izc":["qberbear","QberBear"],
+"il22jskjva53t5y7z7qccgqf":["qback27","Qback"],
+"mmukhhptdopjln6qtbvaiesl":["qbach","Michael"],
+"rifzdt3mbfdz4ri2pj7vrypt":"qbness",
+"6tbcadvx3yzo5r7zxiwtrxis":"qbaner"
+}) // 2023-11-04T05:48:14.461Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

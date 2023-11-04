@@ -112,5 +112,18 @@ var uu=(function(jsonp){ if (typeof uu==='function')uu(jsonp); return uu=jsonp }
 "qo5tteh6u7ybmewm336q7kaa":"uuidzero",
 "moyauciicmshlgylc5bacna6":["uuupah","uuupah "],
 "orjk7jbwtc26jwhjlyg7fgtd":["uungor","Uğur Ümit Üngör"],
-"3nhmwuld774abuzvzf22gfta":["uuulmer","Matthias"]
-}) // 2023-10-30T09:04:30.602Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3nhmwuld774abuzvzf22gfta":["uuulmer","Matthias"],
+"7m7oosfqde2urasi22pagtvt":["uuq","Angel"],
+"tqmoqmir6sd46mtewj4vy4uv":["uu22","유식이집가고싶다"],
+"tcpsafnc3f5uxmtqk53qcjpi":["uuxmnr","UUXMNR"],
+"ay7n5um3zgk2n2hffn5lxic5":["uumeronuno","Uno"],
+"vf7ftvelmnla4ns2lvxeul6g":["uuurrii","Urinal ✨"],
+"l3mwrnfrikxduazagolcs4xz":["uugo3o","ugo"],
+"2w6otsrvmadmfilhlp2cc4fl":["uulrichson","UUlrichson 📯💉💉💉💉"],
+"x7d7sz62js5wqjaf332l5a4m":["uuxyz","Double U Ex Why Zee"],
+"7tjclz2gcm46idtspqrt6jbr":"uureeb",
+"5lj4ewdliqxfqqbl22imae56":"uuchujin",
+"w6gcaoatbfge5z2gzv7c7dms":["uufou","Gen"],
+"2kv4ahwyyxomuziebo5x2awy":["uusilauri","Lauri"],
+"4sfo45f3uyndpzudqguoee3o":"uuupi"
+}) // 2023-11-04T07:21:43.478Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -34,5 +34,7 @@ var kq=(function(jsonp){ if (typeof kq==='function')kq(jsonp); return kq=jsonp }
 "q4zhmehghn5sa2d5n4nyhrwz":"kqtell",
 "ef65gfwegmt5aobhpogg63ek":["kqdrew","Drew"],
 "errc4reahf2duqmhl3gx3eta":["kqtscratch","Kit / Lizard"],
-"gzajumbeg5c26zrtcflsafbu":["kqurmiferinuzeyox","Kqurmì Ferinu-Zeyox"]
-}) // 2023-10-30T07:18:45.670Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"gzajumbeg5c26zrtcflsafbu":["kqurmiferinuzeyox","Kqurmì Ferinu-Zeyox"],
+"5wkrdl6f6jgkiojjeeypbv4a":"kqquin",
+"7eggaxf5vfq6i5lxfzqyqe57":["kqllisto","⚠️Kal 🌒🔧Space Boy Vtuber⚠️"]
+}) // 2023-11-04T00:28:21.702Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

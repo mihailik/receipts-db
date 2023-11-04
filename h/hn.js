@@ -209,5 +209,20 @@ var hn=(function(jsonp){ if (typeof hn==='function')hn(jsonp); return hn=jsonp }
 "dam4alcorpplvgjfnue33sgh":["hnrqklshnkv","Henrique Kalashnikov"],
 "e4vxpf255xkkthdbu5nicbot":["hnirom","Hervé Morin"],
 "5ki4mxytbomckts2st45yotc":["hnrss.org","Hacker News RSS"],
-"jq46my74r6rf7gnqamu6snao":["hnmsr03","Hinemos Ren"]
-}) // 2023-10-30T08:41:30.249Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jq46my74r6rf7gnqamu6snao":["hnmsr03","Hinemos Ren"],
+"iifmhmd72a37poj5w2q4yvfn":["hnpk","PH"],
+"7p7e4jctu2q74luw36ntpj23":["hntrofthehntrs","loog"],
+"hpjqxadtt622evfnnlwllzxx":["hnnari","하늘나리"],
+"vapbo3yi5legljp54sli7d7p":["hnnhgskll","Hannah Gaskill"],
+"gpadqr6vwt4hak4rebfrwugd":["hnybnny","madison 🐉  missing my moots"],
+"nllk5q3tmunml4mqn6kfjd7q":"hngryhngryhmbo",
+"dsqpdn25dwvcz5xzbmvfkibi":["hnt1120","ひなっちょ"],
+"kb5cbxiudwck472zlny72ueg":["hnlab","HN Lab"],
+"ub4b4fepce2t7u2pnkkerxsj":["hnerak","Karen"],
+"zdyxr6v33rqdpbhk32qrpfmm":"hnamazian",
+"wexlzlytogdne7qr772cw6nr":"hnagato",
+"mkbyfmo6vryiihk6sisj6q5a":"hnsmn",
+"3byuj76crycibjngpjc7gpuy":["hnbskt-ad","HnBskt AD"],
+"tfapwg2gyakbaivd5w3xwovg":"hnwart",
+"3zgojukvxv72txan2phy4nf4":["hneuhausen","Hubertus Neuhausen "]
+}) // 2023-11-04T06:51:49.894Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

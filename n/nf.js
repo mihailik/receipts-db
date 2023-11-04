@@ -226,5 +226,25 @@ var nf=(function(jsonp){ if (typeof nf==='function')nf(jsonp); return nf=jsonp }
 "fkrocy22x5ocsnfnv6da7yco":["nfel","Nils Feldhus"],
 "4worpez6so7mxlvr5jffljbc":["nflencatala","NFL en català (+ Tots al Blitz! a Catalunya Ràdio)"],
 "egu46xkh5su5ti5mbhcnbu45":"nfertola",
-"3wdbeiemfylpdlktyr2hexei":["nfuduki6","文月"]
-}) // 2023-10-30T08:47:12.306Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3wdbeiemfylpdlktyr2hexei":["nfuduki6","文月"],
+"3735brk2kdniudzun45t7ftn":"nflow",
+"zf3yfueepmoizbh577q6ycg3":["nflade","Norbert Flade"],
+"sj4lnnxlqjnomaqfezx4f37r":"nfdff",
+"rxg6fj5r6skk5kkunm6di4gl":["nfwolf.furryrepublic.com","血月天狼🔞 🇳🇿🔜🇬🇧"],
+"2kj4alwk3epzfndizrfbsu6k":"nferique",
+"ohuvfmres4lkqvb2rz6mp4jk":["nflinmotion","Damon Wolfe"],
+"5svhicxkxrmvrgkgfhgfgo34":"nfortunato",
+"fhn25ue6niobjrvbubm3ch3f":"nfhcpodcast",
+"gmhozmerxu6qzbyelbul5axh":"nferguson",
+"lcdi6dpqonn34xlvfhkkbvtk":["nfg","netzwerk fahrrad/geschichte (nfg) "],
+"r6nyhokgpw3bhyvjbis377rd":"nf29485776",
+"2usom52yovzwtwac6k63qhl7":["nftdomains","NFT Domains"],
+"klgn5cgkampbdrtazrm4poql":"nfuji",
+"djf76w6qkofi53nk4ymrkvqx":["nftdemon.com","Jeremy Ryan AKA NFT Demon"],
+"tnn77k3m6lpckabrm2y47c6b":["nft-campus","NFT CAMPUS"],
+"e7qjgalpg3a5jboj25ggwxcs":["nfcroleplaygaming","NFCroleplaygaming"],
+"ok2j2fkklqw5unz3luvecptg":["nfrost","Here we go again *logs in*"],
+"37l6l5pzb6caqmm7dgat6t26":["nffts","Steff"],
+"6bfdcma4ioyexcxgfdgar2cm":["nflspy.com","NFL Spy"],
+"t7qybi26oxxdyfj5isoggrrz":["nf7","NF7 / Phyzign"]
+}) // 2023-11-04T07:19:29.063Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

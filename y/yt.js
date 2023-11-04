@@ -138,5 +138,16 @@ var yt=(function(jsonp){ if (typeof yt==='function')yt(jsonp); return yt=jsonp }
 "hg6cxiqxqchrp6jrhy2qzomm":["ytrdnc","Diyen hesap"],
 "t622cykgl6wlax45egosubc2":["ytac","Aytaç"],
 "zznpt5eohrbhsoghfhm67svs":["ytterklosan","Stefan Nilsson "],
-"ior2c2otresk2ibpavir4t6a":"ytian"
-}) // 2023-10-30T09:00:08.565Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ior2c2otresk2ibpavir4t6a":"ytian",
+"vfyxvatrwilou2wy466swv7a":"ytsurr",
+"72w5t7xapnw7qahjlm4ygzk5":["ythenius","Ythenius"],
+"y22xc665raiyqwrhb3ujtzxc":"ytr1um",
+"zyrwhmivjpp67eswpobsqacy":["ytdepressin","DepressinYT"],
+"3srra5b2st6rahx4tb2gphvm":["ytpsexer","you know, the guy"],
+"k4mpgbp5xr5bdexy3zpiudex":["ytakai","хуйня нерухома"],
+"aau5347b5yzfdawovo3f47uz":"ytter66",
+"mbgvp3lgczbpyd3xtefmyx26":"ytw",
+"nmdg44kkx4g7slcryfjdat2i":["yttriumrapier","Yttriumrapier"],
+"ez7wkov7ahw3ojhl2fp5xrq3":"yteo-fr",
+"rvq6ch7ggzrk7wrwp2rt5lid":["ythel","Ythel_"]
+}) // 2023-11-04T07:12:42.074Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

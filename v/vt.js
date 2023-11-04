@@ -208,5 +208,26 @@ var vt=(function(jsonp){ if (typeof vt==='function')vt(jsonp); return vt=jsonp }
 "nmsengb6hrcncrrhplpwxdve":["vtvt","VT"],
 "tzn75wjj5wawtxg2735a2h53":["vty","Matt"],
 "3xiu74gem6oauq3ky5cd4kat":["vthollow","✧Hollow✧ VoidTuber"],
-"hbrvcvl2rqycqmp4xzz4ghrq":["vtcarmine","Carmine"]
-}) // 2023-10-30T09:04:30.100Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hbrvcvl2rqycqmp4xzz4ghrq":["vtcarmine","Carmine"],
+"bprc6ghjn67xh3k6y6fs5xsi":"vtcampos",
+"ndgzsyoo3ip3tnh3pksjdcjv":["vtichigo","😈 Ichigo 😈 [SP Vtuber]"],
+"5sbbrkmcik5s5ucsu3wgmeel":["vtg","VTG"],
+"q2r2wszvh3zjnl6xuj6sz3rh":["vtmala","VT_Mala (ENVTuber)🐉🍁📿"],
+"pbxnkxrhpmck7aqdnxiznz4z":["vtej","Vicente J"],
+"dhaiydddlmtzjwpbvpabr3ny":"vtrinhn",
+"dk6xgn3pdehni4b7ipr765xy":["vtondorf","Volker Tondorf 🇺🇦"],
+"t5ofp6wduhkmpw3f3tgenfg5":["vtp93","Víctor"],
+"5c3k2rwwx5gyocvficbuxuth":["vtamin","Vtamin"],
+"un3wwn2q4on2ivbug5m2o6im":["vtmark","Mark"],
+"stght2cyoiajmomblf4ctmnz":["vtspog","VTS P.O.G."],
+"3bwtbi4zwyy7obtzzooocn46":"vtv",
+"h4rrbszxwxnphluugwv52al3":["vtouna","Vaia Touna"],
+"w7lymsqjgknao6bzhhq466kq":["vtfeenrie","「 ✦ Feenrie ✦ 」"],
+"p24ls6nxas2exosbncw7mzkj":["vtyatagarasu","Yata 🐦‍⬛ | EN VTUBER"],
+"6l5zwklrdvrgxq4t4xdubk4i":"vtigerx",
+"hmmiydsyidpxorcr5fobhjr2":["vthorlg","VicThor_LG"],
+"ek6qwkzth4gtjxehtrf465ug":"vtherbs",
+"ty5mtkrhgyvbij3mgk6pvdmp":["vtgvzdk","Vít Gvoždiak"],
+"z6l2hyiqag2qeor7ynpbmisz":"vtx",
+"34shvizunw32vrrlwnyvxohg":"vtalfluffy"
+}) // 2023-11-04T07:16:36.616Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

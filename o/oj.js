@@ -231,5 +231,20 @@ var oj=(function(jsonp){ if (typeof oj==='function')oj(jsonp); return oj=jsonp }
 "pchvokqaefcwdm54admnaxnp":"ojanko",
 "emwz6azvjzf36hczanqmylnd":["ojaieddy","ojai eddy"],
 "nj2jycp5tptt4q3u6ed2dtvl":["ojopoems","Ojo Taiye "],
-"sjs6okyopjrqcmpxjzujjgff":["ojason","Jason "]
-}) // 2023-10-30T09:00:09.444Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"sjs6okyopjrqcmpxjzujjgff":["ojason","Jason "],
+"ccejf3mkn3r73lto4nlh7ncd":["ojuel","Lyla✨"],
+"lr3aweg2o2rnmeohj54b7wxp":["ojcwanna","不正經的🐢 a.k.a. Kunas"],
+"qvreufnvvdpvtxpsjw7qq3hl":["ojackal","Anderson Jackal"],
+"s2wv7odepezpzwewdxzb44ti":"ojassangameswara",
+"heb72cn4mw6cbm2ypgpxeexq":"oju4n",
+"y4xt2ah6egcwrrfzkvqnl5ws":["ojderunechte","Ole // CG36 Ultra"],
+"jmc7tbp2obqdf6xdcagwoso2":["ojochan","誰來超渡我"],
+"cbb23gm4nhcmmzfmby2xari6":"ojuriti",
+"xtogqd3vtzy2dzssvix7oduy":["ojivince","Oji"],
+"wsknzmdzzoyxtnlo67n5r5cd":["ojavuo.fi","Tuomas Ojavuo"],
+"iiz52wv7uyuxalp5bseoskvn":"oj1974",
+"ulxnn4434pfra6hlycwltkse":["ojosderaton","No soy exactamente David"],
+"scs7tbwtwdvwyvwusnfdtp5o":["ojosyde","@ojosyde"],
+"qgxdxuesamseddjjjgtxd5zk":["ojosdehusky","Vantablack"],
+"ax5s3hbi2deaqoyagxvadhsn":["ojacquot","Olivier Jacquot"]
+}) // 2023-11-04T06:41:07.663Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

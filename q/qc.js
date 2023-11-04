@@ -41,5 +41,7 @@ var qc=(function(jsonp){ if (typeof qc==='function')qc(jsonp); return qc=jsonp }
 "xnloy2g75qu6ipz2p6a2cytk":"qcdev",
 "ldrilp3lvvffr4mpnoao42wi":["qc23","qc23."],
 "a3ppxsmr2l7h2bgwbwkef4lr":["qcusic","Tom Q Cusic"],
-"chm3e6szahiqhvw5ov4fdgj2":["qcktysweet","charlie"]
-}) // 2023-10-30T07:17:18.645Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"chm3e6szahiqhvw5ov4fdgj2":["qcktysweet","charlie"],
+"iuspwjbgaxbowsghujevykdn":"qcena",
+"yd5a5ntxvbysopwqd4gzxinv":["qcn","pokemon master qc 🔜 web directions summit"]
+}) // 2023-11-04T05:06:32.772Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

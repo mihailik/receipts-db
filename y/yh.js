@@ -113,5 +113,15 @@ var yh=(function(jsonp){ if (typeof yh==='function')yh(jsonp); return yh=jsonp }
 "rd3svhutppnqqihfiepn5j2e":"yhiz3",
 "tdwyrynojkjby4ojdbpn23bp":"yhelm",
 "rg3bc7rjmgzli6vu3ozpr7rr":"yhivi",
-"i7ddydr3xx5snl4hvbhhu4w2":["yhardgamesbr","yHardGamesBr"]
-}) // 2023-10-30T08:20:50.914Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"i7ddydr3xx5snl4hvbhhu4w2":["yhardgamesbr","yHardGamesBr"],
+"ie3ep4vwvps6ncf73e4es6gg":"yhemiy",
+"kex4uyae7nnubwihi57nfgwc":"yhiz19",
+"fzfwo2nuzjcpfzfsveobrdms":"yhiz18",
+"n2tu74kggctdpfo6lzyqbmpm":"yhyj",
+"3iaohqtjsfszqcj7xsfv5dep":["yhyse","폴테"],
+"zdzbqv5za6ktsjb77mhws2xy":["yherva","Yherva"],
+"uiufowel4j2agvs6njq4ytmz":"yhomyhom",
+"tu2b374hqxnihfd4guah6qv7":["yhunabo","SEMI-HIATUS "],
+"yjekxn2rzafxtehcbusqooyq":["yhsl09","阿楞"],
+"hnrle2ermc5kpk6xo35zcd2u":["yhusky","Yhusky🦴- Vtuber -Vtuber-Police Dog from the 🄵🅄🅃🅄🅁🄴"]
+}) // 2023-11-04T06:05:29.537Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

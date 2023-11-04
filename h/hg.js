@@ -173,5 +173,21 @@ var hg=(function(jsonp){ if (typeof hg==='function')hg(jsonp); return hg=jsonp }
 "ugzrbj3lpnwklkdtikq5kntx":"hgebi",
 "67rlejb5ub3lvf4rz54vps5y":["hgoett","Henner Gött"],
 "zqibvyeoztto4lvclr7ys7il":"hgmacknovascotia",
-"h4yz3vazj4soy763fjjkjsng":["hg-x-changer","H.G.🇪🇺🇩🇪🇺🇦"]
-}) // 2023-10-30T08:43:21.400Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"h4yz3vazj4soy763fjjkjsng":["hg-x-changer","H.G.🇪🇺🇩🇪🇺🇦"],
+"cqrobsxyeukwgeiqfnqcf4js":["hgrunert","Heiner Grunert"],
+"g4tkfln6gvx7kx42bkghbmkz":"hgkellner",
+"i2egfpskuv7qaqv5afo26rtq":"hgscharf",
+"d6fqddh3jqbl3lqwc3ioetsx":["hgz.moselruhe.de","Herr Gonzola"],
+"aqn4ggjb6cnp5diinnuocvia":["hgmercury73","Scarlet Merc"],
+"x5ciipqhq5r5jrgs7hotekph":["hgatoartt","Mystery HG"],
+"6lmab3tocecs2f5rzgsvb3uo":"hgwells",
+"mkvanb3zvviwobii3nk5nbcs":"hgtr24",
+"aekivqts5bwhznenvuogntgu":["hgmcartoons","OsdrosDragon "],
+"qgrikmepzeaznygnhl5pagpq":["hgoodall","Huw Goodall"],
+"fur4r6lqtymvo5rqs24agfkr":["hgprdragon","ないろ/Nairo"],
+"v3c3gklyjx7f4flljdozvcro":["hgmanue","Manue R"],
+"7r45wxdbqh2f6wdikzobnwst":["hginthesky","Gabor Halaszvari"],
+"tbrq4ydivct2ijgqprk64wxb":["hg-anko","萩あんこ"],
+"ggge7p5kqthdgaglvfwegbuj":["hgrabensberger","Horst Grabensberger"],
+"jsc5c2yuwifjdmf3ihzzjcwg":["hg-kamina","kami"]
+}) // 2023-11-04T06:53:13.915Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

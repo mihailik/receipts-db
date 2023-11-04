@@ -105,5 +105,14 @@ var wx=(function(jsonp){ if (typeof wx==='function')wx(jsonp); return wx=jsonp }
 "g55p5x3ep6kkq4kbjhz63vnn":"wxbadger",
 "bn44arastlsngwni2a26zxxl":["wxed92","Ed Tierney"],
 "k3hpicquxiukylrtrnnfhan5":["wxtennis","Clay Baxter"],
-"qqij3qkuw4y4ercbj3dcvcad":["wxntervbug","Clem"]
-}) // 2023-10-30T06:56:35.946Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"qqij3qkuw4y4ercbj3dcvcad":["wxntervbug","Clem"],
+"2vlhwd6h7xlxbvm3esnvjf5k":["wxlfychi","W☆lfy"],
+"ivjwf6w2xzpa6ulgkt6ex4hr":["wxatom","WxAtom"],
+"2n6mxlp7nmdnk7fcss6qkgwe":["wx580","Wooper"],
+"iks6lsbzhxgwlbipiew55lj4":["wxntergreen","wxntergreen"],
+"bdoi3lfjxjh7fm4a2d5i4r4f":"wxyzyxw",
+"dwz4zczsgat37xgcm2zb547u":["wxndtxmpxst","lyric"],
+"cpysu7n4w25lxzvrhkxepc2v":["wxnmelody","WAN ☆ เทคโนโลจี้"],
+"iuvxdypfxpujs2p6jcf2ep2r":["wxz18nsfw","Susreo +18"],
+"mjl47f3mg646fvn2h2eyb6fa":["wxiii","Satan"]
+}) // 2023-11-04T05:06:32.835Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

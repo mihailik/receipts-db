@@ -155,5 +155,17 @@ var lw=(function(jsonp){ if (typeof lw==='function')lw(jsonp); return lw=jsonp }
 "lh2v66bqwykvfhyxn6eju2er":["lwrozen","LwRozen"],
 "bpl6qfikdtekkas6coy7ogca":["lwhartmann","Lee Hartmann"],
 "pvwndumv2bdauoznsxcrj6h2":["lwk","Lea Wisken"],
-"tb6kdi6xp44xmafqow5wqqd7":["lwvsf","League of Women Voters of San Francisco"]
-}) // 2023-10-30T08:20:51.125Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tb6kdi6xp44xmafqow5wqqd7":["lwvsf","League of Women Voters of San Francisco"],
+"7ttf5dvyc43f246a7rxz37s5":["lwlgeschichte","LWL-Institut für westfälische Regionalgeschichte"],
+"a754meqd2irtn67w4ia6qbmo":["lwl-archivamt.de","LWL-Archivamt für Westfalen"],
+"572dn4mk7eaclbax7nwa7klf":["lwb-after-dark","LWB After Dark"],
+"onypvheiieftao2l2odlzyrj":["lwilcox","Laura Wilcox"],
+"m2mexq4nxpnnpx53ltbjoh7r":["lwillis74","Latasha A. Willis"],
+"cj6ceumtr4a6hr77guvtfbgy":["lwkert","햐루"],
+"sbz4laqeby4icj2xv52cekj4":"lwq",
+"sl77zkgq7cmofsboc2azw5la":["lwirkus","Lars Wirkus"],
+"w75ccfa75b4pfj47dkiv43vr":"lw151",
+"mrzp6fvfi6kyxy5iuln4gysd":["lwa","롸"],
+"5o6oa6tih27izblmw4l5xh6b":"lws2023",
+"jtmdikamgpnejc5ct4guzfk4":["lwck","|𝗪𝗰𝗸"]
+}) // 2023-11-04T07:14:07.909Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

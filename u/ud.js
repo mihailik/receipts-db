@@ -193,5 +193,25 @@ var ud=(function(jsonp){ if (typeof ud==='function')ud(jsonp); return ud=jsonp }
 "b5t62ncrqmtmj3n5icfoy5zx":"udaybc",
 "7ums7anqhqtcmnfjo33nm7yf":["udisattivata","Uddì (Utente Disattivata)"],
 "6rdsax3cs3hm22juegw3u34y":["udols","Udo Ls"],
-"7pqnqge7nhmjhkznfmak35nj":["udephycolab","UDE_Phycolab"]
-}) // 2023-10-30T07:51:20.653Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7pqnqge7nhmjhkznfmak35nj":["udephycolab","UDE_Phycolab"],
+"nlunrc5orq3kweoeu2esmjau":["u-dot","Udo"],
+"e2hpkwatgrsdvnyzbshcnbhc":["udoeh","Udo Ehrich"],
+"2aja3ncndhnpvym25qmtnc7l":["udowiegaertner","Udo"],
+"43a673n7n5p3m2gyp37nybo3":["udcare","DA"],
+"snfp66wpjvtclz7fnloycgto":["udonsoku","ん。"],
+"frwmrecpoofd3wgnu7nlnsp7":["udnesseter","Udnesseter"],
+"ucxfbvhjpwn7c7hk46sink4n":"udv",
+"atvivlllh5rvcexrxbymhjba":"udachitomo",
+"gs2wtouta7lqoaawbk4pui5o":["udlpfandk","UD Las Palmas fan Danmark"],
+"abh7kkji3h4ascxmavf4q7di":"udoolu",
+"dtusisz2cfos3lll7e3gwdfv":["udondama","いちみ"],
+"cuwafvznuba54bxlgqt74f2z":["udobartsch","Udo Bartsch"],
+"xp46ffnzqxt6stpbpcehctrq":["udvlp","Ulf"],
+"dxe7t7dkjunnioeywpthvgbn":["udit.krd","Udit Karode"],
+"n4yzefv2h5auc5hqicymihuc":"udoundpaul",
+"hixco4ayka3clmnkustrp523":["udonsan","うどん"],
+"skifnjq5auzgyonxapzcb7j7":["udura","うづら"],
+"vpojybzlcwezxcaha3uldwnq":["udonsanuki","うどん"],
+"ww5n5tiehjlpbhre3u62xwxw":["udon.cc","udon!"],
+"pr5kvlvqw4cdxsp4m654tmum":["udecrow","큰까마귀 우드"]
+}) // 2023-11-04T07:24:39.304Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

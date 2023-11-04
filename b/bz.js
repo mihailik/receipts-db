@@ -114,5 +114,19 @@ var bz=(function(jsonp){ if (typeof bz==='function')bz(jsonp); return bz=jsonp }
 "ipitn3s3uwe34lhrq654acqs":"bzhyggdrasil",
 "ro4tynxtrxyuttpin4vzzxlj":["bztn","BZTN"],
 "btq4vreg3oqgoch7zpe3n7dt":"bzamost",
-"dasrpsoehkr33a3lyy4f2ges":["bzzykrueger","bea ●⟐○"]
-}) // 2023-10-30T08:34:59.019Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dasrpsoehkr33a3lyy4f2ges":["bzzykrueger","bea ●⟐○"],
+"evenvr4tixelsarmobbphoav":["bzer0","BZer0"],
+"hyzlrji2fxopgmsegmixv7xb":"bzky",
+"jibjwmtjide7adydz6uxwbyy":"bzymek",
+"2i7cz3tvta4ho7g3ssxvkndv":["bzarky","Zarky"],
+"xr7rprhrp4cixdmlazggd55h":["bzboaz","Boaz"],
+"cyyucf5twa43til5py5shz5i":["bzcris","Bzcris, NZ"],
+"z7pdkjy4axxr7thvzmrgnupj":"bzik-z-voluni",
+"rrrqgsinu34xbgn6rpu3ah2q":"bz11",
+"pyf2amstgmyuo3pil6psay5f":"bzaki",
+"qfglfebxlx2vnt6b7734gxtw":["bzall","Bear"],
+"sthtanu3ixk77sgryjr25f7z":["bz-e04","BZ-E04"],
+"tow3v4wxdnhkt4lhomhzxpdk":["bzhnafofella","Breizh NAFO Fella"],
+"gaw5ay22ub2fknb43fzmlwjn":["bzsolt90","Zsolt"],
+"ke7fwfzsa37pkk643rtufix2":"bzaidan"
+}) // 2023-11-04T07:24:39.070Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

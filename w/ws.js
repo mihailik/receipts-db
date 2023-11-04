@@ -238,5 +238,19 @@ var ws=(function(jsonp){ if (typeof ws==='function')ws(jsonp); return ws=jsonp }
 "vpu7wfpviho4cissqr4hhw3x":["wsla","Wsla"],
 "bbfvaopwss2kn5taicqtvvyk":["wsdot-alerts","WSDOT Automated Traffic Alerts (unofficial)"],
 "fbfbqjdpsxzjqrw3po5mudsx":"wsoul",
-"45jzmn7x5o3ma2jz2ryxqcq2":["wskarbek.xyz","Wojtek Skarbek"]
-}) // 2023-10-30T08:08:50.163Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"45jzmn7x5o3ma2jz2ryxqcq2":["wskarbek.xyz","Wojtek Skarbek"],
+"7efjbyhpifgh6lcotqzq3msl":["wsodkeke","Wsodkeke"],
+"ypectjtw2vfwn5tc7xxixtvx":["wsubrady","Brady"],
+"rjcdkhx4z3gldzhuwz7p525s":"wstraka",
+"mp5qzx6g4pxnd5ivlpexp7ih":["wsimon","wolf simon "],
+"sbhhuqxvder5ek4a56bje3wx":["wsmith01984","Winston Smith"],
+"iqndghbfiy2anriycsxsjj7b":"wsong",
+"rx5yrm4dnaqaj6bqw7v2qega":["wsucougs19","Big Red Coug"],
+"4ckgwrkz4n2wcs7acknc3f63":["ws4rmedia","WS4R Media Group"],
+"bek4ubwpuuhy45jzxumwicrx":["wshadows","Marta 🌺"],
+"vtim63373vcxt3lffe5pquxx":["ws-brave","ばらべ"],
+"md2y5fbzsk7lyff5ahk4eiu7":"wsmoak",
+"cqtyv2sadlziky2t6uttw7lw":"wspiess",
+"w6pxemuejajicqz46bykrboa":["wstdtomo-fd","とも(Feed管理用)"],
+"czgqlxrjyupzf66pk7nja6he":["wsfindlay","William Findlay "]
+}) // 2023-11-04T06:51:49.655Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

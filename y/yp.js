@@ -69,5 +69,14 @@ var yp=(function(jsonp){ if (typeof yp==='function')yp(jsonp); return yp=jsonp }
 "bx4zwdxsyuig5ayjltlosozz":"ypsilinchen",
 "fnm7kgxvngukv2trjeenit2a":"ypersson",
 "mjylvz7qyjkiab2rehz2ycbv":"ypriverol",
-"nrb7wlfwyefpfhhwen2ehjm5":["ypsilon2p0","Yannick "]
-}) // 2023-10-30T09:11:52.727Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nrb7wlfwyefpfhhwen2ehjm5":["ypsilon2p0","Yannick "],
+"ujiay72xpswvcvzjyc63bwhg":["ypain","Cal"],
+"d2m5xdtlccmw4hipdww5h4a3":"ypisulon",
+"knwowy2zafm7t4jxfdjls22q":["yppip","Phil"],
+"sorqdufeaj4nt4prb26jnrxg":["ypotryll","Ypotryll ʢ`ᴥ´ʡﾉ (art comms soon!)"],
+"vpma3ggkgdkfzez4ag2mfw7c":["ypressgames","Y Press Games"],
+"pfjf62epgdaiuhesevcf7dnd":["ypmirhs","Ypmirhs"],
+"ffduvaq3b4wxck3omq3jv5q4":["yponeko","Yponeko"],
+"n33k3yjz7rftzwp7iyzujw4f":"ypeprt",
+"wnro2eup3hwkuzstlqoggylp":["ypm","Yann Rees"]
+}) // 2023-11-04T04:56:30.394Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

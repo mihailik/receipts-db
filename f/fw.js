@@ -152,5 +152,22 @@ var fw=(function(jsonp){ if (typeof fw==='function')fw(jsonp); return fw=jsonp }
 "hhkxftbmnmn7zblrwslrzzsv":["fwtr","ふわとろ"],
 "xvbxtqbnrwmvkfvus7oeuzq2":["fwelsch","Fabian"],
 "ruoqmjgz7wrp64jlyy7s3rwc":["fwduke","FW Duke"],
-"yknhw6lesvp2m5xuzw4caunz":["fwfwrestling","Furry Wrestling Federation"]
-}) // 2023-10-30T09:11:52.745Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"yknhw6lesvp2m5xuzw4caunz":["fwfwrestling","Furry Wrestling Federation"],
+"tpuk3q4msu3yqslhyywmft3f":"fweissenborn",
+"ygs3drso2mvs7c2hqg2ld43i":["fw-190","FW-190"],
+"4he2hncyiymbq4rd3jmeei5i":"fw1020",
+"f2fehknimd7y4klzycpaarke":["fwuturwama","mckemma"],
+"opmdx5dhdll2dt3a2aevbssz":["fwdiarrhea","Asthmatic Mpdumz"],
+"nk76vkgesncz4x4zvm6xodhm":"fwocvr",
+"tvg7dudxjgdhs574pdavdgs4":["fwuffybear","Fwuffybear Artz"],
+"264elpcgoaprxrinqfmghte4":["fwicksart","jomo"],
+"tck3n5bwi4k4arx54xb3edbc":"fwindsor",
+"3wnqk3jyribvjzmueezo3y7h":["fwoptop","Fwop"],
+"vqndr4dydmfmbpuirybkvq3q":["fwartiainen","Felicia Wartiainen"],
+"t23p33r32xaluzv6nxck233t":["fweesel","Rand 🐌"],
+"hakfhpdge5gkqle2nqi4vxoi":["fwm","FW-M"],
+"qcaljhxxmgbtwza5tksag4ir":["fwiberg","fwiberg"],
+"7v2dn7hupo43jtnv5ew5rm7e":["fwr","Friedrich Wilhelm Rödding "],
+"psmrtcaxfc4nz6zphzimpicn":["fweyers","Felix Weyers"],
+"bsg75o55c42gvvcgnvah5kzq":["fwunga","kyder"]
+}) // 2023-11-04T06:16:09.459Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

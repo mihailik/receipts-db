@@ -88,5 +88,14 @@ var qt=(function(jsonp){ if (typeof qt==='function')qt(jsonp); return qt=jsonp }
 "jgk3ii5ojideakovehthou5y":["qtiiiq","Subbidy"],
 "tdx6be57b4d4yucmpkvyffo5":"qttsu",
 "2tjzd7l65r3mpiq72hn6o3ht":["qtfgxobvxe","Qtfgxobvxe"],
-"dequxbbglndcgqbez4fmwlpu":["qtea","ah ne 🌻"]
-}) // 2023-10-30T09:11:53.219Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dequxbbglndcgqbez4fmwlpu":["qtea","ah ne 🌻"],
+"vhlv3tfjqrkgovprwmgdblbp":["qtle","Ellie"],
+"mpn7zcihed3echoqogjgatzm":["qtdia","diA"],
+"wy6n74foeuo655uf2vy5ryui":["qtg.fr","QTG"],
+"lpom3ajym7cktk4bqajix3nn":"qtcrazy55",
+"pqjwb4zzv6kstazi25xrsxhh":"qtsgamequest",
+"ztuv34xt3n5uj6u3htal56ca":["qtgraceon","QTGraceon"],
+"2rl7rzdmghjfzsallqa2xn62":["qtpony","QTPony"],
+"l7xpz3dgv4mlndapajm3nvea":"qtkitte",
+"xstg6wdylwybjilosuvdyqsp":["qtyli","Shini"]
+}) // 2023-11-04T05:39:07.680Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

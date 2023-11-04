@@ -160,5 +160,16 @@ var uf=(function(jsonp){ if (typeof uf==='function')uf(jsonp); return uf=jsonp }
 "qoqakj7g276ycierkvimezho":["ufocthulhu","Cthulhu 🐙"],
 "4kdpamodyp2qc5fcvme67wm4":["ufried","Uwe Friedrichsen"],
 "5vw6z7bwl4vbfh4pnwf5sden":["ufi","UfiDog"],
-"dejwiri2yb6thqt36cjiin4l":"ufiad"
-}) // 2023-10-30T09:04:30.583Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"dejwiri2yb6thqt36cjiin4l":"ufiad",
+"gtb5ertjy7bbz2tcblv42fah":["ufatwitch","United for Animals"],
+"6zgtkrglt4ndwshglnkhmarh":["ufo361","🦇"],
+"xkkxmjwuasm6h27wiveaqhm5":"ufukerguler",
+"lmfthmie7pc7bxihouhh6qzm":["ufomeo","momo"],
+"bf2oifl4f33c3b3mf4pwr3yp":["ufooo","UFO 💔"],
+"kzqrrtmurkiaztxiafvh6bor":"uflyart",
+"dciohnlph4rs3tblpbfwgh6z":["uffsalot","Jan"],
+"r7bmhiz63qfnujldz67qy6gr":"uffeaustimin",
+"ho62ec3d3jzbjfrawmq4qtsp":["uffxica","🖕 Xicauff 🖕🖤 🤍 "],
+"rxastmoywknv3kmk3nptz3ty":["ufuqde","ufuq.de - Pädagogik, politische Bildung und Prävention"],
+"d2wzlqbuvzoh2yygsfpot6l5":["ufenu","ユフェ🦀"]
+}) // 2023-11-04T07:21:43.956Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

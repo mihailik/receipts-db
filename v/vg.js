@@ -149,5 +149,20 @@ var vg=(function(jsonp){ if (typeof vg==='function')vg(jsonp); return vg=jsonp }
 "jfi44s62eaulghozhpddbnas":["vgzt","Vitalii Hrebeniuk "],
 "67fed4uj32g7bhvfcoy2tbh2":["vgmarkd","Vgm4rkD "],
 "cv4igugbt3kahodidjvueqii":["vga","Victor Gallet"],
-"jz6732tv2f5kzuhwuuzidz5u":["vguenette87","Vincent Guenette"]
-}) // 2023-10-30T08:53:22.176Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jz6732tv2f5kzuhwuuzidz5u":["vguenette87","Vincent Guenette"],
+"iizu7oqjvuwaqm6w2isknpsl":"vgreig007",
+"ypivsf3rxthgelmz6v2x3ki5":"vgronwald",
+"2hoxahwiqev2gnmd2fugvwcl":["vgadvisor","Video Game Advisor"],
+"2cfn2iw2afjsltmcxen6cns2":["vgondra","Víctor Gondra"],
+"6cv7mjq3i7td34sqtgnn54hg":["vgen.co","VGen"],
+"tnd5dzj2pwzakophtzxweqx6":["vgryuri","YuriVGR "],
+"pttvj6emmpqv2akybx3hyxhb":["vgzt2021","Virtual Gastrulation Zoom Talks"],
+"azhtnquheo6o3sngpj63xha2":["vgceilingfan","VGCeilingFan"],
+"aey6cutr2yqgeleg52pyw4ye":"vgmac",
+"ao3vp4q7nugpsgpq35g377nm":["vgzotta","vgzotta"],
+"q6gvzt2uscejczzeacqc66et":"vgtrusk",
+"7ctfmxqebxwafvsc2nfpzewg":["vgalaxy","VGalaxy"],
+"flveizb2z5qrow4ccisbp2ko":["vgquinn","Quinn"],
+"um7cgpwsrkkmlzmf2qommxeg":"vgagnant",
+"lomi25kpjrwfn6fzzx4ncwim":["vgp","Victor"]
+}) // 2023-11-04T06:53:13.841Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

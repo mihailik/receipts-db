@@ -93,5 +93,15 @@ var uo=(function(jsonp){ if (typeof uo==='function')uo(jsonp); return uo=jsonp }
 "yl2xq4y65oy6bqjy6dafiika":["uomnch","Museum of Natural and Cultural History"],
 "uqdgtealyszklldxlu3wm4te":["uofg-cspe","Centre for the Study of Perceptual Experience"],
 "le4ddqns55wvcozb7p322sg5":"uomodelmare",
-"ry273y7fovek3plepvgqmgot":["uomparticle","UoM Particle"]
-}) // 2023-10-30T08:53:22.386Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ry273y7fovek3plepvgqmgot":["uomparticle","UoM Particle"],
+"bvr655wlfkxsdcjie7c4rtoi":"uoykcufoyop",
+"aqdhqvfrndsl3sf777jdysem":"uof",
+"vtd2rn5vs7okfgpxd6ifq2do":["uoo","🥛🐑"],
+"4lqu72xrww2kpb7i3ejqw3wt":["uooou309","바따"],
+"xx3ij5yzhst4hv3sgd63efjj":"uorti",
+"ocjru452kysx4tprc3jioqjc":["uoddag","University of Dundee Data Analysis Group"],
+"sh6rfqtjytdcyyv56e7aapvy":"uodendahl",
+"2rmvolychfntv544y64binlr":["uonappliedenglish","Applied English (MA English) online "],
+"yxrjhmiwjyqou2pjq2cujdwb":["uonxx","유온"],
+"3x2oyfuwqu6ff44aht6rt4gp":"uomonudo86"
+}) // 2023-11-04T05:39:07.644Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

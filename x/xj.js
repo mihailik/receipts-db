@@ -83,5 +83,19 @@ var xj=(function(jsonp){ if (typeof xj==='function')xj(jsonp); return xj=jsonp }
 "ra2ib7cc2jpzxxg5mdcd4r7o":["xjamie27","★ kingslayer"],
 "67ng2ae6mqwddfrclg463bu4":["xjs","Jürgen Sting"],
 "7mcrgff7z3u5fqcch75ou2yn":["xjet","XJet🔞 COMMISSIONS OPEN"],
-"j3vtnxa5j6gm5ic7s4twcaqh":["xjudithharkinkx","Judith (is going to the Eras Tour)"]
-}) // 2023-10-30T07:58:42.801Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"j3vtnxa5j6gm5ic7s4twcaqh":["xjudithharkinkx","Judith (is going to the Eras Tour)"],
+"p5oatvmeviyksxjxjvei3cl5":["xjbeckx","JBeck"],
+"wdgdd23ufatwnuptozq5l3sd":["xjes","Jes 🐭⚡️Mouse Vtuber"],
+"5fjjxnnxct6uis6lbiog52nr":["xjluna","XJ Luna"],
+"embaxymkk2xsmhhpt3fwbzpx":["xjoda","Nick"],
+"35mnnbszpgk76qkg55kt3izc":["xjpx","Joanna"],
+"37c7qihw2qy7z3ez3f7iq5bz":["xjuno","Junie 💜"],
+"aft3qblxfywq5iif5r6rvd57":["xjasilx","xjasilx"],
+"v2wwvwsaqd3zcu43qoylktvl":"xjmav",
+"2cdaqylcpezjhjvtit2d2yne":["xjuantxucraft","xJuantxu's Craft - Recently arrived!"],
+"cym2ucicldkbz5g7kq5iqkfr":["xjustskye","✧ Just Skye || Future 2DLive! ✧"],
+"n6mctltcz3rgpce66ysj2tmp":["xjules","Julia Deller"],
+"m2dpvlvf7o6d6wp46dpvcgy6":"xjackpotx",
+"gtdxka2vbt4ar5o3z7fxeqg2":["xjess21","X"],
+"clcxkzjn4tznm7o7ugap7kdz":["xjpox","Ortsky"]
+}) // 2023-11-04T07:21:43.854Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

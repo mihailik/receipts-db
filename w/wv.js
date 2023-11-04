@@ -78,5 +78,11 @@ var wv=(function(jsonp){ if (typeof wv==='function')wv(jsonp); return wv=jsonp }
 "lpycxbb6gicy2cqifxrc2s3j":"wvk",
 "vozybxr3gjudaxcbqtiy3ohd":["wvviiq","WVVIIQ"],
 "vlafmfjwj2uqqupice73sfw2":["wv-shinigami-wv","wv-SHINIGAMI-wv"],
-"m4u55f4cufzwwhtftbqrfvrz":["wvdberge","Wiljan van den Berge "]
-}) // 2023-10-30T07:53:37.470Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"m4u55f4cufzwwhtftbqrfvrz":["wvdberge","Wiljan van den Berge "],
+"qowbup7bbnxpz5l2uplestvy":["wvwuo","동글"],
+"prjx5bwmtbb44vcdqlsa7gza":["wvkern","Winfried V. Kern"],
+"4fhpzxvupf3jp4qnjwaszjwy":["wvd-roboy","WVD Creations"],
+"ktkmtoc6pv4nxvcgl2llpblw":["wvwvw","🤍"],
+"jwgidsfknaue2olgyhucaluc":"wvincentl",
+"x4i5lyhuhurza5npf3h2cdgd":["wvgeomorph","Miles Reed"]
+}) // 2023-11-04T06:41:07.917Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

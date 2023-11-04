@@ -30,5 +30,12 @@ var dq=(function(jsonp){ if (typeof dq==='function')dq(jsonp); return dq=jsonp }
 "jirgrpwwnllbfprer54or6c5":["dq331","안"],
 "doz4l2rmv5f6xwrfgeqax4gk":"dqne",
 "xio42eobxauz467u2lqsidhl":["dq2po5","ヨッシー"],
-"ri7uzqzbgwpoogntvchl3e53":["dquere","Dominique QUÉRÉ "]
-}) // 2023-10-30T05:30:18.838Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ri7uzqzbgwpoogntvchl3e53":["dquere","Dominique QUÉRÉ "],
+"suusnjdyv6qh7zwaabqjpdrd":["dqtanner","DQ Tanner"],
+"bmh6jkr665vx5uckxx4cb5wf":"dql",
+"i5bd7c3cb4xg23g2xv5swlxm":["dqafq","DQ"],
+"6zbrdul7zz77lwtro2a6chan":["dq22","DQ"],
+"7ceik7q3xvsgzit25bocjgog":["dqrathalos","Will"],
+"bxhmhg7fykrm4eahy2wjc54c":"dqq",
+"cjcljpgreezivm5j2gietraa":["dqmcd","Quentin McDonald"]
+}) // 2023-11-04T07:18:02.733Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

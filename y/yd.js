@@ -91,5 +91,16 @@ var yd=(function(jsonp){ if (typeof yd==='function')yd(jsonp); return yd=jsonp }
 "gtvwxhhidxsm32756rxaivc4":["ydk.vc","紅坂 柚月👘あかさか ゆづき🌘VTuber"],
 "exlry2ldlmz4jc5xaxmmicqf":["ydlugy","YD"],
 "brax2vwcsa46fhupcxgiibnw":"yduong",
-"xso6e6qy7lcny7y66m2xpmi6":["ydnaswimfly","Andy"]
-}) // 2023-10-30T08:33:08.028Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xso6e6qy7lcny7y66m2xpmi6":["ydnaswimfly","Andy"],
+"uamb5cec5ien5qgth2tatdyl":["ydlc","⚜️ 𝒯𝒽𝑒 𝒟𝓊𝓉𝒸𝒽𝑒𝓈𝓈 ⚜️"],
+"by6pv4w7gk5jnfotmn6flk2o":"ydd",
+"pewkxhy2jhbrmzk6bkpyitc3":"ydili",
+"lqhuli7q7mytfv2bkwgv6uwo":["ydnemad","Ydnemad"],
+"blek5rz7gx5ur6uuczlnwxwi":"ydk",
+"igxxgblxesn3olnnx7s2pjav":["yddalv","vladdy"],
+"pse24tiq67y3obdtzs6aiss3":"yduridg",
+"mp4377kwtcezpsjriyvunv2j":"ydnic",
+"wd4lg72hovhu3pf4fu7ceafw":"ydn3w",
+"2vbbgsf7w3lxx76aztaxtmya":["ydfc49","YDFC49"],
+"pgprbgf2nt3jkzwcgqyysyg7":["ydillinger","Yannick Dillinger"]
+}) // 2023-11-04T07:03:42.926Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
