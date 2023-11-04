@@ -236,5 +236,15 @@ var hn=(function(jsonp){ if (typeof hn==='function')hn(jsonp); return hn=jsonp }
 "s4xmseub4a4pwwetg2xxmcyy":["hn100","Hacker News Top 100 Bot (Unofficial)"],
 "py5ulkruljrshb3ysby4nva2":"hnnsbyr",
 "xvfsbp5b2bhcnzltmh2rjgja":"hngsk8bdr",
-"aqx6uk6pnoatgdakuqqgo6zv":"hnkybrwstr"
-}) // 2023-11-04T11:32:29.866Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"aqx6uk6pnoatgdakuqqgo6zv":"hnkybrwstr",
+"c6q2bwyrhfji3sicwiasio53":["hnsimi7","染"],
+"gcx5lcjwkgx5e3uayaqmnibn":["hngstmngl","jorik hengstmengel"],
+"4dfvr2syargdmf4k25tmqgtb":"hnmac",
+"oj3brq65gpdqbi2zoaskdup7":"hngchsr",
+"niloqtfewypgh5goim6m76z7":["hnkg39","れざく"],
+"ipsjvmvvlfpqef3lxfo6jhv5":["hnd87","すこ犬"],
+"lnulme4hjfe7omm3esetcdcm":["hnt0313","ヒナタ"],
+"hoyr6rxevs5tx537umpkf533":["hntr13","Hunter"],
+"whiusg65sbyyl3vu3jolhubi":["hndrk1312","Hndrk"],
+"mf345ubio72vatzizarg7ec4":"hnelover1024"
+}) // 2023-11-04T14:38:38.127Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

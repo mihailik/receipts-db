@@ -237,5 +237,13 @@ var kf=(function(jsonp){ if (typeof kf==='function')kf(jsonp); return kf=jsonp }
 "ojivujbiq42sfpxjm4ruflh6":["kfc-mowmow","Kfc-Mowmow"],
 "i2aeh5bjwwheq2me4l4kij72":"kfwrites",
 "6giiacxiqxetgmw6v4m5df2r":["kfeijszaja","Karla Feijs-Žaja"],
-"ikfq6wys733onpoksti3elzs":["kfinndraws","finn 🪴"]
-}) // 2023-11-04T11:18:14.965Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ikfq6wys733onpoksti3elzs":["kfinndraws","finn 🪴"],
+"qbriac4h2672gjcuuomswtfr":"kfran112",
+"4dxkog4h4rowodf5cthvnuec":["kfgintlaw","KFG \"International Rule of Law - Rise or Decline?\""],
+"zxatszsmt2ohaejdhjajzbmf":"kfxeqeilmexzru3and",
+"fpawgmhm7rlofokmvwqkbssl":"kflash2116",
+"s2dt4q22koznkftayci74a2o":["kfnhannover","Kriminologisches Forschungsinstitut Niedersachsen"],
+"444ud6nzjlgee76umz42rvy4":"kff",
+"rre5dzlitjkm2wexy2wnp2vk":"kfrye",
+"iix6x52yil3zotxq4hcq4q2h":"kfran"
+}) // 2023-11-04T14:54:21.449Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

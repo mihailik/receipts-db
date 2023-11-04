@@ -236,5 +236,9 @@ var ua=(function(jsonp){ if (typeof ua==='function')ua(jsonp); return ua=jsonp }
 "rofkd6me45vntie5gvkzyrxu":"uaptr09",
 "jniiaywfeiabblh7uuk5o2nr":["uazmi.news","🇺🇦 Новини"],
 "hgr2zv5c3uax22vl45fs4ily":["uathach","Uathach nighean Sgàthaich"],
-"kjhkurdtpp7u5c4gdmr7l6ys":["uabneuro","UAB Comprehensive Neuroscience Center"]
-}) // 2023-11-04T11:40:32.110Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kjhkurdtpp7u5c4gdmr7l6ys":["uabneuro","UAB Comprehensive Neuroscience Center"],
+"npdf75fs6otwfqafxyycwndo":["u-aki52","うー。"],
+"bqz6hv6r6pukpm7sbkwyntvr":"uaem",
+"7csoq67tigrv5dx2lzpv7dnq":["uadoviner","Uadoviner "],
+"uva4lbq3vx7qlyosa3odyvom":"ua6ah"
+}) // 2023-11-04T14:49:01.461Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

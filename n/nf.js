@@ -251,5 +251,17 @@ var nf=(function(jsonp){ if (typeof nf==='function')nf(jsonp); return nf=jsonp }
 "mhas2siplb6ijfco3vjhcrqp":"nfz",
 "oxbo2ifc5i7shah4bvai2pbi":["nfdi4chem.de","NFDI4Chem"],
 "ucj2w2lmsyl6b4vavvdbglcn":["nfir","Norsk forening for internasjonal rett"],
-"vxhjulr4efwulpj7cctfxtew":["nfeathertouch","NorthernFeathertouch"]
-}) // 2023-11-04T09:43:26.809Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vxhjulr4efwulpj7cctfxtew":["nfeathertouch","NorthernFeathertouch"],
+"hnctjgnq6sg72eqv5yky5sak":"nfjendnfu",
+"2qbimrle2e7ma2w3rilypvva":["nferg","Nancy Ferguson"],
+"jmzrsgwi27wvzsasis3jbv53":"nfree",
+"vqlyhyouptnqcfp5uykwg7dn":["nfargahi","Nina Fargahi"],
+"q6cbsz44mcii74wrxpngp5es":"nfoonf",
+"hcf6xddbflpa2hdxglxy7eiq":"nforslund",
+"yaif7kvnanlykywq7t5lpruc":["nftrip","Fer"],
+"24iicbdcle5mrk5onzyq546k":["nflforums.com","NFL Forums"],
+"3gstftrwejvduj56mcpvnddj":"nfs-berlin",
+"6d2be4jicjj34qv4jv4i3asm":["nfwmb","Scáth"],
+"kclt234ecjmtu5copo4txyof":"nfactor",
+"37lm46sbrzz622ij4vucrceo":["nflfantasynews","NFL Fantasy News"]
+}) // 2023-11-04T14:54:21.640Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

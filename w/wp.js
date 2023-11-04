@@ -125,5 +125,8 @@ var wp=(function(jsonp){ if (typeof wp==='function')wp(jsonp); return wp=jsonp }
 "woup5fafm5dnnc6gcxsnumz2":["wporep","Der Porep "],
 "nkxcaxgv3ifqavbo2oidvjpg":["wprtlrn","Wuppertalerin"],
 "26gyihahptgillfebky556qb":"wpswkd9954",
-"gb7nydy6xiyr2pjrjyqd5bfa":"wpalfi"
-}) // 2023-11-04T10:28:01.583Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"gb7nydy6xiyr2pjrjyqd5bfa":"wpalfi",
+"4zan6w5mesqabhqzv4olsq3l":["wptrads","Wp Trads"],
+"heitf6xvpo6tsph2lnfhbfkc":"wpe",
+"dqs25imyo7hawbg4j2wu6skb":["wpdgower","Paul Davies "]
+}) // 2023-11-04T14:02:52.349Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -240,5 +240,11 @@ var vt=(function(jsonp){ if (typeof vt==='function')vt(jsonp); return vt=jsonp }
 "vju7d5lcwxt2gjzmzdu6psom":["vtaiyaki","taiyaki"],
 "i5bilzpjxqquhv7ysu2jlj2x":["vtshoto","vtshoto"],
 "jfrritkf33374fqdqcnteayc":["vtphoenyx","Phoenyx"],
-"z3ludm5gup5ztg4dx6vxjgvf":["vtubercentral","VTuber Central"]
-}) // 2023-11-04T11:25:11.634Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"z3ludm5gup5ztg4dx6vxjgvf":["vtubercentral","VTuber Central"],
+"dyqsscqbfkewwyrshc46nmhg":["vtsagkr","Vasiliki (Billy) Tsagkroni"],
+"mx7yfm6we7n3jznvomrtlzxz":["vtamminen","Valtteri Tamminen "],
+"far7p5o4b4miqywuhra65yvi":["vta","vta"],
+"tm4u5gk2vrtao42mguvojc4c":"vtensorv",
+"26kdrl4x7mzmz2ay6pigqxxw":["vtvssv","Cruise Elroy"],
+"xrddtvyb3jndqkidy7z22esu":["vtotheinay","Vinay Parmar"]
+}) // 2023-11-04T14:38:37.872Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -64,5 +64,8 @@ var mq=(function(jsonp){ if (typeof mq==='function')mq(jsonp); return mq=jsonp }
 "jb5cnnim3bufwz7fbqswmdxo":["mquillunar","MQ (Multi-Dimensional Oracle)"],
 "bslnuyxpw56yqltqzvjgsa7z":"mqbear",
 "w6cwo53nlafssi54zd2dnsks":["mquiza","Maya Quiza"],
-"jvbldhwfzt4n4k73vz3hijd7":["mq50570","mq50570"]
-}) // 2023-11-04T08:51:16.497Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jvbldhwfzt4n4k73vz3hijd7":["mq50570","mq50570"],
+"zfw3qt3ds25zqexs7va4ugvp":["mquiac","Marqui's_Game's😎"],
+"vui5yuachgkubfnxqjcqxemz":["mqnllre","Margaux🩰"],
+"wfrhxgfu4rgpdtnrx7evg2em":"mquierebeber"
+}) // 2023-11-04T14:50:46.583Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

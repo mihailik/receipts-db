@@ -250,5 +250,12 @@ var rf=(function(jsonp){ if (typeof rf==='function')rf(jsonp); return rf=jsonp }
 "7c7c55osfqelcokach2av47i":["rforsgard","Richard Forsgård"],
 "aekphnegf2dy5qlmqxbltfym":"rfberlin",
 "44ea32pfnlwdttlzqrzrgn2k":["rfunkfordham","rachel funk fordham"],
-"mx4aog2cmgbe56ifaqqru2nr":"rfurkan"
-}) // 2023-11-04T11:19:42.390Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mx4aog2cmgbe56ifaqqru2nr":"rfurkan",
+"g3f6peqlol4uz75npsrcliye":["rfs-navigator","Reichsflugscheibennavigator"],
+"teo2x5kgnpkrsflk65dqzeqg":["rforviktorya","Viktorya "],
+"6x6pqbq5c2dxec7nprnlfuma":"rfsbraz",
+"nyat6i7qmmix6gkjystmtx3i":["rfta","RFTA (furry artist)"],
+"3wvym4jvsfaqjnhsbebks3il":["rfitzsi","Rebecca Fitzsimmons"],
+"3de5lnwz4mbirqrjbjbum6ag":["rfldfx","RapDap"],
+"sfn47qoxfcldwmnjjnf5i7yx":["rfmdoc","Rfmdoc/islayeg"]
+}) // 2023-11-04T14:42:03.811Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

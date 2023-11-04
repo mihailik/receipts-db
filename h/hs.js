@@ -464,5 +464,23 @@ var hs=(function(jsonp){ if (typeof hs==='function')hs(jsonp); return hs=jsonp }
 "q2wjdmsxia3dcqoad3jjirmg":["hse-heidelberg","Heidelberg School of Education"],
 "cxs5msdp3yph7hwyvdc4eaie":["hss2345","Hss"],
 "5mhq4ii4ckdqv623y5swlsbl":"hshpak",
-"uh5dwu2dw2qm6bhr3ozsxpz2":"hsiehyp"
-}) // 2023-11-04T11:40:31.110Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"uh5dwu2dw2qm6bhr3ozsxpz2":"hsiehyp",
+"w72vmmp3wq3ovbgois3m54ky":"hsing",
+"cl2bossps2cvjzslmhbptbxq":["hsitbeenworthit","jake (they/them)"],
+"pxwqwvsjtoku27ykac6hluix":"hscs777",
+"xud2mnohu5etkyeqxwl7pzti":["hsc1776","Hampden-Sydney College"],
+"7z73x4f6pfo2h56iavn5eb4q":["hsloeffler","hannah loeffler"],
+"5bmi22hjssapbtrbu2ownrqs":"hsuprema",
+"yh2cwtlstmyiqilkfuvcwb2r":["hsivonen.fi","Henri Sivonen"],
+"krazp72khsoxq4t6qvnql5i7":["hssgecc","HSS Grad and Early Career Caucus"],
+"trfc2wxofhvebggzpefafxs2":["hs.fi","Helsingin Sanomat"],
+"nfzsxmllfvgzlhbrsyxt2ptu":["hsnatsci","Historical Studies in the Natural Sciences"],
+"6zp74xjkxfkijwa2pr5btzom":"hs-ky",
+"6ii7e6df4obujpzbsj56kkbl":["hskly-073118","阿南@燭へし垢"],
+"it6cxmdxnmlnyu5bubss3yfm":["hsunjm","MO"],
+"if2wcvjnkqk4z3aemeby6o3x":"hsenst",
+"7vhzjudhu3utk23aqfmswbuy":["hskwid","SKWID 🔞"],
+"xhm6lkatwqddbubdegmefnyc":"hserang",
+"xor7p6nymdni2rxdi6xlt6vq":["hsven1887","VielMeinung #FreeVuskovic"],
+"dr6oofx4errjys7r5b5jzui2":"hschaeferiw"
+}) // 2023-11-04T14:49:00.598Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

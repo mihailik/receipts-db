@@ -344,5 +344,13 @@ var xy=(function(jsonp){ if (typeof xy==='function')xy(jsonp); return xy=jsonp }
 "445jzsuorjxwtfcp4rcdhswy":["xyz1","bubo_bubo"],
 "vinyybxijkyrht7q4ad2gkva":["xyzett","xyzettgraphix. | büro für visuelle kommunikation"],
 "xlo6tbmsipr4wt2xxod5lwlm":["xyaphze","xyaphze"],
-"svqiemjav2riuc6klblgnvwp":"xyzcards"
-}) // 2023-11-04T11:39:04.013Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"svqiemjav2riuc6klblgnvwp":"xyzcards",
+"ufrbo6odjxak77ndooov7g5v":["xyaidiot","Xyaidiot"],
+"63jshzw46xqttzgvbumb6mun":["xyq","Tatsumaki"],
+"rnq3zrnkjzromd5she7ubarx":["xysaya","Xysaya"],
+"ljgu6rnvzjixkut2fkipggvt":"xyi",
+"knxmfrmr7kiwguy63psgt7cq":["xyann","Xyann"],
+"3hz5erg6tyhc7izib3p2ayrj":["xylostomiase","Xylostomiase"],
+"znwyrgarnnec5hia26i6ugn4":"xya621",
+"7bn7lagsqsg3okwxi2222kyf":"xyzz5678werty"
+}) // 2023-11-04T13:59:26.957Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

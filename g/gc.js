@@ -307,5 +307,13 @@ var gc=(function(jsonp){ if (typeof gc==='function')gc(jsonp); return gc=jsonp }
 "nrnuty2r2qs4evd2uxzo2s44":["gchan","G.Chan"],
 "wubzr2qj6rmjtp2tiegjjxq6":"gcbaldwin",
 "hwltat5kd77zg22vizwgnvgx":["gchadu","Gabriel Chatagner-Duval"],
-"lqsmoki54hh2vnsu3ntnhf65":["gcorso","Gabriele Corso"]
-}) // 2023-11-04T11:40:30.973Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lqsmoki54hh2vnsu3ntnhf65":["gcorso","Gabriele Corso"],
+"gn7hnlxxt5qmykofvgblmrab":"gcarteaux",
+"jvruwezghxs57qnn755wwvpf":["gcfsweet","Bruh"],
+"pdyp6vuuxbt5adv3khbeucog":["gcarob1701","Gloria 😉"],
+"3bpyqk6nlotgmwflnyhraxxe":"gcfin",
+"xcg3uedqeo5qg24wjeuubyw6":["gcobianchi","Giacomo Cobianchi"],
+"myg6iy5otiks2fbfpvhqvwfi":"gcdev",
+"quqzdrkgfarge2qqdwumdlb2":"gchiam",
+"7ccoov37oyay5mbb5bix2g4e":["gcampedelli","Gian Maria Campedelli"]
+}) // 2023-11-04T14:52:37.110Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

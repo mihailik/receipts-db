@@ -143,5 +143,11 @@ var vp=(function(jsonp){ if (typeof vp==='function')vp(jsonp); return vp=jsonp }
 "g5ry4k3i4jm5n3pynmmtg7uo":"vplow",
 "xk3oijtossvoznls3csnvdha":["vprahalad","Vishnu Prahalad "],
 "54ezsthf7g7k2z54rb4h3thw":"vpruch",
-"5fsbwkujk7rhlxsvpfwfsnep":"vpaciniketchabaw"
-}) // 2023-11-04T11:19:42.497Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5fsbwkujk7rhlxsvpfwfsnep":"vpaciniketchabaw",
+"zvylmnnczusfwu4qvtgrbqkk":["vpodunibas","VPOD Mittelbau Uni Basel"],
+"l6ud46g2oeanbqvkjg76r4qk":["vpvlinder","Vlinder 🦋"],
+"5kd36axxn7axquledcbnotkn":"vpnbro",
+"2xqew65bjhhb66bxgxdbqeyi":["vpanther2","PANTHERA "],
+"nnoijhncnxxg3lfea67hlvhm":["vpodschweiz","VPOD Schweiz"],
+"54744pwx35mhtu7lqbeysk73":["vparikka","Valtteri Parikka"]
+}) // 2023-11-04T14:49:00.734Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

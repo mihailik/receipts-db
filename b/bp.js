@@ -352,5 +352,13 @@ var bp=(function(jsonp){ if (typeof bp==='function')bp(jsonp); return bp=jsonp }
 "f7lztb4wauhayscdn7xcjujc":["bpbegha","Bruno Begha 🪲"],
 "pkjm5n56dyia4lroacorp5cn":["bpedersen","Bjørnar Pedersen"],
 "tmi4ec5cnxhwqxh75pcpd2zo":"bpourdieu",
-"a4qkk63uocxkk2dfsacydjc7":["bps89","BePiS (ブレイジングポップス)"]
-}) // 2023-11-04T11:23:45.296Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"a4qkk63uocxkk2dfsacydjc7":["bps89","BePiS (ブレイジングポップス)"],
+"bjzck6puj4zafmxm4it6yr6w":["bpucker","Boas Pucker"],
+"bifadvlzdcjvkfabb3oziifp":["bptstmlgt","Baptiste Malaguti"],
+"ln3qvngosodfln7jh7e4rx2q":["bprivilege","💅🏿"],
+"qyqmuq46qtihabagqob26x3h":"bpc157",
+"6zprtcy2u4bgcuddy6bz5otf":["bplnova","Nova 🚞🦊"],
+"st4wjf7ggs5xn2n6h3muc6ru":"bp220116",
+"rrzxsfckgddmtk7hvu5emw5f":["bpavlekloebl","Barbara Pavlek Löbl"],
+"3mfie46ezpbiwu7opdt5i2mo":["bpub","Robert Schaffar-Taurok"]
+}) // 2023-11-04T14:50:46.422Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -485,5 +485,19 @@ var sf=(function(jsonp){ if (typeof sf==='function')sf(jsonp); return sf=jsonp }
 "4ctvjufkb5ulfd7aqwdqexm4":"sfwso",
 "7xmiuoctxsuuuiuzpwv3z5vb":"sfimx",
 "m7bi6jgjoiymd3sx2cmkyp5w":"sfluehnsdorf",
-"vglxr53cxchj6s2l2n3ajqmw":"sfotony"
-}) // 2023-11-04T11:39:03.301Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vglxr53cxchj6s2l2n3ajqmw":"sfotony",
+"epmdbeobkrywxvuuxhzybcbg":["sfhoe","Säkulare Flüchtlingshilfe - Österreich"],
+"uvfe3qnewldw4ytaqkni5wys":["sfiscience","Santa Fe Institute "],
+"z7fsjvxyje42ufxrp3pk3x54":"sfas",
+"l555cs4usoksryjzdlafr3uv":"sfebert",
+"lrhtsebgmwo2up3zucpm6vnf":["sfardar","Silo"],
+"6e2axgvz2ytai65cj77xzkmg":["sfsego","super’s Ego"],
+"mm3lmiul6aha5yawsb7fpboz":["sflp91","☀️"],
+"zrqtjurdfbtevrher2wp4mk2":"sfgsalsa",
+"fr64zavb35lwv5of2q474qr5":["sfpublicworks","San Francisco Public Works"],
+"owwoygkqazwlwz6a77x7s7d7":["sflaztecs","Mexico City Aztecs"],
+"q7ru7uga5ycnuguszaoexxcy":"sfriedrichfoto",
+"xsdsx22v3y2xwxikfqzzrfcx":"sfid-mafipulis",
+"2lcautui3qpvl2cyfthncd7i":["sfede","sfede"],
+"wndo5t6u7d4yt7x3xiugfusr":["sfcigardad","Cigar Dad"]
+}) // 2023-11-04T14:57:51.881Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

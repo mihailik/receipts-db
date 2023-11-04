@@ -340,5 +340,12 @@ var gd=(function(jsonp){ if (typeof gd==='function')gd(jsonp); return gd=jsonp }
 "op2aexktooegjzvddzqapcc6":["gdququ","기단"],
 "c3fkwumqktk4lea7zyqsftf5":["gdsolutions","GD solutions pour équipes"],
 "qc3pxfbgx6cmqj7mnfb4wqt2":"gdcpls",
-"tp3ut2gr3e57j6ups7jmqsco":["gdoodlez","gizella"]
-}) // 2023-11-04T11:35:25.953Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tp3ut2gr3e57j6ups7jmqsco":["gdoodlez","gizella"],
+"6ya4oaavnkea7cxogvzn3l4c":["gdudethatssogay","Víctor S. Pereira"],
+"4yj5qyv3fhjpnv3wxljw44jh":["gdniz","Genie"],
+"3t2oun3cu27sl4mtl6iz6pt4":"gdead",
+"ohmdloopu22lqke436v6aiur":"gdmnrch",
+"6uvabjjztlwrkgl7uewauynk":["gdrp2009","Hannah Cave Stout"],
+"gkmjwoe64b37rus3klsqotnm":"gdmmoura",
+"gul3davyo4cfdhjyi4muz4gd":"gdelport"
+}) // 2023-11-04T14:50:46.626Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

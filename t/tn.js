@@ -353,5 +353,17 @@ var tn=(function(jsonp){ if (typeof tn==='function')tn(jsonp); return tn=jsonp }
 "icv55jhrvrwqw6ph7wudkwz7":["tnktaro","田中太郎"],
 "ldohp32s6oi7spebyvaigo6e":["tnnetweb","木根"],
 "f5n5qbkqcha3zllrk3mydj6a":["tnfsg","tng"],
-"sto2ph3peebst2eytmj6f753":["tniemine","Toni Nieminen"]
-}) // 2023-11-04T11:32:29.339Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"sto2ph3peebst2eytmj6f753":["tniemine","Toni Nieminen"],
+"4auji6f5kddaevo3xtt7foyl":"tnerbamme",
+"tzncgn7xr4p6uv6zebu3vjta":["tn10","▶️LF5 "],
+"qmjfavzmgswfkq7xy2d6o66q":"tntdynamics",
+"nmcikmspo3us65yhbwafswyy":["tng","Romeo"],
+"v5lva2nt2ehprw5uvz3zt3mb":["tninstitute","Transnational Institute"],
+"pfmcdhduu3gb6pe3vjteg2qr":"tntqs",
+"4cv3ecuo2ruhcmtaqx7r4hxg":"tnew",
+"sziynsvu2w3bubotuvuaeapo":"tny",
+"3v5qtoopqel2tywj5rlpz57t":"tnurmela",
+"nbh7fgya4id2vprqk3ldaivo":"tnmntz",
+"etslypibqmdbljmiwiuicmnl":["tnargmah","Tnarg Mah"],
+"ymgqiqbggggwtedfc4w2luja":["tnbatmanfan","Trevor Roberts"]
+}) // 2023-11-04T14:42:04.469Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

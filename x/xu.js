@@ -238,5 +238,17 @@ var xu=(function(jsonp){ if (typeof xu==='function')xu(jsonp); return xu=jsonp }
 "3eehkbryjc7vtljid5inj43l":["xuanathan","Xuanathan - Kronya's strongest Soldier"],
 "dvvkfhqnmkdcgl537efgtbxb":"xuxurla",
 "kktd7zelozhxp5yks5wy7z2q":["xuchi","Xuchi Roll"],
-"7psk4vskpvcfhv7v54itjxu4":["xurde","Xurdez"]
-}) // 2023-11-04T11:01:25.301Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7psk4vskpvcfhv7v54itjxu4":["xurde","Xurdez"],
+"pdgc45sve66444xye2yh7jql":["xuejiu","学鸠啾啾啾"],
+"lc2i3zgxlm5ltggl23wualej":["xuanluu","Xuan Luu"],
+"tgnf4tw6ikj6gdcesqne4dvm":["xunil","Dorian LAGILLE"],
+"yvpq6d677qmafbhparol3xja":["xustomgoddex","Freya 👁👄👁"],
+"ptvifxmpilpksprv5wxadubx":"xukas",
+"2mwt7ktz4dsgq5rr46mlit5m":["xussem","Xus Sempere "],
+"6fxem3a6esqmp7xugfltil4c":["xurgell","Xavi Urgell"],
+"7de2yhkd7f7mqxxdqmx4kkap":["xudreste","xelîl"],
+"qbc5h75kq32ev367ovcff4uk":"xui",
+"yzqh5gpf27k7dwazajkioubs":"xuiump",
+"osbedvy5zqw32r5vp5szkkiz":"xusmacias",
+"a25g6djkfb3vt4vlrs7rcslk":"xuo"
+}) // 2023-11-04T14:56:08.541Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

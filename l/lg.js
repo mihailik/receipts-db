@@ -274,5 +274,19 @@ var lg=(function(jsonp){ if (typeof lg==='function')lg(jsonp); return lg=jsonp }
 "5a3faqypw2lc65l7avxetkf7":["lgerd","Lgerd"],
 "afvyhrdlngtb64jnwcbicfyh":"lgrassjelly",
 "3nyeof223cpsmlik3xkdxz3d":"lguerin27",
-"hnxtrxybzpofeyzvbsqjj3ha":"lgregoire"
-}) // 2023-11-04T11:37:34.378Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hnxtrxybzpofeyzvbsqjj3ha":"lgregoire",
+"k2mu2kpkwwdrrrsuccqgzpq3":["lgreatorex","Lee Greatorex"],
+"32dol7xgkawrlzdpfphj5zfs":"lgvonlg",
+"drtvh2z7ip7aoethdrvfjn5u":["lgdl","Les Geekeries de Lutin"],
+"jmjj2gmmkrkpy7xtn74rzstr":"lgemein",
+"vtpcmlz4e5ew7xur55h5lgq5":["lgag006k043","ALPHA"],
+"p7q2ogobk3ljbwhuna5q3iin":"lguapo",
+"m2ij5vm7regfzzigpekygib2":"lgmerchant",
+"vmen7wpapo46s4cw4lmjtebo":["lgbstefaniu","You-know-who"],
+"mwolnklhv3gfkp6h2rpys6qf":"lgbtqglossary",
+"q4mi2spd7clorootjx7cjwgn":"lgbtdah",
+"lv47g35ksg3cv5kikdjvbuvf":"lgabrielvr",
+"uarzwc72as5hyhao4svwniq3":["lglopez","Luis Lopez"],
+"lrr6xqkwxkhrsdhob6cbf5hz":["lguelorget","Loïc Guelorget"],
+"lyremtvyjwegtqrs3mvndhpx":"lguedet"
+}) // 2023-11-04T14:56:08.310Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

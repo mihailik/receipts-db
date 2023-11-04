@@ -169,5 +169,9 @@ var nz=(function(jsonp){ if (typeof nz==='function')nz(jsonp); return nz=jsonp }
 "lgedbstew26o4kzqoh6etrmd":["nzlainey","NZLainey"],
 "ndsxjiz3egz7rydl4qrw3lia":["nzko","Nzko"],
 "db6g5fpf4uqzzbyow2mbkzzv":["nzfreespeech","Free Speech Union ✊🏻"],
-"422wyho4pdtlyv4a7dszvofv":["nzscientists","NZAS - New Zealand Association of Scientists"]
-}) // 2023-11-04T11:35:25.943Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"422wyho4pdtlyv4a7dszvofv":["nzscientists","NZAS - New Zealand Association of Scientists"],
+"q6qsdq5dtornprsq3ddg4a3p":["nzbc88","NZBC"],
+"rh2j67743e56tdpm5bp6yasa":"nz-stroms",
+"p6vg3nq6ldduxz2u2gxvrnvs":"nzo70",
+"fn7nxwv2ojkckf65cm5jyplj":["nzkellie","Kellie"]
+}) // 2023-11-04T14:28:27.905Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -473,5 +473,20 @@ var dp=(function(jsonp){ if (typeof dp==='function')dp(jsonp); return dp=jsonp }
 "u2hub3frna6rtwtr7jhbsdpm":["dplucia","Lu❄️ — 👑 VersuS VillainS"],
 "zy2lklxfxvty2xjvoqrxjdcx":["dpalomo","David Palomo"],
 "opht44aozk55p3app35mmsma":"dpdbd",
-"wrpum6ogyyuapwaaff5xzwfi":"dpacjones"
-}) // 2023-11-04T11:42:43.111Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wrpum6ogyyuapwaaff5xzwfi":"dpacjones",
+"6tvtk7pzismvaib6zi752p67":"dpc313",
+"27sj5f4lqwtm47vs2xkxzrjj":"dpak",
+"q64dofosfwxkiw2kf4gzq7vu":"dplotta",
+"t372ic6lugfzbd7z4k6alrfq":["dpart","d|part"],
+"7cr67gfwzimiqafhohvjtf5e":["dpwes","Daniel Wesener"],
+"hfmqao2maa4bmfn52jfatnem":"d-pearl",
+"rf7igocz2xn3j5culafili2o":["dpj","dakota"],
+"ppwr4cz7cr5m5b6aherxgpxq":["dpwriting","Dylan Parkin"],
+"mjir63ql6ujvlg7fvchv2vue":["dpcglobal","Democratization Policy Council"],
+"f5xnsogwcugbjfeeqf5sk3nq":["dphseddon","David Seddon"],
+"xysqjmndbbu7utde77ha5r6d":"dp-meisteres",
+"6ehd7ybojm6xhhbp73upco5k":["dprovolone","provolone"],
+"mvtqj6c3sgvoihq7gv6y4hmx":"dparis",
+"s3spkvxuzjqc7llxx322fmav":["dpba-journalist","Journalist"],
+"ltcnulqrjyxd32bqen2dhord":"dpskipallen"
+}) // 2023-11-04T14:56:08.506Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

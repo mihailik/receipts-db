@@ -169,5 +169,15 @@ var zs=(function(jsonp){ if (typeof zs==='function')zs(jsonp); return zs=jsonp }
 "kg2jqto7zxzkmevzke7licco":["zspacebar","Space Bar"],
 "r5ilvh35iv472rgy7tcjfzcp":"zsort",
 "nwcrdchzgetrrinv4aljwmhx":"zschahna",
-"pe3a4nqfnhbmacg4wywxrkar":"zsemmy"
-}) // 2023-11-04T11:39:04.049Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pe3a4nqfnhbmacg4wywxrkar":"zsemmy",
+"2mdwialnzfjgpq26defxsmjx":["zsunzsun","장대혁"],
+"rhzdbtyhphr3tyxrf7dopalp":["zsm","Weird Al-Andalus"],
+"5qmnm77lmrl7zx5lrrewumtj":["zschocher4all","Zschocher4all"],
+"upcdrru4z62lx7r6fu3dzfyq":["zsofi97","magenheim kalácska 🥐"],
+"oxzzklknlzttta4gfy26ieyw":["zsharp","Zach"],
+"kmodh5xydil3atkg3rixnjwy":["zsleyer.de","ZSleyer"],
+"p4wfzet76xzs2aemdziskzwx":["zshinryu","ZShinryu"],
+"u6vcgw7mahsig7sipnjsmiwl":["zsrch","Rolf Simon Zaugg"],
+"zauxjuqsg524vy5vtcyfxlmz":["zsoltlajtos","Zsolt Lajtos"],
+"cuaoor77vsnjuxi5y6snjh7v":["zsofipohl","Zsófi Pohl"]
+}) // 2023-11-04T13:37:49.699Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

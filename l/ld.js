@@ -303,5 +303,15 @@ var ld=(function(jsonp){ if (typeof ld==='function')ld(jsonp); return ld=jsonp }
 "uoef4jvpco6dj66eohcag3gr":["ldasneves","Lucia"],
 "vobtiur6mkxu7aaslke3hlvj":["lda","Les Découvertes Archéologiques"],
 "nzwkruaed42tohmaopskkgxh":["ldmuldoon","dan muldoon"],
-"2pu2dtfyyxmoc5vys2ir7qc4":["l-dbier","Laura Dinnebier"]
-}) // 2023-11-04T11:06:44.353Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2pu2dtfyyxmoc5vys2ir7qc4":["l-dbier","Laura Dinnebier"],
+"j6f6zhq73mmqpy5x2uybmemr":["lderamo","Louis D'Eramo"],
+"hirwvcy5jn3an2ltvmyahrzq":"ldprivat",
+"sjdskwwim44du3ihrr2kyfeq":"ldauphas",
+"uf23nrrhntlahhli2f6k2pmg":["ldespeyroux","Laurent Despeyroux"],
+"j6uyd3dexleugaiarkjk2jnj":["ldeblok","Lisanne de Blok"],
+"6lkz4zbvjlhcsm5rfnbbqrfj":["ldussault","Laurent Dussault"],
+"3lljd4uzc76sum5cxe2yuesl":"ldenhez",
+"44jkn5g6isbyqekf47dwzy2n":"ldemanue",
+"wilkbanz224i7se2o62cjvrw":["ldermarkarian","Léonard Dermarkarian"],
+"ywpa3ws4cxch3hpvvzjdgqc5":"ldntop"
+}) // 2023-11-04T14:23:11.713Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

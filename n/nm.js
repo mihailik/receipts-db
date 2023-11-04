@@ -419,5 +419,15 @@ var nm=(function(jsonp){ if (typeof nm==='function')nm(jsonp); return nm=jsonp }
 "y7epixdq3ntcaotcof32avzq":["nmrbender","Paulo  🦅🐍"],
 "xc2ntrngho2epsdzba6zewa4":["nmvoiceact","Nathan Martin VA"],
 "lapl64wvpi5hve2oor5cdb5b":"nmkttm",
-"lztjjawyl3dagdmwvhzstaj4":["nmartinez","Nicole Martinez"]
-}) // 2023-11-04T11:23:45.287Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lztjjawyl3dagdmwvhzstaj4":["nmartinez","Nicole Martinez"],
+"aeajq7rce6yqdhb36yl32w3b":["nmk-climbing","なめこ"],
+"ybdhahfyezcz7ql75ybkfjpk":["nmac2024","NMAC GRC 2024"],
+"kclqbrji7cfnvhpd6bzqxlm5":["nmwind","NmwinD"],
+"vy2p7oimerockh2ff74pw3f7":["nmuelhens","Nina Mülhens"],
+"ldhkgefvzg5ql7woszxywcvn":["nmemusicbox","New Mortal Enemy @ BOF:NT + ???"],
+"nkq6xwegiz7bky5gkzvc7jcf":["nmad","NMAD"],
+"5zfrcqvofji5yskfvrclnftk":["nmoona3","むーにゃん"],
+"sqn5lm57ccfwr7u62f43eg2p":["nmdane151","nm"],
+"p3nzajiueqsmnj5top3ru2qh":["nmalen","Nicolas Malen"],
+"7obyatld3cgziriy4lkihqgj":"nmmlm"
+}) // 2023-11-04T14:52:37.668Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

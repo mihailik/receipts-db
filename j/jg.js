@@ -590,5 +590,26 @@ var jg=(function(jsonp){ if (typeof jg==='function')jg(jsonp); return jg=jsonp }
 "lytf2tfns5jhjxpio5fwdxww":["jgcastillo","Jesse Garcia Castillo"],
 "h35sjobmlpdh4oixfqnjsmzf":["jgorlewski","Julie Gorlewski"],
 "bnf6pi224a3xbb6vku62xdzf":"jgar",
-"x6ajtofgxdpvlptwjj7emjbf":"jguardado"
-}) // 2023-11-04T11:27:13.171Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"x6ajtofgxdpvlptwjj7emjbf":"jguardado",
+"5zngxovclch5yemchvulkvde":["jg9u08w8wjtjt","たぬき御膳"],
+"mhjsyafaig6unjd2762puf5t":"jgbot",
+"aqikglzhiihxqf7o2bzadidh":["jguinand","Julien Guinand"],
+"gatf6dr7mskmg45uybxfeuqn":"jgamerbr21",
+"qkjg3fqt4hpvozerwdwhvfoe":["jgsteen","Jeremy Steen"],
+"5wdufolhqzsfwgncshuzrk7m":["jgonzalezdeprado","Javier González de Prado"],
+"mu5w4wghvuefioambldzp22m":["jgrubiam","Jg_Rubia_M (Entre Videogamers)"],
+"dc77kc276lxecfzwvmfmd3pv":["jgatzmer","James Gatzmer"],
+"lgwhn5mek6cf64nhejrondfb":"jgamb",
+"ncawjx2vrcexdlcc2yfs77pm":"jgrangier",
+"anadgfvs6gsq6jubtv24fcju":"jgscherber",
+"lmnezktnwvlxon4ihqpm4zog":"jgx",
+"dgz75afvkwaxbxzjyod446cj":"j-goffik",
+"ehpbi6efydgflgprihnayngo":"jgodfreyie",
+"xkjrk5a3w7cxtu2zawqof2gg":"jgomezca2",
+"3uop6qpdeqv7ein3trfgwnc6":["jgalaber","Javier Gala"],
+"ra726s7mzizd4epjyyrle7be":"jgovrin",
+"x53ocy57tylq5snczcowk6fh":["jgps","Journal for General Philosophy of Science (JGPS)"],
+"nko2fytbjs6vw7px7jasgenc":"jgordo",
+"fc3hxguvpbfdoseh6moj7kxr":"jgtorres",
+"uvuhkscui4z262y6szkt2w7z":"jggerrits"
+}) // 2023-11-04T14:45:31.567Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -118,5 +118,13 @@ var zb=(function(jsonp){ if (typeof zb==='function')zb(jsonp); return zb=jsonp }
 "yoboj6riv6mr25lu5gz7frpt":"zbetts87",
 "5cj3ziiyeq3aqh7zuan66uv5":["zbrcat","しま"],
 "x2zkjfopdx7rglrlk4uyp6xf":["zbmed","ZB MED - Informationszentrum Lebenswissenschaften"],
-"4tjfeljz62ukfkqcztmi2u7b":"z-bruh"
-}) // 2023-11-04T11:33:58.750Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4tjfeljz62ukfkqcztmi2u7b":"z-bruh",
+"oktfyueiw7l7ywwslkd3ricm":"zbblanton",
+"lu763nhfsnml6telxn7lzhq3":["zbi.supergamerside.fr","Zbi"],
+"saskln6xvk7h2z4ivb25knp2":"zbojceq",
+"hia5ndkwacuzx2cgbs2et6xx":["zboul","Z'boul"],
+"ic5arfjhtqtgr4swvpi6xiep":"zbrotskiy",
+"ujiz4sel6oasyatcbykpkvu2":["zbbc92","Zbbc"],
+"y4szrqxtq3v5mp4j7qtsyeyw":"zbba.site",
+"vlzmn4jwhhpkyd7wdcf2xl6j":["zborrik","Alena Zbořilová "]
+}) // 2023-11-04T14:47:15.736Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

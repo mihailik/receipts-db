@@ -249,5 +249,11 @@ var hp=(function(jsonp){ if (typeof hp==='function')hp(jsonp); return hp=jsonp }
 "nwgqvebzotcolowrmcvzgat6":["hpy-prfl-75","hpy-prfl-75"],
 "uet3jl5hpuykyun2jdthac4y":"hpayne",
 "fooyvdo6dkfrwdcetgqdy2m2":"hplehti",
-"oegmlksbae6mstmhaclnxovy":["hpwendiz","Jojjo"]
-}) // 2023-11-04T11:39:03.366Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"oegmlksbae6mstmhaclnxovy":["hpwendiz","Jojjo"],
+"qhpnafmxy3bxm4mjat2p3yfo":["hpi","Hasso-Plattner-Institut"],
+"eqr2mvx2rbohc2nkkref4gk5":["hplostcraft","Dani"],
+"p4pjckx5ecjntxq3m3plimt7":"hpachmann",
+"ialdduv6tgco3v4pdepzgdnb":"hpseemann",
+"m4mcu3nqhei2bsqn7rc7syij":"hparkkinen",
+"sshnliwlno47sm6lpcnk7ln7":["hp-basarab","HP"]
+}) // 2023-11-04T14:57:51.592Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

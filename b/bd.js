@@ -529,5 +529,22 @@ var bd=(function(jsonp){ if (typeof bd==='function')bd(jsonp); return bd=jsonp }
 "qgrnje3mhqieqp37uc2ckbgs":"bdusauso",
 "7axf2ucvoh6d4gedvkl2gzss":"bduhs",
 "qnwqccyc4fmtmbkvg4f52chj":["b-dubz","Bee"],
-"z6tgvjbseuthxcxnaxof6jdv":"bd4bd"
-}) // 2023-11-04T11:37:35.442Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"z6tgvjbseuthxcxnaxof6jdv":"bd4bd",
+"fvgnp6nr7gkqvhbfth7bwxcq":["bdphilou","Philippe Attali"],
+"pgwhh6i4hambqs7srydzvc3t":["bdbd1132","덕"],
+"yhot6qwwjgf6izg6ukzsacqr":["bdonath","Björn Donath"],
+"ykvrq3ztdzxn5byjl76rqeqj":"bdsmmarc",
+"q2m5lys6mwogjyp4j5ot66x3":"bdanaher",
+"zsqb3qlobjyxcix7ef2p2c32":["bdzk","BDZK"],
+"wdy7mpoxlndodkfumhcnk33x":["bdinunno","Brian DiNunno"],
+"bgl4eabvanbjzrypycio5v2w":"bdkmv",
+"cylqzctmxcyjvkffdnekmg4x":"bdjkzkskkdkfkfds",
+"yiccn3xxxi4uemmqoifo3mp6":"bdbbbf12b9",
+"rbyskj4pcbtvirjyn6qpaog2":["bdxxie","Guillaume Teixeron "],
+"mrgdzan6y7ds2yxq3vwj5gkc":["bdgreen","Bryan Green"],
+"ythffvt6fzzlieufnhhpu2fk":"bdciron",
+"znwm3vk3whhji2o27fjpofk3":"bdombek",
+"hrexmr676pnu67zkfb2duf6c":["bdigrande","Bruno Di Grande"],
+"q7f6dioz7kt3xcop276poprr":"bdlewis",
+"auv7l36223ruyefp27n53db5":["bdkj","Bund der Deutschen Katholischen Jugend (BDKJ)"]
+}) // 2023-11-04T14:35:15.598Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

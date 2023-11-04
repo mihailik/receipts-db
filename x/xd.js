@@ -159,5 +159,13 @@ var xd=(function(jsonp){ if (typeof xd==='function')xd(jsonp); return xd=jsonp }
 "rrgsusfboef5rhnbd5anczrp":"xdzen",
 "yclmzostly6t2vkcnw23b5lg":["xdtakerr","xdtaker"],
 "fus2q66qfbjil5gaojvfkrac":["xdynam1te","Dyno"],
-"my52trxmp5wqxmkvkstpugxq":["xdeoss","Deoss"]
-}) // 2023-11-04T11:30:12.227Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"my52trxmp5wqxmkvkstpugxq":["xdeoss","Deoss"],
+"k24axewoh3delq3fiwdlbn2d":["xdearmaria","María"],
+"6yohjk7nb6cw3qhzgpjkkjnf":"xdhannibalxd",
+"micqj2f4oaqj2di5dm2pmjcc":["xdistox","DISTO"],
+"wmrjifmtkal54ujhoxknjugp":["xdeadc0de","manu·e (Toulouse) 🟦"],
+"uetps5egsjgg45vkyuntovob":"xdominik6",
+"jn4qxtsuz7hznplva4lm23yv":"xdag-community",
+"5siyp57loxjsxr46kbs4e2kn":"xdaily",
+"vd5so32a7h3belkl3y7aw4tr":"xdl"
+}) // 2023-11-04T14:42:04.412Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

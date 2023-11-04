@@ -323,5 +323,22 @@ var nb=(function(jsonp){ if (typeof nb==='function')nb(jsonp); return nb=jsonp }
 "ptqy6d3btpaofqfihxk5gn2n":["nbound","NBound"],
 "hmvndvwzdsl72s3n4bafo7c6":["nbaforum.net","NBA Forum"],
 "44kzek667fofe26omqxe5h64":["nbellosag","Nerea Bello Sagarzazu"],
-"kjjmuyunriv2y7lil7aza5fh":["nbill","Nicola"]
-}) // 2023-11-04T11:40:32.010Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kjjmuyunriv2y7lil7aza5fh":["nbill","Nicola"],
+"qlaqs64oopsccdqegumdomev":["nb4s","Chain Home Low"],
+"kqtdurfuoun4boetjz6xilch":"nbpolitico",
+"5xkpmtf7qz6jtihi6aakezuo":["nbaer78","Nick Baer"],
+"dlee2tg6cvtajwzbhm56jtdt":["nba95","Nabila"],
+"csuufllgyq4zymvvu2hj7uom":["nbcs","Nobody Cares"],
+"em47pb7kj4bohfk67ltq7lsr":["nbust-bartels","Nina Bust-Bartels"],
+"6rpilbtkwzyohfa2antu7qt6":"nbuck",
+"byfiljn7w35v55bk4i7tpami":"nbarosso",
+"6vvesqx3liukvhopslv6ovbg":["nbaumgar","Nina Baumgartner"],
+"3ekjbcwgodppxjtlxj5kyjv3":["nbfev","NbF e.V."],
+"rcuqss35fxmpgnaflumf2ia4":"nbgnosferatu",
+"hc2b5psbfx7vjloo6qjcsvjg":["nbjule","Jutta Wegner"],
+"565z3ppytci5jkwyfg4janhe":["nbnazifrei","Neubrandenburg Nazifrei"],
+"f6cgrabyshd37oiziluytcap":["nbrogdonwrites","Nicole Brogdon "],
+"5ypxpkmj4hf3phtbh2vmokco":"nbdyhhgggcc",
+"4fjyezalyim7rv4xdgdfpssx":"nbmaro",
+"vytstfhiz4npblfvlprqaahp":"nbouwsma"
+}) // 2023-11-04T14:57:51.219Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

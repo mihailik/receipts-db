@@ -217,5 +217,12 @@ var ln=(function(jsonp){ if (typeof ln==='function')ln(jsonp); return ln=jsonp }
 "3egv2zenom2hlecepybmdayn":["lneta","Ln'eta"],
 "ofb6mtgab2bf4hzjrp7xk36v":"lna66675",
 "3zexwn5qxg7v577h2t2atojr":["lncrombet","Hélène Crombet"],
-"halhrps7r25cid5n4y23sovx":["ln-zeitschrift","Lateinamerika Nachrichten"]
-}) // 2023-11-04T11:04:19.874Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"halhrps7r25cid5n4y23sovx":["ln-zeitschrift","Lateinamerika Nachrichten"],
+"whayoi4dptxvdjtgilwtkt63":["lndekernous","LN de l'EN "],
+"uq7ucqp2qcjdkylo4d4ije7e":"lnazaninazadl",
+"nfyxxuac56ev7twnxkjhkknj":["lner","Florian Linet"],
+"4haod2sceqetfcvltkjv5zot":["lno","Lawless"],
+"xtcp7oexg6wftyuhgrscdmvo":["lnrtunion","Lenny 🇭🇷"],
+"clqwgnk6i5cvjfdtqlqzau4z":"lnordi",
+"iike2hiwnwy6rf2hvsvyqdag":["lndasein","LND ✨"]
+}) // 2023-11-04T14:14:45.829Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

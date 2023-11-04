@@ -377,5 +377,17 @@ var lc=(function(jsonp){ if (typeof lc==='function')lc(jsonp); return lc=jsonp }
 "cb6wvuky7rbl2nchsrt53wdf":["lcdrrek","Raf Kearns"],
 "q5ee6pxysraghnrl6ub7dazc":["lcfcsean","Sean Caldwell"],
 "rgtwbgaecbfxkljzb2kwzzhg":["lcspatiale","La Chronique Spatiale"],
-"omfv5a67efzqzavln7earhif":["lcrossey","Laura Crossey"]
-}) // 2023-11-04T11:13:15.133Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"omfv5a67efzqzavln7earhif":["lcrossey","Laura Crossey"],
+"tsjlkrt3d2x2baqjato572je":["lchddam","LCh"],
+"2y2vwam25vyejesppednehtj":["lcr","Lasse C"],
+"2opzwuocxfkpt3xmcmhqilrb":["lctobio","Sinsein"],
+"jcd7sdgq6j2jsm3ee6koyjbn":"lcsn46",
+"5tl5jwc73k3o6ahtriq2kknq":"lchi",
+"mjfwtez4yxlfe5znd6xhrw4r":"lcampos",
+"dj6fjhx6sjnyiyjuu6pp5szq":["lcastrovarela","LuCas"],
+"mhva5vhszagsp5n7c4kiat4a":["lcdream","CDream"],
+"ytumxrdzxsysvcelvi5v2bll":"lcarson",
+"uftotbgidedo6kagx2jpg5so":["lcf","LC 🦊"],
+"h4wpqedx2jgns4agvwx4rxpf":["lcog86","Luis Carlos Ortega"],
+"z6x3vx4llglcqalhehdttrrv":"lcvdesign"
+}) // 2023-11-04T14:45:31.048Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -214,5 +214,14 @@ var pv=(function(jsonp){ if (typeof pv==='function')pv(jsonp); return pv=jsonp }
 "rhl2c2cihmtqnzz4v3gxtnwf":"p-vaghef",
 "nzz6no4ruycyl3j6d3t72e3d":["pvd","Paul"],
 "qz34ehghhbgjfleyc6ejde4f":"pvlimpt",
-"khg4dv23xgaqfgqdn4f3y6q2":["pvrrlex","lex ✨"]
-}) // 2023-11-04T11:22:15.002Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"khg4dv23xgaqfgqdn4f3y6q2":["pvrrlex","lex ✨"],
+"vwyi6aak2faa3dplst2gfdnc":"pvsalisch",
+"w34c2bfphr2xavb5heupqb2p":["pv3g4","Patrick Vega"],
+"xgq5wl4dts3p2666jf4kx2bq":["pvdb","Patrick Van den Broeck"],
+"u4mdxeouvty2gbpbod2lojdm":"pv26",
+"smofkl37zemdklkiepjfuyq4":["pvs-journal","Politische Vierteljahresschrift"],
+"6thpiralipvfuicxe64sbkdp":["pvasenius","Petrus Vasenius"],
+"gmveyyay44on6f6meiigg55t":["pvalmont","Pé Valmont"],
+"dwxqnho6jhjhrwwz2co73pgv":["pvorb","Paul Vorbach"],
+"wkqs7bhxppqyazyqqoa6ctsd":["pvlzf","Pvlzf "]
+}) // 2023-11-04T14:04:34.550Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

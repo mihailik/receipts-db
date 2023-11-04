@@ -324,5 +324,15 @@ var w0=(function(jsonp){ if (typeof w0==='function')w0(jsonp); return w0=jsonp }
 "n3sispnmihestba5ion7mxbk":["w6wmariposa","MARIPOSA"],
 "4jcnxjr6426a4yfw7yaxq6cb":"w3ird",
 "kohkcsmwgatx2fkutpslod4e":["w3care.social","W3care"],
-"f34ribmifexmnfpuqkytgbn6":["w1ng-gl0ss","☏ WINGS ☏ C0MMZ OPEN"]
-}) // 2023-11-04T11:37:35.243Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"f34ribmifexmnfpuqkytgbn6":["w1ng-gl0ss","☏ WINGS ☏ C0MMZ OPEN"],
+"d6g32tux57epngadm2uvjtq4":["w1tchm4w","Stray Crowbait"],
+"sjjc6sd3dmthwn3f3rpqr4ef":"w00dy",
+"e3abkzebuven347lwqci7lg4":["w3techs.com","W3Techs"],
+"bwlwrymkmoxzulafsbmb4pe5":"w0jackhorseman",
+"zr7jzjpu2nkefeuiiqt7zz3k":["w9uwm","Glen Hutchison (W9UWM)"],
+"ph635ksjpajcrm7lkekpra25":["w0ps","W0ps"],
+"et7cgf5faycm2tsqyhbfkf5s":"w0m",
+"two6ydpusryfionr4alxl7wy":["w3r3w01f","W3R3W01F"],
+"nz2wtyvbyvjrtwzj5552lfe7":"w8n",
+"mon2sjjng7oajm4tvflbnwb7":"w3lz1"
+}) // 2023-11-04T14:57:51.519Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

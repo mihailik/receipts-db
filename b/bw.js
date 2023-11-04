@@ -384,5 +384,18 @@ var bw=(function(jsonp){ if (typeof bw==='function')bw(jsonp); return bw=jsonp }
 "iomnlber4p7ies3jlhdipldp":["bweisslaw","Brandon Weiss"],
 "2xdek4sruem6bsvwrs3ivbze":"bwoahuwu",
 "3dhmzyp3elqj7bfkbphwxtsc":["bwegt","bwegt – Mobilität für Baden-Württemberg"],
-"sftbl7nkvcyar6tqxtqlqenx":"bwhitemke"
-}) // 2023-11-04T10:47:27.747Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"sftbl7nkvcyar6tqxtqlqenx":"bwhitemke",
+"ppgyju35zdhnzab6em53klby":["bwprowl","Chris's House of Chicken and Waffles Too!"],
+"poswtbcixj6nqbkt3q5hcutl":["bwidla","Bohdan Widła"],
+"ve6lp6pwjm6cijn6famagadw":"bwpt",
+"cg6qoatzcefq6byu2layca3l":"bwchantal",
+"aifcu5p5ttq7a3qmrvedjwcu":["bwrex","B Wrex"],
+"hfbvko36xo465kzbb6siftva":["bwazenotcat1","Bwazenotcat"],
+"z5xlqpjhbyj7tw6spdrjboga":["bweird","bee"],
+"nmygtnnpn3rozkp5mykwwbhp":"bweepbweepbwoop",
+"tsyprigmrijg5ksl4tqs65fy":["bwgruen","BundeswehrGrün e.V."],
+"hwdemjmzrxbmmxc4oibz5l3i":"bwnade",
+"7apigc6otcw6zbyua5l6q7ro":"bwech",
+"jgzl2ae4hwa7satqiflztvqh":"bwish55",
+"7r2gkkepdjk2l22i5ufyt7pe":"bwb1892"
+}) // 2023-11-04T14:11:20.592Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -346,5 +346,17 @@ var cn=(function(jsonp){ if (typeof cn==='function')cn(jsonp); return cn=jsonp }
 "g4bafvguuwra2kaxq46fpdy6":"cncguy",
 "lotdb4ajak4bnbkn3lk4qpxc":["cnreedcomics","C’n Reed Comics"],
 "njmos5pfs6fiszkfg6v4tduk":["cnodaraich","Amanda "],
-"4zwsmtmlkctxbb6r7hke3xar":"cnhagen"
-}) // 2023-11-04T10:43:30.687Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4zwsmtmlkctxbb6r7hke3xar":"cnhagen",
+"dq7lo3vye6qhsq2zynayuvfn":"cnstntnrckr",
+"jpgc5ushnelt3wscx5yzywps":["cnti","Center for News, Technology & Innovation."],
+"at7pa5nq6su5qjrpdtqo4zgi":"cnone",
+"if4llu52af3a5g6x2bqyiweu":["cnos","紫乃"],
+"3h7rzlh622dkjckrsif22hnh":["cna0123ewi","CNA【しな】🀄🔋"],
+"n275ht77cehpfhtlmhuvjiay":"cnile",
+"suzzw4dqww3o2xp2fdkap73d":["cnagik","c_nagi"],
+"wdqoduq4id3napwgbhdkjezf":"cnminh",
+"dy7gpem73d74plxr63fnsvfk":"cntsindicato",
+"2xhdsatidtbokpmgfoiozoyn":["cndct","CnD.Ct"],
+"gkqkfenny6xot3dz2xksl6kb":["cnotela","CnoteLA"],
+"qvpfuxku5z4cnerjizz5imy5":["c-notenc","Just a guy"]
+}) // 2023-11-04T14:43:45.158Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

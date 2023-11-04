@@ -297,5 +297,23 @@ var uc=(function(jsonp){ if (typeof uc==='function')uc(jsonp); return uc=jsonp }
 "3x2tgitcemfsqeor2f5geub6":["uchihaime","UchiHaime"],
 "hymowqhnmtjn5u4z22mimueu":["uconnlablab","UConn LAB Lab"],
 "rhklkggitweoi2z7p3qnhgul":["uchulups","Uchulups"],
-"oriii4dh5lfqdgv55cneznkc":["ucaft","UC-AFT Local 1474"]
-}) // 2023-11-04T11:22:14.647Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"oriii4dh5lfqdgv55cneznkc":["ucaft","UC-AFT Local 1474"],
+"fqehsrgbjm7md4saousxkg3p":["uchihaitachi","Itachi Uchiha"],
+"rquwpckhh2caaosx3owemaze":["uchihajo","우치하조"],
+"4f5tmkkwugsrogmcxphzzzhj":["uclselcs","UCLSELCS"],
+"cikouwewn7mcvqwya3sanqrj":["ucldutch","UCL Dutch"],
+"z3ythkhxwvttputixw6kyxky":["ucpesmerga","PJ Yaskowski"],
+"rhobuk3fsn3mfdawnvkoq66f":"ucef79",
+"2rxlt6z47im4ofybcgptwxbv":"ucdavisvetmed",
+"dou4zzxveildc4c6seqb34xj":["ucldh","UCL Digital Humanities "],
+"a3lumvkjwhuxei2jwwothfby":"ucpeach",
+"gqoajgha3iedu4ffaxncueay":["ucigcc","UC Institute on Global Conflict and Cooperation"],
+"tzefp523pzfmvc5ik6pcsb7u":"uclei",
+"kxsdsgezt3bewzveejywf4no":["ucl-ias","UCL Institute of Advanced Studies"],
+"4dtcqnlhwvi2y5cqzegnpwfo":["ucchiharuno","Angie @ RE4"],
+"mnazlj4ohgyqv4p6qfolbmep":["uchihagaeshi","conrad’s whore."],
+"liq7o7a36dyxlsebymkqknbb":"ucditto",
+"7kktycfyf7ngr6poym7hq3bm":["ucap","Uncontrolled Airspace Podcast"],
+"q4fxj3dchdxj4ah23fdhp45t":"ucucanok",
+"3lasb2y3a2tqgk6ytttkniho":["ucchukwugeme","UCHENNA GEME"]
+}) // 2023-11-04T14:35:16.238Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

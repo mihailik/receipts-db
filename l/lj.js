@@ -272,5 +272,15 @@ var lj=(function(jsonp){ if (typeof lj==='function')lj(jsonp); return lj=jsonp }
 "iyg6zbualgxuinldzg5plfv2":["ljubowie","ljuBAKA"],
 "zmgz3swezxslwnmxeohwnyq2":["ljhhb","²"],
 "itk3ztgqdybn75ko4upif7yt":["ljs-rlp","Linksjugend ['solid] Rheinland-Pfalz"],
-"nxzcazkseo3ub6igucs6eqop":["ljtweed","Langhorne"]
-}) // 2023-11-04T11:42:43.074Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nxzcazkseo3ub6igucs6eqop":["ljtweed","Langhorne"],
+"viggf5ea3l33obmeddi6rs4w":"ljk417",
+"aqpnba7bcmixfs2xfbtz4sxl":"ljmowen",
+"velb5yprrpb6tnr2gy6wb5r3":["ljlg","Lance"],
+"yayxmngywduwf233w3cjgkf6":["ljmb2","Laurence Boyd"],
+"xefru53fi5b4u5ftje573ilr":["ljthomas1991","Lou Thomas"],
+"uahzfcbxx5rxft2xi36s7b76":"ljem",
+"nudyie3a6kh2q55i5u67aqhk":["ljubeau","Laurent Jubeau"],
+"a5m6bgoflxhcaf7ri3b3ff6i":["ljvv","Rens van Vliet"],
+"5u5jwpclatsudykappjtwnfk":"ljbj",
+"mhyg4e72q63epoz36rtcci7r":["ljrocky","Rocky"]
+}) // 2023-11-04T14:23:11.721Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

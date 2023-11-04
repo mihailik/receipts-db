@@ -176,5 +176,14 @@ var fg=(function(jsonp){ if (typeof fg==='function')fg(jsonp); return fg=jsonp }
 "rjb47x6spastrg3qyzlie4pv":"fglantonio",
 "vcjcqk7l4s2dvg7j5lbb266l":["fguyot","Françoise Guyot"],
 "uxj5mht3bg24zx6msjbeovnt":"fgerault",
-"3hwjfd7fbz4zprux6hch5ewl":["fgbruque","Lagomorfo Chulo"]
-}) // 2023-11-04T11:18:15.712Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3hwjfd7fbz4zprux6hch5ewl":["fgbruque","Lagomorfo Chulo"],
+"mfrtdt6domnihcyxcgxwmv4v":["fgcarto","François Goulet"],
+"et4nshmte7wrwczx32x2idtf":"fgamboa",
+"med5or6frbrgb7qfw2kcms3s":["fgsixtensson","Fredrik Sixtensson"],
+"zfk5acgrecsujdol44mcze6c":["fg-wild","Frederic Griesbaum"],
+"o5wysbmn5ofpcczxkngdit2e":"fgiesdorf",
+"opsmyhqoxjpryw5ovjoavqmp":["fgoulding","Fin Goulding"],
+"4dxcqmb2rj2cmzjd5rsifcn4":"fglauber",
+"efnqtlxelnvecm7jytkbdspq":"fgh6sdff7sfg6",
+"mbr2ab7iv25vwxcpcqqhjdie":["fgilj","Francisco J. Gil"]
+}) // 2023-11-04T14:01:10.854Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

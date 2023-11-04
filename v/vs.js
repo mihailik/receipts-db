@@ -286,5 +286,14 @@ var vs=(function(jsonp){ if (typeof vs==='function')vs(jsonp); return vs=jsonp }
 "jlyxnh2unh4apcaf6crc2rfk":["vsroine","𝐕 ✿ 𝐒"],
 "63wm5zzaikpukp27eo3nc2rh":["v-schmitn","V. Schmit-N"],
 "7qqd7lrb4mkrhk563h5ffo4v":["vsalojarvi","Virpi Salojärvi"],
-"i6d7myodslybqdhfoysbhga7":["vsylvie","Sylvie Voisin"]
-}) // 2023-11-04T11:27:13.077Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"i6d7myodslybqdhfoysbhga7":["vsylvie","Sylvie Voisin"],
+"yv7e4rix7iai6whxt2cuu7vm":["vshargin","Vladimir Shargin"],
+"udvamw4p4khtaqzrhs7g53vv":["vsabinana","sabi 🐽 vtuber"],
+"izrl2pdj4j3csov5f5ne3zpw":"vsmiley",
+"hg6xoc3e4oh6ycrvoiojzxwx":"vsakai",
+"j5ykd7lbdqcmcvicwupn6oqx":"vsjegadeesh",
+"cq6bgcplxlwhi7bbe4fvyhip":["vsing","Vsing"],
+"t3hxbfl3u3fyyv5jw2e4modz":"vs42",
+"wozw3kac6gfavr7277ojhmho":["vsilva","Vsilva"],
+"vuefhuzpgbk4hsco7uxc27c4":["vsjay03","Zam"]
+}) // 2023-11-04T14:38:36.967Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

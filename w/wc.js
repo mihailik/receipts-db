@@ -153,5 +153,7 @@ var wc=(function(jsonp){ if (typeof wc==='function')wc(jsonp); return wc=jsonp }
 "rlfnyi3zzmxcnwj36kny3v7m":"wctd",
 "2dekfmcq64qrenhr2jiuxhra":["wckdaprl","Dee"],
 "kuoyl5fdmwwylbw2dvqpfqva":"wcp",
-"jamkwhqw2lvs4k2ukeaakwe3":["wcaa","World Council of Anthropological Associations"]
-}) // 2023-11-04T11:28:41.121Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jamkwhqw2lvs4k2ukeaakwe3":["wcaa","World Council of Anthropological Associations"],
+"vrury2432ahh4imysrhrurm6":"wcw4921",
+"22qqkgojek4cfhqnbsrrfkps":["wchizu","Geovana "]
+}) // 2023-11-04T14:35:15.609Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

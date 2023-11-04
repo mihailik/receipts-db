@@ -575,5 +575,23 @@ var vu=(function(jsonp){ if (typeof vu==='function')vu(jsonp); return vu=jsonp }
 "4lcjckxkxyv7pyaq6oxrfhnr":"vulpix037",
 "lsk2n4gomigeui54l2bysjta":"vulgareconomist",
 "qiqx3fimh263njrzqydjmy6i":["vulkangestein","Tomas"],
-"agjm4nhziqifbvx4oaluhxxz":"vultron90"
-}) // 2023-11-04T11:28:40.812Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"agjm4nhziqifbvx4oaluhxxz":"vultron90",
+"esky2neoxixrsj6mwstcsxp5":["vulpinedesign","Nicholas Quesadilla"],
+"d7s5mmrf4joepaiuazfqpl5t":["vulpixel","Vulpix"],
+"oxjwn4bu4g353dvcil7m4gaz":["vusbe","VU School of Business and Economics"],
+"whjg64v4ttfz4ywbgv4o5a34":["vulpesvulpeser","Some Calibrations"],
+"fedon26trp7jzxdryyhiblef":["vulnerability","Vulnerability"],
+"cb4lbgacjxrpozhafxuuf37q":["vulpinitemplar","Vulpini Templar"],
+"5fznaqnq2hfg6burksrvwky3":"vulgarcute",
+"ftxe5tq5i5dfawgn5txsdd7t":"vuvuwe",
+"xtrw3i3mkeunumu4gfhjyazu":["vuktur","vuktur"],
+"hz6f7ee7d324x7aet37qzw4w":"vulkamite",
+"xcxxg3nnzxpok6wx46gseovn":["vuaen","Vuaen"],
+"hxjnydg2q4nyjgmuatxiss6e":["vuffeljern","Vuffeljern"],
+"5ketbbdr72ly3oyjx6fj5a55":["vulpinecreative","Vulpy"],
+"egahpdikclqqiiny367zazhh":"vulpgulp",
+"kalctfpss36rws527svnvdjk":"vugzy",
+"5plf3zqfwimednguhw2eu45l":"vunleashed",
+"uyv7kacljpcerl7ytq5ezc4h":"vulkaniern2001",
+"4oakrg7bjkvk3e7gdcvzoiu3":["vulcanlwj","patricia "]
+}) // 2023-11-04T14:54:22.070Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -192,5 +192,17 @@ var lf=(function(jsonp){ if (typeof lf==='function')lf(jsonp); return lf=jsonp }
 "fgnt2v2tbrkeewetp33r4maj":"lfhsv1",
 "6iuhycofbisydvbvadlahyf7":["lfi","La France Insoumise"],
 "p3id3jew5k6gabwgolbnygez":"lforman",
-"q4w2oev5g7or2tne4fntjbzd":["lfvbf","LFVBF "]
-}) // 2023-11-04T10:47:27.906Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"q4w2oev5g7or2tne4fntjbzd":["lfvbf","LFVBF "],
+"ot3h5iy2upukf3wjw3hfzh6w":["lfcrach","LFCrach "],
+"gfcoi5vedoujnwgmqfi624my":"lfx",
+"2ulsmgvklabcunjdvanzd7p6":["lfok","いぬまる。"],
+"sfqrhldkeu3wttgzmovgxhco":"lfolkenborn",
+"xo5vaagxkek4qjjpbw7jv3gx":["lfm","Leonard Müller"],
+"4uam7ycgeafzb3qokp33clel":"lftsole",
+"kk7cpsbir43me4eg2pcbthh4":["lfmartins","L.F Martins"],
+"mwvti3tnlqhs7nib4cwldtxq":"lfunderburk",
+"cutmacwry4bnsym4ac7gem4l":"lfeanyi",
+"ixsry5x7k3zzndedjyu3kwa3":["lfsaldanha","Leo"],
+"vikoelnf7uwstaexm5cck7ol":"lformiga",
+"eqa4wy7imyhok4acanvg5bvb":["lftysl","LFTYSL"]
+}) // 2023-11-04T14:43:45.468Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

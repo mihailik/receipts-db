@@ -76,5 +76,7 @@ var xg=(function(jsonp){ if (typeof xg==='function')xg(jsonp); return xg=jsonp }
 "2pb5qknejufvk32dsrqjv3xn":["xguy","Felix Guy"],
 "ra62s6vuyq2qm2apjsio3lyn":["xgypt","Carpe Diem"],
 "rz3nbpxbommgs3fnxc6aau5r":["xgm.terra.social","XGM - Xtreme Gaming Music"],
-"wz7j5zr6dxhz4f5uaudw6kap":"xgm"
-}) // 2023-11-04T11:35:25.957Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"wz7j5zr6dxhz4f5uaudw6kap":"xgm",
+"cdz2c7t4ge2x5fxip4ml6f7h":"xgazz",
+"fy3o3yy3ltwlm4ypgtddqch7":["xgigidraws","gigi 💜✨"]
+}) // 2023-11-04T14:40:21.408Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

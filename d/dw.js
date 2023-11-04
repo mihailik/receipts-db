@@ -656,5 +656,21 @@ var dw=(function(jsonp){ if (typeof dw==='function')dw(jsonp); return dw=jsonp }
 "luc5dbn5vzl27iqzctrpvzzd":["dwein110364","David E Weiner"],
 "t6x3qocjhxa6amrrxnqxby7r":"dwdi3ddang",
 "nz3ta5ihoarbdsnyqbly6rov":["dwightw73","Dwight W"],
-"xiis7ovowqag5zotsq7bghvq":["dwsuperhz","鬥伍"]
-}) // 2023-11-04T11:39:04.041Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"xiis7ovowqag5zotsq7bghvq":["dwsuperhz","鬥伍"],
+"6inolvn72bv7lttrmwncnqbk":["dwdl.de","Medienmagazin DWDL"],
+"qqrhyuxsqs3vio5sdrupyegp":"dweatherall",
+"45aoogydupnxgiqaj5ubaa6z":"dwarvensphere",
+"xam5uakil4ueirxufdsu5kyj":"dw33t",
+"jjuhijrtprgfcbnusmsnh4zi":["dwhit","David Whitfield"],
+"bfwr6ql7c6wes7p55x2nifxu":"dworc976",
+"3ituzx2oxaklbiqtm2whennw":"dwsvie",
+"esjyunfe4wz3hgvkpsgsqdml":["dwljcqw","In love with an Alien"],
+"wbmtrxsfmgl5734wamorrcca":["dwasser","David Wasser"],
+"brxhh64xxns7l6hq2bopto72":["dwightrolf","ilya derevyanko"],
+"5hewrlwmiq6uuypu2outfrw4":"dwatk98120",
+"5vf5sm7nqyzxev7abvyu6qp6":["dwbmb","dwbmb"],
+"4d2rt6k46g3sp4iwz6jyx5ec":"dwlfrth",
+"6d5ly4y4zfzemfjwc6iblfc3":"dweller",
+"vxbjie6ci6xxnvl7dmuro5ww":"dwflye",
+"jhixkrs23fndwi5yjwumgxfu":["dwolf0","Dwolf_"]
+}) // 2023-11-04T14:50:45.653Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

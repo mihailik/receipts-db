@@ -50,5 +50,6 @@ var iq=(function(jsonp){ if (typeof iq==='function')iq(jsonp); return iq=jsonp }
 "mpkoais6ygy3phvhs37yxevh":"iqcapsule",
 "p3hcbnek3lnpegezhivq3g4p":"iq-kiliq",
 "6gu33ogptfc2fu25dwnrsk62":"iquinette",
-"a77ykeypb4uv5medyoaxkln6":"iqsfxwr"
-}) // 2023-11-04T11:37:34.487Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"a77ykeypb4uv5medyoaxkln6":"iqsfxwr",
+"64vj4a47fp4gqtgjzgqwszfy":"iqbaladiyat"
+}) // 2023-11-04T14:52:37.900Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

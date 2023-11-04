@@ -260,5 +260,18 @@ var hb=(function(jsonp){ if (typeof hb==='function')hb(jsonp); return hb=jsonp }
 "vxn6lxmxnsomknvvjjcnik54":["hbat","Hélène BATINA"],
 "fzwekghvp7r7lbovvsems35t":"hbrtdev",
 "zczwkcwtk2lck63c34sh4oqg":"hborst",
-"nexcnmjbcjmyjhwfpmfqwvdl":"hbhkiyo"
-}) // 2023-11-04T11:35:25.977Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"nexcnmjbcjmyjhwfpmfqwvdl":"hbhkiyo",
+"ystkajmdkyleplkqqedmwc5u":"hberberoglu",
+"lmvs3u7oroosykiidvkuz6yc":["hbshh","Hamburger Bildungsserver"],
+"p4gwivl6wnztbqbshjri7kee":"hbearalt",
+"q4myzm75pms77ueqqzcpgyvx":["hbmystelli","Mystelli"],
+"vwjwu2rkvly7f52pc22iyf3k":["hbn395","ひびの / HiBiNo"],
+"gzu5a7vzcf6ovmepbvtduue7":["hbapt","Godchoose"],
+"jkkmzwn4xxwto4fqwwohz5ct":"hbutmorelikeh",
+"betskyeqiozv2diwk7vfdhjg":"hbstudios",
+"y3jogqc6eiq45vj7736wqyiv":["hboi","Harrison Jenkins"],
+"7xidx2olu4rowsb2w3mydxmk":"hbronn",
+"2kt75k7bdfrerhahw4cqlrvd":"h-baum",
+"wtbuf3xqz76ojt4tb5diswrq":["h-brs","Hochschule Bonn-Rhein-Sieg"],
+"fpfijp4bqtkxe6e5q3s2wiug":["hbuchta","H. Buchta"]
+}) // 2023-11-04T14:56:08.523Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

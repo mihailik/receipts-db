@@ -116,5 +116,11 @@ var wk=(function(jsonp){ if (typeof wk==='function')wk(jsonp); return wk=jsonp }
 "uit6kbqc2p5bddsewxwddhya":["wkp","Wahlkreisprognose"],
 "gm2c5ou3gtuy35hjn3wy7i37":["wkt1969","Bill On The Hill"],
 "df3muf3rvr3utpczqirnwx5n":["wkemm","Wiebke Kemmler "],
-"tpxrircevsgpvndhamroznj3":"wkya"
-}) // 2023-11-04T11:30:12.403Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tpxrircevsgpvndhamroznj3":"wkya",
+"acko3kjt53gegjafvc4xf6tm":["wkqco723","잡채먹는토끼"],
+"nids5xdr3hc32mqi2igwouro":["wkqxkzn","잡타쿠"],
+"dknsa5ovlnany3dvvbih46ms":["wkunisch","Wolf Kunisch"],
+"it4sou6d53bxzboijskclpbd":["wkimper","W K"],
+"jddqt6u46qtihdaifazcagxe":"wk0",
+"hwxoksd4j3bqqjwylr37tscx":"wkl75"
+}) // 2023-11-04T14:28:27.964Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

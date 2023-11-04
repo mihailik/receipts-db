@@ -190,5 +190,17 @@ var fd=(function(jsonp){ if (typeof fd==='function')fd(jsonp); return fd=jsonp }
 "o4nhxfa5cijwk7arzauurgry":["fdlm","Filip KRZN"],
 "6gqqcaywz6tfmnib7asfhta2":["fdevitart","fdevitart "],
 "3am3udfjxbd6e5bmcbpdnt6e":"fdasilva59fr",
-"4wnbbw7eofocoap3ecztehue":"fd-c"
-}) // 2023-11-04T11:35:25.564Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4wnbbw7eofocoap3ecztehue":"fd-c",
+"nbi4jvfisgj42ctdnc3tec6p":"fdsfsdfsd",
+"idlw7l3uwdfyhyeotjeufo4u":["fdepuiset","FDepuiset"],
+"n6ftnzoogueaedcopp5nkaoo":["fdminf","Flavio Medeiros"],
+"ofjzlzbyw2vlfdiaxl4fwlc3":["f-dissinger","Frank Dissinger"],
+"bc4qtuyxpnckd6issjf45qbq":["fdq666roadie","FDQ"],
+"t2yaku4o4uxk72w7f3gyof5r":["fd22","Frank DeLucia"],
+"yzsue2hpmpqnu4jwn5ibd4y6":["fdestais","François d’Estais"],
+"7igu7wyrz7okv46igirv7g7w":"fdedessespero",
+"mcmqgisjmk2xqeuzufxofvzh":"fdesousa",
+"2lp755bzywtaegwtghiyk3i4":"fdizdar",
+"apccjimpsl5vf2nsbnha22c6":["fdezsergio02","Sergio"],
+"rlrrnzlkm2zfvxnfr2m2pj7k":"fdarochacarneiro"
+}) // 2023-11-04T14:56:08.081Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

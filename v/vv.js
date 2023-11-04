@@ -331,5 +331,16 @@ var vv=(function(jsonp){ if (typeof vv==='function')vv(jsonp); return vv=jsonp }
 "qeat6oynmepvmnimxoaznddn":"vviley",
 "nr7byma4dl2km2vyd2kh2hwg":["vvw6o6wvv","랄"],
 "f5bazh4a52fdesedlx55ems4":["vvviii1015","설렁콩"],
-"osrb3orelf5izeewajhg56fp":["vvxvv","👐"]
-}) // 2023-11-04T11:01:25.310Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"osrb3orelf5izeewajhg56fp":["vvxvv","👐"],
+"i2puxjhoykcgbvc6g2idsmik":["vvnbdabayern","VVN-BdA LV Bayern"],
+"q7p67ehtz3rmln2sijfrxspf":["vvyrmwood","vishnu"],
+"p74pjsbqa3xpcb566vtznums":["vvsektor","V.V.Sektor"],
+"r5jbisr74yufetvktnm4d54q":"vvvsad",
+"l7tankdzd3rqvj46hklt5rhg":"vvirmania",
+"t2bbumk4j55iknl7dba4dfys":["vvip","은"],
+"5ugrfmjnmnb2uz3p4mezyxhw":["vvennyss","Bhiku"],
+"y65yltmnuemnhmigw2ur4eun":"vvoiron",
+"j37c3k5j4ejswmril2zatc5d":["vvii","vvii"],
+"zqw2fu6lew4dbjr6t7sw6mfg":["vvill","Will L"],
+"n3jf7gqml4u34x5j7dfpiko3":"vvg51"
+}) // 2023-11-04T14:52:37.891Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

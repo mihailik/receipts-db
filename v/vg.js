@@ -169,5 +169,14 @@ var vg=(function(jsonp){ if (typeof vg==='function')vg(jsonp); return vg=jsonp }
 "qf35pbuueecu64t5krqhxgnt":["vguiral","Vincent GUIRAL "],
 "nj7nhlktx6j4xp64gntcd656":["vgaudrat","Frère  Vladimir "],
 "hnjqhuhgqqnyednosjdwlaua":"vgoldi",
-"ufancfp7fkvca2wel6a36jbi":["vgege86","Alucard"]
-}) // 2023-11-04T10:43:30.330Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ufancfp7fkvca2wel6a36jbi":["vgege86","Alucard"],
+"n6lqe3nknxomti5obsqxzq3w":"vgfreak1225",
+"i532pvkcbb3cmam4olr7aiyf":["vgizal","Valentín GL"],
+"6sq2deekaztx5gnjwwhyv2ak":["vgonzalezmaltes","Victoria Gonzalez"],
+"xfxchcxzdkuilwv6kbgw3xks":["vgirerd","Vincent Girerd"],
+"wlf5zqnod7lkc2lzvq4ywtms":["vgrande","Virginia Grande (they/them)"],
+"gmbsfgekde2onnntfdkeehaz":"vgnpwr",
+"uqgqpuo4qsha3dlmewifinj6":"vglh2023",
+"lazpafm4nacm2pw25tkcba3n":"vgarnes",
+"n6rrvbsacyk64pfadsjizxol":"vgnbatty"
+}) // 2023-11-04T14:54:21.273Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

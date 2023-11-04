@@ -159,5 +159,17 @@ var xb=(function(jsonp){ if (typeof xb==='function')xb(jsonp); return xb=jsonp }
 "6vn4lfxjqtcub2on7ndg73jk":["xbubblemint","Chris 🎃"],
 "lw3lysuo24muohfzgy2avv63":["xburnigx","Doña Prefijos Banderitas 🏳️‍⚧️"],
 "wbhaq6bg56v2kcwso6fhkgc7":["xbuck","Buck"],
-"lg6rrfhhwiies43ryfhcjag4":["xbyron","Byron"]
-}) // 2023-11-04T11:42:42.946Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lg6rrfhhwiies43ryfhcjag4":["xbyron","Byron"],
+"5n5oc2tbne4plb5cxtnapfcb":["xbabyvvitch","Lucy🌙"],
+"duhes2ap434eez7zwgquc377":["xblackflagx","xFantomasx"],
+"hu3tuwspna6eq4jdptmzl4c2":"x-brian214",
+"vkfa6r4hnyn74fgykwm3a7hj":"xbaldi",
+"lkiq5xswqfisxww3zfqggmhl":["xbot","Xbot"],
+"by7rftwxyda4cpejwbved6oi":["xboxgameclass","xʙᴏx ɢᴀᴍᴇ ᴄʟᴀꜱꜱ"],
+"fbkbhrao2j3eovlqfblb4lcr":["xblair","Blair"],
+"7dhuegyzrrbztyummbnwleeg":["xboxlivefr","XboxLive.fr"],
+"jdmcd7m7th7c6zjhzt5wcay7":"xbelial",
+"cq5ttmts2rcumex62mjqgndb":["xbranddigital","Xander Brand Digital"],
+"e7vez6ekabg2wcqskx3mhf2z":"xbagmet",
+"3o6b5iiqpnitideuekfjge6k":["xboxgamepasspc","PC Game Pass"]
+}) // 2023-11-04T14:52:37.852Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -170,5 +170,10 @@ var wb=(function(jsonp){ if (typeof wb==='function')wb(jsonp); return wb=jsonp }
 "jqwnxqvqkf2aaxa4knpr5y2s":"wbeiwll0001",
 "27y5t7jnl6c2p5u5dcpnvsup":["wbalaban","Wendy B 🇨🇦🇮🇱"],
 "ncyhe6sso7zuvlzjsbwxxaf3":"wbintrinsicm",
-"2bdtb7avv3vuitxqcttnpnj7":"wbn"
-}) // 2023-11-04T10:04:18.060Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2bdtb7avv3vuitxqcttnpnj7":"wbn",
+"osyeptbc37yxeeol6onioldx":["wbornarve","William Bornarve "],
+"ynd6e4mmrxsthyret2rbnmzv":["wbng","Washington-Baltimore News Guild"],
+"pmcvyslogiejeqk3gknbjwnj":["wbrsl","Walid Berrissoul "],
+"vunyudrsadyp327r4o4vlu3e":"wburgess",
+"jsiywaebxo2lbylgmsocokha":["wbru","WBRU"]
+}) // 2023-11-04T14:28:27.754Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

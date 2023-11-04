@@ -68,5 +68,6 @@ var zf=(function(jsonp){ if (typeof zf==='function')zf(jsonp); return zf=jsonp }
 "vtbebiptzw72u6cdjr7czqlq":["zfrank","Frank"],
 "63jkm3s7lojxuopo564fb52b":["zfgt","ㄟ府力"],
 "7f7jguqjakll6rocxnnqdnmw":"zfdk",
-"tbqamzcjjaups7uclpd6luvz":["zf47f","웼잉잉"]
-}) // 2023-11-04T10:48:55.275Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tbqamzcjjaups7uclpd6luvz":["zf47f","웼잉잉"],
+"gfqkl6dvkydb5pqizkeix7wu":["zfn","Zentrum für Netzkunst Berlin"]
+}) // 2023-11-04T12:50:19.192Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -63,5 +63,7 @@ var ux=(function(jsonp){ if (typeof ux==='function')ux(jsonp); return ux=jsonp }
 "qdqpqq4ub2lqop6ou52zkf24":"uxh",
 "dheydrolpkobq4v7qdxi2fas":["ux-dragon","UX "],
 "aqaviyr7wifzgxfgqbtwsuca":["ux-max","Max WV"],
-"ub2to47pddigsnfhforrnusp":["uxp2u","개빡힝"]
-}) // 2023-11-04T10:19:53.321Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ub2to47pddigsnfhforrnusp":["uxp2u","개빡힝"],
+"rc2terkk6z3w5rgcldspqnbn":["uxigadur","Martin Gavilan"],
+"do4525gnw7n345yfaldxawjb":"uxie1130"
+}) // 2023-11-04T13:50:57.072Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

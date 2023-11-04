@@ -664,5 +664,25 @@ var jf=(function(jsonp){ if (typeof jf==='function')jf(jsonp); return jf=jsonp }
 "qme5naycsozq4ezsk2cdyad3":["jfstep","Jess Stephenson"],
 "dvjbmhlf46gworloj6txz7aj":["jfguassimoreira","João Guassi Moreira"],
 "pr4natpj4vudcmnipwic3rei":["jf-1213","Herrfpunkt "],
-"r4cpaolkocn5ls3tcbzimkwu":["jfletch","John Fletcher"]
-}) // 2023-11-04T11:42:42.220Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"r4cpaolkocn5ls3tcbzimkwu":["jfletch","John Fletcher"],
+"zgiuvszp7yasxvkacvkt7n5t":["jfml","Journal für Medienlinguistik"],
+"foe4wszm5effxeivkbru4qvc":"jfindeisen",
+"t4ikzx2crr7w3pl7qkeryusp":["jflatt","Jonathan Flatt"],
+"65qujplz7235zpkhxyice6q5":"jfusfield",
+"tmcbaomeovoztwpwbl53fas2":"jf23",
+"lc57o33yxx2gvndp7uexgpgf":["jfsx","JFS"],
+"5asigbcpdkscepnwlqekeyag":["jfarbour","Jean-François Arbour"],
+"q6la7pykqobnc4mcyonkvd6n":"jfr3000",
+"5klv6nn5fdvbqchumrp463ae":"jfjimeno",
+"yneliqqdxbryl3f577ztu7jr":"jfreymann",
+"ifyvxfwv7jrf6yqscpypvno6":"jfnafziger",
+"ifrj4vm7cjnfkw6j2vphtslr":["jfz1218","jfz1218"],
+"jgfx6pvgy4cjaxebjagscqvx":["jfkogane","Léon Kogane "],
+"rnjgdnysdfx5k7zviwrzt7if":"jfberger",
+"7en3bg3dwf6vp5d4ep5n5c24":["jflegat","Jean-François Legat"],
+"ryhykjr5gg4ywnmkowju5zvh":"jfvegue",
+"fpcjnzbxwujgs74bh3hx2v6f":["jfranmatheu","JF Matheu"],
+"x2m7r3wvfkaoksi5gtveabuc":"jfairfieldvo",
+"hq4xcm24wk2g6dcksddvglks":["jfergus","J. Fergus"],
+"dnxw447vpveobujjwfvh6xfe":"jfklinkenberg"
+}) // 2023-11-04T14:54:22.107Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -180,5 +180,15 @@ var bv=(function(jsonp){ if (typeof bv==='function')bv(jsonp); return bv=jsonp }
 "3nndvyrsxtjlxa2lcy3rogrm":"bvmo",
 "m64ffcd5syupgxykylf3x2v6":["bvongalien","봉봉 "],
 "gsj6nvydwfb6467un7znup5o":"bvensray",
-"zvgyocfx42schxn4qxohg53y":["bvbbiene","bvb_biene "]
-}) // 2023-11-04T11:18:15.204Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zvgyocfx42schxn4qxohg53y":["bvbbiene","bvb_biene "],
+"76gnvwp725vze43rbqianjcb":["bvnemo","Bundesverband NeMO"],
+"g7p2bwd6hbf5jj6wy62q3mol":"bvbreus09",
+"hafezxusytudbexhp5vf2tn2":"bvqx",
+"nhecmt2cnfqnvcpytxkculuf":"bvdh",
+"jyujqnfdsgzs5n27pwh6rx3v":["bvis","bvisgames"],
+"t7bgsatnxugtmu5qajvocgug":"bvb1909",
+"fi67rz43zzwj5dpmscapghmd":["bvboden","Bundesverband Boden"],
+"ieqcocjsifhii6y4ld32gxyf":"bverwaaijen",
+"qvfqkiej44zn4zp2p47e44pb":["bvaninnis","Benjamin van Innis "],
+"lngqotdkryquizlqm4tz52zj":["bvulliamy","Ben Vulliamy"]
+}) // 2023-11-04T14:54:21.091Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

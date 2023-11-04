@@ -488,5 +488,17 @@ var oi=(function(jsonp){ if (typeof oi==='function')oi(jsonp); return oi=jsonp }
 "yy5lpq2dprifaliz45q3yozf":["oiyanpoon","OiYan Poon"],
 "hwxhaessvujc6rjwuhlq6qm3":["oimpopu","Opinion Impopulaire"],
 "bb4uexim3nbqtj24jvufanw2":["oillipheist","Oillipheist"],
-"x3w7lz6rxpouvlsr3cmjuwv4":["oieusouogah","Gah"]
-}) // 2023-11-04T11:42:42.768Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"x3w7lz6rxpouvlsr3cmjuwv4":["oieusouogah","Gah"],
+"faer7afnpxnkzjucpxffjoqr":"oifelix",
+"e44f3lxdhor5imk52u2tijr6":["oisouomatho","Math_kk"],
+"inkm3b4hx42i6fqfu5rvbgyk":["oiseaugalactik","Nock"],
+"z5nbtzsjrjxdz4kbhp7f257u":"oit",
+"se3kiju6c4eru2armba5nask":"oinkatomic",
+"hhxdxqjzxy2fvnvhomalh4xl":["oip","Oip the Prophet"],
+"qddqyi2fz5pd3pg4onacct4u":["oizs","赤瀬"],
+"6jib2ac6wga7bgcvn3h4pwhi":"oike",
+"rfk7glmvgephrwfsai3hfwoo":["oiluquinha","Luquinha "],
+"5sc4pobcr3u26ewdqtbxn6ve":"oim90a",
+"3s6sjscfhfz5oh35pgldcjfi":["oig","Ondernemers in Geschiedenis"],
+"5lig4trlweeuf6ehsjgmqng6":"oimatheus"
+}) // 2023-11-04T14:56:08.201Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

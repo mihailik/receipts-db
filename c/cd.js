@@ -660,5 +660,17 @@ var cd=(function(jsonp){ if (typeof cd==='function')cd(jsonp); return cd=jsonp }
 "3ezgbuzewy5quish2k65h5vh":["cdhauw","UW-Madison CDHA"],
 "xbstpldbmv7pdjqbg5yd7dku":["cdextercolby","Cassandra Dexter Colby"],
 "lq2l6w3qp735lyw6jzvv6bey":"cdigital13",
-"torfyi2luqssmeaoh3bbtab5":["cdemwell","Chris Demwell"]
-}) // 2023-11-04T11:39:04.071Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"torfyi2luqssmeaoh3bbtab5":["cdemwell","Chris Demwell"],
+"hyxftyndwzxy4kye74nevcu4":"cdaniez",
+"qclxfm4hpw4mussu2dcdv7pn":"cdreresplendent",
+"ziysh33w5qz75tduyciwwmrw":["cducouedic","Charles du COUËDIC"],
+"faavhysfq42pthyhdrp4b6xh":["cdizzlefizzle","Curtis D"],
+"nutfdbzeignyoleohfbno5il":"cdemonchy",
+"fq5mwipkdc6etqhl6avqnmlo":["cdtkoenig","Hervé"],
+"jqwgufwkr5bjjaaue7wjnhac":["cdarkc","C_DARK_C"],
+"jbc6ezijpqw5dvjp2iurvgb5":["cdfunileipzig","Stabsstelle Chancengleichheit der Universität Leipzig "],
+"nmdp2vt5thgbx4ri5fcq67vd":"cdrabek",
+"nqdr6rajypyu7z3mz6x5mt2u":["cdmouse","Souris"],
+"cdbgyzbw2fdt6zhy3droo7yn":"cdnlifter1",
+"4g7cdbbpzhslsmh7423sdznf":["cdm2008","CMorgan2008 🔆"]
+}) // 2023-11-04T14:45:31.300Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

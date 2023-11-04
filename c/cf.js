@@ -364,5 +364,15 @@ var cf=(function(jsonp){ if (typeof cf==='function')cf(jsonp); return cf=jsonp }
 "ntumnkyyofgoutksbej5pjxh":["cfctox","Charo F."],
 "nazh5d4ndixr3oswagr4mmrp":"cfm1910",
 "wry3kwhzw56muq77e663zaz3":"cfrorg",
-"5wg2g4t5t4hqrfrrpzsnucnq":["cfplab","cfplab"]
-}) // 2023-11-04T11:40:31.897Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5wg2g4t5t4hqrfrrpzsnucnq":["cfplab","cfplab"],
+"qifj6mfipwenzstjubj56u5f":["cfpkosmodan","CFP Kosmodan"],
+"viiqwetnfkh3tfyvfrky224r":"cfoell",
+"omuxlxhenwnoxhepcalvafu3":["cfbramble","🏈"],
+"vqczbabyuk3a7br363eodv6f":["cfenes","Cristina Fenés"],
+"vif4tz4wxczx2fkxa5nswdkq":"cfcphocus",
+"64qb7l56hjviy5b6drj5uzek":["cfsupras","Mehdi Supras"],
+"cuj42czayhv4le73ocas5tlj":"cfoxtrotmodels",
+"el2vvkfgw2kh3kk4qnkrljn5":"cfrd",
+"lursadb5egxpqipefej4amhg":["cfmhlab","Child and Family Mental Health Lab"],
+"f7vyhrfkmybrhdq7rymxp36f":["cfavergeon","Christophe Favergeon"]
+}) // 2023-11-04T14:50:45.913Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

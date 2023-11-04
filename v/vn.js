@@ -132,5 +132,13 @@ var vn=(function(jsonp){ if (typeof vn==='function')vn(jsonp); return vn=jsonp }
 "z6t5q2vrhtxc4svlgocqg4cb":["vnb.me","VB"],
 "2plglykdf6kkk66yjdu2pndw":["vnvszi","молода і стомлена "],
 "v5nppibiwuxfp7lfvjnpc3sg":"vnemesis",
-"gb7ebozpqpffniq2jqzggxqy":"vnlb"
-}) // 2023-11-04T08:27:24.196Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"gb7ebozpqpffniq2jqzggxqy":"vnlb",
+"e6onhjq53nf3t6kehcr4mhqj":["vn9","⊹"],
+"pcammv47kilobplcjbhfrm64":["vnlk","vinylka 🏳️‍⚧️"],
+"3f4lj2p3gf4frxnwhdmwsshf":"vnordenstad",
+"gf4eb6dizw4hpdpicfi7rjra":["vn-belserion","VN-Belserion"],
+"xkew46hrjwil7gv4unwyozww":["vnckor","Vincent"],
+"xw4hsuokav7qqhsox3pcnhkv":["vndctive","𝕮𝖆𝖎𝖓."],
+"sdydvyovan4vwbuybgcollyc":["vnss","Vanessa"],
+"pyydcgbtyxbklz3xn7wkwlt7":"vngalletti"
+}) // 2023-11-04T14:30:08.524Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

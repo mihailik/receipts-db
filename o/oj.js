@@ -254,5 +254,14 @@ var oj=(function(jsonp){ if (typeof oj==='function')oj(jsonp); return oj=jsonp }
 "belbhks3bq5xkxlrn7wfaxcv":"ojipepe",
 "qrnrd47foqqmlksaiu7am5aq":["ojrart","ojr"],
 "p6qb4bgxuzxgszfvh7ypesga":["ojiki-chan","Ojiki-chan@JP_Vtuber"],
-"ycn3bvtj66qskeonltl3mdrx":["ojato","Bimgus 🐱🎃"]
-}) // 2023-11-04T11:19:42.282Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ycn3bvtj66qskeonltl3mdrx":["ojato","Bimgus 🐱🎃"],
+"wxk7omwk2g33q7qcfpxknzwr":["ojisanghunter","백수탕수육"],
+"b3a67vw2mxcwfexejf3doy73":["ojisanganalkill","후진 거래처"],
+"x4fvpkwbrqmswd3sprigd6ri":"ojpimont",
+"6wplnge2ivc2loe3modbb7o6":["ojipichang","おじぴちゃん"],
+"uw3tmnvhtzcqitnzvnpichcq":["ojokk","OJ"],
+"qfj6dydksuzufpulx46uioam":"ojadeau",
+"hvlnnabcmkceibq3k4otwwz2":"ojibaba",
+"dry7wknjzqeh473qbk3hlnuc":["ojaga","ojaga "],
+"5prsq4klkoay6gtuk2bqrduw":["ojash","Ojash"]
+}) // 2023-11-04T13:20:50.532Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -263,5 +263,15 @@ var np=(function(jsonp){ if (typeof np==='function')np(jsonp); return np=jsonp }
 "psfdtifmranqtr2kqx3tn45m":["npotentia","Nate Potelli"],
 "ccxfcd7acgbpplam6wkcxfjt":["npalopoli","Nicolás Palopoli"],
 "ta4amvds3wbvw4f4zdix6vhk":"npennequin",
-"lttftx7rf27b6pvb25wm2wed":["npintar","Nico Pintar"]
-}) // 2023-11-04T11:09:48.262Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lttftx7rf27b6pvb25wm2wed":["npintar","Nico Pintar"],
+"iclcsp2jubvl4ap55nh7fero":"nphazard",
+"gruodypsi423dv5mr7xhrtkz":["npc82","Nick"],
+"3eb3egz33urtqwhtw7ekjpy2":"npunso",
+"e2pcgmcs47tq7j7uboln5ll3":"npietrel",
+"qwjovjwrwfvetmwk3v2soxqk":"npearson",
+"arvf3bohytoqljx3kgtf24mh":["npcmeleey","Mel 🌻♥️"],
+"w3ybwczsz7pl7r5t7tuj6bqd":"nposth",
+"xqwh2nfwcriqw6is3ymxuh7g":"npolt",
+"2mbuiezcroesip43vtbwxjob":["npug.no","Norwegian PowerShell User Group"],
+"me3e2l53urbgqphv7m5mqz2q":"npgmclub"
+}) // 2023-11-04T14:57:51.906Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

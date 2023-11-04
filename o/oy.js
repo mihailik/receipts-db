@@ -314,5 +314,17 @@ var oy=(function(jsonp){ if (typeof oy==='function')oy(jsonp); return oy=jsonp }
 "3v3uhyc4zdvlqngzq7nwizbk":"oynkm",
 "m6tuiatrp4ordvcwbyg6zdr5":["oysaat","Øyvind Såtvedt"],
 "yacdaa7yzwoh2vdfo2oz7m4w":["oysom","오예~"],
-"tg7msaicn6lbm7xqr7xocwqb":["oyundijital.com","Oyun Dijital"]
-}) // 2023-11-04T11:11:48.847Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tg7msaicn6lbm7xqr7xocwqb":["oyundijital.com","Oyun Dijital"],
+"jt3ohuoxxula5ylh2uvan4qv":"oyaserbest",
+"y7vvyfakf3q2qpafs5w3qd45":["oyurai","Yurai"],
+"l2ijhwum5aqszuhqivckwonf":"oysterking",
+"cxd6ti3iay5i3uenochcpdnr":["oyveyizqueer","Jo"],
+"z5nojx2vbbofqa3rumikfmrg":"oysterm",
+"flcr7fwfffiyslyk7l3kaulc":["oyesapapaya","Oye Sapapaya"],
+"d4oglairxpgyzgn3ltkb3y2y":["oyasumilorenzo","Buccia"],
+"vuump2unpuo5ztlorabwuwwy":["oyinlad","Gen-Oyinlad"],
+"iyu4q3pturrop5kutwl2v7ki":"oyaji29",
+"rc3ksg2izwgjj4kswegnfynx":["oykue","oyku"],
+"sw5u565i7bbmskha4znwzd7q":["oye01","Abioye"],
+"tkm2yp2bfhkvtt6roigvdef6":"oyrott"
+}) // 2023-11-04T14:43:45.449Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

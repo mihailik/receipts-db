@@ -156,5 +156,11 @@ var zr=(function(jsonp){ if (typeof zr==='function')zr(jsonp); return zr=jsonp }
 "fel4cc6725xyee6xz4ux3hxu":"zra",
 "7jv3gpdy42sdkopxzeyhz4fk":["zrong","自我放逐是什麼能吃嗎"],
 "zvoft3cvcmt2cu2gpuibvbgg":["zredalert95","P0420 Blaze It"],
-"cyjkyxv5nd6vqzzdzlffghdh":["zrno.bsky.mk","Zrno Festival"]
-}) // 2023-11-04T11:04:19.825Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"cyjkyxv5nd6vqzzdzlffghdh":["zrno.bsky.mk","Zrno Festival"],
+"eqa4z7uwuxbh574zellcsx4v":["zrs-redaktion","ZRS Redaktion"],
+"k55it55ofbjdp6emm5ntkgiy":["zrucker5","Zoe Rucker "],
+"y6zkqrgxyiybap4ploilssyg":["zr-tex8r","某ZR（ざんねん🙃）"],
+"4pzsrvp6pobahqnw2slgxehe":"zrodvold",
+"gqzau6eljaljyntjnbhogyyk":["zruciebun","Zrucie"],
+"wswanseko35tuzonanj3ufvq":"zroone"
+}) // 2023-11-04T14:47:15.417Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

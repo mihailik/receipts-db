@@ -547,5 +547,17 @@ var gg=(function(jsonp){ if (typeof gg==='function')gg(jsonp); return gg=jsonp }
 "czcsthxhvha7x7qxtfebekxn":["ggmmre","말랭"],
 "uphvowryxxvx72ho5beinfua":"ggerdener",
 "pgmnme6mldrvt3opsjniu64c":["ggyak","올인 더 꺅"],
-"5xwmbv3ky3cf2lpmbdtf4gde":["gg-no-bndge","gg-no-bndge"]
-}) // 2023-11-04T11:25:11.719Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"5xwmbv3ky3cf2lpmbdtf4gde":["gg-no-bndge","gg-no-bndge"],
+"ncqiwxrll2rroobsywz22e3m":["ggumong","꾸몽"],
+"s2uxozorwh2trz5d7uj2scdz":["ggsg","Gesellschaft für germanistische Sprachgeschichte"],
+"qvbfk566rvd2ai5jorze4mgw":["ggyoko","꾜코"],
+"5vtda3qbz74wkyatmybrusks":"gguerre",
+"oh6cvv3jvxxribwf6pwcxtoa":"ggdoubleyou",
+"3k6genikincrudbd2jjtjflv":"ggspare",
+"mc62cnxlkhin2dnw64yysk4s":"ggquartz",
+"3vi6njfa6qpbc6n34kqfg3vj":["ggdeparis","Guillaume "],
+"rvfchjjvyi4khaav3atb24nm":"gggnavin",
+"f7uuqgxsjhezekpolwrvvjcc":["ggggshark","GGGGShark"],
+"vu24ghzjbx4vubj4yq65l4nb":["ggnguyen","G.G."],
+"fs3tosrzh3gjd6y62ssmbck6":"gguzyu"
+}) // 2023-11-04T14:52:37.899Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

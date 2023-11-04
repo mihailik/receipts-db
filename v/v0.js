@@ -297,5 +297,14 @@ var v0=(function(jsonp){ if (typeof v0==='function')v0(jsonp); return v0=jsonp }
 "ui3ojcby3r2kyw4n3vq5ohbm":"v1ncent",
 "hvu5vqtuifuqsrwqw4q64sy2":"v3rax",
 "jumdrczvn7lw2uwcnfllc76x":"v0idedcha0s",
-"q6i5oielzmlqxaewz2dcygmt":["v0idxado","V0id_Xado"]
-}) // 2023-11-04T11:40:32.266Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"q6i5oielzmlqxaewz2dcygmt":["v0idxado","V0id_Xado"],
+"tirsnqyewh5x47v5qou2zhvf":"v0rtexbeater",
+"gfa6io6mvjkt4bqgwfoekme3":["v1nc3nt","Vincent Steinl"],
+"jpsyqh62btbo53ijoussrujy":"v1ne",
+"cbvdqax3gknhe73aotlp5cfe":["v4nnylein","V4nnylein - VTube"],
+"aqhhswl3lrvbbw5qjm4txepa":"v0rrtex",
+"4gnb7y6ka2bdh2x764v573ux":["v0lk3n","V0lk3n"],
+"d7h6p4kqmtwoqbvypkly4py4":["v0iddweller","Void"],
+"iighi63wcyqctemggchzatmm":"v3r3na6",
+"euxiebu6prp4x7dqh7yklvo3":"v1ncef"
+}) // 2023-11-04T14:58:02.325Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

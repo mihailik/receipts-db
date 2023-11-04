@@ -179,5 +179,14 @@ var lw=(function(jsonp){ if (typeof lw==='function')lw(jsonp); return lw=jsonp }
 "gvqhfnjfisc6ni2aeht6eips":["lw1120214","🥞"],
 "3bjyqffphsd5piaz6jcvwgur":"lwlibrarian",
 "cp2dovufyuzglzb3a4ealvdg":"lwolle",
-"uwi62ayhd7eunpbedh3tyxn7":["lwnd","lwndgpu"]
-}) // 2023-11-04T11:32:29.529Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"uwi62ayhd7eunpbedh3tyxn7":["lwnd","lwndgpu"],
+"5qgjccjapgnyyhmgrqalk64n":"lwstrudel",
+"wfdohcaxqa3b6jwkmif5hyv2":["lwestwoodauthor","Laurence Westwood"],
+"ilqwgzwsaaaaqputnql574fp":"lwethekam",
+"ya2i7ln56tc673vrigdvhizp":["lwiniwar","Lukas Winiwarter"],
+"432wthi2m5ne3q7lmrrbyjej":"lwoe",
+"wpg6f34d3f42zkgpv4o6uc3f":["lwstdfm","Love Will Save The Day"],
+"qoqiu7hnk3xrilcrd7whf3nw":["lwordkale","Kale"],
+"ukel2qaglma4lqrbecmmkcct":["lwdkernel","LwdKernel 🔞"],
+"h2bnpsism2dp6cupdpzzedxl":["lwj0123","たぬきち"]
+}) // 2023-11-04T14:52:37.845Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
