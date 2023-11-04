@@ -1232,5 +1232,6 @@ var xe=(function(jsonp){ if (typeof xe==='function')xe(jsonp); return xe=jsonp }
 "45n7m3dcs7i3vsdcykwhpqts":["xerxe","적세"],
 "lpmgqisqxf5uyfkpzirhl2aj":["xenox","Xenox (Toxoid49b)"],
 "mtlpq4zp3ardvchi4r4hzbas":["xelphos","Xelphos"],
-"h4gnqk7klhadktfkopq4yrw3":["xelxel","ぜるぜる"]
-}) // 2023-11-04T14:54:21.954Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"h4gnqk7klhadktfkopq4yrw3":["xelxel","ぜるぜる"],
+"fmf3jl33lozsujumzvnlfhsd":"xenosphobatic"
+}) // 2023-11-04T15:01:14.555Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
