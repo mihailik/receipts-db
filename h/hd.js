@@ -252,5 +252,13 @@ var hd=(function(jsonp){ if (typeof hd==='function')hd(jsonp); return hd=jsonp }
 "vjglaxdqfw4b3fvz7jqvcvp7":["hdjebar","Djebar HAMMOUCHE"],
 "4gtfwuvnkvsogiszlx434gxy":["hdtorresauthor","Heather Dawn Torres"],
 "5rybpudbpxb3vyksvbwtidax":["hdsupersonicohd","SuperSonicO"],
-"2335e6ssjdzte7fiek34c6dm":["hdayananda","Helen Dayananda "]
-}) // 2023-11-04T06:41:07.588Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2335e6ssjdzte7fiek34c6dm":["hdayananda","Helen Dayananda "],
+"d3wgls2enygac6xxnhdwdu4u":["hdi","Hervé"],
+"yojh2htenmpgccgsmrqpvm2j":"hddev",
+"f5xekmyxpjeu6mch6cvn6czi":["hdf5sv","圻巳 倉"],
+"p3zct4jwx6zv6z55u4bym5es":["hdth","Hadis"],
+"cbskp3p3ts2ik4u2bjixxwln":["hdrapier","Hugo Drapier"],
+"glilnokyiigtveyytidtmb5l":["hdroopy","Hennie"],
+"7644dldwb7p5w3wnw56unkhk":"hd-flhr2011",
+"h3ej5cvw2y3tvi5t2nanuaho":"hdjejjeks"
+}) // 2023-11-04T11:37:35.435Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

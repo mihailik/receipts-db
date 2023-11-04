@@ -158,5 +158,15 @@ var yn=(function(jsonp){ if (typeof yn==='function')yn(jsonp); return yn=jsonp }
 "spv274cqpim3lvypd7pq2ab3":["ynnerius","Ynnerius"],
 "6mvwcj7qtabxz2todijvl5jh":"ynotprimo",
 "3vkkaqxdiql4ztproiwhcvo3":["ynathic","Yna"],
-"m3qq3br2gjl5aftfi3swg72e":["ynez","Ynez"]
-}) // 2023-11-04T06:57:13.565Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"m3qq3br2gjl5aftfi3swg72e":["ynez","Ynez"],
+"qurmtyclpijtdoemmsxpb3pi":["ynbstrikes","Strikes M."],
+"cxhjaygkadbtzypfgk63qvul":["yngwie","Yngwie le gentil "],
+"que7tvxrnizhhb3mp73ulwtb":["yngisalmondmilk","Imi ✨️"],
+"5egqhsoxv4ltjzluyjhs2unh":"yngvictus",
+"mf5i2bwo4f2fumbs2ct23tt3":"ynranil",
+"hmbx62jllqxnxbe553vm77ko":["ynoiseux","Ynoiseux"],
+"3onztwmkfbjsr4y77bnnhp2k":["ynnckxyz","xYz"],
+"xj2fapbtbteiybtznextcpxw":["ynval","Cardinal"],
+"bworm6gow6ejpul5ufkotpo2":["ynadroid","Daniel J. Miaou"],
+"kqiffnyesl4tilor3332iluo":["ynotruoflanesra","lanesra4ynot"]
+}) // 2023-11-04T11:25:11.189Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -193,5 +193,10 @@ var vc=(function(jsonp){ if (typeof vc==='function')vc(jsonp); return vc=jsonp }
 "x35ipr4ctq3if7vcuhxalm45":["vc40ladybirds","VC40Ladybirds"],
 "zb4c5niljxtulm2yha4jxlqc":"vcdev",
 "j2kky5xmchpjrvhf5f4c6l7g":["vciso365","vCISO365"],
-"44iazrpzcgq47zh6o3uv2ey7":["vcastcrew","VCast Productions"]
-}) // 2023-11-04T07:16:36.766Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"44iazrpzcgq47zh6o3uv2ey7":["vcastcrew","VCast Productions"],
+"uroxtoy6h5ss6fclskm7rowy":["vcycas","vicky ✨️🫧"],
+"4dde7h3lwyn4vj36yqkh6a5l":["vcmpoetry","vcmccabe@bsky.social placeholder "],
+"dygllyve5aql623bgynst5nx":"vcdx71",
+"me4j3q6eczx4aqbzsbgodwa2":["vcactus","Cactus "],
+"hxxnsfzdivghogvgex7o3erg":["vcdhessen","VCD Hessen"]
+}) // 2023-11-04T10:57:43.591Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

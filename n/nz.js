@@ -159,5 +159,15 @@ var nz=(function(jsonp){ if (typeof nz==='function')nz(jsonp); return nz=jsonp }
 "ky3af42nt6yyxuj3s5fndjbd":"nzdev42",
 "6l27pcj7juqltvnqt346f6xq":["nzphotomac","Photomac"],
 "zeolobey3oywjj25zsm3zccs":["nznaughty","NZN"],
-"lgdawp46kdozlwn2ctpe7zsm":["nzk","のざか"]
-}) // 2023-11-04T06:37:18.695Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lgdawp46kdozlwn2ctpe7zsm":["nzk","のざか"],
+"syiwdl6htq2fcvhk3olypt7k":"nziegler",
+"qkydqvzbipvo7pnl4fkfgwef":["nzanametrine","nzan_"],
+"jmr4zhqfqz5tci3m7uqqj4y4":["nzbonchon","Bonchonman"],
+"fsm47qdbfwp2wyvam5iipjmg":"nzniiiiin",
+"uwnurylwdngh6rk5j4a5kuuu":"nzemm",
+"2qs5r7hevdxb23pi4kz6p4gl":["nzuuure","しいた犬"],
+"lgedbstew26o4kzqoh6etrmd":["nzlainey","NZLainey"],
+"ndsxjiz3egz7rydl4qrw3lia":["nzko","Nzko"],
+"db6g5fpf4uqzzbyow2mbkzzv":["nzfreespeech","Free Speech Union ✊🏻"],
+"422wyho4pdtlyv4a7dszvofv":["nzscientists","NZAS - New Zealand Association of Scientists"]
+}) // 2023-11-04T11:35:25.943Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

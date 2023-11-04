@@ -59,5 +59,11 @@ var qm=(function(jsonp){ if (typeof qm==='function')qm(jsonp); return qm=jsonp }
 "m27ffjxvhnzudhkufzyhij7e":["qmarkdown","QuestionMark"],
 "et3yzghj2hmerjyhcdcnw6to":["qmitaka","mitaka"],
 "qsq7wxfc7wdutfielzafeiv2":["qmulative","Q. Mulative"],
-"hvqtpy2z57w56f63p3kiefg3":["qmartxxx","QMartXXX"]
-}) // 2023-11-04T06:07:38.168Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hvqtpy2z57w56f63p3kiefg3":["qmartxxx","QMartXXX"],
+"rqie3wnnxo3lkak54spfxpcd":["qmpoliticsir","School of Politics & IR, Queen Mary"],
+"tt7sosuryoepxipm3cfkggcv":"qmaire",
+"ljx3akkgmcarnae7mcticvjf":"qmffndldzm",
+"qgb6untw7l3tdrxvxhbli63f":"qm3",
+"gu7k5azukzm2vpbs4w52mhf2":["qmore","くも"],
+"zgtvzhcmyk2po572n7h53ik6":"qmichelon"
+}) // 2023-11-04T10:26:34.766Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

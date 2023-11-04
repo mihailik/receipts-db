@@ -123,5 +123,10 @@ var yh=(function(jsonp){ if (typeof yh==='function')yh(jsonp); return yh=jsonp }
 "uiufowel4j2agvs6njq4ytmz":"yhomyhom",
 "tu2b374hqxnihfd4guah6qv7":["yhunabo","SEMI-HIATUS "],
 "yjekxn2rzafxtehcbusqooyq":["yhsl09","阿楞"],
-"hnrle2ermc5kpk6xo35zcd2u":["yhusky","Yhusky🦴- Vtuber -Vtuber-Police Dog from the 🄵🅄🅃🅄🅁🄴"]
-}) // 2023-11-04T06:05:29.537Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hnrle2ermc5kpk6xo35zcd2u":["yhusky","Yhusky🦴- Vtuber -Vtuber-Police Dog from the 🄵🅄🅃🅄🅁🄴"],
+"jn76rsjh7kab2zxczpn3c7m3":["yho18","一八"],
+"otwpncrtfmdbb5y6v6cibt2d":["yheniak","Yheniak"],
+"qmt2oc6pjuq4xflote6bspsp":"yhalifax",
+"4s4wxq7cqk772pfktjs2yb64":["yhoreysan","Yhorey San 🥀"],
+"aczjij4czkxkedenkmsmj4mb":["yhonas","Yhonas"]
+}) // 2023-11-04T09:55:31.485Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

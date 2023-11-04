@@ -461,5 +461,25 @@ var dg=(function(jsonp){ if (typeof dg==='function')dg(jsonp); return dg=jsonp }
 "l5xcmlwlpmqnl5yf3ltuaj5u":["dg5coat","David Fivecoat"],
 "vrse6dp3fdu7gkafj5rarcz5":"dg3uh",
 "flz2yiimdujdskvqtseolv5e":["dgn-ev","Deutsche Gesellschaft für Neurologie (DGN) e.V."],
-"es75vmrxxclt536hydbocvqt":"dgolborne"
-}) // 2023-11-04T06:55:47.261Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"es75vmrxxclt536hydbocvqt":"dgolborne",
+"p6vvfc2ern3xs3afggvvzfxk":["dgnheam","DG.nheam"],
+"obgjq4nomqxm2civu665b5ss":"dg9aw",
+"zvbtgrzqd3t73ip2vqyv3rq3":"dgornik",
+"elxznrzuapr7wcdmvo7aunab":["dgbbw1","Kai Burmeister"],
+"gxgzgeou6wyqvclgrlkg7yqe":["dg2ron","DG2RON - Ronny Jerke"],
+"c6rxklqp5x2rmprtesmuhljb":["dgrandhay","Dorian"],
+"arqtf4ben4dfi6tmq2mqtgqi":"dgonzalod",
+"zswys54zwj5h5hmyk3gvmqkf":"dgb1972",
+"yhkcqqnhb53j6tnlarr55rps":"dg1fdv",
+"fbqomoczfl6pr3igfehmz4qk":["dg7cf","Chris F. - DG7CF"],
+"tbjidkplxguco3d5opmgmepo":"dgeg",
+"h4ytrvq3vzefp2mgauwtpaha":"dg82",
+"r6xo7kgpuygggnmoyc2v4exj":"dgtl",
+"lv5az7ritg657aqxmeo3eqjd":["dgluesen","Dennis Glüsenkamp"],
+"feguiw62xlt6bapk35glt3fy":["dguttman","David Guttman"],
+"yy6fg4xqkn2pmfz5gx44y36v":["dgf","7Chaos|DGF"],
+"6iqttk56pxqsr5pcizgfgjqp":["dgjeans","Terezja"],
+"wu22mpjrgtj7imyion4fuoxx":"dgbartlett22",
+"nrw3sszsdqqtyfs3lloceevi":"dgoudin",
+"g6z6lznakfkvyczvcszisdb6":["dgpolo","dgpolo"]
+}) // 2023-11-04T11:42:42.701Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

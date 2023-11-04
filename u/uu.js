@@ -125,5 +125,12 @@ var uu=(function(jsonp){ if (typeof uu==='function')uu(jsonp); return uu=jsonp }
 "5lj4ewdliqxfqqbl22imae56":"uuchujin",
 "w6gcaoatbfge5z2gzv7c7dms":["uufou","Gen"],
 "2kv4ahwyyxomuziebo5x2awy":["uusilauri","Lauri"],
-"4sfo45f3uyndpzudqguoee3o":"uuupi"
-}) // 2023-11-04T07:21:43.478Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4sfo45f3uyndpzudqguoee3o":"uuupi",
+"xz6xqcqd5iimlkxk2p2nwtyp":["uumea","leo 🌻✨"],
+"dkolcm5ssm36pze6yvciyi5i":["uunnii","Uni"],
+"xglexdaazckiz7aecyz65oyd":["uudka","제로"],
+"5dvpg25ciadgs4m4bzc7lell":["uuworld","유유"],
+"v45pbrt26ekbsubtcsx2mvn4":"uu21",
+"qpvclj2lxcey6bswydropbgj":["uu107749","月予/ UU"],
+"gxmdgl4r5xev6n5reayzfyoj":"uuwuu07"
+}) // 2023-11-04T11:18:14.795Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

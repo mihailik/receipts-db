@@ -147,5 +147,16 @@ var vb=(function(jsonp){ if (typeof vb==='function')vb(jsonp); return vb=jsonp }
 "rmnqjgkfbkuc4ryne6zpfoqy":["vberlinautofrei","Volksentscheid Berlin autofrei"],
 "au3kez7skco5vsdjmm32vkuc":"vbde",
 "6z7u6kt54mif2gmarusa2rtb":"vbedford",
-"ypncnuavzqfnn3e33lrzvaa6":"vbui92"
-}) // 2023-11-04T07:24:39.070Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ypncnuavzqfnn3e33lrzvaa6":"vbui92",
+"cl3rpgix43v7ggb23p67r2vl":["vbitun","Victoria Bitun"],
+"r5qjptp3ilp2q4mwcyy3vcpt":["vbyq8l","바다"],
+"ikf2mq77iadwvkqxxlolev7i":"vbouch",
+"eh5crnbswrvsmyhlctfl3jsd":"vbh",
+"b4pzrdvtxzamlgylcazhnm5h":["vbord","VBord"],
+"wno5qbmfuadmdidavn4w53qj":["vbarbar","Véronique Barbar"],
+"u5hs5gzs62a57nm3k47azss5":"vbb",
+"6ljqs4sslixtg7zuz3tx3akw":["vbloodcry","BloodCry"],
+"zvgbcxtvwgslfpurydr5n3dw":"vbell",
+"jece5fjjdnlcnoyas7vcmlo3":"vbigalski",
+"io7epr34ll6wlow2lurznnsk":["vb3n","Ben"]
+}) // 2023-11-04T11:25:11.760Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

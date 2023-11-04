@@ -305,5 +305,22 @@ var lb=(function(jsonp){ if (typeof lb==='function')lb(jsonp); return lb=jsonp }
 "jxudnuxndbunsi4bvt3rkkxz":"lbottichio",
 "zmfxwkoaml3x3mn5tblsulqa":"lbyluc",
 "k4ffwa55k4u6xiqiyqeeuh4q":["lbsmithmd","Lauren Smith, MD, HEC-C"],
-"6gy7qsullybzexh3w4b72prv":["lbos","L Bos"]
-}) // 2023-11-04T07:19:29.066Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6gy7qsullybzexh3w4b72prv":["lbos","L Bos"],
+"iy5rurlwcbrz4y43plamlm3q":"lbnrj",
+"nsyc6heu7fvzz3ns54nyodrb":["lballore","Luca Ballore"],
+"sb6cwpnbly52y2knm7cnwxmi":"lbod",
+"jdyzopwhpdpf35244xjvbo4b":"lbaum",
+"gmrzcsbx7bnycw56tsmrk4b6":["lbarqueira","LBarqueira"],
+"a6xzie3mgwnh6crqa2g3nno5":["lbhtshow","Lunch Break Hot Take "],
+"nbtmess4fn7cob6xvmi4o7re":"lb-denberg",
+"chskskv2w35tmf7cv6dgosht":"lbcwatch",
+"65tf3ppm5kqwov5mrlpkwr3v":["lbbear71","Rob"],
+"xnaxubdjaeadnk2s5bkoedks":"lbernt",
+"szxfvilxalymh44cd6rrq2zr":"lbstrass",
+"76qo6nlmlv6pnxr5yofeiw6w":["lbspath","LbsPath"],
+"idrvrfgx6536bu5ihj56pa4w":"lbbsky",
+"cia7vligvxnkuh65qiveldaa":["lb2s","LB2S"],
+"qgtaespsf3dud6urukeu6p2x":["lb5jj.no","LB5JJ"],
+"4mylykes7lmypmjb3jnycln2":["lbfg","Sarah Schulze"],
+"w6lgytgcwpw7lhx72uqxtelg":"lbodrozic"
+}) // 2023-11-04T11:28:40.303Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

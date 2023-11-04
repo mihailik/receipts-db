@@ -372,5 +372,17 @@ var bw=(function(jsonp){ if (typeof bw==='function')bw(jsonp); return bw=jsonp }
 "gawhsx4g3js55j7rowlp5m5k":"bwithxtc",
 "fwzfoeqilqub46v2bg6sjoar":["bwusagi","BWusagi"],
 "6lvhbpx2dfqfpkf5zzvjnz62":"bwuberry",
-"pwfta337ihsyduwbehybd3cx":["bwyman","Bruce Wyman"]
-}) // 2023-11-04T07:08:58.845Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pwfta337ihsyduwbehybd3cx":["bwyman","Bruce Wyman"],
+"bc36ncrnhrghcszxgrq457jf":"bwieauchimmer",
+"oapmiobulj3n7nogociz7ngd":["bwanachris","Chris Swart"],
+"pwkcnhoowh4pym2axfhbnqga":"bwg57",
+"5mdn46jg7cqpxq7v43kcq2os":["bwoodford","Huscarl1066"],
+"zclchx2ywkxdqpvhuqq3mfqj":["bwiskladyboy","Bwisk"],
+"rx64leqmacrseoc6elglldje":"bweh",
+"kz55mwjtxhzdhkcjfpmdjkvu":"bwof",
+"c3dqoleyovjwrj6skvgd7knk":"bwmugi",
+"iomnlber4p7ies3jlhdipldp":["bweisslaw","Brandon Weiss"],
+"2xdek4sruem6bsvwrs3ivbze":"bwoahuwu",
+"3dhmzyp3elqj7bfkbphwxtsc":["bwegt","bwegt – Mobilität für Baden-Württemberg"],
+"sftbl7nkvcyar6tqxtqlqenx":"bwhitemke"
+}) // 2023-11-04T10:47:27.747Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

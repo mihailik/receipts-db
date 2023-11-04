@@ -171,5 +171,13 @@ var uf=(function(jsonp){ if (typeof uf==='function')uf(jsonp); return uf=jsonp }
 "r7bmhiz63qfnujldz67qy6gr":"uffeaustimin",
 "ho62ec3d3jzbjfrawmq4qtsp":["uffxica","🖕 Xicauff 🖕🖤 🤍 "],
 "rxastmoywknv3kmk3nptz3ty":["ufuqde","ufuq.de - Pädagogik, politische Bildung und Prävention"],
-"d2wzlqbuvzoh2yygsfpot6l5":["ufenu","ユフェ🦀"]
-}) // 2023-11-04T07:21:43.956Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"d2wzlqbuvzoh2yygsfpot6l5":["ufenu","ユフェ🦀"],
+"btllkkg4t4vm3yrtwlvq24yd":["ufunknee","Euphony"],
+"agoxbkxzomm2odvnkyyrzi7d":["u-fr-electricite","Union Française de l'Electricité"],
+"qfwfbeoyytymxwn7tazb4ds2":["ufollie","ollie ollie oxenfree"],
+"tb3h5f2akmf5dmgp3tbwg72d":["ufpajenn","💖Jenn💖"],
+"mm6p2mlov36dfzyzhpx4gnqf":["ufeist","Ulrich Feistenauer"],
+"ieklzyv7lot25ylee256emiy":"ufhejbehdjddheb",
+"ciwk6by4a3gmw5zsjwrkxdqw":["ufocharned","Ufocharned"],
+"xdfowanqod6f7rkjubqeffeq":["ufoman","Rafa UFOMAN"]
+}) // 2023-11-04T10:17:35.972Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

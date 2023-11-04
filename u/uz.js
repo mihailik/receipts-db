@@ -160,5 +160,10 @@ var uz=(function(jsonp){ if (typeof uz==='function')uz(jsonp); return uz=jsonp }
 "uvl6ntvcfopg7vwih6qmrxk2":["uzulove","けい"],
 "5brash24am6i4bj7ms4lwgps":["uzzzy","uzZzy"],
 "iaht2i7f7rvztod5cuq4uayw":["uziki","UZIKI🔞"],
-"4ih2cmwgrrnwsiqb6zj5t5y3":["uzanzaeditorial","Uzanza Editorial "]
-}) // 2023-11-04T06:30:25.700Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4ih2cmwgrrnwsiqb6zj5t5y3":["uzanzaeditorial","Uzanza Editorial "],
+"euatqo3ov6vkkc73et5kanq4":["uze","Ewan"],
+"pgb5gu3agyqemlhaq6pwksov":"uzoqe",
+"f5zubzuq4jxermrgyyuqk52i":["uzunine","UzuNine"],
+"phghyi34tm2gfajcty2wniqq":"uzikenny",
+"xtzhmok6ufjxkvcjmzbhf577":["uzun0shuge","げゅし"]
+}) // 2023-11-04T11:16:48.129Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

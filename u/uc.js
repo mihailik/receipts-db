@@ -283,5 +283,19 @@ var uc=(function(jsonp){ if (typeof uc==='function')uc(jsonp); return uc=jsonp }
 "yfhp4uuuhw7zs5yiybe6kesf":"uchicagohistory",
 "w4odw6cytoajsglp5er6t3g3":["uccrg","CERGUSS 🇫🇷 --Commission CLOSED--"],
 "l47hbuucydkbdym7mitn6el3":["ucdavispsych","UC Davis Psychology"],
-"bozivwe5pa227b2xo3awp3bg":["ucsnuketox","Dr. Chanese A. Forté"]
-}) // 2023-11-04T07:21:44.023Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"bozivwe5pa227b2xo3awp3bg":["ucsnuketox","Dr. Chanese A. Forté"],
+"oeb24ql45fnrpwurtt2az7tw":"uci-ocean",
+"im7uvq76jzmfl4fcfqcrn3ds":["uchilovestomoko","superelectricviolence"],
+"3xzhmjwxnfugzlqsp64o6bw3":"uclaogbd",
+"yutyazctnol345jtytevdfdz":"uciowaguy",
+"34fjzcvzcyitm5hav36xdlu4":["uchachan","uchachan 🔞"],
+"reybf5lc55gwpx3gbliafeuu":["ucode","Un Code aléatoire de notre Gouvernement"],
+"rartv6xjhimmtloa454tnxvm":["uchipie","Uchi"],
+"qx2aqvl5cevv5bctqmcxskgk":["uchufox","Uchu~"],
+"jlgekfhxmnoucqpx6mrjygje":"uccc",
+"tpquk6lm6fz5vr74asx5er2a":["uchida1ken","内田一件"],
+"3x2tgitcemfsqeor2f5geub6":["uchihaime","UchiHaime"],
+"hymowqhnmtjn5u4z22mimueu":["uconnlablab","UConn LAB Lab"],
+"rhklkggitweoi2z7p3qnhgul":["uchulups","Uchulups"],
+"oriii4dh5lfqdgv55cneznkc":["ucaft","UC-AFT Local 1474"]
+}) // 2023-11-04T11:22:14.647Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

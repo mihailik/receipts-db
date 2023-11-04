@@ -40,5 +40,8 @@ var pq=(function(jsonp){ if (typeof pq==='function')pq(jsonp); return pq=jsonp }
 "efa2eby5w25hqkma4w2n25wt":"pqi",
 "wr42k4bfipanu6itlztygl6n":["pqlpodcast","Project Quantum Leap - The Podcast"],
 "crqajeicqmbu4ocbwezdj2ig":["pqnapkin","Napkin"],
-"lszbdviobwhmfh46qfb7kapt":"pquat"
-}) // 2023-11-04T00:19:44.719Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"lszbdviobwhmfh46qfb7kapt":"pquat",
+"7vq4bcn6mgy33a6nfbxqm2nf":["pqur","PQuR"],
+"53afnkin6zmfp2z33p6ows2j":"pqpquasecaio",
+"6tu37angbu5ryuix4id6ao4f":["pqul","paul"]
+}) // 2023-11-04T09:49:05.624Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

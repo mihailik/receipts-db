@@ -178,5 +178,17 @@ var fd=(function(jsonp){ if (typeof fd==='function')fd(jsonp); return fd=jsonp }
 "alnv7rbthyyjs25bu7x7iz2h":["fdbgy","François-Damien Bourgery"],
 "nstpqj3lmalvoecwlietxrwr":["fdpfraktionrlp","FDP Landtagsfraktion Rheinland-Pfalz"],
 "fpuoscru7mjaukbopk6iworn":"fdsteve",
-"vbgwi2ovnx6m3qzsyj37m3nm":["fdplindlar","FDP Lindlar"]
-}) // 2023-11-04T07:00:49.711Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"vbgwi2ovnx6m3qzsyj37m3nm":["fdplindlar","FDP Lindlar"],
+"xgndbgvjvnji6mjz4pgky3w5":"fdphlt",
+"tqjrudm27xy2qovgwlives4s":["fdnl","Het Financieele Dagblad"],
+"kck4nvj2vkb6hvvudqpknkio":["fdomig","Franziskus Domig"],
+"jl2evfsz24pzw6uibn7gup4n":["fdokkaku","F"],
+"sctex6thomidkebaejzaxoz2":["fdconradie","François Conradie"],
+"yfgphyzuojmxqbcpriyjtqvh":"fday",
+"hk67orjayl5pkpnvlpxawrp6":["fdpberlin","FDP Berlin"],
+"joc27zknnsjokma45uecpasp":"fdiskc2000",
+"o4nhxfa5cijwk7arzauurgry":["fdlm","Filip KRZN"],
+"6gqqcaywz6tfmnib7asfhta2":["fdevitart","fdevitart "],
+"3am3udfjxbd6e5bmcbpdnt6e":"fdasilva59fr",
+"4wnbbw7eofocoap3ecztehue":"fd-c"
+}) // 2023-11-04T11:35:25.564Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

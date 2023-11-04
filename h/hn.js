@@ -224,5 +224,17 @@ var hn=(function(jsonp){ if (typeof hn==='function')hn(jsonp); return hn=jsonp }
 "mkbyfmo6vryiihk6sisj6q5a":"hnsmn",
 "3byuj76crycibjngpjc7gpuy":["hnbskt-ad","HnBskt AD"],
 "tfapwg2gyakbaivd5w3xwovg":"hnwart",
-"3zgojukvxv72txan2phy4nf4":["hneuhausen","Hubertus Neuhausen "]
-}) // 2023-11-04T06:51:49.894Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3zgojukvxv72txan2phy4nf4":["hneuhausen","Hubertus Neuhausen "],
+"xcrtae7eultcd54e66zbxg7l":["hniemeyer","Hendrik Niemeyer"],
+"jfilvso3mdr44jfbrwbg3wyj":["hnaik2","Harish Naik"],
+"xepqccmuksvfbfhtb24qpzae":["hnpnmgmg","ぼんじり"],
+"dhkdc4ww7lj7dslezkpyhhrb":["hn00","ꪔ̤̻"],
+"s64pv4zghkijt6gk6gpwhlzz":"hnuestedt",
+"77njkttfapgnrbyakp6t7x55":["hnodq","Hirono Mashiro | 真城 ひろの"],
+"clyarl6lm2rzhjyep2s6e5uu":"h-nol",
+"4cqndvlsjrjwr7uwg2m57kjk":["hnnhsc","hnnh"],
+"s4xmseub4a4pwwetg2xxmcyy":["hn100","Hacker News Top 100 Bot (Unofficial)"],
+"py5ulkruljrshb3ysby4nva2":"hnnsbyr",
+"xvfsbp5b2bhcnzltmh2rjgja":"hngsk8bdr",
+"aqx6uk6pnoatgdakuqqgo6zv":"hnkybrwstr"
+}) // 2023-11-04T11:32:29.866Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

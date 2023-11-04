@@ -442,5 +442,24 @@ var bk=(function(jsonp){ if (typeof bk==='function')bk(jsonp); return bk=jsonp }
 "32yvucslybj5slwffm5527we":["bkbk1231","bkbk"],
 "wgraz6hdgtffffr2h7y4zpou":["bkbkbnb","酢昆布"],
 "vsqdnel2thnlh4pesdo7k5wg":["bkys","Pikkis"],
-"3r2itlroysccgwlkm4uyn2az":["bkntouris","B. K. Ntouris"]
-}) // 2023-11-04T06:50:24.808Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3r2itlroysccgwlkm4uyn2az":["bkntouris","B. K. Ntouris"],
+"pu6veudj7wzn6dwpqx3ihqfi":["bkr856","bkr🍣"],
+"5k642ee5lgxiv46mdxchdlyr":["bkw.ch","BKW AG"],
+"c2f734hukeatxmibaddck46d":["bk-koeln","Britta Kretschmer"],
+"5nrp32rxw4ou7uhpn7a6oian":"bkoens",
+"7bqhhh74piwjub2gwrl2yfzr":"bkaminsky",
+"idlcuf2bf4pv65agusrkhiin":"bkfr187",
+"h3vua4gmgtniela22whqtys7":"bkatz",
+"upd2jthqqz7abwdn3zhrvapf":["bksandercock","B.K. Sandercock "],
+"oskwkuwsrf7uroxpqp2obvxy":["bktherpg","BK the RPG"],
+"ijcudcxnm3rxxy4iommoqyd7":"bkury",
+"ekjgwatdzdcpcuv32ux3fjsu":"bkoc",
+"x6c2fenxowy376b2cdoy2v3b":"bkantar",
+"cprowhzrrmcgmibdtmswgcmq":"bkaufman",
+"6b6tycywh6trtzcnmtvmj55u":"bkov",
+"pvzlcjldjtjfhrmelmkzew6k":["bkbcpotato","구운베이컨감자말이"],
+"f2ycvdmlf2zdfuoyt7m3h6gp":["bklehrer","Lehrer am BK"],
+"xvtg4duyrj4kcfjixxiu35tj":["bkoetter","Birte Koetter"],
+"nfcafqdig5of6qjj6jmgg6ll":["bkonge","Brian Konge Jensen"],
+"k5zymbuplz63vrpqqngcttia":["bkerler","Bjoern Kerler"]
+}) // 2023-11-04T11:37:34.958Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

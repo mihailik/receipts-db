@@ -332,5 +332,13 @@ var gd=(function(jsonp){ if (typeof gd==='function')gd(jsonp); return gd=jsonp }
 "wjt6qxocsvk52gpw5s657iuv":["gdpzoll","GdP Bezirksgruppe Zoll"],
 "pheieuoly3iihmqtzgm37x6i":["gdpe","Guy Decarpentrie "],
 "lmuyddhmvvq33xwuyws37pua":["gdtrfb29","Scott"],
-"6mkxirc2sh5ea742pzrxaxfr":"gdyoung"
-}) // 2023-11-04T07:02:16.938Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6mkxirc2sh5ea742pzrxaxfr":"gdyoung",
+"sllvebhxenfuwa74leigpzxo":["gdd-gamedev","Simon C"],
+"gng7ppdaj5dyohbxcy6bugfx":["gdemori","Géraldine de Mori"],
+"qzezwwotlkkaeeetfbl5nrv3":"gdagstn",
+"fbatjed5q6676xoxiqf52wxd":["gdauria","Giuseppe D'Auria"],
+"op2aexktooegjzvddzqapcc6":["gdququ","기단"],
+"c3fkwumqktk4lea7zyqsftf5":["gdsolutions","GD solutions pour équipes"],
+"qc3pxfbgx6cmqj7mnfb4wqt2":"gdcpls",
+"tp3ut2gr3e57j6ups7jmqsco":["gdoodlez","gizella"]
+}) // 2023-11-04T11:35:25.953Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

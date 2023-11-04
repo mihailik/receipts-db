@@ -246,5 +246,13 @@ var oj=(function(jsonp){ if (typeof oj==='function')oj(jsonp); return oj=jsonp }
 "ulxnn4434pfra6hlycwltkse":["ojosderaton","No soy exactamente David"],
 "scs7tbwtwdvwyvwusnfdtp5o":["ojosyde","@ojosyde"],
 "qgxdxuesamseddjjjgtxd5zk":["ojosdehusky","Vantablack"],
-"ax5s3hbi2deaqoyagxvadhsn":["ojacquot","Olivier Jacquot"]
-}) // 2023-11-04T06:41:07.663Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ax5s3hbi2deaqoyagxvadhsn":["ojacquot","Olivier Jacquot"],
+"obm3hqjuv37q342tom6dlctq":["ojslater","Olivia"],
+"at4dkmraxvrxfi5b6zt3euzx":["o-jhan","Johan O."],
+"2nranaya5m542j26h5bzejl6":["ojd","Owain Davey "],
+"7g6wyupokupfnma4bpecoya7":"ojpesh",
+"belbhks3bq5xkxlrn7wfaxcv":"ojipepe",
+"qrnrd47foqqmlksaiu7am5aq":["ojrart","ojr"],
+"p6qb4bgxuzxgszfvh7ypesga":["ojiki-chan","Ojiki-chan@JP_Vtuber"],
+"ycn3bvtj66qskeonltl3mdrx":["ojato","Bimgus 🐱🎃"]
+}) // 2023-11-04T11:19:42.282Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -135,5 +135,9 @@ var sx=(function(jsonp){ if (typeof sx==='function')sx(jsonp); return sx=jsonp }
 "mu2hezq7qu4c2pvf53jm6ivw":["sxilor-1010","𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙃𝙔𝙋𝙀𝙍𝙁𝙄𝙓𝘼𝙏𝙊𝙍!"],
 "vgga6a556tx7nonjipte2uby":"sxhduud",
 "syporxq2mdnf2jcfgm2w5vab":["sxrasappyartmodel","Sora Sappy - Subscribe to my Patreon!"],
-"av2rj5g2yfvvzhtifwshrqnl":"sxdee"
-}) // 2023-11-04T07:08:58.085Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"av2rj5g2yfvvzhtifwshrqnl":"sxdee",
+"2q6a2qhb44nwkf5c6yfid2hh":"sxth13",
+"nrgmlyvinjzbz27ooqh3lvhm":"sxree",
+"vdptar5la3apkajizernzgoa":["sxpeh","sxpeh"],
+"nsww5wl4lcbxc4d7irualsgv":["sxdrose","𓆩♡𓆪 𝓛𝓪𝓁𝓪"]
+}) // 2023-11-04T11:33:58.752Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

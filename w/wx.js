@@ -114,5 +114,8 @@ var wx=(function(jsonp){ if (typeof wx==='function')wx(jsonp); return wx=jsonp }
 "dwz4zczsgat37xgcm2zb547u":["wxndtxmpxst","lyric"],
 "cpysu7n4w25lxzvrhkxepc2v":["wxnmelody","WAN ☆ เทคโนโลจี้"],
 "iuvxdypfxpujs2p6jcf2ep2r":["wxz18nsfw","Susreo +18"],
-"mjl47f3mg646fvn2h2eyb6fa":["wxiii","Satan"]
-}) // 2023-11-04T05:06:32.835Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"mjl47f3mg646fvn2h2eyb6fa":["wxiii","Satan"],
+"piaeh2lbghkxckh4fk5usedh":["wxphil","Philip Wiegand"],
+"xjfvkrzz43fmeyqjjybwafgn":["wxrdens","REV"],
+"wfkzisn6oxetupnvxizitxgx":["wxnb","Nahel Belgherze"]
+}) // 2023-11-04T09:19:10.907Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -36,5 +36,7 @@ var kq=(function(jsonp){ if (typeof kq==='function')kq(jsonp); return kq=jsonp }
 "errc4reahf2duqmhl3gx3eta":["kqtscratch","Kit / Lizard"],
 "gzajumbeg5c26zrtcflsafbu":["kqurmiferinuzeyox","Kqurmì Ferinu-Zeyox"],
 "5wkrdl6f6jgkiojjeeypbv4a":"kqquin",
-"7eggaxf5vfq6i5lxfzqyqe57":["kqllisto","⚠️Kal 🌒🔧Space Boy Vtuber⚠️"]
-}) // 2023-11-04T00:28:21.702Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7eggaxf5vfq6i5lxfzqyqe57":["kqllisto","⚠️Kal 🌒🔧Space Boy Vtuber⚠️"],
+"j44k7lkfnjlhrnt5aj5bzsgp":["k-quadr-at","Klemens"],
+"pn4m2vyewlt6ns5fdeqnhfbh":["kqwan","kー"]
+}) // 2023-11-04T11:19:42.463Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

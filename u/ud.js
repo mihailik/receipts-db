@@ -213,5 +213,20 @@ var ud=(function(jsonp){ if (typeof ud==='function')ud(jsonp); return ud=jsonp }
 "skifnjq5auzgyonxapzcb7j7":["udura","うづら"],
 "vpojybzlcwezxcaha3uldwnq":["udonsanuki","うどん"],
 "ww5n5tiehjlpbhre3u62xwxw":["udon.cc","udon!"],
-"pr5kvlvqw4cdxsp4m654tmum":["udecrow","큰까마귀 우드"]
-}) // 2023-11-04T07:24:39.304Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"pr5kvlvqw4cdxsp4m654tmum":["udecrow","큰까마귀 우드"],
+"7asdv6jln2ygnwbwz5rqyw3i":"udonjuergens",
+"d2bxp4vvrvwijt7as3muk64i":["ud-stuttgart","Umsonst & Draußen Stuttgart"],
+"ze453pdqf5ipeyqise4sqabj":["udud","dudu"],
+"l2mjycwptlircq6kj2urhop3":"udimakpan",
+"54z7g5zf6gdk3n42a37erckn":"udnoah",
+"arqpklayq4m2dcronmb5ztak":"udehn",
+"c6mbiu2csgpnkm2yzijqam6n":["udog","Udo Güngerich"],
+"zqik36qywtv5eftc5skf5im4":"uddasa",
+"27rbdvuko4qjgmitvyuzg73w":"udiizak",
+"2v2ljyxnxabedllljstqokqp":["udonengineering","Deer Enthusiast"],
+"64w7drbvgmsanpu5fhnaivw3":"udiepes",
+"cc7csyj66etoodyvf2f3tk7w":["udachox","Ox"],
+"cyani4k224cri6cusa4pwahk":["udowave","U-DO Wave"],
+"wcix6x44ivnfravfpcqlf6uq":["udoharms","Udo"],
+"2lrjzid7mrxexfrz5755gs3w":"udoerhar"
+}) // 2023-11-04T11:33:57.984Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

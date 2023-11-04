@@ -256,5 +256,17 @@ var ww=(function(jsonp){ if (typeof ww==='function')ww(jsonp); return ww=jsonp }
 "dx5ood27oaxgxmizhfwbwckp":["wwuong","웡님"],
 "ejbhpiangczoctfk6k7u7j46":["ww1podcast","Battles of the First World War Podcast "],
 "ujrorvkbwpxdtc44frlexpq3":"wwatkns",
-"l73y3hellfmtp5ktvu3r635h":["wwwendyz502","Wendy Zhou"]
-}) // 2023-11-04T07:07:32.749Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"l73y3hellfmtp5ktvu3r635h":["wwwendyz502","Wendy Zhou"],
+"dyt5frinfox4s4ro3mtvvbns":"wwonbin",
+"gu7n7dnydwngyqpmzruaugez":["wwonelove","жертва маніпуляцій Волтера Вайта "],
+"ig35w5mbicvtdovewnq5vtvv":"wwershofen",
+"mq4bvnul526alzyhpo5b2irb":"ww1pen",
+"fcfmxgjnkusd6uegjkthzwwd":["wweed","잡초"],
+"nhpf23hz6sq4ieu2fvhq5u2s":["wwwilhelmine","Katharina Wilhelm "],
+"4vmwr7dapxkdnzvv6pgdid5j":["www.randyscobey.com","Randy Scobey"],
+"x23rwfrrpqlwjui7jvc7ge4s":"wwwyzzerdd",
+"e7n72rlwzcthdu65fhz6ddah":["ww1942","ww1942"],
+"ufqzgwu7526ddrb552r4fxnd":["wwdiana","Diana"],
+"q7ndvwu2iepi2kgsl6zxyn4z":["wwdoctober","October"],
+"bemyl6nu6j4adxvsbyii3txp":["wwwernersen","wwwerner"]
+}) // 2023-11-04T11:01:25.251Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

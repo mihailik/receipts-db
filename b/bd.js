@@ -512,5 +512,22 @@ var bd=(function(jsonp){ if (typeof bd==='function')bd(jsonp); return bd=jsonp }
 "md2kc5la5fshl4l2xxfjrg2m":["bdman95","🔞 BD-MAN🔞"],
 "tisa3s3fjswxz4rcqnjznpxa":["bdifolco","Bertrand Di Folco"],
 "ssfv6xjk3oopno4zuinmhq5t":"bd404",
-"tzdsb2yxodporlu6j766cv4k":"bdowife"
-}) // 2023-11-04T07:23:10.848Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"tzdsb2yxodporlu6j766cv4k":"bdowife",
+"vlrpaebyibnejsjjjj2r25wr":["bdxalex","Bdxalex "],
+"5d4hhtpyftjwaguena7te5gu":["bdubno","Benjamin Dubno"],
+"yasd5zaujqewzb4nxsv4qynu":["bdrudder","Ben Derudder"],
+"f5ufqromssdtbewybgj2bwoj":"bdomok",
+"f25kpy6jwoeqkoszr22vov4a":"bdeitur",
+"7muifh5imgpa4vo3srtag5cu":"bdoubleb",
+"dbutyxh4s7qn4naiiw2q2e2u":["bdm0414","エリー"],
+"wgoxz7syeh4l3ftzvnoe6dee":["bdroop","John Dyer"],
+"p73ea76hudzgetkssdmfgjmn":["bdduck","BungDangDuck"],
+"vnxb2zjvsrgi7w6ngh442o3h":["bdlr","BDLR"],
+"2sj6xwq54ulwg3o6ql5vbvxr":"bdiddybo",
+"nrgxf5k2lfca73sfuxegepo6":"bdevore",
+"6g5l5zrfv3pugfedhgfwn7ec":["bdumontae","Bertrand Dumont"],
+"qgrnje3mhqieqp37uc2ckbgs":"bdusauso",
+"7axf2ucvoh6d4gedvkl2gzss":"bduhs",
+"qnwqccyc4fmtmbkvg4f52chj":["b-dubz","Bee"],
+"z6tgvjbseuthxcxnaxof6jdv":"bd4bd"
+}) // 2023-11-04T11:37:35.442Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

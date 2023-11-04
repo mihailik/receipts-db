@@ -169,5 +169,12 @@ var fg=(function(jsonp){ if (typeof fg==='function')fg(jsonp); return fg=jsonp }
 "gp2odcxb4ungrm74bek2b5k5":"fgaulois",
 "dj75g3cttuz7j2dhq3qvfcvw":["fgigante","Federica Gigante"],
 "w3rtqtga7lqw23jkiutvryah":["fgrandi","Francesco Grandi"],
-"jzchbrq2rmghvud5pko3u6zb":"fg68at"
-}) // 2023-11-04T07:21:44.079Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jzchbrq2rmghvud5pko3u6zb":"fg68at",
+"idrbxsnbzfkosalxd5iub64b":["f-gahx","Cameron PPL Frustré "],
+"u3ibx3sihoapo6j5h4omqhgp":["fgtm31","Franck Linares "],
+"po37vuygrgw5ptlwcmjetzjz":["fgdafd","Frauen* gegen die AfD"],
+"rjb47x6spastrg3qyzlie4pv":"fglantonio",
+"vcjcqk7l4s2dvg7j5lbb266l":["fguyot","Françoise Guyot"],
+"uxj5mht3bg24zx6msjbeovnt":"fgerault",
+"3hwjfd7fbz4zprux6hch5ewl":["fgbruque","Lagomorfo Chulo"]
+}) // 2023-11-04T11:18:15.712Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

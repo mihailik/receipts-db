@@ -205,5 +205,17 @@ var ln=(function(jsonp){ if (typeof ln==='function')ln(jsonp); return ln=jsonp }
 "cvjnwwryuefwudginqji6cln":["lngrenadine","Grenadine"],
 "pq7a5itzayxiyhw5aay7hvyp":["lnnwangji","zy"],
 "2vxk7ohqegc6uc5xgeulj3kf":"lnastar95",
-"p4ekhx7cwwq2ojjdyyaoklg4":"lnw"
-}) // 2023-11-04T06:57:13.779Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"p4ekhx7cwwq2ojjdyyaoklg4":"lnw",
+"kput3ywq2jka4szkk35aeaf2":["lngeborg","Ingeborg Nielsen-de Jonge"],
+"zxu4tkpuhf2xtjg436r2ufuv":["lnslvtch","Lisa"],
+"uewx3ceojnm5eblzuoel7lsu":["lnari","Dani"],
+"7jmoxm3mmfugr4yl3kymei5c":"lntr",
+"e6dlo47bm6ttqyk7i4tqkfeu":["lnixxxd","lnixxXD"],
+"ryd7iqd724fc77avdumtabhs":"ln8316",
+"7yj5f6gvy4kja553eacuamft":["lno27","えす"],
+"xehb3odxomvnffll53zfztfg":["lntrvn","Лепёха"],
+"3egv2zenom2hlecepybmdayn":["lneta","Ln'eta"],
+"ofb6mtgab2bf4hzjrp7xk36v":"lna66675",
+"3zexwn5qxg7v577h2t2atojr":["lncrombet","Hélène Crombet"],
+"halhrps7r25cid5n4y23sovx":["ln-zeitschrift","Lateinamerika Nachrichten"]
+}) // 2023-11-04T11:04:19.874Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

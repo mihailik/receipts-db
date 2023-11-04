@@ -316,5 +316,12 @@ var nb=(function(jsonp){ if (typeof nb==='function')nb(jsonp); return nb=jsonp }
 "6ccy55t7fwpp2nnrfdgpyyur":"nbajulian",
 "p32ltznoqbvgsbn62fvncsqs":["nbighararn","بیرنگ"],
 "ycooycrwlyaeu5plrwlnptad":["nbgx","Niall Gascoigne"],
-"7x4uh6db3n2txyjfrog7dsct":"nbflcub"
-}) // 2023-11-04T07:07:32.815Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"7x4uh6db3n2txyjfrog7dsct":"nbflcub",
+"xowkiiv7bf4ldbxjvm2uix6e":["nbrio","Nuno Sousa"],
+"3wqrpsszrtwwl763fu26kuox":["nberk","Nuri Berk Cicekdemir"],
+"t2wzqx43jgjkikyqzfrvjvuu":["nbarumorsbot","Hoops Rumors Bot (Unofficial)"],
+"ptqy6d3btpaofqfihxk5gn2n":["nbound","NBound"],
+"hmvndvwzdsl72s3n4bafo7c6":["nbaforum.net","NBA Forum"],
+"44kzek667fofe26omqxe5h64":["nbellosag","Nerea Bello Sagarzazu"],
+"kjjmuyunriv2y7lil7aza5fh":["nbill","Nicola"]
+}) // 2023-11-04T11:40:32.010Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

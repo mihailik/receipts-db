@@ -447,5 +447,19 @@ var gb=(function(jsonp){ if (typeof gb==='function')gb(jsonp); return gb=jsonp }
 "itxmq4gbdm5l6axjkdrqiyxn":"gboder",
 "fvcjuyhfdl2rqrcior3r2jk6":"gbrkathauzol",
 "mdjjsxvhdxyjykdtmi2xc437":["gb2fan","Gb2 Fan"],
-"erxotdybhinzm5lslnannkfu":["gbyeuju","우주"]
-}) // 2023-11-04T07:19:29.035Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"erxotdybhinzm5lslnannkfu":["gbyeuju","우주"],
+"4y6ruha3mauzn7f2mokjippi":"gbasic",
+"5uixpvctyj5mtsbrcxtifqs4":["gbaji","Gbaji the Deceiver"],
+"inedznrqlmpi3lsvahjpv5k6":"gbvnet",
+"qzdmv4ogpulp6tditnqelzks":"gbpound",
+"3rccmbvsojswzneqzzbnqm6e":"gbp9",
+"mz5vkwwgaurtvkewku473py3":"gbakersf",
+"vpgl7nalyc4pki7glpeuubwf":"gbgboy",
+"52xccjreesnq27yjkoykhh4f":["gblackwellbooks","Glen Blackwell - The Disappearing Diamond out now!"],
+"wy4oypdv3jksix3kudmd57qg":["gbs-karlsruhe","gbs Karlsruhe"],
+"kpeo7trgfk6n735wujm7xxzv":["gbrchrisa","Christopher Anton "],
+"zkjmfuxihfv7f6p4rlhrzllp":"gb75",
+"t35gevauneivwwinzncu6ig5":["gbish","Graham Bishop"],
+"ozibwr3o4pjctfumnwqfjzup":["gbspiderlilly59","Frl Schmidt"],
+"af3qzjnsvi4i3jn2dr3zfoul":["gbmiles","GB Miles "]
+}) // 2023-11-04T11:33:58.003Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

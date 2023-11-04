@@ -112,5 +112,11 @@ var zb=(function(jsonp){ if (typeof zb==='function')zb(jsonp); return zb=jsonp }
 "lja3o4kf3r625na2bdp5dvfi":"zbnbsky",
 "mqlmaa3etm3mldxejhvseyrh":"zba",
 "2sdpekloqiwwi3lltbvgjjyo":["zbertgang","Zoe Bertgang"],
-"2skbhk7udwhjksacqszrn6gb":"zbolin"
-}) // 2023-11-04T05:32:28.174Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2skbhk7udwhjksacqszrn6gb":"zbolin",
+"cw3jm6xxqlvdylvwpwuhbnlv":["zbon","𝗯𝗼𝗻"],
+"tgd27i4q56cmcqcq3lgjx43a":"zbv1025",
+"yoboj6riv6mr25lu5gz7frpt":"zbetts87",
+"5cj3ziiyeq3aqh7zuan66uv5":["zbrcat","しま"],
+"x2zkjfopdx7rglrlk4uyp6xf":["zbmed","ZB MED - Informationszentrum Lebenswissenschaften"],
+"4tjfeljz62ukfkqcztmi2u7b":"z-bruh"
+}) // 2023-11-04T11:33:58.750Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

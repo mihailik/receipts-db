@@ -339,5 +339,18 @@ var bp=(function(jsonp){ if (typeof bp==='function')bp(jsonp); return bp=jsonp }
 "nxatwn2ynx6b4rfydupj6qxv":"bppr",
 "sdxeuhs3utkb4iidxyce6ban":"bpatzelt",
 "ogtnqpcprcte7xwws5gqtek6":"bpross83",
-"43eknzzxyts2ubzmlgfzkxr4":["bplzensky","Láďa Bambus Plzeňský"]
-}) // 2023-11-04T07:16:35.658Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"43eknzzxyts2ubzmlgfzkxr4":["bplzensky","Láďa Bambus Plzeňský"],
+"i4c5kzl76bipg4v46jpenhfx":["bposch","Brad Posch"],
+"o5gj3fmc27klnvcbpw7bh3r5":"bpolinet",
+"rfbhxihkw7vc4t5fmhfhrljw":["bpeterswatral","Brenda Peters-Watral RN(NP), PhD"],
+"xmaaim5aqsaojpyoi6kmc5pm":"bpositive",
+"cl6gq3w45qxjkru44osyc466":"bpredsosa",
+"53espuoooxhuuhxk4gzp2dgg":["bpincott","Brian Pincott"],
+"5n6qeaujuccwhebkrazqgyjg":["bparketal","Brandon Park"],
+"pqhw53nhoomcnhrza2mfffu4":"bpotterli",
+"7pgt67kh3q3ob3ifza55ynvq":["bpwinternational","BPW International"],
+"f7lztb4wauhayscdn7xcjujc":["bpbegha","Bruno Begha 🪲"],
+"pkjm5n56dyia4lroacorp5cn":["bpedersen","Bjørnar Pedersen"],
+"tmi4ec5cnxhwqxh75pcpd2zo":"bpourdieu",
+"a4qkk63uocxkk2dfsacydjc7":["bps89","BePiS (ブレイジングポップス)"]
+}) // 2023-11-04T11:23:45.296Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

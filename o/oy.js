@@ -303,5 +303,16 @@ var oy=(function(jsonp){ if (typeof oy==='function')oy(jsonp); return oy=jsonp }
 "md4pvyialjzhtb5a5nfyrfm2":["oyasumimel","Mel"],
 "kxph45axvzumcqpiix3wli7i":["oysteinopedal","Øystein Opedal"],
 "b5zdbc477osvflfxrcnjh23z":["oyqy","地表零度"],
-"3zecwqfg5x2lhv3n5xr4zc3h":"oyasumii"
-}) // 2023-11-04T07:14:07.691Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"3zecwqfg5x2lhv3n5xr4zc3h":"oyasumii",
+"circodybidf3b64usawhtqws":"oyasai",
+"d53c43lr2tbuh5pmx6pzjd3w":["oyuneghj14","🪷ゆと🪷"],
+"2cffhbsmymzxj6hg5jeij7sd":["oyasumilow","Milow"],
+"uxsrhnybehjbnzb5vi3hrwmy":["oysterwench","Sailor mercedes"],
+"6pfaw6qfanri7cg2x5zslq5j":["oykuu","öykü"],
+"hnkjm2apsmyswnd7obux2ljy":["oyzix","Oyzix"],
+"63r4j7fvdyq342aj6uujjubh":["oyamomouka","Momouka"],
+"3v3uhyc4zdvlqngzq7nwizbk":"oynkm",
+"m6tuiatrp4ordvcwbyg6zdr5":["oysaat","Øyvind Såtvedt"],
+"yacdaa7yzwoh2vdfo2oz7m4w":["oysom","오예~"],
+"tg7msaicn6lbm7xqr7xocwqb":["oyundijital.com","Oyun Dijital"]
+}) // 2023-11-04T11:11:48.847Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

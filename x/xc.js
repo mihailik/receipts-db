@@ -209,5 +209,23 @@ var xc=(function(jsonp){ if (typeof xc==='function')xc(jsonp); return xc=jsonp }
 "bf4zia2it444xdhq6rpavxut":"xczimi",
 "dmelstnystnnm3p6pkffho2z":["xcupera","Jakub Čupera"],
 "k6d2b37oati6kqyevt5klh2p":["xchiara","Chiara 🖤"],
-"37523cgt6mjczr7xmmknwi7a":["xcgallego","Gallego ⚔️☁️🎶 CEO of Xeno"]
-}) // 2023-11-04T06:07:38.778Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"37523cgt6mjczr7xmmknwi7a":["xcgallego","Gallego ⚔️☁️🎶 CEO of Xeno"],
+"fxxy23sgyajfundzl2rdjtnz":["xcd777","虾扯蛋777"],
+"nzdioyw7tpdhklqq5tsbxzxx":["xcolours","Nico"],
+"v3u35obhq245kpc54pwqhip4":["xcelsior616","Brad Witzel"],
+"m76mnq2d5nw6rrcmd526wtry":["xcelsior","Xcelsior"],
+"5l2te3w6wa56th7vdbhbmtup":"xcrookshanksx",
+"yeg3wg22cn5q36f2gtrgx5oq":"xcasketnailx",
+"g6xyce4vnvg5t336dc65oeyv":["xciteddelirium","xcited Delirium"],
+"zdyucwrlwllji2cneh4mbdvk":["xcirce","Circe"],
+"muernix7hmrso4fbhuwjyt7y":["xcoffeefeex","Fanny"],
+"wurdnt7fizfsaqtn2azths7d":["xchefwalt","Walter Munkelwitz "],
+"jboc7r2koyiv2copw6gq6ofa":["xchef","Frank X"],
+"6gaqkeygmbnmrt443kfvvsrh":["xcyprus","파도"],
+"f3fil6jepno6eyvhsnsejyph":["xcao","Xinyan Cao (Joyce) "],
+"gy7vgcmydbxz7rpysy53wy6x":"xcecex",
+"3ztc4qj6m6bkuns43fg2msvd":["xcwm","cooper"],
+"buoj3uslepqnch2vllbrerq2":["xcrimsonstarx","xCrimsonStarx -Elf Tavern Owner VTuber"],
+"xlctimvaac6by7ix7276xboj":["xcalis1","Xcalis1"],
+"joyhidaufjfuzo2wh2x5ffqp":"xceej"
+}) // 2023-11-04T11:28:41.265Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

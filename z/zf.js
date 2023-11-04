@@ -63,5 +63,10 @@ var zf=(function(jsonp){ if (typeof zf==='function')zf(jsonp); return zf=jsonp }
 "jmpf24ck3ww3utcnndoq5h36":["zfert","Dan"],
 "4fk3gj64ahoyzp6hrfj6443p":["zfoxy","ChaosUwu"],
 "m6cs52zlfvet7ks2pb2jkxge":["zfrmbr","MBR"],
-"eanntjcue5rxqywxyr2sryeg":["zflamescionz","Nicolas Bertoni"]
-}) // 2023-11-04T06:07:39.187Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"eanntjcue5rxqywxyr2sryeg":["zflamescionz","Nicolas Bertoni"],
+"l47yk2cdjmhymdltp76lnngg":["zfh-usi","Zentrum zur Förderung der Hochschullehre "],
+"vtbebiptzw72u6cdjr7czqlq":["zfrank","Frank"],
+"63jkm3s7lojxuopo564fb52b":["zfgt","ㄟ府力"],
+"7f7jguqjakll6rocxnnqdnmw":"zfdk",
+"tbqamzcjjaups7uclpd6luvz":["zf47f","웼잉잉"]
+}) // 2023-11-04T10:48:55.275Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

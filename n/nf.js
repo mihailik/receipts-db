@@ -246,5 +246,10 @@ var nf=(function(jsonp){ if (typeof nf==='function')nf(jsonp); return nf=jsonp }
 "ok2j2fkklqw5unz3luvecptg":["nfrost","Here we go again *logs in*"],
 "37l6l5pzb6caqmm7dgat6t26":["nffts","Steff"],
 "6bfdcma4ioyexcxgfdgar2cm":["nflspy.com","NFL Spy"],
-"t7qybi26oxxdyfj5isoggrrz":["nf7","NF7 / Phyzign"]
-}) // 2023-11-04T07:19:29.063Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"t7qybi26oxxdyfj5isoggrrz":["nf7","NF7 / Phyzign"],
+"ej5hverjzhwzuv2dy3a5g7ww":["nfrising","Trött npf-pappa"],
+"mhas2siplb6ijfco3vjhcrqp":"nfz",
+"oxbo2ifc5i7shah4bvai2pbi":["nfdi4chem.de","NFDI4Chem"],
+"ucj2w2lmsyl6b4vavvdbglcn":["nfir","Norsk forening for internasjonal rett"],
+"vxhjulr4efwulpj7cctfxtew":["nfeathertouch","NorthernFeathertouch"]
+}) // 2023-11-04T09:43:26.809Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

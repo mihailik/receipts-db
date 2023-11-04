@@ -260,5 +260,17 @@ var lj=(function(jsonp){ if (typeof lj==='function')lj(jsonp); return lj=jsonp }
 "mgs7lj5oicktelc575bhw4q6":["ljohn44","ljohn44"],
 "bvn4cdv6fljxjzzgxkkicit4":["ljubica1","Ljubica "],
 "32wrtyqra3jxaadb3jbfv3lh":"ljcoolb",
-"slmqyyucs5v7u4epgeqk2fbl":["ljaccard","Laurent Jaccard"]
-}) // 2023-11-04T06:58:38.559Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"slmqyyucs5v7u4epgeqk2fbl":["ljaccard","Laurent Jaccard"],
+"kmprzfjpih6kel2yr6ffoblh":["lji","LJI"],
+"y4be66faizahyw7t2xd25vqa":"ljk744",
+"6ivgkictcxyd3thy6jnffnhc":["ljdoodle","LJ O’Doodle"],
+"wke225ul3nmt4b3ovchh77ud":"ljamesd",
+"fdx32r7a7nbrbtmiwggezsbm":["ljfloof","LJ Floof"],
+"t4bafyxq5j6ht6sm35i6kmft":"ljean",
+"4v26ea7c5gzsa2xjz6jokdu7":["ljouanneau","Laurent Jouanneau"],
+"emmz3pzyjvtd2aiaswymftfq":["ljubljena","Daniela Mehler-Würzbach"],
+"iyg6zbualgxuinldzg5plfv2":["ljubowie","ljuBAKA"],
+"zmgz3swezxslwnmxeohwnyq2":["ljhhb","²"],
+"itk3ztgqdybn75ko4upif7yt":["ljs-rlp","Linksjugend ['solid] Rheinland-Pfalz"],
+"nxzcazkseo3ub6igucs6eqop":["ljtweed","Langhorne"]
+}) // 2023-11-04T11:42:43.074Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

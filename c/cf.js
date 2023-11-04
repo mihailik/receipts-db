@@ -347,5 +347,22 @@ var cf=(function(jsonp){ if (typeof cf==='function')cf(jsonp); return cf=jsonp }
 "5p3ehy3vpmfo4nhzhgnuowpv":"cfox",
 "pwvsu3pl7z2c35trynvz22ek":"cfwaco",
 "d4crry7neeuffvisrecujgwb":["cfverrecchia","奴国4evah"],
-"judsascrrv5sjxwm2a5t6g7o":["cfsresearch","ME/CFS research"]
-}) // 2023-11-04T07:23:10.754Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"judsascrrv5sjxwm2a5t6g7o":["cfsresearch","ME/CFS research"],
+"jlmgpl64ihizo5l4ksqzu3di":"cfelber",
+"wzoqerqtfweur72f37lvwjvl":["cferraina","ClementFerraina"],
+"hsb4q6hnyzyesp4jljugdv6y":"cfoehlinger",
+"ah2wcgj5tiqcquh3qvwwmass":"cfelxleduc",
+"pddckcd4pgq6mvttgnjr2lja":["cfaust","f0vs1"],
+"fdwlofqg5jmf3ppfbirc2ziu":"cferreira",
+"rp4axnbfvzqlj6gu4ilwqjnd":"cfblank37",
+"w4xsaktpyqaobec6mlycvf5g":["cfonly","CF ♥ 日本 🇯🇵"],
+"n2rpmqppkt76frxu3ebkzhgf":"cflavien",
+"ud4trekhqpt2kljbujiosnes":["cf72","Chris Ferneyhough"],
+"pmle4mqczldczv3ej7pc2p5l":"cfujimoto",
+"64s566crsokqbagrlylgydfp":"cfmurphy",
+"t2ubffdad2d75lfiyxwpjyoc":["cf0nstein","Clare Fonstein"],
+"ntumnkyyofgoutksbej5pjxh":["cfctox","Charo F."],
+"nazh5d4ndixr3oswagr4mmrp":"cfm1910",
+"wry3kwhzw56muq77e663zaz3":"cfrorg",
+"5wg2g4t5t4hqrfrrpzsnucnq":["cfplab","cfplab"]
+}) // 2023-11-04T11:40:31.897Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

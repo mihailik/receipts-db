@@ -37,5 +37,8 @@ var dq=(function(jsonp){ if (typeof dq==='function')dq(jsonp); return dq=jsonp }
 "6zbrdul7zz77lwtro2a6chan":["dq22","DQ"],
 "7ceik7q3xvsgzit25bocjgog":["dqrathalos","Will"],
 "bxhmhg7fykrm4eahy2wjc54c":"dqq",
-"cjcljpgreezivm5j2gietraa":["dqmcd","Quentin McDonald"]
-}) // 2023-11-04T07:18:02.733Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"cjcljpgreezivm5j2gietraa":["dqmcd","Quentin McDonald"],
+"f34bl5ostrkq6c2ctlwmuvku":["dqspain","Dragon Quest Spain"],
+"rir6irlxboqyrk5gp5anhd2i":"dquack",
+"422sgri6znymxnjetdrvvpui":"dq200"
+}) // 2023-11-04T11:42:42.914Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

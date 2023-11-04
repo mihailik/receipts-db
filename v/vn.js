@@ -129,5 +129,8 @@ var vn=(function(jsonp){ if (typeof vn==='function')vn(jsonp); return vn=jsonp }
 "qdkq62zki7mh27t3qjop46uv":["vnvproductions","V&V Productions"],
 "nfxyk74tgintmm6phzqlnbvy":["v-neck-sweater","V Neck Sweater "],
 "2cxk64nwkca363l7egurpgcz":"vni",
-"z6t5q2vrhtxc4svlgocqg4cb":["vnb.me","VB"]
-}) // 2023-11-04T07:21:44.054Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"z6t5q2vrhtxc4svlgocqg4cb":["vnb.me","VB"],
+"2plglykdf6kkk66yjdu2pndw":["vnvszi","молода і стомлена "],
+"v5nppibiwuxfp7lfvjnpc3sg":"vnemesis",
+"gb7ebozpqpffniq2jqzggxqy":"vnlb"
+}) // 2023-11-04T08:27:24.196Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

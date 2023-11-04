@@ -149,5 +149,15 @@ var yt=(function(jsonp){ if (typeof yt==='function')yt(jsonp); return yt=jsonp }
 "mbgvp3lgczbpyd3xtefmyx26":"ytw",
 "nmdg44kkx4g7slcryfjdat2i":["yttriumrapier","Yttriumrapier"],
 "ez7wkov7ahw3ojhl2fp5xrq3":"yteo-fr",
-"rvq6ch7ggzrk7wrwp2rt5lid":["ythel","Ythel_"]
-}) // 2023-11-04T07:12:42.074Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"rvq6ch7ggzrk7wrwp2rt5lid":["ythel","Ythel_"],
+"u2dmeecg6n2osqzcjfpbiih5":["yttrlum","Yttrium"],
+"iamrl53dxlaw2ahvde3bxpyi":["ytusder","Yiğit Tusder"],
+"5aocnne6hgynpaupp6tyjqjx":["ytterski","sbjrn lvld"],
+"7bfdskkm6cncx3ximqsbhwnk":"ytzhang0587",
+"ujqhlrv52nadsaeduxb5e5e3":["ytilis","Cin"],
+"qndy4lpiqda7v2edznd2uzb5":["ytdjwing","Wingo"],
+"2cpfsnvlgahghfspfgvhijin":["yt20th","YT"],
+"fiq6jerhspg3usz6trrpebwi":["yth1718","Y"],
+"jne7qsg3gkgjaqw2prcnfyl2":["ytsamoyed","獸迷二兵"],
+"6farsxxuiwxdwlvseebdfcjf":["y-the-zangoose","Y-the-Zangoose"]
+}) // 2023-11-04T11:25:11.492Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

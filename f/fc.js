@@ -324,5 +324,20 @@ var fc=(function(jsonp){ if (typeof fc==='function')fc(jsonp); return fc=jsonp }
 "wboinvw7cin2p5lqx7moxfqr":"fcnatra",
 "6hgkyy7z32jcioudj7jugecw":["fcu-stammtisch","FCU Stammtisch"],
 "lkanp77d5yy7va2wqpdsafbz":"fch",
-"kxj34ze2e2atd2m4nhs2fyke":["fcstpfan","DerMarkus"]
-}) // 2023-11-04T07:08:59.010Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"kxj34ze2e2atd2m4nhs2fyke":["fcstpfan","DerMarkus"],
+"4ph4fb62aznjwlzd3kn2nr2o":["fcamargo","Felipe Camargo"],
+"tohzkmctcwx3wumt7ynxsgde":"fcunicorn",
+"6iplr3kmfxd3orimwjnukitt":"fcrespo",
+"53jfcitaxdkattcldgr23lgw":["fcspjoern","FCSPJoern"],
+"i4lbjiqvfhcnoms3ph2x5vxp":["fctan7","FC Tan7"],
+"yl4bsqdaiyurcldpxkf6uzuv":["fcaldes","Ferran Caldés"],
+"vdohivci76q3ff7svopqscku":["fcarie","Arjan van den IJssel"],
+"37jz7wafnf3iqpgsfffwmngb":["fcbaerlcelona","FC Baerlcelona"],
+"j4cbnnjo5wjxssesri2echyy":["fcctech","Bob Weller "],
+"tsmvszjjer5ovdo27fbhb5is":"fcerezal",
+"qc6nzi6eymswdslg7e55gm4n":["fconsul","fconsul"],
+"4vubjvecojlkpgvw5rqxnpem":"fconde",
+"fxdtehdxjcuarsynuhognusx":"fclerc",
+"dj7eza42h4nnd6o4s2jb6uiu":"fcbkw",
+"yr2ebhh3fq2wo2p2knafqkxd":["fczb","FrauenComputerZentrumBerlin e.V. (FCZB)"]
+}) // 2023-11-04T11:37:34.390Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

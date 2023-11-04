@@ -368,5 +368,20 @@ var bn=(function(jsonp){ if (typeof bn==='function')bn(jsonp); return bn=jsonp }
 "fsajmx47fsot7fk3ru4dkell":["bnenews","Bundesverband Neue Energiewirtschaft (bne)"],
 "4ai7ol6gtbig4yfknxqzbtrg":"bnngrf",
 "iiom3at4eujdja6uccezbyb4":"bnmn-3kml",
-"d4pxdcc3s3xrnhwfjidt2iji":"bnlsmom"
-}) // 2023-11-04T07:12:42.085Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"d4pxdcc3s3xrnhwfjidt2iji":"bnlsmom",
+"bo2p2v4gspi7cbeei5rpwd3y":["bnypck","Benny"],
+"rtj5gie6myshack6fd5jzzfd":["bnkn62","noni"],
+"d6sre3tvipszqskfsrfln6mz":["bnnaaag","かに"],
+"le3qtd7rmw3hzqrigwve7ocx":["bnrnieuwsradio","BNR"],
+"v3cbmd2i45ynqqe2csp3l4jl":["bnig98jr","Alex || Commissions open!"],
+"phtui3j6wbgt3l2762rxs2xw":["bnui","Nora /ᐠ｡ꞈ｡ᐟ\\"],
+"dh6y75pt6lg3fpvkh253jkjt":["bnicebx","Brandon 🔬"],
+"rdqtwpla2u3qivlbpvzktqzi":["bnuuyenthusiast","BnuuyEnthusiast"],
+"6tt67hvchwrcaahmm5nvygpi":["bnanatanuki","Tanuki Danooki"],
+"2o6goird27jg4wcjb7qjsxwz":"bnrudd",
+"bdxzjpshazbyzdyydo6wjx4q":["bn211","빛나"],
+"wf4jhbu2n3ymvabd6aj3vrwi":["bnicostrate","Bruno Nicostrate "],
+"sx7k5zfzybcbetko5ersappj":["bnf-nathan","Nathan :)"],
+"b2mpdpolsna2ijsyemepfwtw":"bn-wang",
+"2732lpfgvqcqysprnywd3fxk":"bndv"
+}) // 2023-11-04T11:42:42.513Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

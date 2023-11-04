@@ -386,5 +386,16 @@ var df=(function(jsonp){ if (typeof df==='function')df(jsonp); return df=jsonp }
 "vxviqoehsa5ts7efbufdhdyb":"dfrex",
 "wt7jfqtmiw7lzpv7poekfard":["dft-answers","DfT Answers"],
 "uahlscoggrrjd5d3ljiqyzhs":["dfellner","Desirée Fellner"],
-"4xbhpuao4q3o64kwn6eb4wbj":"dftbaiden"
-}) // 2023-11-04T07:19:29.003Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4xbhpuao4q3o64kwn6eb4wbj":"dftbaiden",
+"fdvp64lizricpjm5ds5lryzf":"dffreedman",
+"wz33y4qra4igmjcx5wh6m65c":["dfoest","Daniel Föst"],
+"vfqfav2ozusnjz6t6mabozuv":["dfkrieger","D. F. Krieger/Vesper Brooks"],
+"zbfarccd3hvga76kbyenfh4j":"dfens2005",
+"adwljjjy7zjrbegpspioj3nj":"dfwsam",
+"qi3uhneb2cz77ibwnzailb22":["dfertl","Duroyan Fertl ᚇᚓᚑᚏᚐᚇᚐᚅ"],
+"qt7tencwhkmih7ifkgmbkupd":["dfeher","Dániel Fehér"],
+"7h2gfhwoeuyt5zoi75mh3exm":["dfdhw","Die Frau, die hier wohnt"],
+"hg4f24nl7zplcqk35uneclqf":["dfight","Dfight"],
+"5wiq4vbgjajwo2rdckcg25zp":["dferdman","Diana F"],
+"7t4grde7zhiqtq2qfokdsz3l":"dfwjodydean"
+}) // 2023-11-04T11:40:31.612Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

@@ -148,5 +148,10 @@ var wc=(function(jsonp){ if (typeof wc==='function')wc(jsonp); return wc=jsonp }
 "dpki4fdfwhnvttem3g3lmjxm":"wchronicles10",
 "hrurniusezmpfqvhp2zeucib":"wcctnoam",
 "andjkw4k32zrbaihxe33oykg":"wcab",
-"2nkzhvbx53b7jzey4lrr2qzs":["wcmews","wcmews"]
-}) // 2023-11-04T06:29:00.665Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2nkzhvbx53b7jzey4lrr2qzs":["wcmews","wcmews"],
+"a3ubjvfxz3vthrk77d5tigch":["wcvechten","Wcvechten"],
+"rlfnyi3zzmxcnwj36kny3v7m":"wctd",
+"2dekfmcq64qrenhr2jiuxhra":["wckdaprl","Dee"],
+"kuoyl5fdmwwylbw2dvqpfqva":"wcp",
+"jamkwhqw2lvs4k2ukeaakwe3":["wcaa","World Council of Anthropological Associations"]
+}) // 2023-11-04T11:28:41.121Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

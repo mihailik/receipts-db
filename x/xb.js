@@ -149,5 +149,15 @@ var xb=(function(jsonp){ if (typeof xb==='function')xb(jsonp); return xb=jsonp }
 "rzefz66dh3mbxz7dqwatyux7":["xblockbuster03","Xblockbuster03 "],
 "vcjrrslelu3daw2htobljeig":["xbonniex","Bonnie"],
 "auilokzcmtirxp77yqppjkrc":"xboxter",
-"aynngdq7dmbqepb4cdjgvio5":["xbunni","Bunni"]
-}) // 2023-11-04T07:07:32.704Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"aynngdq7dmbqepb4cdjgvio5":["xbunni","Bunni"],
+"cod4opctdsh6qildszk64x6r":["xboxbeyond","🟢 Xbox Beyond"],
+"cdqbzljfnfuvfkvephqwa3vz":["xboxfridge","Fridge"],
+"n274wyyebkllrhq7qw7virys":["xbobxloblawx","James"],
+"tcx7spjrz57pd5tiav2duutc":["xboxking37","XboxKing37"],
+"cn6a7vqmpbyuxpktujhodsi4":["xbabeshan","Goddess Shannon💸👸🏾"],
+"5urb2i64psxiof5gqmtslqvg":["xboxygen","Xboxygen ✨"],
+"6vn4lfxjqtcub2on7ndg73jk":["xbubblemint","Chris 🎃"],
+"lw3lysuo24muohfzgy2avv63":["xburnigx","Doña Prefijos Banderitas 🏳️‍⚧️"],
+"wbhaq6bg56v2kcwso6fhkgc7":["xbuck","Buck"],
+"lg6rrfhhwiies43ryfhcjag4":["xbyron","Byron"]
+}) // 2023-11-04T11:42:42.946Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

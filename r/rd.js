@@ -459,5 +459,18 @@ var rd=(function(jsonp){ if (typeof rd==='function')rd(jsonp); return rd=jsonp }
 "gqtjd3ftajzsq52f5rumfjpp":["rdrudw","Mani"],
 "dojbienki2foyo4pvctntwpq":["rdaza","RDaza"],
 "yy2gi373oerjr3fsg5mo2wkp":["rdiosteve","radiosteve"],
-"ljtkaoxithrrjsjxz4tbhwen":["rderimay","Régis "]
-}) // 2023-11-04T06:34:28.752Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"ljtkaoxithrrjsjxz4tbhwen":["rderimay","Régis "],
+"dtzxixvt6novkqe4k4r4qryt":"rdelapedraja",
+"mgevikufk7c7znsocgpcfgvr":["rdo.gg","RDO.GG"],
+"nrqvjz27ukbb4xmz7q45qmrc":"rdgraaf",
+"dws7wkre7zvsg7dp5pketurx":["rdnwtz","Tim Ordenewitz"],
+"f6fu2uuyeitlgqdc4tbzyxvs":"rdtree",
+"etub6guulrstxd7ugcrv5mpz":["rdy2hwl","Mississippi Seawolves "],
+"lpe5kjtvmin6muuuejbfj2qs":["rdz29","Roudz"],
+"ulm4g4jfmpbrsbpta5772xx5":["rdombaeck","Raphi"],
+"ojz7g7guftbydlywctvcldui":["rdzdbra","Zebra R"],
+"qetoemo57iqvd7fhzheznfj7":"rdbardulf",
+"o2imm65m4ndjs46xbtaaooxj":["rd68hj","🐈‍⬛"],
+"dz2imyddmecnpy56la3yrkco":["rdkaneko","金子 雄一"],
+"5466lqmxen3fofvz2h46clli":["rduartegonzalez","Raúl Duarte González"]
+}) // 2023-11-04T11:40:31.710Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

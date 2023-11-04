@@ -359,5 +359,23 @@ var lc=(function(jsonp){ if (typeof lc==='function')lc(jsonp); return lc=jsonp }
 "2xldhvsp5xplcrx3sidz2gmw":["lcmueller","Lisa Müller"],
 "tpaixtlot3pvzqvxg6eg74gb":"lc1878efc",
 "3lz6zfgsrtutcmqxoixaf7kn":["lcjeudis","LC"],
-"46vyjytlgy5pweo23sqt6qrc":"lcs1908"
-}) // 2023-11-04T07:11:16.349Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"46vyjytlgy5pweo23sqt6qrc":"lcs1908",
+"yq3k6jiecem3g35k2dnzdxal":"lcym",
+"ryo52ersfv6ay3zv422ij467":"lctrkid",
+"nzw2k5ipykgw43txmc3otlm2":["lcs-taurines","Lucas Taurines"],
+"dfzrp7bqyg7iz4irbj7qzlep":["lcoordes","Lennard"],
+"z5vze44rqkusycrmve7agwj4":["lcdirects","LCDirects"],
+"dcwmpwadiragihanhnqwr543":["lcbellone","LC Bellone"],
+"3rf5hoiqh6dnf2spqz4rg4k7":["lcaz","Lucas Persson"],
+"bb6qfrw7qsls2iwe2cxvqe3s":["lconneely","Laurence Conneely"],
+"obrek23ebev6usfj5w2dgrm4":["lcjohns","Louise Johns"],
+"t66axibpq4hksna7lsreim4r":["lcui","Lucille"],
+"lycm4tgmjaidhavjqsj6jzvj":["lcbl","Lars Chr Blåsternes"],
+"xigefu7kvpg4lvu4wr6dwawa":["lcotula","Lorenzo Cotula"],
+"srn2c6nvd27qm2rebxqx4bvs":"lcobut",
+"y4duwsf3f76aeefvxiaqt2z5":["lcenforce","Gréviste vaccinée "],
+"cb6wvuky7rbl2nchsrt53wdf":["lcdrrek","Raf Kearns"],
+"q5ee6pxysraghnrl6ub7dazc":["lcfcsean","Sean Caldwell"],
+"rgtwbgaecbfxkljzb2kwzzhg":["lcspatiale","La Chronique Spatiale"],
+"omfv5a67efzqzavln7earhif":["lcrossey","Laura Crossey"]
+}) // 2023-11-04T11:13:15.133Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

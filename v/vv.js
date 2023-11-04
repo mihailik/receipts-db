@@ -322,5 +322,14 @@ var vv=(function(jsonp){ if (typeof vv==='function')vv(jsonp); return vv=jsonp }
 "hfw63jjnuvgrly5vbw2yqb6z":["vvnhua","VVN"],
 "tdapwssrht65gjupseelhmcq":"vve3",
 "nk3mlsfsz3gphhesvdhzfxuk":["vvnbdafreiburg","VVN-BdA Freiburg im Breisgau "],
-"a52lm35tikscdpebmlogkcqr":["vvhisp","Whisp"]
-}) // 2023-11-04T07:12:42.291Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"a52lm35tikscdpebmlogkcqr":["vvhisp","Whisp"],
+"du3avqkh523zd7aw2glmzl4v":["vvpconsult","Verus Plotho"],
+"yvaxbux4sktne42zrdps4y5x":["vv26604455","가.어린이의 손에 닿지 않는 곳에 보관할 것 나.직사광선을 피해서 보관할 것 다.고온 또는 저온의 장소에 보관하지 "],
+"tjn2qctlpjmlsluht5jppzc2":["vvnbdamuenchen","VVN-BdA-München"],
+"whhxga7xb6m3ihpdsxq4olk5":"vvicca",
+"2hmrrme3etdsap3uda4jwvox":["vvivre","Victoria Vivre"],
+"qeat6oynmepvmnimxoaznddn":"vviley",
+"nr7byma4dl2km2vyd2kh2hwg":["vvw6o6wvv","랄"],
+"f5bazh4a52fdesedlx55ems4":["vvviii1015","설렁콩"],
+"osrb3orelf5izeewajhg56fp":["vvxvv","👐"]
+}) // 2023-11-04T11:01:25.310Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

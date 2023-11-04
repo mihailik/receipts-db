@@ -82,5 +82,9 @@ var yc=(function(jsonp){ if (typeof yc==='function')yc(jsonp); return yc=jsonp }
 "6esxy7gsjb5dpd47uqmr73pr":"ycyz",
 "5gfwtv2wd2pisx45q5yqgbot":["ycco1101","ゆーこ"],
 "wji25m5clvfpw3uajmg2d7rn":"ychen7774",
-"4x7phasluccvzpcyl7gl4ixd":["ycaps","YCAPS - Yokosuka Council on Asia-Pacific Studies"]
-}) // 2023-11-04T06:42:30.390Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"4x7phasluccvzpcyl7gl4ixd":["ycaps","YCAPS - Yokosuka Council on Asia-Pacific Studies"],
+"cjdk44ztrhgdlqjtn44gg2g4":"yce7",
+"7y2bahxgh36irxwhao3z4q7q":["ycon","Y/CON"],
+"wa6t3dkrx6j6hx6a2cac3ouw":["yconfleis","felix/galahad"],
+"vhp3rqrdnxn47llj743qfz76":"ycoo"
+}) // 2023-11-04T11:40:31.950Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

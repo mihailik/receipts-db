@@ -189,5 +189,16 @@ var hg=(function(jsonp){ if (typeof hg==='function')hg(jsonp); return hg=jsonp }
 "7r45wxdbqh2f6wdikzobnwst":["hginthesky","Gabor Halaszvari"],
 "tbrq4ydivct2ijgqprk64wxb":["hg-anko","萩あんこ"],
 "ggge7p5kqthdgaglvfwegbuj":["hgrabensberger","Horst Grabensberger"],
-"jsc5c2yuwifjdmf3ihzzjcwg":["hg-kamina","kami"]
-}) // 2023-11-04T06:53:13.915Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"jsc5c2yuwifjdmf3ihzzjcwg":["hg-kamina","kami"],
+"pmccdcisc5irw74ycqksge4b":["hgkczky","HGKczky"],
+"xoba4wnmq6edyqkcqsmvu5ux":"hge",
+"7jzkwrhfaqihsikrp44wzlpd":"hgreatnews",
+"iiybiidlt5ckdbk4kaeou5hk":["hgmann","Christian Hagemann"],
+"7rsu4mhmfrvpnjkkj6qufrum":"hggh",
+"slx25us36pcfmdt3xfr4lguw":"hg1894",
+"wdpmtoew3sn2vedld3hgt6jg":["hgleithmann","Helge Gleithmann"],
+"vteabptmycfjgwdknbvcggrb":"hghali",
+"hep2ih2idbg2io744rgygubm":["hgoettmann","Holger Göttmann"],
+"w3h7ipi4rpjcbbz7qmy6zw6m":"hguemar",
+"wyzchzdqr3gfzx76xkcqtcjp":["hgg.es","Hans"]
+}) // 2023-11-04T11:16:47.944Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

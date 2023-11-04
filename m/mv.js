@@ -383,5 +383,24 @@ var mv=(function(jsonp){ if (typeof mv==='function')mv(jsonp); return mv=jsonp }
 "trmevgcizsbeqrlc7chwoyjd":["mvs64","Matthias von Schramm"],
 "hjvhkqixrg7kmafkefznu3pq":["mvalta","Matthias Valta"],
 "ynss6wvxpvxg3feptwmpjuda":"mvcrisis",
-"hp5buhxnttuwkdkzjxzvqsdj":"mvico"
-}) // 2023-11-04T07:21:43.923Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"hp5buhxnttuwkdkzjxzvqsdj":"mvico",
+"env4pdn74vvnds4sp6a6xyqs":"mvdp",
+"rfvolwa5nfhf5js7vvffqvcr":["mvonkuester","Max von Küster"],
+"uese544r6yiwu3bbgrsgujtq":["mvpnm","mvpNM"],
+"7t6gcbveyh65wvgzmsuopxpp":["mvugt","Marieke van Vugt"],
+"fkubfn2amaitoilabdqylxnr":["mvistila","Miia Vistilä"],
+"3sppntglq67pazg6rhxybq5h":["mvbzfuberlin","MvBZ Gender Studies FU Berlin"],
+"jsaqk56hdzaphzwwx72xprc7":["mvua","MVUA🇺🇦"],
+"tr63xqz7ddpesi23bbuelbak":["mvdw","Mark van der Wilk"],
+"pze2d6onjifcf3ncbzpjkqi2":["mvdchprof","enseignAntifa"],
+"kajhuqvp3oxjzrbmj623soqg":["mvelbaum","Michael Velbaum"],
+"porsc4eqzb3rg4b7eadvkamh":["mvdstelt","Mario van der Stelt"],
+"g3sfnuztktoghppmuqthevas":["mvalegeas","MaudValegeas"],
+"cgl7hugg26azaputkqw3q7g3":["mvp2206","Paul R."],
+"5sg4e4dbirwzmaumertewmiz":["mvsteen","Marco van Steen "],
+"2h6s6w76fc2qhlwqzjnqpvev":["mvoe1911","Mietervereinigung Österreichs"],
+"65lgzbpfzejtookkvfrw2nr6":"mvdevnull",
+"cfklzuvtbc732r2h327hkry7":["mvariol","Manon Variol"],
+"lf4nx6jbpu3p2hbc4ytjwyyl":["mvsikmaschine","@mvsikmaschine"],
+"o7arguqdzvqp6kbzzbtxfg7w":["mvngo","Mango"]
+}) // 2023-11-04T11:42:42.097Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

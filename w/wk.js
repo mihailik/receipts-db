@@ -105,5 +105,16 @@ var wk=(function(jsonp){ if (typeof wk==='function')wk(jsonp); return wk=jsonp }
 "5eessdm2njtzqrzdilbdoz63":["wkrrk523","이삼"],
 "lkqmx6ey4bsnjlrh7haql6lk":["wkmpan","わかめパン"],
 "xdjjuqkxttssaezpchnginwx":"wkupmix",
-"2vcgqxjc4zjzxehw6wshheep":"wkurnit365"
-}) // 2023-11-04T07:12:42.307Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"2vcgqxjc4zjzxehw6wshheep":"wkurnit365",
+"fnee442y2akoxhw2l2z7cqlx":["wktd","callista"],
+"hhxcdskldyu7qmero52xoxwq":["wkncre","창노"],
+"bhl5dm25lssnmh33czws7fmv":["wkarina","K"],
+"55aqvtwuh7bdsgnbge6odv57":"wkdad",
+"6zaet4pmd6cuflcwsvng4522":"wkml",
+"vfex5hbedfsdjze22kvm5rgg":"wkeastbutler",
+"gwtry4maii6lz2uuhns7zuwo":"wkwkwanna",
+"uit6kbqc2p5bddsewxwddhya":["wkp","Wahlkreisprognose"],
+"gm2c5ou3gtuy35hjn3wy7i37":["wkt1969","Bill On The Hill"],
+"df3muf3rvr3utpczqirnwx5n":["wkemm","Wiebke Kemmler "],
+"tpxrircevsgpvndhamroznj3":"wkya"
+}) // 2023-11-04T11:30:12.403Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

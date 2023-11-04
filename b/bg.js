@@ -338,5 +338,17 @@ var bg=(function(jsonp){ if (typeof bg==='function')bg(jsonp); return bg=jsonp }
 "z7c4nn65ia5yu44p7foeofjs":["bgdmf","Bündnis gegen Demokratie und Meinungsfreiheit"],
 "y2lus5omvn6kdhtzjg6yozwo":["bgotink","Bart Gotink"],
 "yy2bw3ju5vlqzbqghzinjvla":["bggj","Brynjólfur Gauti Guðrúnar Jónsson"],
-"zuonsunurvgg22on4ok2coc2":"bgosorio"
-}) // 2023-11-04T07:14:07.663Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"zuonsunurvgg22on4ok2coc2":"bgosorio",
+"3loxc7eacvzux3ogrm63ui2t":["bgazet","Bernard GAZET"],
+"mfbnbutycvms2nd2ehbnxmcg":["bgapprentice","Board Game Apprentice"],
+"fqg6crjdirw57kprwngvahmy":"bgabor85",
+"ybfpbkl4zkdhl4ke6mgddmxb":"bgs3",
+"t6yjyrwezbapungnqmpg2jks":["bgamuenster","Bündnis gegen Abschiebungen Münster"],
+"jrxlk5wuh43ne262fuo3cjr6":["bgspotlight","The Board Game Spotlight"],
+"zpryliajkofh35y3genwka76":["bgoebel","Benedikt Göbel"],
+"abuohogjyvxkt5xm4fvlyrhb":"bgehrels",
+"l32laitxdvkgtwjnriryhli4":"bgorff",
+"dcnbsjk3qexonmlijrpgvjm5":["bgwatcher","Sylvain 🍓🌈👬"],
+"yhxwpze36vjodo3wum64vwiw":["bgodar","Bryna Godar"],
+"amlgtq5sipmjngeztbqoydt7":["bgjamison","Bradley"]
+}) // 2023-11-04T11:33:58.746Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

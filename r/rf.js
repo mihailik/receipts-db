@@ -241,5 +241,14 @@ var rf=(function(jsonp){ if (typeof rf==='function')rf(jsonp); return rf=jsonp }
 "jj6izmfzp4vccmpszo5f7wdy":["rfibeth","Roll For Imagination"],
 "5dt2dwvttz5yu3sy7rld535j":"rfcbittwiddler",
 "zrphxolwmyzio3mnhnaozsmb":["rffstff","rffstff"],
-"6ycxbt7njurzjnz2klyx7adz":"rfaill07"
-}) // 2023-11-04T07:19:28.524Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"6ycxbt7njurzjnz2klyx7adz":"rfaill07",
+"5myspfxmu75wqneokbjxim7a":["rfergussonpoet","Robert Fergusson (1750-74)"],
+"cqy6wpbrhue7d324atiyqn5k":["rfbrownwards","RF Brown (Richard)"],
+"cy6ez4wbel7lfj7dknvqkbbn":"rfonseca",
+"5m7zuw57ud7opoc4fjl3dxfa":["rfscott","Scott of the Palearctic"],
+"blrhwwzbtk4rn7cutyyejiul":["rfruehauf","Robert Frühauf"],
+"7c7c55osfqelcokach2av47i":["rforsgard","Richard Forsgård"],
+"aekphnegf2dy5qlmqxbltfym":"rfberlin",
+"44ea32pfnlwdttlzqrzrgn2k":["rfunkfordham","rachel funk fordham"],
+"mx4aog2cmgbe56ifaqqru2nr":"rfurkan"
+}) // 2023-11-04T11:19:42.390Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26

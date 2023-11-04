@@ -247,5 +247,16 @@ var bf=(function(jsonp){ if (typeof bf==='function')bf(jsonp); return bf=jsonp }
 "3gmnpzoz3sph4wmxj7tesjko":"bfragancr",
 "6rvsviqw7ijgjsj7ff6nucr4":["bfxpl","The Battlefield Explorer"],
 "3yk3gtsqq5ubgyacfo2afvy7":["bftwoartwork","BFtwo"],
-"sqddmkzswe4yz63ma4onojyl":["bfrick","Brian Frick"]
-}) // 2023-11-04T07:14:06.931Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
+"sqddmkzswe4yz63ma4onojyl":["bfrick","Brian Frick"],
+"rfxdxacc6slwt7dvqvmjqizj":["bforte","Brian"],
+"urkfispebbtpqfnm73o4brb4":["bfnsfw","Bredfrown After Dark"],
+"wbv4g2qtf3a2npphb4lcs5oc":["bfuste","Benet Fusté "],
+"unim3fi6i7tcsl7qow7jk7dh":["bflowolf","John"],
+"frw35bhkzpu7aw234j5w4uwe":["bfeil","Feilchen"],
+"p3eacdkgktztkbjco62gh5ac":"bfeldt98",
+"xwcyulqgb3wh257xfyphuwv7":["bfly93","May"],
+"bso355tepq76ethqwnajvjbl":["bfresh","Bobby Fresh"],
+"cjywxrcgxcdalfn3u6pv2zmt":"bfrostner",
+"3lidnqwvqwgagrggykrfpvck":["bfoden","bfoden"],
+"o3z4z7tpzuwtzoiq7lkzb54o":"bfish"
+}) // 2023-11-04T11:23:45.201Z darwinarm64 node-16.20.0 v8-9.4.146.26-node.26
